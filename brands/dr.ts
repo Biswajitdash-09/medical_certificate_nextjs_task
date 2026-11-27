@@ -5,7 +5,8 @@ export const dr: Brand = {
   id: "dr",
   name: "DrCertificate",
   logo: { src: "/brands/dr-logo.svg", alt: "Dr. Certificate", width: 170 },
-  colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#16a34a", bg: "#f5f8fd", text: "#0f172a" },
+  // Accent is green-700: the lighter live green failed WCAG contrast on the pale hero background
+  colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#15803d", bg: "#f5f8fd", text: "#0f172a" },
   ctaLabel: "Apply now",
   ctaHref: "https://forms.drcertificate.com/",
   nav: [
