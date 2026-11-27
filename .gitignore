@@ -53,3 +53,10 @@ scratch/
 .idea/
 Thumbs.db
 *.log
+
+# test files and non-production artifacts
+tests/
+*.test.ts
+*.test.tsx
+evidence/
+docs/

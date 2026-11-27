@@ -4,3 +4,9 @@
 node_modules
 .next
 scratch
+tests
+evidence
+docs
+scripts
+vitest.config.ts
+vitest.setup.ts
