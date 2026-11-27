@@ -1,8 +1,13 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { brands } from "@/brands";
 
-export const metadata = { title: "Choose a brand", description: "DrCertificate and GetMedicalCertificate, built from one Next.js app." };
+export const metadata: Metadata = {
+  title: "Choose a brand",
+  description: "DrCertificate and GetMedicalCertificate, built from one Next.js app.",
+  icons: { icon: "/portal-icon.svg" },
+};
 
 // Split brand portal: each half is painted entirely from that brand's own config, so no copy crosses between them
 export default function Home() {

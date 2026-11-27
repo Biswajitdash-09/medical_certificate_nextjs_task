@@ -103,7 +103,8 @@ export const dr: Brand = {
   facts: [
     {
       label: "Price",
-      value: "It is dynamic and depends on your country, for example 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia. Check the price at the bottom of your form. You pay once through Stripe when you submit the form.",
+      // Live site (2026-11-27) says 349 pesos here but 399 pesos in its price table; each copied as written
+      value: "It is dynamic and depends on your country, for example 25 SGD in Singapore, 349 pesos in the Philippines or 30 MYR in Malaysia. Check the price at the bottom of your form. You pay once through Stripe when you submit the form.",
     },
     {
       label: "Time",

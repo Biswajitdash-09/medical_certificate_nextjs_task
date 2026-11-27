@@ -16,7 +16,9 @@ test("no dr text leaks into gmc", () => {
 });
 
 test("prices unchanged from the live sites", () => {
-  expect(JSON.stringify(brands.dr)).toMatch(/25 SGD[\s\S]*399 pesos[\s\S]*30 MYR/);
+  expect(JSON.stringify(brands.dr)).toMatch(/25 SGD in Singapore, 349 pesos in the Philippines or 30 MYR/);
+  // The live price table still lists 399 pesos, so both live figures are pinned
+  expect(brands.dr.priceTable).toContainEqual({ country: "Philippines", price: "399 pesos" });
   expect(brands.gmc.services).toHaveLength(4);
   brands.gmc.services.forEach((s) => expect(s.price).toBe("€34.99"));
 });

@@ -24,7 +24,7 @@ The new pages were measured on a local production build, the live sites over the
 
 1. **Slow to respond on a phone.** Performance 61, Total Blocking Time 1,490 ms, Time to Interactive 11.2 s. Lighthouse: "third-party code blocked the main thread for 1,210 ms", 9 third-party cookies.
    **Change:** no third-party scripts; static pages; self-hosted font. **Why:** a tap on "Apply now" during those 11 seconds does nothing.
-2. **The same facts repeated three or four times.** The price line ("25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia") appears in three blocks; so do "about 30 minutes" and "MBBS, MD or MS".
+2. **The same facts repeated three or four times.** The price line ("25 SGD in Singapore, 349 pesos in the Philippines or 30 MYR in Malaysia") appears in three blocks; so do "about 30 minutes" and "MBBS, MD or MS".
    **Change:** each fact appears once, in one "Before you apply" block with the price table beside it. Wording unchanged. **Why:** repetition pushes the decision and the legal points down a 22-screen page.
 3. **Eleven Apply buttons compete,** one per service card plus "View details" links on each card.
    **Change:** four Apply links (header, hero, after services, final banner) plus one in the mobile menu. **Why:** one clear next step at each point.
@@ -43,6 +43,7 @@ The new pages were measured on a local production build, the live sites over the
 - **Our own service and apply pages.** No link leaves for the live sites. `/dr/<service>` and `/gmc/<service>` reuse homepage copy only. `/dr/apply` and `/gmc/apply` are a demo form: real validation (dr's 16+ age rule, the brand's legal points with a required tick), but submit says plainly that nothing was sent or charged. Making it real needs a backend, payments and a lawful basis for health data.
 - **"Before you start" checklists.** dr's is its live four-point list. gmc's five points are copied verbatim from its own application form (including "10:00 AM - 8:00 PM IST"); I treated the form as part of the current site.
 - **Design:** Geist type, each brand's own colours, generated situation photos (no people presented as real doctors or patients), dr's certificate keeps its "SAMPLE" watermark.
+- **Re-checked against the live sites (2026-11-27).** Every price, service, legal point and FAQ answer matches. One change: dr now says "349 pesos" in its intro price line but still "399 pesos" in its price table and FAQ. Both are copied as written; the client should pick one.
 - **Analytics:** cookie-free Vercel Analytics records `apply_click` with the button position, so the next round can see which Apply button works.
 
 ## Shared vs brand-specific
