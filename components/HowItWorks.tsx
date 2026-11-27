@@ -1,24 +1,38 @@
 import type { Brand } from "@/brands/types";
 import { Section } from "./Section";
 
-// A real sequence, so it reads as one: a vertical timeline on phones, a connected row from md; copy is per brand
+// A real sequence: a vertical timeline on phones, cohesive step cards with progression cues from md; copy is per brand
 export function HowItWorks({ brand }: { brand: Brand }) {
   const last = brand.steps.length - 1;
   return (
     <Section id="how-it-works" title="How it works" tint>
       <ol className="grid gap-0 md:grid-cols-3 md:gap-6">
         {brand.steps.map((s, i) => (
-          <li key={s.title} className="relative flex gap-5 pb-8 last:pb-0 md:flex-col md:gap-0 md:pb-0">
-            {/* Connector to the next step: down the left on phones, across to the right from md */}
+          <li key={s.title} className="relative flex gap-4 pb-6 last:pb-0 md:flex-col md:gap-0 md:pb-0">
+            {/* Vertical connector on phones */}
             {i < last && (
-              <span aria-hidden="true" className="absolute left-[21px] top-12 bottom-0 w-0.5 bg-brand/20 md:left-14 md:right-[-1.5rem] md:top-[21px] md:bottom-auto md:h-0.5 md:w-auto" />
+              <span aria-hidden="true" className="absolute left-[19px] top-11 bottom-0 w-0.5 bg-brand/20 md:hidden" />
             )}
-            <span className="relative z-10 grid size-11 shrink-0 place-items-center rounded-full bg-brand text-lg font-semibold text-brand-ink ring-8 ring-surface">
+            {/* Mobile step circle */}
+            <span aria-hidden="true" className="relative z-10 grid size-10 shrink-0 place-items-center rounded-full bg-brand text-sm font-semibold text-brand-ink ring-8 ring-surface md:hidden">
               {i + 1}
             </span>
-            <div className="pt-1.5 md:mt-6 md:rounded-2xl md:bg-white md:p-6 md:shadow-sm lg:p-7 md:flex-1">
-              <h3 className="text-[20px] leading-snug md:text-[22px]">{s.title}</h3>
-              <p className="mt-2 max-w-prose text-slate-600">{s.body}</p>
+            <div className="flex flex-1 flex-col rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/30 hover:shadow-md md:p-6 lg:p-7">
+              <div className="mb-4 hidden items-center justify-between md:flex">
+                <div className="flex items-center gap-3">
+                  <span className="grid size-9 shrink-0 place-items-center rounded-xl bg-brand text-sm font-semibold text-brand-ink tabular-nums">
+                    {i + 1}
+                  </span>
+                  <span className="text-xs font-semibold uppercase tracking-[0.08em] text-brand/75 tabular-nums">
+                    Step 0{i + 1}
+                  </span>
+                </div>
+                {i < last && (
+                  <span aria-hidden="true" className="text-base font-medium text-brand/40">→</span>
+                )}
+              </div>
+              <h3 className="text-[19px] leading-snug md:text-[21px]">{s.title}</h3>
+              <p className="mt-2.5 max-w-prose text-[15px] leading-relaxed text-slate-600 md:text-base">{s.body}</p>
             </div>
           </li>
         ))}

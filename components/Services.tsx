@@ -41,7 +41,9 @@ export function Services({ brand }: { brand: Brand }) {
           );
         })}
       </ul>
-      <CtaLink brand={brand} position="services" className="mt-10 w-full sm:w-auto" />
+      <div className="mt-10 flex justify-center">
+        <CtaLink brand={brand} position="services" className="w-full sm:w-auto" />
+      </div>
     </Section>
   );
 }
