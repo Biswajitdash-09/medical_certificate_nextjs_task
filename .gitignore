@@ -42,3 +42,13 @@ next-env.d.ts
 
 # taste-skill scratch
 .taste-skill/
+.superpowers/
+
+# local Claude Code launch config, machine-specific
+.claude/
+
+# editors and OS
+.vscode/
+.idea/
+Thumbs.db
+*.log
