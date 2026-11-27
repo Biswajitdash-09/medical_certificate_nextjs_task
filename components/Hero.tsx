@@ -3,22 +3,22 @@ import type { Brand } from "@/brands/types";
 import { CtaLink } from "./CtaLink";
 import { CertificateCard } from "./CertificateCard";
 
-// First screen: the promise, one primary action, and the real thing beside it (certificate or photograph)
+// First screen: the promise, one primary action, and the real thing beside it; two columns only from lg so text and card never get cramped
 export function Hero({ brand }: { brand: Brand }) {
   const { hero } = brand;
   const visual = hero.visual;
   return (
     <section id="top" className="bg-surface" data-enter>
-      <div className="mx-auto grid max-w-6xl gap-10 px-4 pb-14 pt-10 md:min-h-[calc(100svh-4rem)] md:grid-cols-[1.1fr_1fr] md:items-center md:py-16">
+      <div className="mx-auto grid max-w-6xl gap-10 px-4 pb-14 pt-10 sm:pt-14 lg:min-h-[calc(100svh-4rem)] lg:grid-cols-[1.1fr_1fr] lg:items-center lg:gap-14 lg:py-14">
         <div className="enter-1">
           <p className="text-[15px] font-medium text-accent">{hero.eyebrow}</p>
-          <h1 className="mt-3 text-[40px] leading-[1.05] md:text-[64px]">{hero.title}</h1>
-          <p className="mt-5 max-w-xl text-lg text-slate-700">{hero.body}</p>
+          <h1 className="mt-3 max-w-[15ch] text-balance text-[40px] leading-[1.04] sm:text-[52px] xl:text-[60px]">{hero.title}</h1>
+          <p className="mt-5 max-w-[34rem] text-lg text-slate-700">{hero.body}</p>
           <div className="mt-7 flex flex-col gap-3 sm:flex-row">
             <CtaLink brand={brand} id="hero-cta" position="hero" />
             <a href="#how-it-works" className="btn-ghost">How it works</a>
           </div>
-          {/* Says where Apply leads, so landing on the external form is expected, not a surprise */}
+          {/* Says where Apply leads, so the application form is expected, not a surprise */}
           <p className="mt-3 text-sm text-slate-600">{brand.ctaNote}</p>
           <ul className="mt-8 grid gap-2.5 text-[15px] sm:grid-cols-2">
             {hero.bullets.map((b) => (
@@ -29,15 +29,16 @@ export function Hero({ brand }: { brand: Brand }) {
             ))}
           </ul>
         </div>
-        <div className="enter-2">
+        <div className="enter-2 mx-auto w-full max-w-xl lg:max-w-none">
           {visual.kind === "certificate" ? (
             visual.photo ? (
               // The document lies over the corner of a home photo: the product, and the life it fits into
-              <div className="relative pb-16 md:pb-0">
-                <div className="photo-frame aspect-[4/5] w-[88%] ml-auto">
-                  <Image src={visual.photo.src} alt={visual.photo.alt} width={800} height={1000} priority sizes="(max-width: 767px) 85vw, 38vw" className="size-full object-cover" />
+              <div className="relative">
+                <div className="photo-frame ml-auto aspect-[4/3] w-[88%] lg:aspect-[4/5]">
+                  <Image src={visual.photo.src} alt={visual.photo.alt} width={800} height={1000} priority sizes="(max-width: 1023px) 90vw, 40vw" className="size-full object-cover" />
                 </div>
-                <div className="absolute bottom-0 left-0 w-[64%] origin-bottom-left md:-left-6 md:w-[56%]">
+                {/* Below lg the card stays in flow and only overlaps the photo edge, so it can never cover the text above */}
+                <div className="relative -mt-24 w-[86%] sm:-mt-32 sm:w-[64%] lg:absolute lg:bottom-0 lg:-left-6 lg:mt-0 lg:w-[60%]">
                   <CertificateCard visual={visual} />
                 </div>
               </div>
@@ -45,8 +46,8 @@ export function Hero({ brand }: { brand: Brand }) {
               <CertificateCard visual={visual} />
             )
           ) : (
-            <div className="photo-frame aspect-[4/3] md:aspect-[4/5]">
-              <Image src={visual.src} alt={visual.alt} width={visual.width} height={visual.height} priority sizes="(max-width: 767px) 100vw, 45vw" className="size-full object-cover" />
+            <div className="photo-frame aspect-[4/3] lg:aspect-[4/5]">
+              <Image src={visual.src} alt={visual.alt} width={visual.width} height={visual.height} priority sizes="(max-width: 1023px) 90vw, 45vw" className="size-full object-cover" />
             </div>
           )}
         </div>
