@@ -12,6 +12,8 @@ import { Countries } from "@/components/Countries";
 import { Faq } from "@/components/Faq";
 import { FinalCta } from "@/components/FinalCta";
 import { Footer } from "@/components/Footer";
+import { Statement } from "@/components/Statement";
+import { PhoneBar } from "@/components/PhoneBar";
 
 // Pre-render only configured brands; unknown slugs hit notFound() below (dynamicParams is barred under cacheComponents)
 export function generateStaticParams() {
@@ -41,6 +43,7 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
         <Hero brand={brand} />
         <Services brand={brand} />
         <HowItWorks brand={brand} />
+        <Statement brand={brand} />
         <Facts brand={brand} />
         <Legal brand={brand} />
         <Countries brand={brand} />
@@ -48,6 +51,7 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
         <FinalCta brand={brand} />
       </main>
       <Footer brand={brand} />
+      <PhoneBar ctaLabel={brand.ctaLabel} ctaHref={brand.ctaHref} />
     </div>
   );
 }

@@ -14,9 +14,81 @@ html {
   scroll-behavior: smooth;
   /* Keeps anchor targets clear of the sticky header */
   scroll-padding-top: 5rem;
+  /* Lets <details> animate to its natural height */
+  interpolate-size: allow-keywords;
 }
 
 body {
   background: #ffffff;
   color: #0f172a;
+}
+
+/* One primary and one ghost button for the whole system; both step on hover and press on click */
+@layer components {
+  .btn-primary {
+    @apply inline-flex min-h-12 items-center justify-center rounded-xl bg-brand px-6 font-semibold text-brand-ink shadow-sm;
+    transition: transform 160ms ease, box-shadow 160ms ease, filter 160ms ease;
+  }
+  .btn-primary:hover { transform: translateY(-1px); filter: brightness(1.08); box-shadow: 0 10px 24px -10px var(--primary); }
+  .btn-primary:active { transform: translateY(1px) scale(0.98); box-shadow: none; }
+  .btn-arrow { margin-left: 0.5rem; display: inline-block; transition: transform 160ms ease; }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+
+  .btn-ghost {
+    @apply inline-flex min-h-12 items-center justify-center rounded-xl border border-slate-300 bg-white px-6 font-semibold;
+    transition: transform 160ms ease, border-color 160ms ease;
+  }
+  .btn-ghost:hover { transform: translateY(-1px); border-color: var(--primary); }
+  .btn-ghost:active { transform: translateY(1px) scale(0.98); }
+
+  /* One card style; a linked card lifts 2px and its arrow nudges */
+  .card { @apply flex w-full flex-col rounded-2xl border border-slate-200 bg-white p-5; }
+  .card-link { transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease; }
+  .card-link:hover { transform: translateY(-2px); border-color: var(--primary); box-shadow: 0 16px 32px -18px rgba(15, 23, 42, 0.35); }
+  .card-arrow { display: inline-block; transition: transform 180ms ease; }
+  .card-link:hover .card-arrow { transform: translateX(3px); }
+
+  /* Photographs sit in a frame and zoom slightly inside it on hover */
+  .photo-frame { @apply overflow-hidden rounded-2xl; }
+  .photo-frame img { transition: transform 600ms ease; }
+  .photo-frame:hover img { transform: scale(1.03); }
+
+  /* Text links draw their underline on hover */
+  .link-draw { background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat; transition: background-size 220ms ease; }
+  .link-draw:hover { background-size: 100% 1px; }
+
+  /* Phone Apply bar slides up once the hero button has scrolled away */
+  .phone-bar {
+    @apply fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 px-4 pt-3 backdrop-blur;
+    padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+    transform: translateY(110%);
+    transition: transform 220ms ease;
+  }
+  .phone-bar[data-shown="true"] { transform: none; }
+}
+
+/* FAQ answers open smoothly instead of jumping */
+details::details-content { block-size: 0; overflow: hidden; transition: block-size 260ms ease, content-visibility 260ms allow-discrete; }
+details[open]::details-content { block-size: auto; }
+
+/* Hero enters once on load: copy first, visual just after */
+@keyframes enter { from { opacity: 0; transform: translateY(14px); } }
+[data-enter] .enter-1 { animation: enter 600ms ease-out both; }
+[data-enter] .enter-2 { animation: enter 700ms 150ms ease-out both; }
+
+/* Statement words light up as the sentence crosses the screen; scroll-driven CSS, no script */
+.statement-word { color: var(--text); }
+@supports (animation-timeline: view()) {
+  .statement-word {
+    animation: word-on linear both;
+    animation-timeline: view();
+    animation-range: cover calc(15% + var(--i) / var(--n) * 30%) cover calc(25% + var(--i) / var(--n) * 30%);
+  }
+  @keyframes word-on { from { opacity: 0.18; } to { opacity: 1; } }
+}
+
+/* Reduced motion: everything rests in its final state and nothing stays hidden */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after, details::details-content { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+  .statement-word { opacity: 1 !important; }
 }

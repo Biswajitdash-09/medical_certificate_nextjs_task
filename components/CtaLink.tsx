@@ -1,13 +1,10 @@
 import type { Brand } from "@/brands/types";
 
-// One button style for every Apply link, so all CTAs look and track the same on both brands
-export function CtaLink({ brand, className = "" }: { brand: Brand; className?: string }) {
+// One button style for every Apply link; data-cta names its position so clicks can be counted per placement
+export function CtaLink({ brand, position, id, className = "" }: { brand: Brand; position: string; id?: string; className?: string }) {
   return (
-    <a
-      href={brand.ctaHref}
-      className={`inline-flex min-h-12 items-center justify-center rounded-xl bg-brand px-6 font-semibold text-brand-ink shadow-sm transition hover:brightness-110 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand ${className}`}
-    >
-      {brand.ctaLabel} <span aria-hidden="true" className="ml-2">→</span>
+    <a id={id} href={brand.ctaHref} data-cta={position} className={`btn-primary ${className}`}>
+      {brand.ctaLabel} <span aria-hidden="true" className="btn-arrow">→</span>
     </a>
   );
 }

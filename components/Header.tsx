@@ -12,11 +12,11 @@ export function Header({ brand }: { brand: Brand }) {
         </a>
         <nav aria-label="Main" className="hidden gap-6 text-sm font-medium md:flex">
           {brand.nav.map((item) => (
-            <a key={item.href} href={item.href} className="hover:text-brand">{item.label}</a>
+            <a key={item.href} href={item.href} className="link-draw hover:text-brand">{item.label}</a>
           ))}
         </nav>
         <div className="flex items-center gap-2">
-          <a href={brand.ctaHref} className="hidden min-h-11 items-center rounded-lg bg-brand px-4 text-sm font-semibold text-brand-ink min-[400px]:inline-flex">
+          <a href={brand.ctaHref} data-cta="header" className="hidden min-h-11 items-center rounded-lg bg-brand px-4 text-sm font-semibold text-brand-ink min-[400px]:inline-flex">
             {brand.ctaLabel}
           </a>
           <MobileMenu nav={brand.nav} ctaLabel={brand.ctaLabel} ctaHref={brand.ctaHref} />

@@ -1,15 +1,22 @@
 import type { Brand } from "@/brands/types";
 import { Section } from "./Section";
 
-// Every legal point in one scannable block, verbatim from the brand's live site
+// Verbatim legal points under scan headings, so "non-refundable" is found before someone pays
 export function Legal({ brand }: { brand: Brand }) {
   return (
     <Section id="legal" title="Good to know" tint>
-      <ul className="grid gap-3 md:grid-cols-2">
-        {brand.legal.map((l) => (
-          <li key={l} className="rounded-xl border-l-4 border-brand bg-white p-4 text-sm text-slate-700">{l}</li>
+      <div className="grid gap-6 md:grid-cols-3">
+        {brand.legal.map((group) => (
+          <div key={group.heading} className="rounded-2xl bg-white p-6 shadow-sm">
+            <h3 className="font-semibold">{group.heading}</h3>
+            <ul className="mt-3 space-y-3 text-sm text-slate-700">
+              {group.points.map((p) => (
+                <li key={p} className="border-l-2 border-brand pl-3">{p}</li>
+              ))}
+            </ul>
+          </div>
         ))}
-      </ul>
+      </div>
     </Section>
   );
 }

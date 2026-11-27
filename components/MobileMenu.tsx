@@ -40,7 +40,7 @@ export function MobileMenu({ nav, ctaLabel, ctaHref }: Props) {
               </li>
             ))}
           </ul>
-          <a href={ctaHref} className="mt-4 flex min-h-12 items-center justify-center rounded-xl bg-brand font-semibold text-brand-ink">
+          <a href={ctaHref} data-cta="menu" className="mt-4 flex min-h-12 items-center justify-center rounded-xl bg-brand font-semibold text-brand-ink">
             {ctaLabel}
           </a>
         </nav>
