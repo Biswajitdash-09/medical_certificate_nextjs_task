@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: PageProps<"/[brand]">): Promi
     : {};
 }
 
-export default async function BrandPage({ params }: PageProps<"/[brand]">) {
+async function BrandContent({ params }: { params: PageProps<"/[brand]">["params"] }) {
   const brand = getBrand((await params).brand);
   if (!brand) notFound();
   return (
@@ -66,5 +66,13 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
       <PhoneBar ctaLabel={brand.ctaLabel} ctaHref={brand.ctaHref} />
       <CtaTracking />
     </BrandShell>
+  );
+}
+
+export default function BrandPage({ params }: PageProps<"/[brand]">) {
+  return (
+    <Suspense>
+      <BrandContent params={params} />
+    </Suspense>
   );
 }

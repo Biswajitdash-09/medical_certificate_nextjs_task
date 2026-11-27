@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { brands, getBrand } from "@/brands";
@@ -15,7 +16,7 @@ export async function generateMetadata({ params }: PageProps<"/[brand]/apply">):
 }
 
 // Our own application page; the certificate type is picked on the form, so the page stays static
-export default async function ApplyPage({ params }: PageProps<"/[brand]/apply">) {
+async function ApplyContent({ params }: { params: PageProps<"/[brand]/apply">["params"] }) {
   const brand = getBrand((await params).brand);
   if (!brand) notFound();
   return (
@@ -39,5 +40,13 @@ export default async function ApplyPage({ params }: PageProps<"/[brand]/apply">)
       </main>
       <CtaTracking />
     </BrandShell>
+  );
+}
+
+export default function ApplyPage({ params }: PageProps<"/[brand]/apply">) {
+  return (
+    <Suspense>
+      <ApplyContent params={params} />
+    </Suspense>
   );
 }

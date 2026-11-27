@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -26,7 +27,7 @@ export async function generateMetadata({ params }: PageProps<"/[brand]/[service]
   return found ? { title: `${found.service.title} · ${found.brand.name}`, description: found.service.body, icons: { icon: found.brand.icon } } : {};
 }
 
-export default async function ServicePage({ params }: PageProps<"/[brand]/[service]">) {
+async function ServiceContent({ params }: { params: PageProps<"/[brand]/[service]">["params"] }) {
   const found = await resolve(params);
   if (!found) notFound();
   const { brand, service } = found;
@@ -62,5 +63,13 @@ export default async function ServicePage({ params }: PageProps<"/[brand]/[servi
       </main>
       <CtaTracking />
     </BrandShell>
+  );
+}
+
+export default function ServicePage({ params }: PageProps<"/[brand]/[service]">) {
+  return (
+    <Suspense>
+      <ServiceContent params={params} />
+    </Suspense>
   );
 }
