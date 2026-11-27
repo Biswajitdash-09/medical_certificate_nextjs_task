@@ -83,7 +83,8 @@ details[open]::details-content { block-size: auto; }
 [data-enter] .enter-2 { animation: enter 700ms 150ms ease-out both; }
 
 /* Statement words light up as the sentence crosses the screen; scroll-driven CSS, no script */
-.statement-word { color: var(--text); }
+/* --word-on and --word-dim let the statement sit on a dark brand panel as well as on white */
+.statement-word { color: var(--word-on, var(--text)); }
 @supports (animation-timeline: view()) {
   .statement-word {
     animation: word-on linear both;
@@ -91,11 +92,11 @@ details[open]::details-content { block-size: auto; }
     animation-range: cover calc(15% + var(--i) / var(--n) * 30%) cover calc(25% + var(--i) / var(--n) * 30%);
   }
   /* Dimmed words stay slate-500 so even the resting state passes WCAG contrast */
-  @keyframes word-on { from { color: #64748b; } to { color: var(--text); } }
+  @keyframes word-on { from { color: var(--word-dim, #64748b); } to { color: var(--word-on, var(--text)); } }
 }
 
 /* Reduced motion: everything rests in its final state and nothing stays hidden */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after, details::details-content { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
-  .statement-word { color: var(--text) !important; }
+  .statement-word { color: var(--word-on, var(--text)) !important; }
 }
