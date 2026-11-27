@@ -2,7 +2,7 @@
 
 One Next.js 16 app, two brands. `/dr` is DrCertificate, `/gmc` is GetMedicalCertificate, and `/` lets you pick one.
 
-**Live:** LIVE_URL (`/dr`, `/gmc`)
+**Live:** https://medical-certificate-nextjs-task.vercel.app (`/dr`, `/gmc`)
 
 Evidence is in [`evidence/`](evidence/): Lighthouse JSON for the live sites (`lh-*.json`) and for the new pages (`after-v3-*.json`), plus a mobile screenshot of each live homepage (`before-mobile-*.jpg`). All Lighthouse runs are mobile emulation, one run each, 2026-11-27.
 
