@@ -3,6 +3,7 @@ export type Brand = {
   id: "dr" | "gmc";
   name: string;
   domains: string[]; // hostnames proxy.ts rewrites to this brand's route, so each brand can live on its own domain
+  icon: string; // square favicon, one per brand so browser tabs never show the other brand
   logo: { src: string; alt: string; width: number }; // width at 32px height, so the header never branches on brand
   colors: { primary: string; primaryText: string; accent: string; bg: string; text: string };
   ctaLabel: string;

@@ -5,6 +5,7 @@ export const gmc: Brand = {
   id: "gmc",
   name: "GetMedicalCertificate",
   domains: ["getmedicalcertificate.com", "www.getmedicalcertificate.com"],
+  icon: "/brands/gmc-icon.svg",
   logo: { src: "/brands/gmc-logo.svg", alt: "GetMedicalCertificate", width: 230 },
   colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#faf7fd", text: "#1a1033" },
   ctaLabel: "Get a certificate",
