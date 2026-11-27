@@ -70,3 +70,36 @@ Section titles such as "How it works" and "Frequently asked questions" are gener
 4. Add that brand's own words to the leak test so it can't borrow from the others.
 
 No component changes are needed. `/<id>` is pre-rendered automatically through `generateStaticParams`. To serve brands on their own domains, a small `proxy.ts` that rewrites by host (`drcertificate.com` → `/dr`) is the next step. It isn't built here because one preview deployment is enough for review.
+
+## Round 2: enhancements (taste pass)
+
+The plan is in [`docs/superpowers/plans/2026-11-27-enhancements.md`](docs/superpowers/plans/2026-11-27-enhancements.md). Lighthouse mobile after round 2 (`evidence/after-v2-*.json`):
+
+| | `/dr` | `/gmc` |
+|---|---|---|
+| Performance | 96 | 97 |
+| Accessibility | 100 | 100 |
+| Best practices | 100 | 100 |
+| SEO | 100 | 100 |
+| Total Blocking Time | 90 ms | 80 ms |
+
+**What changed, and why**
+- **The hero shows the real thing.** `/dr` rebuilds the live site's certificate illustration in HTML, field for field. It keeps the "SAMPLE" watermark so it can't pass as a real certificate. `/gmc` leads with a photograph next to the €34.99 headline. Both heroes animate in once on load.
+- **Phone Apply bar.** Below 768px, a bottom bar shows the brand's CTA only while no in-page Apply button is on screen. This fixes the hidden header button on narrow phones without ever showing the same action twice.
+- **One statement moment per brand, in live copy only.** dr: "The doctor decides. Nothing is approved automatically." gmc: "A certificate anyone can check - in seconds." The words brighten with scroll through CSS `animation-timeline: view()`, so there's no script, and the dimmed state still passes contrast.
+- **Hover and press feedback.** Buttons step on hover and press on click, linked cards lift 2px, photos zoom 1.03 inside their frame, nav underlines draw, and the FAQ opens smoothly. All of it is off under `prefers-reduced-motion`.
+- **Service cards link** to each brand's live detail page. gmc's Unfit to Travel card has no live URL, so it stays unlinked.
+- **Legal points are grouped** under scan headings: Who it's for, Before you submit, and Payment & refunds (dr) or Your data (gmc). Every sentence is word for word. A test flattens the groups and checks that every point still renders.
+- **Each brand on its own domain.** `proxy.ts` rewrites `drcertificate.com/` to `/dr` and `getmedicalcertificate.com/` to `/gmc`, from `domains` in each config. It also returns a real 404 for unknown slugs. With Cache Components on, `notFound()` alone streams a 200.
+- **Share and search.** Each brand gets its own favicon, theme colour, canonical URL pointing at its real domain, Open Graph card (`app/[brand]/opengraph-image.tsx`) and `FAQPage` JSON-LD built from the live FAQ answers.
+- **Apply clicks are counted.** Every CTA has `data-cta="header|hero|services|final|menu|phone-bar"`. One delegated listener sends `apply_click { brand, position }` to Vercel Analytics, which is cookie-free and loads only on Vercel.
+
+**Stand-in photographs (for the client to replace)**
+- `public/img/photo-f196010783*.webp`: the gmc hero, "Feeling discomfort at home while working on a laptop", by Shixart1985, CC BY 2.0, Wikimedia Commons. It is credited in gmc's footer.
+- Five other candidates were looked at full size and rejected: running shoes and thermometers (readable brand names), a phone with a blank screen, a weak airport exterior, and a portrait with a clear face. Per the rules, no face is presented as a doctor or patient.
+
+**Decisions**
+- **gmc keeps its purple** (`#470087` accent). The taste skill bans violet, but this is the client's own identity.
+- **dr's certificate keeps its "SAMPLE" watermark** even though the taste skill bans sample labels. Honesty about a placeholder document matters more here.
+- **The taste skill's automated checker was not run.** It only reads pages built on its own starter markup, and these are Next.js components. Its checklist was applied by hand: one primary and one ghost button, one card style, 44px+ tap targets, no horizontal scroll at 375px, reduced-motion respected.
+- **No Playwright suite.** `npm run smoke` instead checks, against a running server, the status codes (`/foo` is 404), the domain rewrite, the share image, the JSON-LD and that no brand's words appear on the other's HTML. The mobile menu, phone bar, analytics and legal/FAQ rendering are covered by Vitest (17 tests).
