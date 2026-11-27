@@ -11,7 +11,7 @@ export function Footer({ brand }: { brand: Brand }) {
         {contact.address && <p>{contact.address}</p>}
         {contact.email && <p>Questions? <a href={`mailto:${contact.email}`} className="underline">{contact.email}</a></p>}
         {/* Licence credit for a stand-in photograph, in the one footer line the licence requires */}
-        {brand.hero.visual.kind === "photo" && <p className="pt-4 text-xs text-slate-500">{brand.hero.visual.credit}</p>}
+        {brand.hero.visual.kind === "photo" && <p className="pt-4 text-xs text-slate-400">{brand.hero.visual.credit}</p>}
       </div>
     </footer>
   );

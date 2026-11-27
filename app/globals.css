@@ -84,11 +84,12 @@ details[open]::details-content { block-size: auto; }
     animation-timeline: view();
     animation-range: cover calc(15% + var(--i) / var(--n) * 30%) cover calc(25% + var(--i) / var(--n) * 30%);
   }
-  @keyframes word-on { from { opacity: 0.18; } to { opacity: 1; } }
+  /* Dimmed words stay slate-500 so even the resting state passes WCAG contrast */
+  @keyframes word-on { from { color: #64748b; } to { color: var(--text); } }
 }
 
 /* Reduced motion: everything rests in its final state and nothing stays hidden */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after, details::details-content { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
-  .statement-word { opacity: 1 !important; }
+  .statement-word { color: var(--text) !important; }
 }

@@ -8,8 +8,8 @@ const inter = Inter({ variable: "--font-inter", subsets: ["latin"], display: "sw
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" className={`${inter.variable} antialiased`}>
-      {/* Cookie-free Vercel Analytics: page views plus the apply_click events from CtaTracking */}
-      <body className="font-sans">{children}<Analytics /></body>
+      {/* Cookie-free Vercel Analytics, only on Vercel where its script exists (it 404s anywhere else) */}
+      <body className="font-sans">{children}{process.env.VERCEL && <Analytics />}</body>
     </html>
   );
 }

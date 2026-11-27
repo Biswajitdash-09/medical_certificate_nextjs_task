@@ -1,4 +1,4 @@
-import type { Metadata, Viewport } from "next";
+import type { Metadata } from "next";
 import type { CSSProperties } from "react";
 import { notFound } from "next/navigation";
 import { brands, getBrand } from "@/brands";
@@ -35,12 +35,6 @@ export async function generateMetadata({ params }: PageProps<"/[brand]">): Promi
     : {};
 }
 
-// Browser chrome on phones takes the brand's primary colour
-export async function generateViewport({ params }: PageProps<"/[brand]">): Promise<Viewport> {
-  const brand = getBrand((await params).brand);
-  return brand ? { themeColor: brand.colors.primary } : {};
-}
-
 export default async function BrandPage({ params }: PageProps<"/[brand]">) {
   const brand = getBrand((await params).brand);
   if (!brand) notFound();
@@ -54,6 +48,8 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
   } as CSSProperties;
   return (
     <div style={theme} data-brand={brand.id} className="text-ink">
+      {/* Phone browser chrome in the brand colour; a hoisted <meta> keeps the page static, where an async generateViewport broke the 404 status */}
+      <meta name="theme-color" content={brand.colors.primary} />
       {/* FAQ structured data from the same live answers the page shows, so search results can quote them */}
       <script
         type="application/ld+json"
