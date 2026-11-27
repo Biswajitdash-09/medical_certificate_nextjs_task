@@ -18,7 +18,7 @@ export const dr: Brand = {
     title: "Before you start",
     items: [
       { text: "Your full name, age and contact details" },
-      { text: "An email address you can access — that's where your certificate goes" },
+      { text: "An email address you can access: that's where your certificate goes" },
       { text: "The certificate type, and the dates or purpose it is for" },
       { text: "Accurate information about your symptoms or health" },
     ],
@@ -181,7 +181,7 @@ export const dr: Brand = {
     address: "DrCertificate is run by Health Venture OU, KMC Armstrong Corporate Center, H.V. Dela Costa, Salcedo Village, Makati City, 1227 Metro Manila, Philippines.",
   },
   meta: {
-    title: "DrCertificate — Medical certificates, without the unnecessary hassle",
+    title: "DrCertificate - Medical certificates, without the unnecessary hassle",
     description: "Fill in a short online form. A certified doctor (MBBS, MD or MS) reviews your request, and approved certificates are emailed as a PDF.",
     url: "https://drcertificate.com/",
   },
