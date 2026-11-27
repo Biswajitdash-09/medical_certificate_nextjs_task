@@ -19,7 +19,8 @@ test("valid submit shows the prototype notice", () => {
   fireEvent.change(screen.getByLabelText(/age/i), { target: { value: "28" } });
   fireEvent.change(screen.getByLabelText(/reason/i), { target: { value: "Fitness check for a new job" } });
   fireEvent.click(screen.getByRole("checkbox"));
-  expect((screen.getByLabelText(/certificate type/i) as HTMLSelectElement).value).toBe("medical-fitness");
+  // The choice made on a service page arrives pre-ticked among the certificate cards
+  expect(screen.getByRole("radio", { name: /medical fitness certificate/i })).toBeChecked();
   fireEvent.click(screen.getByRole("button", { name: /submit/i }));
   expect(screen.getByText(/nothing was sent/i)).toBeInTheDocument();
 });

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, type FormEvent } from "react";
+import { useEffect, useState, type FormEvent } from "react";
 import type { Brand } from "@/brands/types";
 
 type Errors = Partial<Record<"type" | "firstName" | "lastName" | "email" | "age" | "reason" | "ack", string>>;
@@ -9,12 +9,12 @@ type Errors = Partial<Record<"type" | "firstName" | "lastName" | "email" | "age"
 export function ApplyForm({ brand, initialType }: { brand: Brand; initialType?: string }) {
   const [errors, setErrors] = useState<Errors>({});
   const [done, setDone] = useState(false);
-  const typeRef = useRef<HTMLSelectElement>(null);
 
   // A service page links here with ?type=<slug>; read it on the client so the page itself stays static
   useEffect(() => {
     const wanted = new URLSearchParams(window.location.search).get("type");
-    if (!initialType && wanted && typeRef.current && brand.services.some((s) => s.slug === wanted)) typeRef.current.value = wanted;
+    // Ticks the matching card; an unknown slug finds no card and is ignored
+    if (!initialType && wanted) document.querySelector<HTMLInputElement>(`#type-${CSS.escape(wanted)}`)?.click();
   }, [brand, initialType]);
 
   function onSubmit(e: FormEvent<HTMLFormElement>) {
@@ -64,14 +64,19 @@ export function ApplyForm({ brand, initialType }: { brand: Brand; initialType?: 
     <form noValidate onSubmit={onSubmit} className="divide-y divide-slate-100">
       <fieldset className="space-y-4 pb-8">
         {part(1, "Your certificate")}
-        <div>
-          <label htmlFor="type" className="font-medium">Certificate type</label>
-          <select ref={typeRef} id="type" name="type" defaultValue={initialType ?? ""} className={field} {...a11y("type")}>
-            <option value="" disabled>Choose a certificate</option>
-            {brand.services.map((s) => <option key={s.slug} value={s.slug}>{s.title}{s.price ? ` · ${s.price}` : ""}</option>)}
-          </select>
-          {err("type")}
+        {/* Selectable cards instead of a native dropdown: every option and its price is visible and tappable, and the list can be styled */}
+        <div role="radiogroup" aria-label="Certificate type" className="grid gap-3 sm:grid-cols-2">
+          {brand.services.map((s) => (
+            <label key={s.slug} className="flex cursor-pointer items-start gap-3 rounded-xl border border-slate-200 p-4 transition hover:border-brand/50 has-[:checked]:border-brand has-[:checked]:bg-brand/5 has-[:focus-visible]:ring-4 has-[:focus-visible]:ring-brand/15">
+              <input type="radio" id={`type-${s.slug}`} name="type" value={s.slug} defaultChecked={initialType === s.slug} className="mt-1 size-4 shrink-0 accent-[var(--primary)]" {...a11y("type")} />
+              <span className="leading-snug">
+                <span className="block font-medium">{s.title}</span>
+                {s.price && <span className="mt-1 block text-sm font-semibold text-brand">{s.price}</span>}
+              </span>
+            </label>
+          ))}
         </div>
+        {err("type")}
       </fieldset>
 
       <fieldset className="space-y-4 py-8">
