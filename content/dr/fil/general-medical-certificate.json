@@ -1,0 +1,765 @@
+{
+  "slug": "general-medical-certificate",
+  "group": "service",
+  "service": "general",
+  "title": "Online general medical certificate",
+  "description": "Apply online for a doctor-reviewed general medical certificate for work, study or travel. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "General medical certificate · Sinusuri ng mga sertipikadong doktor"
+    },
+    {
+      "kind": "text",
+      "text": "Kailangan mo ba ng opisyal na patunay ng konsultasyon, sakit, paggaling o kalagayan ng kalusugan? Mag-apply online, susuriin ng isang sertipikadong doktor ang iyong request, at kung maaprubahan, ipapadala ang iyong certificate sa iyong email."
+    },
+    {
+      "kind": "text",
+      "text": "Isang sertipikadong doktor (MBBS, MD o MS) ang maglalabas ng certificate, at hindi ito para isumite sa India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagsusuri ng sertipikadong doktor",
+        "Ipapadala sa email kung maaprubahan",
+        "Bukas 365 araw sa isang taon"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ibang certificate ba ang kailangan mo?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave",
+        "Medical fitness",
+        "Unfit to fly"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagsusuri ng sertipikadong doktor Isa-isang sinusuri ang bawat request",
+        "100% online na application Mag-apply gamit ang iyong phone o laptop",
+        "Matatanggap sa email kung maaprubahan Ipapadala sa email address na ibibigay mo",
+        "Ang bayad ay pinoproseso ng Stripe Ligtas na online na pagbabayad"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Paano makakuha ng general medical certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "Para makakuha ng general medical certificate online sa DrCertificate, punan ang online form, magbayad sa pamamagitan ng Stripe at sagutin ang mga tanong ng isang certified na doktor sa chat review. Kung aprubahan ito ng doktor, darating ang sertipiko bilang PDF sa iyong email, karaniwan sa loob ng mga 30 minuto. Ang doktor ang magpapasya kung ibibigay ito, batay sa iyong mga detalye."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bago ka mag-apply"
+    },
+    {
+      "kind": "text",
+      "text": "Tungkol sa certificate na ito"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang general medical certificate ay isang opisyal na dokumento na ibinibigay ng doktor matapos suriin ang iyong kalusugan. Kinukumpirma nito ang isang medikal na konsultasyon, sakit, paggaling o kalagayan ng kalusugan, depende sa kung para saan mo ito kailangan."
+    },
+    {
+      "kind": "text",
+      "text": "Karaniwan itong hinihingi ng mga employer, paaralan, unibersidad, travel provider at iba pang organisasyon bilang sumusuportang dokumentasyon tungkol sa kalusugan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ano ang nilalaman ng certificate"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ang iyong tamang personal na detalye",
+        "Petsa ng konsultasyon",
+        "Kaugnay na medikal na pagsusuri",
+        "Layunin ng certificate",
+        "Inirerekomendang panahon ng pahinga, kung naaangkop",
+        "Pangalan at kredensyal ng doktor",
+        "Pirma o digital na beripikasyon"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ang nilalaman ng certificate ay nakadepende sa layunin nito at sa propesyonal na pagsusuri ng doktor."
+    },
+    {
+      "kind": "text",
+      "text": "Iwasan ang mga pekeng certificate. Ang mga pekeng template, in-edit na dokumento o instant certificate generator na walang partisipasyon ng doktor ay maaaring tanggihan at magdulot pa ng ibang problema. Ang tunay na certificate ay ibinibigay lamang matapos ang totoong medikal na pagsusuri."
+    },
+    {
+      "kind": "text",
+      "text": "Para kanino ito"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kailan mo maaaring kailanganin ang general medical certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Tuwing humihingi ang isang organisasyon ng opisyal na dokumentasyon tungkol sa kalusugan. Ang doktor ang nagpapasya kung ano ang maaaring isaad ng certificate, batay sa kanyang pagsusuri."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga empleyado"
+    },
+    {
+      "kind": "text",
+      "text": "Para sa pagliban dahil sa kalusugan, mga record sa trabaho o requirement sa pagbalik sa trabaho."
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang hinihingi para sa"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokumentasyon ng sick leave",
+        "Beripikasyon ng pagliban sa trabaho",
+        "Pagpapagaling matapos magkasakit",
+        "Requirement sa record ng HR"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga estudyante"
+    },
+    {
+      "kind": "text",
+      "text": "Kapag hindi ka nakapasok sa klase, exam, training o iba pang academic activity dahil sa sakit."
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang hinihingi para sa"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagliban sa klase",
+        "Hindi nakuhang exam",
+        "Request para sa academic extension",
+        "Requirement sa paglahok sa sports"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga remote at hybrid worker"
+    },
+    {
+      "kind": "text",
+      "text": "Maaaring maapektuhan ng sakit ang iyong kakayahang magtrabaho, kahit sa bahay."
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang hinihingi para sa"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pag-apruba ng sick leave",
+        "Dokumentasyon para sa HR",
+        "Pansamantalang hindi makapagtrabaho",
+        "Request sa trabaho kaugnay ng kalusugan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga karaniwang dahilan ng pag-apply"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medikal na dokumentasyon para sa trabaho",
+        "Pagliban sa paaralan o unibersidad",
+        "Patunay ng sakit",
+        "Kumpirmasyon ng paggaling",
+        "Requirement kaugnay ng biyahe",
+        "Pangkalahatang beripikasyon ng kalusugan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Alamin muna ang mga requirement"
+    },
+    {
+      "kind": "text",
+      "text": "Ang pagtanggap dito ay nakadepende sa organisasyong pagbibigyan mo nito. Bago mo ito isumite, alamin kung may hinihinging partikular na format o karagdagang impormasyon ang:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Mga employer",
+        "Mga paaralan o unibersidad",
+        "Mga ahensya ng gobyerno",
+        "Mga travel company"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Isa-isang sinusuri ang bawat request. Nasa pagpapasya ng doktor na nagsusuri kung maglalabas ng certificate, ano ang nilalaman nito at gaano ito katagal. Ang lahat ng dokumento ay nakapangalan sa organisasyong pagbibigyan nito at para sa isang beses na paggamit lamang. Ang pagtanggap dito ay nakadepende sa organisasyong pagbibigyan mo nito."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang karaniwang hinihingi ng employer, paaralan o airline sa isang general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Karamihan sa mga employer at paaralan ay umaasa ng note mula sa isang rehistradong doktor na nakapangalan sa iyo, nakasaad ang mga petsa at may rekomendasyon. Makikita sa Singapore kung gaano ito kahigpit. Ayon sa Ministry of Manpower, para maging kwalipikado sa paid sick leave, kailangang masertipikahan ang empleyado na hindi kayang magtrabaho ng isang medical practitioner na rehistrado sa ilalim ng Medical Registration Act o Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Kung nagtatrabaho ka sa Singapore, kumpirmahin muna sa HR na pasok sa patakarang ito ang iyong note bago ka mag-apply."
+    },
+    {
+      "kind": "text",
+      "text": "Iba-iba ang patakaran depende sa employer, institusyon, airline at bansa."
+    },
+    {
+      "kind": "text",
+      "text": "Sa karamihan ng bansa sa Timog-Silangang Asya, hanggang 7 araw ang sick leave at work from home note para sa mga pangkaraniwang sintomas. Maaaring magtakda ang tatanggap ng mas maikling limitasyon, humingi ng sarili nilang form o tuluyang hindi tumanggap ng online na note."
+    },
+    {
+      "kind": "text",
+      "text": "Bago ka mag-apply, itanong ang tatlong bagay na ito sa tatanggap. Tumatanggap ba sila ng online na medical certificate? Kailangan ba nila ang sarili nilang form o format? Ilang araw ang maaaring saklawin ng isang note?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate sa Singapore",
+        "Mga medical certificate online sa Malaysia",
+        "Online Sick Leave Certificate sa Thailand",
+        "Paano makakuha ng medical certificate online para sa leave"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang nilalaman ng general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang general medical certificate mula sa DrCertificate ay naglalaman ng iyong mga personal na detalye, ng mga petsang saklaw nito, ng pahayag ng doktor at ng mga detalye ng doktor na nagbigay nito."
+    },
+    {
+      "kind": "text",
+      "text": "Kung may kailangang impormasyon ang tatanggap na wala sa sertipiko, hingin muna sa kanila ang sarili nilang form bago ka mag-apply."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Mga detalye ng pasyente Ang iyong buong pangalan at mga detalye ng ID, na dapat magkatugma.",
+        "Mga petsa Ang petsa ng konsultasyon at ang panahong inirerekomenda ng doktor.",
+        "Pahayag ng doktor Ang rekomendasyon ng doktor batay sa chat review.",
+        "Mga detalye ng doktor Ang pangalan ng doktor, ang kanyang MBBS, MD o MS na kwalipikasyon at ang rehistro niya sa medical council."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Paano ito gumagana"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tatlong simpleng hakbang, at may doktor na sumusuri sa bawat request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Hakbang 1: Punan ang online application Ilagay ang iyong mga detalye at ang dahilan ng iyong request. Maaaring hilingin sa iyo na ibahagi ang iyong vital signs o iba pang sukat sa pamamagitan ng secure na link na ipapadala sa email.",
+        "2 Hakbang 2: Susuriin ng sertipikadong doktor ang iyong request Susuriin ng doktor ang impormasyong ibinigay mo at siya ang magpapasya kung naaangkop ang certificate batay sa medikal na pananaw. Maaari niyang tanggihan ang isang request.",
+        "3 Hakbang 3: Matanggap ang iyong certificate sa email, kung maaprubahan Ang mga naaprubahang certificate ay ipinapadala nang electronic sa email address na ibinigay mo."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Magpapatuloy ka sa secure na application form ng DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Aling opsyon sa form ang dapat mong piliin para sa general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Piliin ang Sick Leave na opsyon para sa general medical certificate. Sa form, ganito ang nakasulat: Medical Certificate, Sick Leave, for university or work."
+    },
+    {
+      "kind": "text",
+      "text": "Sa iyong mga sagot, sabihin na kailangan mo ng general medical certificate at kung sino ang tatanggap nito, halimbawa ang iyong employer o paaralan. Sa ganitong paraan, malalaman ng doktor kung para saan ang note."
+    },
+    {
+      "kind": "text",
+      "text": "Kung walang opsyong angkop, mag-email sa care@drcertificate.com bago magbayad."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang itatanong ng doktor para sa general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Itatanong ng doktor ang iyong mga sintomas, kung kailan nagsimula ang mga ito at kung aling mga petsa ang dapat saklawin ng sertipiko. Asahan ang mga tanong tungkol sa epekto ng sakit sa iyong trabaho o pag-aaral at kung nagpatingin ka na sa ibang doktor."
+    },
+    {
+      "kind": "text",
+      "text": "Ibigay ang iyong pangalan at ID nang eksaktong katulad ng nakasulat sa iyong identity document, letra por letra. Ang hindi pagtutugma ay isa sa mga dahilan kung bakit tinatanggihan ang isang request."
+    },
+    {
+      "kind": "text",
+      "text": "Makatutulong ang mga record mula sa naunang pagbisita sa klinika, kaya banggitin ang mga ito kung mayroon ka. Maaaring magtanong pa ang doktor sa chat bago siya magpasya."
+    },
+    {
+      "kind": "text",
+      "text": "Sumagot nang tama at agad."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Saan hindi maaaring gamitin ang general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi maaaring gamitin sa India, para sa mga legal na layunin, o para sa insurance ang pangkalahatang medical certificate mula sa DrCertificate. Dapat ay hindi bababa sa 16 taong gulang ang mga aplikante."
+    },
+    {
+      "kind": "text",
+      "text": "Ang serbisyong ito ay para lamang sa mga angkop na sitwasyong hindi emergency. Kung may pananakit ka ng dibdib, hirap sa paghinga, o biglaang malubhang sintomas, agad na tumawag sa lokal na emergency services o pumunta sa pinakamalapit na ospital."
+    },
+    {
+      "kind": "text",
+      "text": "Ang tatanggap ang magpapasya kung tatanggapin nila ang sertipiko. Kumpirmahin muna sa kanila bago ka mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang mangyayari kung hindi maibigay ng doktor ang iyong pangkalahatang medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Kung hindi maibigay ng doktor ang iyong pangkalahatang medical certificate, hindi ka makatatanggap nito at hindi ibabalik ang bayad. Tinatanggihan ng mga doktor ang humigit-kumulang 2% ng mga kahilingan, kadalasan dahil hindi tugma ang pangalan at ID, o hindi magkakatugma ang mga sintomas at detalyeng ibinahagi."
+    },
+    {
+      "kind": "text",
+      "text": "May mga limitasyon ang pagsusuri sa pamamagitan ng chat."
+    },
+    {
+      "kind": "text",
+      "text": "Kapag ang mga sintomas ay nangangailangan ng pisikal na pagsusuri o mga test, maaaring tumanggi ang doktor at magmungkahi na personal kang magpatingin sa lokal na klinika. Hindi maibabalik ang bayad sa lahat ng kaso maliban sa isa: isang beripikadong teknikal na problema na naiulat sa loob ng 24 oras. Ituring ang bayad bilang bayad para sa pagsusuri ng doktor, hindi para sa garantisadong sertipiko."
+    },
+    {
+      "kind": "text",
+      "text": "Kung sa tingin mo ay naapektuhan ng teknikal na problema ang iyong kahilingan, sumulat sa support sa mismong araw ding iyon."
+    },
+    {
+      "kind": "text",
+      "text": "Makipag-ugnayan sa care@drcertificate.com para sa anumang tanong tungkol sa iyong kahilingan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Magkano ang pangkalahatang medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang pangkalahatang medical certificate ay nagkakahalaga ng 25 SGD sa Singapore, 399 piso sa Pilipinas, at 30 MYR sa Malaysia. Makikita ang presyo para sa ibang bansa sa checkout."
+    },
+    {
+      "kind": "text",
+      "text": "Sakop ng bayad ang pagsusuri ng doktor at, kung maaprubahan, ang PDF na sertipiko na ipapadala sa email. Dumadaan ang bayad sa Stripe at hindi ito maibabalik."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Bansa",
+        "Presyo"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Pilipinas",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Magpapatuloy ka sa secure na application form ng DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sino ang nagbibigay ng iyong pangkalahatang medical certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Mga certified na doktor Ang bawat request ay napupunta sa isang doktor na may kwalipikasyong MBBS, MD o MS. Lahat ng doktor sa platform ay rehistrado sa medical council.",
+        "Ang doktor ang nagpapasya Ang DrCertificate ay isang platform. Ang doktor lamang ang nagpapasya kung maglalabas ng certificate. Tinatanggihan ng mga doktor ang humigit-kumulang 2% ng mga request, kadalasan kapag hindi tugma ang mga detalye o hindi magkakatugma ang mga sintomas.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tatanggapin ba ng aking employer, paaralan, o airline ang pangkalahatang medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Nakadepende ang pagtanggap sa sariling patakaran ng tatanggap, kaya hindi ito maipapangako ng DrCertificate. Bawat employer, paaralan, o airline ay may sariling patakaran tungkol sa mga online na medical note."
+    },
+    {
+      "kind": "text",
+      "text": "Kung nais ng tatanggap na beripikahin ang note, maaari nilang hanapin ang doktor na nagbigay nito gamit ang mga detalye ng rehistrasyon na nakasulat sa sertipiko. Lahat ng doktor sa platform ay rehistrado sa isang medical council."
+    },
+    {
+      "kind": "text",
+      "text": "Kung iginigiit ng tatanggap ang sarili nilang form, tanungin muna sila bago ka mag-apply. Maaaring hindi maipalit ang karaniwang PDF na sertipiko sa form na hinihingi nila."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pangkalahatang medical certificate kumpara sa mga kaugnay na sertipiko: alin ang kailangan mo?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang pangkalahatang medical certificate ay malawak na sulat ng doktor, samantalang ang bawat kaugnay na sertipiko ay sumasagot sa iisang tiyak na tanong. Piliin ang tumutugma sa hinihingi ng iyong tatanggap."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Sertipiko",
+        "Ano ang nakasaad dito",
+        "Sino ang karaniwang humihingi nito",
+        "Opsiyong pipiliin sa form"
+      ],
+      "rows": [
+        [
+          "General medical certificate",
+          "Isang alalahaning pangkalusugan at ang pahingang inirerekomenda ng doktor para sa mga nakasaad na petsa",
+          "Mga employer, paaralan, club",
+          "Sick Leave"
+        ],
+        [
+          "Sick leave certificate",
+          "Na hindi ka angkop pumasok sa trabaho o pag-aaral sa mga nakasaad na petsa",
+          "Mga employer, unibersidad",
+          "Sick Leave"
+        ],
+        [
+          "Medical fitness certificate",
+          "Na sa pagtingin ng doktor ay angkop ka para sa trabaho, pag-aaral, sports, o pagbiyahe",
+          "Mga bagong employer, paaralan, sports club, airline",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Sertipiko para sa work from home",
+          "Na kaya mong magtrabaho pero dapat kang manatili sa bahay",
+          "Mga employer",
+          "Work From Home"
+        ],
+        [
+          "Sertipiko na hindi angkop bumiyahe",
+          "Na hindi ka dapat lumipad o bumiyahe sa mga nakasaad na petsa",
+          "Mga airline, travel provider",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bakit mag-apply online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medikal na dokumentasyon nang hindi pumupunta sa clinic"
+    },
+    {
+      "kind": "text",
+      "text": "Ang bahagyang sakit, abalang iskedyul, problema sa paggalaw o remote work ay maaaring magpahirap sa pagpapatingin sa clinic. Mas simpleng alternatibo ang pag-apply online."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kumonsulta kahit saan Mag-apply nang hindi umaalis ng bahay - nakakatulong ito kapag kailangan mong magpahinga o hindi ka makabiyahe dahil sa sakit.",
+        "Makatipid ng oras Hindi mo na kailangang pumila sa clinic o maghintay sa waiting room - tapusin ang iyong application online.",
+        "Digital na pagpapadala ng certificate Kung maaprubahan, ipapadala ang iyong certificate sa iyong email, handa nang ibahagi.",
+        "Secure na proseso online Pinangangasiwaan ang iyong mga detalye sa pamamagitan ng secure na online na proseso."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ang doktor ang nagpapasya. Walang inaaprubahan nang awtomatiko. Sinusuri ng sertipikadong doktor ang bawat request at siya ang nagpapasya kung maglalabas ng certificate, ano ang nilalaman nito at gaano katagal ang saklaw nito."
+    },
+    {
+      "kind": "text",
+      "text": "Saklaw ng serbisyo"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kung saan available ang serbisyo"
+    },
+    {
+      "kind": "text",
+      "text": "May sariling mga certificate page ang bawat bansa, at maaaring magkakaiba ang mga available na serbisyo. Piliin ang iyong bansa para matingnan bago ka mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Available ngayon"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Tingnan ang mga certificate",
+        "Indonesia Tingnan ang mga certificate",
+        "Philippines Tingnan ang mga certificate",
+        "Thailand Tingnan ang mga certificate",
+        "Vietnam Tingnan ang mga certificate",
+        "Malaysia Tingnan ang mga certificate",
+        "Cambodia Tingnan ang mga certificate",
+        "Laos Tingnan ang mga certificate",
+        "Myanmar Tingnan ang mga certificate",
+        "Brunei Tingnan ang mga certificate"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mga tanong tungkol sa general medical certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ano ang online General Medical Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang general medical certificate ay opisyal na dokumentong ibinibigay ng doktor matapos niyang suriin ang kalagayan ng kalusugan ng pasyente. Nagsisilbi itong nakasulat na kumpirmasyon kaugnay ng isang medikal na konsultasyon, sakit, paggaling, o kalagayan ng kalusugan, depende sa pangangailangan ng tao."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Gaano kabilis ko matatanggap ang aking General Medical Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Karaniwang umaabot ito nang mga 30 minuto. Kung aprubahan ng doktor ang iyong request, ipapadala ang certificate sa iyong email bilang PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bukas ba ang serbisyo araw-araw?"
+    },
+    {
+      "kind": "text",
+      "text": "Oo, bukas ang serbisyo 365 araw sa isang taon, kasama ang weekend at mga pampublikong holiday. Sinusuri ng doktor ang mga request sa oras ng trabaho, kaya ang request na ginawa sa labas ng mga oras na iyon ay maghihintay sa susunod na oras ng trabaho."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Maaari ba akong makakuha ng General Medical Certificate sa aking lokal na wika?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi ipinapangako ang certificate sa lokal na wika. Mag-email sa care@drcertificate.com para magtanong bago ka mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sino ang nag-iisyu ng Online General Medical Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Isang sertipikadong doktor (MBBS, MD o MS) ang nag-iisyu ng certificate. Nagtatrabaho nang malaya ang doktor at siya lamang ang nagpapasya kung ibibigay ito at kung ano ang nakasulat dito. Hindi para isumite sa India ang certificate."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Magkano ang isang certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Nakadepende ang presyo sa iyong bansa, halimbawa 25 SGD sa Singapore, 399 pesos sa Pilipinas o 30 MYR sa Malaysia. Makikita ang presyo sa application form bago ka magbayad. Hindi na maibabalik ang bayad, kasama na kapag tinanggihan ng doktor ang request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tinatanggap ba ng mga employer at institusyon ang mga certificate na ito?"
+    },
+    {
+      "kind": "text",
+      "text": "Nakadepende ang pagtanggap sa organisasyong pagsusumitehan mo, kaya alamin muna. May kani-kaniyang requirement ang mga employer, paaralan o unibersidad, organisasyon ng gobyerno at travel company, kaya kumpirmahin kung kailangan nila ng partikular na format o karagdagang impormasyon. Isang sertipikadong doktor ang nag-iisyu ng certificate, kaya itanong kung tinatanggap nila iyon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Maaari ba akong makakuha ng General Medical Certificate sa mga Pampublikong Holiday?"
+    },
+    {
+      "kind": "text",
+      "text": "Oo, maaari kang mag-apply sa pampublikong holiday dahil bukas ang serbisyo 365 araw sa isang taon. Susuriin ng doktor ang iyong request sa oras ng trabaho."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Paano kung may partikular na format na hinihingi ang aking employer o institusyon?"
+    },
+    {
+      "kind": "text",
+      "text": "Mag-email sa care@drcertificate.com kasama ang format bago ka mag-apply, dahil hindi garantisado ang pagbabago ng format. Nakadepende ang pagtanggap sa organisasyong pagsusumitehan mo, kaya alamin muna."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Gaano katagal may bisa ang pangkalahatang medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Sakop ng pangkalahatang medical certificate ang mga petsang isinulat ng doktor dito. Sa karamihan ng mga bansa sa Timog-Silangang Asya, umaabot nang hanggang 7 araw ang sick leave note para sa mga pangkaraniwang sintomas, at karaniwang may bisa nang 30 araw ang fitness note. Maaaring magpatupad ang iyong employer o paaralan ng mas maikling limitasyon, kaya alamin muna ang kanilang patakaran."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Maaari bang i-backdate ang pangkalahatang medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi maipapangako ng DrCertificate ang naka-backdate na pangkalahatang medical certificate. Ang doktor ang nagpapasya kung aling mga petsa ang sasakupin ng note, batay sa mga sintomas at petsang iniulat mo sa chat. Kung hindi tugma ang mga petsang ibinigay mo sa iyong mga sintomas, maaaring tanggihan ng doktor ang kahilingan, at hindi ibabalik ang bayad."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Paano ipinapadala ang sertipiko at gaano kabilis?"
+    },
+    {
+      "kind": "text",
+      "text": "Dumarating ang naaprubahang pangkalahatang medical certificate bilang PDF sa email, karaniwan ay mga 30 minuto matapos kang mag-apply. Tingnan ang iyong spam folder kung hindi mo ito makita. Para sa mga fitness case, nagtatrabaho ang mga doktor mula 9 am hanggang 9 pm IST, Lunes hanggang Sabado, at mula 10 am hanggang 8 pm IST tuwing Linggo."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Maaari ko bang itama ang pangalan o petsa pagkatapos maibigay ang sertipiko?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi, hindi na maitatama ang pangkalahatang medical certificate kapag naibigay na ito, maliban kung ang pagkakamali ay nagmula sa medical team. Ilagay ang iyong pangalan nang eksakto kung paano ito nakasulat sa iyong ID, letra por letra, at suriin ang bawat petsa bago ka magbayad. Ang hindi pagtutugma ng pangalan at ID ay karaniwang dahilan ng pagtanggi sa kahilingan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Puwede ko bang gamitin ang isang general medical certificate sa aking bansa?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang general medical certificate mula sa DrCertificate ay para gamitin sa Singapore, Indonesia, Pilipinas, Thailand, Vietnam, Malaysia, Cambodia, Laos, Myanmar at Brunei. Hindi ito para isumite sa India, gamitin sa mga legal na layunin o sa insurance. Sa alinman sa 10 bansang ito, nakadepende ang pagtanggap sa patakaran ng tatanggap."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pinananatili bang pribado ang aking impormasyong pangkalusugan?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang mga detalye ng iyong kalusugan ay napupunta sa doktor na sumusuri sa iyong request para sa general medical certificate, at ginagamit ito para magpasya sa request na iyon. Ang bayad ay dumadaan sa Stripe, isang hiwalay na payment provider. Kung may tanong ka tungkol sa kung paano hinahawakan ang iyong impormasyon, mag-email sa care@drcertificate.com bago o pagkatapos mong mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mga Sanggunian"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Sino ang dapat magpatunay ng paid sick leave sa Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pinasimpleng dokumentasyon, nasaan ka man."
+    },
+    {
+      "kind": "text",
+      "text": "Para man sa trabaho, pag-aaral, biyahe o personal na pangangailangan, mag-apply online sa loob ng ilang minuto. Kung aprubahan ng isang sertipikadong doktor ang iyong request, ipapadala ang iyong certificate sa iyong email."
+    },
+    {
+      "kind": "text",
+      "text": "May tanong ka muna? care@drcertificate.com"
+    }
+  ]
+}

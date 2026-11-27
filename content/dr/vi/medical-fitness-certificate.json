@@ -1,0 +1,791 @@
+{
+  "slug": "medical-fitness-certificate",
+  "group": "service",
+  "service": "medical-fitness",
+  "title": "Online medical fitness certificate",
+  "description": "Apply online for a doctor-reviewed medical fitness certificate for a job, studies, travel or sport. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe · Do bác sĩ được chứng nhận xem xét"
+    },
+    {
+      "kind": "text",
+      "text": "Cần giấy tờ chứng minh bạn đủ sức khỏe cho công việc mới, khóa học hay chuyến đi? Hãy đăng ký trực tuyến, bác sĩ được chứng nhận sẽ xem xét thông tin sức khỏe của bạn, và nếu được chấp thuận, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ được chứng nhận (MBBS, MD hoặc MS) cấp giấy chứng nhận này, và giấy chứng nhận không dùng để nộp tại Ấn Độ."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ được chứng nhận xem xét",
+        "Gửi qua email nếu được chấp thuận",
+        "Hoạt động 365 ngày mỗi năm"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cần loại giấy chứng nhận khác?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Nghỉ ốm",
+        "Không đủ sức khỏe để bay",
+        "Y tế tổng quát"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0004"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Medical fitness"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is considered medically fit for the purpose stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ được chứng nhận xem xét Mỗi yêu cầu đều được đánh giá riêng",
+        "Đăng ký trực tuyến 100% Đăng ký trên điện thoại hoặc máy tính xách tay",
+        "Nhận qua email nếu được chấp thuận Gửi đến địa chỉ email bạn cung cấp",
+        "Thanh toán do Stripe xử lý Thanh toán trực tuyến an toàn"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Làm thế nào để nhận giấy chứng nhận đủ sức khỏe trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Để nhận giấy chứng nhận đủ sức khỏe trực tuyến với DrCertificate, hãy điền biểu mẫu trực tuyến, chọn mục Medical Fitness Certificate và thanh toán qua Stripe. Một bác sĩ độc lập có chứng chỉ hành nghề sẽ xem xét thông tin của bạn qua trò chuyện và, nếu thấy phù hợp, sẽ gửi giấy chứng nhận dạng PDF qua email, thường trong khoảng 30 phút. Việc cấp giấy tùy thuộc vào đánh giá của bác sĩ."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Trước khi đăng ký"
+    },
+    {
+      "kind": "text",
+      "text": "Về giấy chứng nhận này"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận đủ sức khỏe là gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe là văn bản chính thức do bác sĩ đủ chuyên môn cấp. Giấy này xác nhận rằng bạn đã được đánh giá y khoa và được xem là đủ sức khỏe cho một hoạt động hoặc yêu cầu cụ thể."
+    },
+    {
+      "kind": "text",
+      "text": "Các tổ chức có thể yêu cầu giấy này để bảo đảm bạn có thể thực hiện an toàn một số nhiệm vụ, tham gia các hoạt động hoặc đáp ứng tiêu chí về sức khỏe."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Nội dung của giấy chứng nhận"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Thông tin cá nhân chính xác của bạn",
+        "Ngày đánh giá y khoa",
+        "Mục đích của giấy chứng nhận",
+        "Đánh giá của bác sĩ về sức khỏe",
+        "Họ tên và thông tin hành nghề của bác sĩ",
+        "Chữ ký hoặc xác thực điện tử"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Các thông tin này giúp nhà tuyển dụng, trường đại học và các tổ chức xác nhận rằng giấy chứng nhận được cấp sau một quá trình đánh giá y khoa phù hợp."
+    },
+    {
+      "kind": "text",
+      "text": "Tránh dùng giấy chứng nhận giả. Mẫu trống, giấy chứng nhận mẫu đã chỉnh sửa và công cụ tạo giấy chứng nhận giả có thể khiến giấy tờ bị từ chối. Giấy chứng nhận thật chỉ được cấp sau khi có đánh giá sức khỏe thực sự từ bác sĩ đủ chuyên môn."
+    },
+    {
+      "kind": "text",
+      "text": "Dành cho ai"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Khi nào bạn có thể cần giấy chứng nhận đủ sức khỏe"
+    },
+    {
+      "kind": "text",
+      "text": "Nhà tuyển dụng, trường đại học và các tổ chức khác có thể yêu cầu giấy này để xác nhận bạn đáp ứng các yêu cầu liên quan đến sức khỏe."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Việc làm"
+    },
+    {
+      "kind": "text",
+      "text": "Nhiều nhà tuyển dụng yêu cầu giấy này trước khi tuyển dụng hoặc giao cho bạn một số trách nhiệm nhất định."
+    },
+    {
+      "kind": "text",
+      "text": "Thường được yêu cầu cho"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Thủ tục nhận việc của nhân viên mới",
+        "Vị trí đòi hỏi nhiều thể lực",
+        "Tuân thủ an toàn lao động",
+        "Phê duyệt đi làm lại"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Học sinh, sinh viên và nhà trường"
+    },
+    {
+      "kind": "text",
+      "text": "Các trường phổ thông và đại học có thể yêu cầu giấy này khi nhập học hoặc cho các chương trình có yêu cầu về sức khỏe."
+    },
+    {
+      "kind": "text",
+      "text": "Thường được yêu cầu cho"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Nhập học cao đẳng hoặc đại học",
+        "Sự kiện thể thao",
+        "Thực tập hoặc chương trình đào tạo",
+        "Yêu cầu sức khỏe của nhà trường"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Đi lại và các yêu cầu khác"
+    },
+    {
+      "kind": "text",
+      "text": "Một số thủ tục liên quan đến đi lại và các hoạt động có yêu cầu giấy tờ chứng minh đủ sức khỏe."
+    },
+    {
+      "kind": "text",
+      "text": "Thường được yêu cầu cho"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy tờ đi lại quốc tế",
+        "Hoạt động mạo hiểm hoặc thể chất",
+        "Hồ sơ nghề nghiệp"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Lý do đăng ký thường gặp"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bắt đầu công việc mới",
+        "Vào trường phổ thông hoặc đại học",
+        "Thể thao và hoạt động thể chất",
+        "Yêu cầu về đi lại",
+        "Kiểm tra sức khỏe tại nơi làm việc",
+        "Đi làm lại sau khi ốm",
+        "Xác nhận tình trạng sức khỏe chung"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Hãy kiểm tra yêu cầu trước"
+    },
+    {
+      "kind": "text",
+      "text": "Việc giấy có được chấp nhận hay không tùy thuộc vào nhà tuyển dụng, tổ chức, cơ quan nhà nước hoặc cơ quan có thẩm quyền yêu cầu giấy này. Trước khi đăng ký, hãy kiểm tra:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Mẫu giấy chứng nhận được yêu cầu",
+        "Yêu cầu về trình độ chuyên môn của bác sĩ",
+        "Thời hạn hiệu lực",
+        "Các xét nghiệm y tế bổ sung cần làm, nếu có"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mỗi yêu cầu đều được đánh giá riêng. Việc có cấp giấy chứng nhận hay không, nội dung và thời hạn của giấy do bác sĩ xem xét quyết định. Mọi giấy tờ đều được gửi đến tổ chức mà bạn nộp và chỉ có giá trị sử dụng một lần. Việc giấy có được chấp nhận hay không tùy thuộc vào tổ chức mà bạn nộp."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi làm việc, trường học hoặc hãng hàng không thường yêu cầu gì ở giấy chứng nhận đủ sức khỏe?"
+    },
+    {
+      "kind": "text",
+      "text": "Nơi làm việc, trường học và hãng hàng không thường yêu cầu giấy chứng nhận đủ sức khỏe ghi họ tên đầy đủ của bạn, một câu xác nhận rõ ràng về tình trạng đủ sức khỏe, ngày cấp gần đây cùng tên và số đăng ký hành nghề của bác sĩ. Ngoài những điều đó, mỗi nơi nhận có quy định riêng, và các quy định này khác nhau tùy theo nơi làm việc, cơ sở giáo dục, hãng hàng không và quốc gia."
+    },
+    {
+      "kind": "text",
+      "text": "Các đợt khám sức khỏe chính thức tại nơi làm việc tuân theo luật riêng. Tại Philippines, Omnibus Rules hướng dẫn thi hành Labor Code quy định bác sĩ do người sử dụng lao động thuê phải thực hiện khám sức khỏe trước tuyển dụng miễn phí để lựa chọn và bố trí người lao động phù hợp, cùng với khám sức khỏe định kỳ hằng năm miễn phí."
+    },
+    {
+      "kind": "text",
+      "text": "Ministry of Manpower của Singapore cho biết người sử dụng lao động phải đưa nhân viên tiếp xúc với các yếu tố nguy hiểm nghề nghiệp được nêu cụ thể đi khám sức khỏe trước khi bố trí công việc và khám định kỳ. Cũng theo bộ này, việc khám sức khỏe cho lao động nhập cư sàng lọc 4 loại bệnh truyền nhiễm và kiểm tra xem người lao động có đủ sức khỏe để làm việc hay không. Giấy khám bệnh trực tuyến không thay thế bất kỳ đợt khám nào trong số đó."
+    },
+    {
+      "kind": "text",
+      "text": "Trước khi đăng ký, hãy hỏi nơi nhận ba câu hỏi."
+    },
+    {
+      "kind": "text",
+      "text": "Nơi nhận có chấp nhận giấy khám bệnh trực tuyến không? Họ có mẫu đơn hoặc định dạng riêng không? Giấy chứng nhận phải được cấp cách đây không quá bao lâu?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy nghỉ ốm trực tuyến tại Singapore",
+        "Giấy chứng nhận y tế trực tuyến tại Malaysia",
+        "Giấy nghỉ ốm trực tuyến tại Thái Lan",
+        "Cách nhận giấy chứng nhận y tế trực tuyến để xin nghỉ"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận đủ sức khỏe gồm những gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe của DrCertificate gồm thông tin cá nhân của bạn, ngày cấp, nhận định của bác sĩ về tình trạng đủ sức khỏe và thông tin của bác sĩ cấp giấy. Nơi nhận có thể nắm được bố cục chỉ trong một lần nhìn."
+    },
+    {
+      "kind": "text",
+      "text": "Phần thông tin bác sĩ ghi tên, bằng cấp y khoa và thông tin đăng ký với hội đồng y khoa của bác sĩ, giúp nơi nhận có thể kiểm tra thông tin về bác sĩ."
+    },
+    {
+      "kind": "text",
+      "text": "Các mốc ngày cho biết thời điểm bác sĩ xem xét yêu cầu của bạn và, nếu có, khoảng thời gian mà nhận định áp dụng. Ở hầu hết các nước Đông Nam Á, giấy xác nhận đủ sức khỏe thường có giá trị trong 30 ngày."
+    },
+    {
+      "kind": "text",
+      "text": "Hãy ghi mục đích của giấy chứng nhận vào biểu mẫu nếu bạn muốn nhận định có nhắc đến mục đích đó."
+    },
+    {
+      "kind": "text",
+      "text": "Cách thức hoạt động"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ba bước đơn giản, mọi yêu cầu đều được bác sĩ kiểm tra"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Bước 1: Điền đơn đăng ký trực tuyến Nhập thông tin của bạn và lý do yêu cầu. Bạn có thể được đề nghị cung cấp các chỉ số sinh tồn hoặc số đo khác qua một đường liên kết bảo mật được gửi qua email.",
+        "2 Bước 2: Bác sĩ được chứng nhận xem xét yêu cầu của bạn Bác sĩ đánh giá thông tin bạn cung cấp và quyết định liệu việc cấp giấy chứng nhận có phù hợp về mặt y khoa hay không. Bác sĩ có thể từ chối yêu cầu.",
+        "3 Bước 3: Nhận giấy chứng nhận qua email, nếu được chấp thuận Giấy chứng nhận đã được chấp thuận sẽ được gửi dưới dạng điện tử đến địa chỉ email bạn cung cấp."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ tiếp tục trên biểu mẫu đăng ký bảo mật của DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bạn nên chọn mục nào trên biểu mẫu để nhận giấy chứng nhận đủ sức khỏe?"
+    },
+    {
+      "kind": "text",
+      "text": "Hãy chọn mục Medical Fitness Certificate, bao gồm giấy chứng nhận đủ sức khỏe cho nhân viên, cho học sinh, sinh viên và giấy chứng nhận sức khỏe tốt. Mục này cũng được dùng cho các yêu cầu đủ sức khỏe chơi thể thao, đủ sức khỏe để bay và đủ sức khỏe để làm việc."
+    },
+    {
+      "kind": "text",
+      "text": "Trong ô thông tin chi tiết, hãy ghi rõ ai sẽ nhận giấy chứng nhận và giấy dùng vào việc gì, ví dụ một công việc mới, một khóa học đại học hoặc ngày bay."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu không có mục nào phù hợp, hãy gửi email đến care@drcertificate.com trước khi thanh toán."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bác sĩ sẽ hỏi bạn những gì khi cấp giấy chứng nhận đủ sức khỏe?"
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ sẽ hỏi về sức khỏe hiện tại, các bệnh đã mắc trước đây cũng như ngày cần và mục đích của giấy chứng nhận. Câu trả lời rõ ràng giúp bác sĩ quyết định nhanh hơn."
+    },
+    {
+      "kind": "text",
+      "text": "Bạn có thể được hỏi về các bệnh đang mắc, bệnh hoặc chấn thương gần đây, thuốc đang dùng thường xuyên và bất kỳ triệu chứng nào khi tập thể dục hoặc sinh hoạt hằng ngày. Tên và thông tin giấy tờ tùy thân của bạn phải khớp với nhau, vì thông tin không khớp là một trong những lý do khiến bác sĩ từ chối. Nếu bạn có kết quả khám gần đây từ phòng khám, hãy nêu trong biểu mẫu."
+    },
+    {
+      "kind": "text",
+      "text": "Hãy để điện thoại hoặc email ở gần bên."
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ có thể gửi thêm câu hỏi qua khung trò chuyện trước khi đưa ra quyết định."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận đủ sức khỏe không thể dùng trong những trường hợp nào?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe của DrCertificate không thể dùng để nộp tại Ấn Độ, cho mục đích pháp lý hoặc cho bảo hiểm. Người đăng ký phải từ 16 tuổi trở lên."
+    },
+    {
+      "kind": "text",
+      "text": "Dịch vụ chỉ dành cho các trường hợp không khẩn cấp phù hợp. Nếu bạn bị đau ngực, khó thở, chấn thương nặng hoặc có bất kỳ triệu chứng khẩn cấp nào, hãy đến ngay khoa cấp cứu gần nhất hoặc gọi ngay dịch vụ cấp cứu tại địa phương."
+    },
+    {
+      "kind": "text",
+      "text": "Nơi nhận là bên quyết định có chấp nhận giấy chứng nhận hay không, vì vậy hãy hỏi họ trước."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Điều gì xảy ra nếu bác sĩ không thể cấp giấy chứng nhận đủ sức khỏe cho bạn?"
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bác sĩ không thể cấp giấy chứng nhận đủ sức khỏe, bạn sẽ không nhận được giấy chứng nhận và khoản thanh toán sẽ không được hoàn lại. Bác sĩ từ chối khoảng 2% số yêu cầu."
+    },
+    {
+      "kind": "text",
+      "text": "Lý do thường gặp là thông tin sai, chẳng hạn tên không khớp với giấy tờ tùy thân, hoặc triệu chứng và câu trả lời không nhất quán với nhau. Bác sĩ cũng sẽ từ chối khi tình trạng của bạn cần khám trực tiếp hoặc làm xét nghiệm, ví dụ đợt khám sức khỏe trước tuyển dụng của người sử dụng lao động hoặc đợt sàng lọc y tế của cơ quan nhà nước. Trong trường hợp đó, hãy đến phòng khám hoặc gặp bác sĩ mà nơi nhận chỉ định."
+    },
+    {
+      "kind": "text",
+      "text": "Các khoản thanh toán không được hoàn lại. Trường hợp ngoại lệ duy nhất là lỗi kỹ thuật đã được xác minh và được báo trong vòng 24 giờ."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu cần hỗ trợ, vui lòng gửi email đến care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận đủ sức khỏe có giá bao nhiêu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe có giá 25 SGD tại Singapore, 399 pesos tại Philippines và 30 MYR tại Malaysia. Giá tại các nước khác tùy theo từng nước."
+    },
+    {
+      "kind": "text",
+      "text": "Khoản phí này bao gồm việc bác sĩ xem xét hồ sơ và, nếu được chấp thuận, giấy chứng nhận dạng PDF. Việc thanh toán được thực hiện qua Stripe và không được hoàn lại."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Quốc gia",
+        "Giá",
+        "Khoản phí bao gồm những gì"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD",
+          "Bác sĩ xem xét hồ sơ, kèm giấy chứng nhận dạng PDF nếu được chấp thuận"
+        ],
+        [
+          "Philippines",
+          "399 pesos",
+          "Bác sĩ xem xét hồ sơ, kèm giấy chứng nhận dạng PDF nếu được chấp thuận"
+        ],
+        [
+          "Malaysia",
+          "30 MYR",
+          "Bác sĩ xem xét hồ sơ, kèm giấy chứng nhận dạng PDF nếu được chấp thuận"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ tiếp tục trên biểu mẫu đăng ký bảo mật của DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ai cấp giấy chứng nhận đủ sức khỏe cho bạn?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ có chứng nhận Mỗi yêu cầu được chuyển đến một bác sĩ có bằng MBBS, MD hoặc MS. Tất cả bác sĩ trên nền tảng đều đã đăng ký với hội đồng y khoa.",
+        "Bác sĩ là người quyết định DrCertificate là một nền tảng. Chỉ bác sĩ mới có quyền quyết định có cấp giấy chứng nhận hay không, và bác sĩ từ chối khoảng 2% số yêu cầu, thường là khi thông tin không khớp hoặc triệu chứng không nhất quán.",
+        "Bác sĩ thẩm định nội dung y khoa Bác sĩ Urooj Arshad, M.B.B.S, Y khoa tổng quát, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nhà tuyển dụng, trường học hoặc hãng hàng không của tôi có chấp nhận giấy chứng nhận đủ sức khỏe không?"
+    },
+    {
+      "kind": "text",
+      "text": "Nhà tuyển dụng, trường học hoặc hãng hàng không của bạn chỉ chấp nhận giấy chứng nhận đủ sức khỏe nếu chính sách của họ cho phép giấy tờ y tế trực tuyến. DrCertificate không thể thay bên nhận quyết định điều đó, vì vậy hãy hỏi họ trước khi bạn nộp yêu cầu."
+    },
+    {
+      "kind": "text",
+      "text": "Tất cả bác sĩ trên nền tảng đều đã đăng ký với một hội đồng y khoa. Bên nhận nếu muốn xác minh giấy chứng nhận có thể đối chiếu tên và thông tin đăng ký của bác sĩ với danh sách đăng ký của hội đồng đó."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bên nhận yêu cầu dùng mẫu đơn riêng của họ, hãy hỏi xem họ có chấp nhận mẫu của DrCertificate thay thế không. Nếu câu trả lời là không, hãy đến khám trực tiếp tại phòng khám."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy chứng nhận đủ sức khỏe trực tuyến tại Singapore",
+        "Giấy chứng nhận đủ sức khỏe trực tuyến tại Philippines",
+        "Giấy chứng nhận y tế trực tuyến tại Malaysia",
+        "Giấy chứng nhận đủ sức khỏe trực tuyến tại Indonesia",
+        "Giấy chứng nhận đủ sức khỏe trực tuyến tại Thái Lan",
+        "Giấy chứng nhận đủ sức khỏe trực tuyến tại Việt Nam"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận đủ sức khỏe và các loại giấy liên quan: bạn cần loại nào?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe xác nhận bạn đủ sức khỏe, còn giấy nghỉ ốm xác nhận bạn không khỏe và cần nghỉ ngơi. Chọn sai loại sẽ khiến bạn mất phí, vì vậy hãy chọn đúng loại giấy mà bên nhận yêu cầu."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Loại giấy",
+        "Nội dung xác nhận",
+        "Bên nhận thường gặp",
+        "Lựa chọn trên mẫu đơn"
+      ],
+      "rows": [
+        [
+          "Đủ sức khỏe",
+          "Bạn có sức khỏe tổng quát tốt và đủ sức khỏe để làm việc hoặc học tập",
+          "Nhà tuyển dụng, trường học hoặc cơ quan",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Đủ sức khỏe chơi thể thao (Sports fitness)",
+          "Bạn đủ sức khỏe để tham gia một môn thể thao hoặc sự kiện",
+          "Câu lạc bộ, phòng tập hoặc ban tổ chức cuộc đua",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Đủ sức khỏe để đi máy bay (Fit to fly)",
+          "Bạn đủ sức khỏe để di chuyển bằng đường hàng không",
+          "Hãng hàng không",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Nghỉ ốm hoặc y tế tổng quát (Sick leave or general medical)",
+          "Bạn không khỏe và cần nghỉ, tối đa 7 ngày đối với các triệu chứng thông thường",
+          "Nhà tuyển dụng hoặc trường đại học",
+          "Sick Leave"
+        ],
+        [
+          "Làm việc tại nhà",
+          "Bạn có thể làm việc nhưng nên ở nhà",
+          "Nơi làm việc",
+          "Work From Home"
+        ],
+        [
+          "Không đủ sức khỏe để đi lại (Unfit to travel)",
+          "Bạn không đủ sức khỏe để đi lại vào những ngày đã nêu",
+          "Hãng hàng không hoặc đơn vị cung cấp dịch vụ du lịch",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Vì sao nên đăng ký trực tuyến"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Được đánh giá mà không cần đến phòng khám"
+    },
+    {
+      "kind": "text",
+      "text": "Không cần đi lại hay ngồi phòng chờ. Bác sĩ đủ chuyên môn vẫn xem xét thông tin sức khỏe của bạn trước khi cấp bất kỳ giấy chứng nhận nào."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tiện lợi ngay tại nhà Hoàn tất việc đánh giá tại nhà thay vì phải đến phòng khám.",
+        "Không cần hẹn khám tại phòng khám Không phải chờ lịch hẹn hay xếp hàng.",
+        "Bác sĩ được chứng nhận đánh giá Giấy chứng nhận chỉ được cấp sau khi chuyên gia y tế đủ chuyên môn đã xem xét yêu cầu của bạn.",
+        "Giấy chứng nhận điện tử bảo mật Nếu được chấp thuận, bạn sẽ nhận giấy chứng nhận dưới dạng điện tử, sẵn sàng để nộp qua email, cổng thông tin HR hoặc hệ thống quản lý sinh viên."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ là người quyết định. Không có yêu cầu nào được chấp thuận tự động. Bác sĩ được chứng nhận xem xét mọi yêu cầu và quyết định có cấp giấy chứng nhận hay không, nội dung ghi gì và thời hạn bao lâu."
+    },
+    {
+      "kind": "text",
+      "text": "Phạm vi dịch vụ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi dịch vụ đang được cung cấp"
+    },
+    {
+      "kind": "text",
+      "text": "Mỗi quốc gia có trang giấy chứng nhận riêng và các dịch vụ hiện có có thể khác nhau. Hãy chọn quốc gia của bạn để kiểm tra trước khi đăng ký."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Hiện có dịch vụ"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Xem giấy chứng nhận",
+        "Indonesia Xem giấy chứng nhận",
+        "Philippines Xem giấy chứng nhận",
+        "Thailand Xem giấy chứng nhận",
+        "Vietnam Xem giấy chứng nhận",
+        "Malaysia Xem giấy chứng nhận",
+        "Cambodia Xem giấy chứng nhận",
+        "Laos Xem giấy chứng nhận",
+        "Myanmar Xem giấy chứng nhận",
+        "Brunei Xem giấy chứng nhận"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Câu hỏi thường gặp"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Câu hỏi về giấy chứng nhận đủ sức khỏe"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận đủ sức khỏe trực tuyến là gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe trực tuyến là văn bản điện tử do bác sĩ có bằng cấp chuyên môn (MBBS, MD hoặc MS) cấp, xác nhận rằng bạn đã được đánh giá là đủ sức khỏe cho một công việc, hoạt động, môn thể thao hoặc chuyến đi. Bác sĩ sẽ xem xét thông tin sức khỏe của bạn, có thể liên hệ với bạn qua kênh trò chuyện trực tuyến bảo mật, và quyết định có cấp giấy hay không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bao lâu thì tôi nhận được giấy chứng nhận?"
+    },
+    {
+      "kind": "text",
+      "text": "Đối với giấy chứng nhận đủ sức khỏe, bác sĩ xem xét yêu cầu từ 9 giờ sáng đến 9 giờ tối theo giờ IST từ thứ Hai đến thứ Bảy, và từ 10 giờ sáng đến 8 giờ tối theo giờ IST vào Chủ nhật. Yêu cầu gửi ngoài các khung giờ này sẽ được xem xét vào khung giờ làm việc tiếp theo. Nếu bác sĩ chấp thuận yêu cầu, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Dịch vụ có hoạt động tất cả các ngày không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, dịch vụ hoạt động 365 ngày mỗi năm, kể cả cuối tuần và ngày lễ. Bác sĩ chỉ xem xét yêu cầu trong giờ làm việc, vì vậy yêu cầu gửi ngoài giờ sẽ được xử lý vào khung giờ làm việc tiếp theo."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể nhận Giấy chứng nhận đủ sức khỏe bằng ngôn ngữ địa phương không?"
+    },
+    {
+      "kind": "text",
+      "text": "Chúng tôi không cam kết cấp giấy chứng nhận bằng ngôn ngữ địa phương. Vui lòng gửi email đến care@drcertificate.com để hỏi trước khi nộp đơn."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ai cấp Giấy chứng nhận đủ sức khỏe trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận do bác sĩ có bằng cấp chuyên môn (MBBS, MD hoặc MS) cấp. Bác sĩ làm việc độc lập và là người duy nhất quyết định có cấp giấy hay không cũng như nội dung trong giấy. Giấy chứng nhận này không dùng để nộp tại Ấn Độ."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận có giá bao nhiêu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giá tùy theo quốc gia của bạn, ví dụ 25 SGD tại Singapore, 399 pesos tại Philippines hoặc 30 MYR tại Malaysia. Mẫu đơn đăng ký sẽ hiển thị giá trước khi bạn thanh toán. Khoản thanh toán không được hoàn lại, kể cả khi bác sĩ từ chối yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người sử dụng lao động và các tổ chức có chấp nhận những giấy chứng nhận này không?"
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận tùy thuộc vào tổ chức mà bạn nộp giấy, vì vậy hãy hỏi trước. Giấy chứng nhận do bác sĩ có bằng cấp chuyên môn cấp, vì vậy hãy hỏi xem họ có chấp nhận điều đó không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể xin Giấy chứng nhận đủ sức khỏe vào ngày lễ không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, bạn có thể nộp đơn vào ngày lễ vì dịch vụ hoạt động 365 ngày mỗi năm. Bác sĩ sẽ xem xét yêu cầu của bạn trong giờ làm việc."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Nếu người sử dụng lao động hoặc tổ chức của tôi yêu cầu mẫu giấy cụ thể thì sao?"
+    },
+    {
+      "kind": "text",
+      "text": "Hãy gửi mẫu giấy đó đến care@drcertificate.com trước khi nộp đơn, vì chúng tôi không đảm bảo có thể thay đổi mẫu. Việc chấp nhận tùy thuộc vào tổ chức mà bạn nộp giấy, vì vậy hãy hỏi trước."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận đủ sức khỏe có giá trị trong bao lâu?"
+    },
+    {
+      "kind": "text",
+      "text": "Ở hầu hết các nước Đông Nam Á, giấy chứng nhận đủ sức khỏe thường có giá trị trong 30 ngày. Bên nhận là bên quyết định quy định cuối cùng, và nhà tuyển dụng, trường học hoặc hãng hàng không có thể muốn giấy được cấp gần hơn với ngày bạn bắt đầu hoặc ngày bay. Hãy kiểm tra khoảng thời gian họ chấp nhận trước khi bạn nộp yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận đủ sức khỏe có thể ghi lùi ngày không?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe phản ánh đánh giá của bác sĩ tại thời điểm xem xét qua trò chuyện, vì vậy hãy ghi những ngày bạn cần vào mẫu đơn và để bác sĩ quyết định. Bác sĩ sẽ chỉ ghi những gì thông tin của bạn chứng minh được. Bên nhận thường muốn giấy có ngày gần đây, không phải ngày đã cũ."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận đủ sức khỏe được gửi đến bạn như thế nào?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe đã được duyệt sẽ được gửi qua email dưới dạng tệp PDF, thường trong khoảng 30 phút. Hãy dùng địa chỉ email mà bạn có thể mở trên điện thoại, và kiểm tra thư mục thư rác nếu chưa nhận được thư. Bạn có thể in tệp PDF hoặc chuyển tiếp cho người nhận."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể sửa họ tên hoặc ngày sau khi giấy đã được cấp không?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận đủ sức khỏe không thể sửa sau khi đã cấp, trừ khi sai sót là do đội ngũ y tế. Hãy kiểm tra kỹ họ tên, số giấy tờ tùy thân và các ngày trên biểu mẫu trước khi thanh toán. Nếu bác sĩ mắc lỗi, hãy gửi email đến care@drcertificate.com và nêu rõ nội dung cần sửa."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể sử dụng giấy chứng nhận đủ sức khỏe tại quốc gia của mình không?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate phục vụ 10 quốc gia Đông Nam Á, gồm Singapore, Malaysia, Indonesia và Philippines, cùng với Thái Lan, Việt Nam, Campuchia, Lào, Myanmar và Brunei. Giấy chứng nhận này không dùng để nộp tại Ấn Độ. Việc chấp nhận tùy thuộc vào bên nhận, vì vậy hãy xác nhận rằng nơi làm việc, trường học hoặc hãng hàng không của bạn chấp nhận giấy y tế trực tuyến."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Thông tin sức khỏe của tôi có được giữ riêng tư không?"
+    },
+    {
+      "kind": "text",
+      "text": "Thông tin sức khỏe của bạn được chuyển đến bác sĩ độc lập đang xem xét yêu cầu của bạn và được dùng cho việc xem xét đó. Chỉ cung cấp những thông tin mà biểu mẫu và bác sĩ yêu cầu. Nếu có câu hỏi về cách DrCertificate lưu trữ hoặc xử lý dữ liệu của bạn, hãy gửi email đến care@drcertificate.com trước khi đăng ký."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có cần gọi video để nhận giấy chứng nhận đủ sức khỏe không?"
+    },
+    {
+      "kind": "text",
+      "text": "Không cần tư vấn qua video hay gặp trực tiếp để nhận giấy chứng nhận đủ sức khỏe của DrCertificate. Bác sĩ sẽ xem xét biểu mẫu của bạn và trao đổi với bạn bằng tin nhắn. Nếu trường hợp của bạn cần khám trực tiếp hoặc làm xét nghiệm, bác sĩ sẽ từ chối và khuyên bạn đến phòng khám."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nguồn tham khảo"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Supreme Court of the Philippines E-Library: Quy định của Philippines về khám sức khỏe trước khi tuyển dụng",
+        "Singapore Ministry of Manpower: Hướng dẫn của MOM về khám sức khỏe trước khi nhận việc",
+        "Singapore Ministry of Manpower: Hướng dẫn của MOM về khám sức khỏe cho lao động nhập cư"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Hoàn tất kiểm tra sức khỏe một cách an tâm."
+    },
+    {
+      "kind": "text",
+      "text": "Từ công việc mới đến khóa học mới, hãy đăng ký trực tuyến trong vài phút. Nếu bác sĩ được chứng nhận chấp thuận yêu cầu, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "text",
+      "text": "Có câu hỏi trước khi đăng ký? care@drcertificate.com"
+    }
+  ]
+}

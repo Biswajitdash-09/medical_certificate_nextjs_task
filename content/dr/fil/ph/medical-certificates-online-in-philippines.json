@@ -1,0 +1,277 @@
+{
+  "slug": "ph/medical-certificates-online-in-philippines",
+  "group": "country",
+  "title": "Medical Certificates Online in Philippines",
+  "description": "Apply online for a medical certificate in the Philippines, reviewed by a certified doctor. Sick leave, fitness and travel certificates, sent by email if approved.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Philippines · Reviewed by certified doctors"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor-reviewed medical certificates for residents and workers in the Philippines. Fill in a short online form from your phone or laptop. A certified doctor checks your details. When approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Isang sertipikadong doktor (MBBS, MD o MS) ang maglalabas ng certificate, at hindi ito para isumite sa India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagsusuri ng sertipikadong doktor",
+        "Ipapadala sa email kung maaprubahan",
+        "Mag-apply gamit ang iyong phone"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0001"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bago ka mag-apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Choose the certificate you need in the Philippines"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave certificate Nagtatala ng panahon ng iyong pagkakasakit para sa iyong trabaho, kolehiyo o paaralan, depende sa kanilang mga patakaran. Tingnan ang detalye tungkol sa sick leave certificate",
+        "Medical fitness certificate Para sa trabaho, pagpasok sa unibersidad, paglalakbay, airline o iba pang layunin na humihingi ng opinyon ng doktor tungkol sa iyong fitness. Tingnan ang detalye tungkol sa medical fitness certificate",
+        "Unfit to fly certificate Para kung hindi ka dapat bumiyahe sakay ng eroplano dahil sa sakit, injury o iba pang problema sa kalusugan. Tingnan ang detalye tungkol sa unfit to fly certificate",
+        "General medical certificate Para sa iba pang personal o opisyal na pangangailangan kung saan hinihingi ang certificate mula sa doktor. Tingnan ang detalye tungkol sa general medical certificate"
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagsusuri ng sertipikadong doktor Isa-isang sinusuri ang bawat request",
+        "100% online na application Mag-apply gamit ang iyong phone o laptop",
+        "Matatanggap sa email kung maaprubahan Ipapadala sa email address na ibibigay mo",
+        "Ang bayad ay pinoproseso ng Stripe Ligtas na online na pagbabayad"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mga sertipiko at lokal na patakaran"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical certificate for school in the Philippines",
+        "Online medical certificate in Cebu",
+        "Online medical certificate in Davao",
+        "Online medical certificate in Manila",
+        "Online fitness certificate in the Philippines",
+        "Online sick leave certificate Philippines",
+        "Unfit to fly certificate in the Philippines"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Paano ito gumagana"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tatlong simpleng hakbang, at may doktor na sumusuri sa bawat request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Hakbang 1: Punan ang online application Ilagay ang iyong mga detalye at ang dahilan ng iyong request. Maaaring hilingin sa iyo na ibahagi ang iyong vital signs o iba pang sukat sa pamamagitan ng secure na link na ipapadala sa email.",
+        "2 Hakbang 2: Susuriin ng sertipikadong doktor ang iyong request Susuriin ng doktor ang impormasyong ibinigay mo at siya ang magpapasya kung naaangkop ang certificate batay sa medikal na pananaw. Maaari niyang tanggihan ang isang request.",
+        "3 Hakbang 3: Matanggap ang iyong certificate sa email, kung maaprubahan Ang mga naaprubahang certificate ay ipinapadala nang electronic sa email address na ibinigay mo."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Isa-isang sinusuri ang bawat request. Nasa pagpapasya ng doktor na nagsusuri kung maglalabas ng certificate, ano ang nilalaman nito at gaano ito katagal. Ang lahat ng dokumento ay nakapangalan sa organisasyong pagbibigyan nito at para sa isang beses na paggamit lamang. Ang pagtanggap dito ay nakadepende sa organisasyong pagbibigyan mo nito."
+    },
+    {
+      "kind": "text",
+      "text": "Magpapatuloy ka sa secure na application form ng DrCertificate."
+    },
+    {
+      "kind": "text",
+      "text": "Saklaw ng serbisyo"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical certificates in other countries"
+    },
+    {
+      "kind": "text",
+      "text": "Mga bansang available"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore",
+        "Indonesia",
+        "Thailand",
+        "Vietnam",
+        "Malaysia",
+        "Cambodia",
+        "Laos",
+        "Myanmar",
+        "Brunei"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mga karaniwang tanong"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What is an online doctor certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An online doctor certificate is a document from a doctor about your health status. It can record illness or physical fitness. With DrCertificate, a certified doctor (MBBS, MD or MS) reviews your request and decides whether to issue one. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "When will I receive my medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "It usually takes about 30 minutes. For fitness cases, doctors review requests from 9 am to 9 pm IST Monday to Saturday, and 10 am to 8 pm IST on Sunday. If the doctor approves your request, your certificate is sent to your email as a PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Which doctor can issue a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "On DrCertificate, a certified doctor (MBBS, MD or MS) issues the certificate. The certificate is not for submission in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Are these medical certificates genuine?"
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues each certificate after reviewing your request, and the doctor may decline it. An approved certificate is a PDF with the doctor's registration number, digital signature and date. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is there an upper limit of sick leaves one can get?"
+    },
+    {
+      "kind": "text",
+      "text": "The duration of sick leave depends on the medical assessment and the doctor’s discretion. Each case is individually evaluated. Specific institutional policies may also apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "In which case do I need to visit a doctor physically or get an online consultation?"
+    },
+    {
+      "kind": "text",
+      "text": "See a doctor in person if you are hospitalized, undergoing specialized treatment or have emergency symptoms. An online consultation can suit common, non-emergency situations, and the doctor may decline a request and advise an in-person visit. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is there a medical leave format for students?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. The sick leave option covers students too, and an approved certificate gives the rest duration and the doctor's details to show your school or university. Ask them first whether they accept online medical notes."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to get a fitness medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "You can apply by filling out a form with your health details. A certified doctor reviews them, may contact you by secure digital chat, and decides whether to issue a certificate about your fitness for activities such as study, work or travel."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my health insurance cover the costs?"
+    },
+    {
+      "kind": "text",
+      "text": "Coverage of medical certificates by health insurance varies depending on the insurance policy. Typically, costs for online medical certificates are paid out of pocket unless explicitly covered by your health insurance plan in general telemedicine practice."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Which countries do you operate in?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate lists 10 countries in South East Asia: Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, Cambodia, Laos, Myanmar and Brunei. Available services can differ, so check your country's page before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to apply in the Philippines? It only takes a few minutes."
+    },
+    {
+      "kind": "text",
+      "text": "Sinusuri ng sertipikadong doktor ang bawat request. Kung maaprubahan, ipapadala ang iyong certificate sa iyong email."
+    },
+    {
+      "kind": "text",
+      "text": "May tanong ka muna? care@drcertificate.com"
+    }
+  ]
+}

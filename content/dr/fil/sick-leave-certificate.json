@@ -1,0 +1,745 @@
+{
+  "slug": "sick-leave-certificate",
+  "group": "service",
+  "service": "sick-leave",
+  "title": "Online sick leave certificate",
+  "description": "Apply online for a doctor-reviewed sick leave certificate for work or study. A certified doctor reviews every request, and approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Sick leave certificate · Sinusuri ng mga sertipikadong doktor"
+    },
+    {
+      "kind": "text",
+      "text": "Kapag masama ang pakiramdam mo, hindi mo na dapat kailangan pang bumiyahe at maghintay sa clinic para lang sa papeles. Mag-apply online, susuriin ng isang sertipikadong doktor ang iyong request, at kung maaprubahan, ipapadala ang iyong certificate sa iyong email."
+    },
+    {
+      "kind": "text",
+      "text": "Isang sertipikadong doktor (MBBS, MD o MS) ang maglalabas ng certificate, at hindi ito para isumite sa India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagsusuri ng sertipikadong doktor",
+        "Ipapadala sa email kung maaprubahan",
+        "Bukas 365 araw sa isang taon"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ibang certificate ba ang kailangan mo?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical fitness",
+        "Unfit to fly",
+        "General medical"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0002"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised rest for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pagsusuri ng sertipikadong doktor Isa-isang sinusuri ang bawat request",
+        "100% online na application Mag-apply gamit ang iyong phone o laptop",
+        "Matatanggap sa email kung maaprubahan Ipapadala sa email address na ibibigay mo",
+        "Ang bayad ay pinoproseso ng Stripe Ligtas na online na pagbabayad"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Paano kumuha ng sick leave certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "Para makakuha ng online sick leave certificate mula sa DrCertificate, sagutan ang online form, magbayad sa pamamagitan ng Stripe, at sagutin sa chat ang mga tanong ng isang independiyente at sertipikadong doktor. Kung aprubahan ng doktor, darating ang sertipiko sa iyong email bilang PDF, kadalasan sa loob ng humigit-kumulang 30 minuto. Ang paglalabas nito ay laging nakadepende sa medikal na pagpapasya ng doktor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bago ka mag-apply"
+    },
+    {
+      "kind": "text",
+      "text": "Tungkol sa certificate na ito"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang sick leave certificate ay isang opisyal na medikal na dokumento na ibinibigay ng isang sertipikadong doktor. Kinukumpirma nito na, batay sa medikal na pananaw, wala ka sa kondisyong pumasok sa trabaho o klase, o gampanan ang iyong karaniwang mga responsibilidad, sa loob ng isang partikular na panahon."
+    },
+    {
+      "kind": "text",
+      "text": "Ginagamit ito ng mga employer at institusyon para beripikahin ang tunay na pagliban dahil sa sakit at mapanatiling tama ang mga record ng attendance."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ano ang nilalaman ng certificate"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ang iyong tamang personal na detalye",
+        "Petsa ng konsultasyon",
+        "Dahilan ng leave",
+        "Inirerekomendang panahon ng pahinga",
+        "Pangalan at kredensyal ng doktor",
+        "Pirma o digital na beripikasyon"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Suriin ang mga detalyeng ito bago mo isumite. Maaaring maantala o tanggihan ng mga employer o institusyon ang mga certificate na kulang ang detalye."
+    },
+    {
+      "kind": "text",
+      "text": "Iwasan ang mga pekeng certificate. Ang tunay na certificate ay ibinibigay lamang matapos ang totoong pagsusuri sa kalusugan ng isang kwalipikadong doktor. Maaaring tanggihan ang mga gawa ng certificate generator at mga in-edit na template, at maaari itong magdulot ng problema sa iyong employer o institusyon."
+    },
+    {
+      "kind": "text",
+      "text": "Para kanino ito"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kailan mo maaaring kailanganin ang sick leave certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Magkakaiba ang patakaran ng bawat organisasyon, pero karaniwang hinihingi ang certificate mula sa doktor kapag hindi ka nakapasok sa trabaho o pag-aaral dahil sa sakit."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga empleyado"
+    },
+    {
+      "kind": "text",
+      "text": "Nakakatulong ito sa HR sa pag-apruba ng iyong leave ayon sa patakaran ng kumpanya, at sa pagpapanatiling tama ng mga record ng attendance at payroll."
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang kailangan kapag"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Lumiban ka sa trabaho dahil sa sakit",
+        "Lumampas ang iyong sick leave sa limitasyon ng kumpanya",
+        "Humihingi ang iyong employer ng patunay ng iyong sakit"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga estudyante"
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang humihingi ang mga paaralan at unibersidad ng certificate mula sa doktor bago nila aprubahan ang medical leave."
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang kailangan kapag"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Hindi ka nakapasok sa klase o exam",
+        "Hindi mo nagawa ang mga assignment o academic activity",
+        "Hindi ka nakadalo sa mga session na required ang attendance"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga remote at hybrid worker"
+    },
+    {
+      "kind": "text",
+      "text": "Kahit sa bahay ka nagtatrabaho, kailangan mo pa ring magpagaling. Ang lagnat, matinding pagod o impeksyon ay maaaring makapigil sa iyong magtrabaho saan ka man naroroon."
+    },
+    {
+      "kind": "text",
+      "text": "Kadalasang kailangan kapag"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sobrang sama ng pakiramdam mo para magtrabaho mula sa bahay",
+        "Humihingi ng dokumentasyon ang iyong manager o HR"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Mga karaniwang dahilan ng pag-apply"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Lagnat at viral infection",
+        "Sintomas ng sipon at trangkaso",
+        "Problema sa tiyan",
+        "Migraine o matinding sakit ng ulo",
+        "Maliliit na injury",
+        "Pagpapagaling matapos ang medical procedure",
+        "Pahingang ipinayo ng doktor"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sa halip, magpatingin nang personal sa doktor"
+    },
+    {
+      "kind": "text",
+      "text": "Ang online na konsultasyon ay para sa mga angkop na sitwasyong hindi emergency. Humingi agad ng atensyong medikal kung mayroon kang:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Matinding hirap sa paghinga",
+        "Pananakit ng dibdib",
+        "Pagkawala ng malay",
+        "Malubhang injury",
+        "Matinding dehydration",
+        "Anumang sintomas na nangangailangan ng emergency na atensyong medikal"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Isa-isang sinusuri ang bawat request. Nasa pagpapasya ng doktor na nagsusuri kung maglalabas ng certificate, ano ang nilalaman nito at gaano ito katagal. Ang lahat ng dokumento ay nakapangalan sa organisasyong pagbibigyan nito at para sa isang beses na paggamit lamang. Ang pagtanggap dito ay nakadepende sa organisasyong pagbibigyan mo nito."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang karaniwang hinahanap ng mga employer, paaralan o airline sa isang online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Karamihan sa mga employer at paaralan ay naghahanap ng sertipikong nakapangalan sa iyo, nagsasaad ng mga petsa kung kailan hindi ka akmang pumasok, at nagpapakita ng pangalan at rehistro ng doktor. Nag-iiba ang mga patakaran depende sa employer, institusyon, airline at bansa."
+    },
+    {
+      "kind": "text",
+      "text": "Malinaw na halimbawa ang Singapore. Ayon sa Ministry of Manpower, ang mga empleyadong sakop ng Employment Act ay may bayad na sick leave kapag nakapagserbisyo na sila nang hindi bababa sa 3 buwan. Ito ay hanggang 14 na araw para sa outpatient at 60 araw para sa pagka-ospital, at makukuha ang buong entitlement pagkatapos ng 6 na buwan. Ang empleyadong hindi makakapasok sa trabaho ay dapat magpaalam sa employer sa loob ng 48 oras."
+    },
+    {
+      "kind": "text",
+      "text": "Pagkatapos, isinusumite ang medical certificate pagbalik sa trabaho. Para maging kwalipikado sa bayad na sick leave, kailangang may sertipikasyon ang empleyado na hindi siya akmang magtrabaho. Dapat itong ibigay ng isang medical practitioner na rehistrado sa ilalim ng Medical Registration Act o ng Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Bago mag-apply, tanungin ang HR o ang opisina ng iyong paaralan kung tumatanggap sila ng online na medical note, kung may sarili silang form, at gaano kahabang panahon ang tinatanggap nila sa isang note."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate sa Singapore",
+        "Mga medical certificate online sa Malaysia",
+        "Online Sick Leave Certificate sa Pilipinas",
+        "Online Sick Leave Certificate sa Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang nilalaman ng isang online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ipinapakita ng online sick leave certificate mula sa DrCertificate kung sino ka, ang panahong inirerekomenda ng doktor na magpahinga ka, at kung sino ang naglabas nito. Kadalasan, ang tatlong bahaging ito ang unang tinitingnan ng tumatanggap."
+    },
+    {
+      "kind": "text",
+      "text": "Nakalagay ang iyong buong pangalan ayon sa nakasulat sa iyong ID. Isinasaad sa pahayag ng doktor ang mga petsa kung kailan hindi ka akmang magtrabaho o mag-aral. Para sa mga pangkaraniwang sintomas, ang mga sick leave note sa karamihan ng mga bansa sa Timog-Silangang Asya ay umaabot nang hanggang 7 araw."
+    },
+    {
+      "kind": "text",
+      "text": "Nakalagay sa sertipiko ang pangalan, kwalipikasyon at mga detalye ng rehistro ng doktor sa medical council. Magagamit ito ng employer o paaralan para matiyak kung sino ang pumirma nito."
+    },
+    {
+      "kind": "text",
+      "text": "Paano ito gumagana"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tatlong simpleng hakbang, at may doktor na sumusuri sa bawat request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Hakbang 1: Punan ang online application Ilagay ang iyong mga detalye at ang dahilan ng iyong request. Maaaring hilingin sa iyo na ibahagi ang iyong vital signs o iba pang sukat sa pamamagitan ng secure na link na ipapadala sa email.",
+        "2 Hakbang 2: Susuriin ng sertipikadong doktor ang iyong request Susuriin ng doktor ang impormasyong ibinigay mo at siya ang magpapasya kung naaangkop ang certificate batay sa medikal na pananaw. Maaari niyang tanggihan ang isang request.",
+        "3 Hakbang 3: Matanggap ang iyong certificate sa email, kung maaprubahan Ang mga naaprubahang certificate ay ipinapadala nang electronic sa email address na ibinigay mo."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Magpapatuloy ka sa secure na application form ng DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Aling opsyon sa form ang dapat mong piliin para sa online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Piliin ang Medical Certificate Sick Leave (For University/Work) sa form. Sakop din ng parehong opsyon ang pangkalahatang medical certificate."
+    },
+    {
+      "kind": "text",
+      "text": "Sa iyong mga sagot, sabihin kung sino ang tatanggap ng sertipiko, halimbawa ang iyong employer o unibersidad. Ilista rin ang iyong mga sintomas at ang petsa kung kailan nagsimula ang mga ito. Kung walang angkop na opsyon, mag-email sa care@drcertificate.com bago ka magbayad."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang itatanong ng doktor para sa online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Itatanong ng doktor kung anong mga sintomas ang nararamdaman mo, kailan nagsimula ang mga ito, at aling mga petsa ang kailangang saklawin ng sertipiko. Nakakatulong ang malinaw at tapat na mga sagot para mabilis makapagpasya ang doktor."
+    },
+    {
+      "kind": "text",
+      "text": "Asahan ang mga tanong tungkol sa epekto ng sakit sa iyong pang-araw-araw na gawain, anumang gamot na nainom mo, at mga dating problema sa kalusugan na may kaugnayan dito. Kung mayroon ka, makakatulong ang resibo mula sa botika, resulta ng thermometer o naunang sulat mula sa klinika."
+    },
+    {
+      "kind": "text",
+      "text": "Maaaring magpadala ang doktor ng mga karagdagang tanong sa chat. Sumagot agad, dahil bumabagal ang pagsusuri kapag natigil ang chat. Dapat tumugma ang iyong pangalan sa iyong ID, at dapat tumugma ang iyong mga sintomas sa mga petsang hinihiling mo."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Saan hindi maaaring gamitin ang online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang online sick leave certificate mula sa DrCertificate ay hindi maaaring isumite sa India, gamitin para sa mga legal na layunin, o gamitin para sa insurance. Ang mga aplikante ay dapat hindi bababa sa 16 taong gulang."
+    },
+    {
+      "kind": "text",
+      "text": "Para lamang ang serbisyo sa mga angkop na sitwasyong hindi emergency. Kung may pananakit ka ng dibdib, hirap sa paghinga, malakas na pagdurugo o anumang sintomas na pakiramdam mo ay malubha, pumunta ngayon din sa pinakamalapit na emergency department o tumawag sa lokal na emergency number."
+    },
+    {
+      "kind": "text",
+      "text": "Nasa tatanggap ang pasya kung tatanggapin ito. Kumpirmahin muna sa iyong employer o paaralan bago ka mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ano ang mangyayari kung hindi mailabas ng doktor ang iyong online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Kung hindi mailabas ng doktor ang iyong online sick leave certificate, wala kang matatanggap na sertipiko at hindi ibabalik ang bayad. Tinatanggihan ng mga doktor ang humigit-kumulang 2% ng mga kahilingan."
+    },
+    {
+      "kind": "text",
+      "text": "Tinatanggihan ang kahilingan kapag mali ang mga detalye, halimbawa kapag hindi tugma ang pangalan at ID, o kapag hindi magkakatugma ang mga sintomas at detalyeng ibinahagi mo. Tatanggihan din ito ng doktor kapag ang kondisyon mo ay nangangailangan ng personal na pagsusuri o mga test na hindi kayang palitan ng chat. Kung ganito ang sitwasyon, pumunta sa lokal na klinika o ospital."
+    },
+    {
+      "kind": "text",
+      "text": "Ang refund ay para lamang sa napatunayang teknikal na problema sa loob ng 24 oras."
+    },
+    {
+      "kind": "text",
+      "text": "Para sa tulong, mag-email sa care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Magkano ang online na sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang online na sick leave certificate ay nagkakahalaga ng 25 SGD sa Singapore, 399 pesos sa Pilipinas at 30 MYR sa Malaysia. Sakop ng bayad ang pagsusuri ng doktor at, kung maaprubahan, ang PDF na sertipiko."
+    },
+    {
+      "kind": "text",
+      "text": "Ang bayad ay sa pamamagitan ng Stripe at hindi na ito maibabalik."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Bansa",
+        "Presyo"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Pilipinas",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Magpapatuloy ka sa secure na application form ng DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sino ang nag-iisyu ng iyong online na sick leave certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Mga certified na doktor Ang bawat request ay napupunta sa isang doktor na may kwalipikasyong MBBS, MD o MS. Lahat ng doktor sa platform ay rehistrado sa medical council.",
+        "Ang doktor ang nagpapasya Ang DrCertificate ay isang platform. Ang doktor lamang ang nagpapasya kung maglalabas ng certificate. Tinatanggihan ng mga doktor ang humigit-kumulang 2% ng mga request, kadalasan kapag hindi tugma ang mga detalye o hindi magkakatugma ang mga sintomas.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tatanggapin ba ng aking employer, paaralan o airline ang online na sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Nakadepende ang pagtanggap sa sariling patakaran ng iyong employer o paaralan, at walang online na sertipikong tinatanggap sa lahat ng lugar. Hinihikayat ng DrCertificate ang bawat customer na kumpirmahin muna ito sa tatanggap bago mag-apply."
+    },
+    {
+      "kind": "text",
+      "text": "Lahat ng doktor sa platform ay rehistrado sa isang medical council. Maaaring beripikahin ng tatanggap ang doktor na nag-isyu sa pamamagitan ng paghahambing ng pangalan at mga detalye ng rehistro sa sertipiko sa mga rekord ng council na iyon. Sa Singapore, ang may bayad na sick leave ay nangangailangan ng practitioner na rehistrado sa ilalim ng Medical Registration Act, kaya sulit na magtanong muna sa HR."
+    },
+    {
+      "kind": "text",
+      "text": "Kung may sariling form na hinihingi ang iyong employer o paaralan, hindi ito mapapalitan ng PDF ng DrCertificate. Itanong kung puwedeng tanggapin ang sertipiko ng doktor bilang kapalit nito."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Online na sick leave certificate kumpara sa mga kaugnay na sertipiko: alin ang kailangan mo?"
+    },
+    {
+      "kind": "text",
+      "text": "Sinasabi ng online na sick leave certificate na masyado kang masama ang pakiramdam para magtrabaho o mag-aral, samantalang sinasabi ng work from home certificate na kaya mong magtrabaho pero dapat kang manatili sa bahay. Piliin ang hanay na tugma sa hiningi ng iyong tatanggap, saka piliin ang katugmang opsyon sa form."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Sertipiko",
+        "Ano ang nakasaad dito",
+        "Sino ang karaniwang tumatanggap nito",
+        "Opsyon sa form"
+      ],
+      "rows": [
+        [
+          "Sick leave",
+          "Hindi ka angkop magtrabaho o mag-aral sa mga nakasaad na petsa",
+          "Employer, paaralan o unibersidad",
+          "Sick Leave"
+        ],
+        [
+          "Pagtatrabaho mula sa bahay",
+          "Kaya mong magtrabaho pero dapat kang manatili sa bahay sa loob ng isang panahon",
+          "Employer",
+          "Work From Home"
+        ],
+        [
+          "Unfit to fly",
+          "Pinipigilan ka ng sakit na bumiyahe sakay ng eroplano",
+          "Airline o travel agent",
+          "Unfit to Travel"
+        ],
+        [
+          "Medical fitness",
+          "Angkop ka para magtrabaho, mag-aral, maglaro ng sports o bumiyahe",
+          "Employer, paaralan, club o airline",
+          "Medical Fitness Certificate"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bakit mag-apply online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Magpahinga sa bahay habang sinusuri ng doktor ang iyong request"
+    },
+    {
+      "kind": "text",
+      "text": "Nakakapagod pumunta sa clinic kapag masama na ang pakiramdam mo. Mas komportableng alternatibo ang pag-apply online."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kumonsulta kahit saan Mag-apply nang hindi umaalis ng bahay - nakakatulong ito kapag kailangan mong magpahinga o hindi ka makabiyahe dahil sa sakit.",
+        "Makatipid ng oras Hindi mo na kailangang pumila sa clinic o maghintay sa waiting room - tapusin ang iyong application online.",
+        "Secure na digital certificate Kung maaprubahan, matatanggap mo ang iyong certificate nang digital, handa nang isumite sa pamamagitan ng email, HR portal o student system.",
+        "Pagsusuri ng sertipikadong doktor Ibinibigay lamang ang certificate matapos suriin ng isang kwalipikadong medical professional ang iyong request."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Ang doktor ang nagpapasya. Walang inaaprubahan nang awtomatiko. Sinusuri ng sertipikadong doktor ang bawat request at siya ang nagpapasya kung maglalabas ng certificate, ano ang nilalaman nito at gaano katagal ang saklaw nito."
+    },
+    {
+      "kind": "text",
+      "text": "Saklaw ng serbisyo"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kung saan available ang serbisyo"
+    },
+    {
+      "kind": "text",
+      "text": "May sariling mga certificate page ang bawat bansa, at maaaring magkakaiba ang mga available na serbisyo. Piliin ang iyong bansa para matingnan bago ka mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Available ngayon"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Tingnan ang mga certificate",
+        "Indonesia Tingnan ang mga certificate",
+        "Philippines Tingnan ang mga certificate",
+        "Thailand Tingnan ang mga certificate",
+        "Vietnam Tingnan ang mga certificate",
+        "Malaysia Tingnan ang mga certificate",
+        "Cambodia Tingnan ang mga certificate",
+        "Laos Tingnan ang mga certificate",
+        "Myanmar Tingnan ang mga certificate",
+        "Brunei Tingnan ang mga certificate"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mga tanong tungkol sa sick leave certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ano ang online Sick Leave Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Ang online Sick Leave Certificate ay digital na dokumentong ibinibigay ng sertipikadong doktor (MBBS, MD o MS) na nagtatala ng iyong sakit at nagrerekomenda ng pagliban sa trabaho o paaralan. Mag-a-apply ka nang hindi kailangang personal na bumisita, at ang doktor ang nagpapasya kung ibibigay ito."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Gaano kabilis ko matatanggap ang aking Sick Leave Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Karaniwang umaabot ito nang mga 30 minuto. Kung aprubahan ng doktor ang iyong request, ipapadala ang certificate sa iyong email bilang PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bukas ba ang serbisyo araw-araw?"
+    },
+    {
+      "kind": "text",
+      "text": "Oo, bukas ang serbisyo 365 araw sa isang taon, kasama ang weekend at mga pampublikong holiday. Sinusuri ng doktor ang mga request sa oras ng trabaho, kaya ang request na ginawa sa labas ng mga oras na iyon ay maghihintay sa susunod na oras ng trabaho."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Maaari ba akong makakuha ng Sick Leave Certificate sa aking lokal na wika?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi ipinapangako ang certificate sa lokal na wika. Mag-email sa care@drcertificate.com para magtanong bago ka mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sino ang nag-iisyu ng online Sick Leave Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Isang sertipikadong doktor (MBBS, MD o MS) ang nag-iisyu ng certificate. Nagtatrabaho nang malaya ang doktor at siya lamang ang nagpapasya kung ibibigay ito at kung ano ang nakasulat dito. Hindi para isumite sa India ang certificate."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Magkano ang isang certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Nakadepende ang presyo sa iyong bansa, halimbawa 25 SGD sa Singapore, 399 pesos sa Pilipinas o 30 MYR sa Malaysia. Makikita ang presyo sa application form bago ka magbayad. Hindi na maibabalik ang bayad, kasama na kapag tinanggihan ng doktor ang request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tinatanggap ba ng mga employer at institusyon ang mga certificate na ito?"
+    },
+    {
+      "kind": "text",
+      "text": "Nakadepende ang pagtanggap sa organisasyong pagsusumitehan mo, kaya alamin muna. Isang sertipikadong doktor ang nag-iisyu ng certificate, kaya itanong kung tinatanggap nila iyon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Maaari ba akong makakuha ng Sick Leave Certificate sa mga Pampublikong Holiday?"
+    },
+    {
+      "kind": "text",
+      "text": "Oo, maaari kang mag-apply sa pampublikong holiday dahil bukas ang serbisyo 365 araw sa isang taon. Susuriin ng doktor ang iyong request sa oras ng trabaho."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Paano kung may partikular na format na hinihingi ang aking employer o institusyon?"
+    },
+    {
+      "kind": "text",
+      "text": "Mag-email sa care@drcertificate.com kasama ang format bago ka mag-apply, dahil hindi garantisado ang pagbabago ng format. Nakadepende ang pagtanggap sa organisasyong pagsusumitehan mo, kaya alamin muna."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Gaano katagal valid ang online na sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Sinasaklaw ng online na sick leave certificate ang mga petsang isinulat ng doktor dito. Sa karamihan ng bansa sa Timog-Silangang Asya, ang mga sick leave note ay umaabot hanggang 7 araw para sa mga karaniwang sintomas. Ang iyong employer o paaralan ang magpapasya kung pasok ang panahong iyon sa sarili nilang patakaran sa leave."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Puwede bang i-backdate ang sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Pinapatunayan lamang ng doktor ang mga petsang tugma sa mga sintomas at timeline na iniulat mo. Puwede mong ilarawan ang sakit na nagsimula bago ka nag-apply, at ang doktor ang magpapasya kung anong panahon ang isasaad. Tinatanggihan ang mga kahilingang hindi tugma ang mga petsa at sintomas, at hindi ibinabalik ang bayad."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Paano ipinapadala ang online na sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Dumarating sa email bilang PDF ang mga naaprubahang sertipiko, kadalasan mga 30 minuto matapos kang mag-apply. Tingnan ang iyong spam folder kung wala kang natanggap. Puwede mong i-print ang PDF o i-forward ito sa iyong employer, paaralan o HR team, alinman ang mas gusto ng iyong tatanggap."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Puwede ko bang itama ang aking pangalan o mga petsa matapos maisyu ang sertipiko?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi, hindi na maitatama ang sertipiko kapag naibigay na ito, maliban kung ang pagkakamali ay nagmula sa medical team. I-type ang iyong pangalan nang tugma sa iyong ID at suriin ang iyong mga petsa bago ka magbayad. Kung ang medical team ang nagkamali, mag-email sa care@drcertificate.com kasama ang iyong mga detalye."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Magagamit ko ba ang sertipiko sa aking bansa?"
+    },
+    {
+      "kind": "text",
+      "text": "Oo, kung nakatira ka sa isa sa 10 bansa sa Timog-Silangang Asya na pinagsisilbihan ng DrCertificate at tumatanggap ng online na medical note ang pagbibigyan mo nito. Hindi para isumite sa India, para sa legal na layunin o para sa insurance ang sertipiko. Tiyakin muna sa iyong employer o paaralan kung tatanggapin nila ito."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pinananatili bang pribado ang aking impormasyong pangkalusugan?"
+    },
+    {
+      "kind": "text",
+      "text": "Ibinabahagi ang iyong mga detalyeng pangkalusugan sa doktor na sumusuri sa iyong kahilingan, para sa layunin ng pagsusuring iyon. Ibigay lamang ang impormasyong kailangan ng doktor para makapagpasya. Para sa anumang tanong tungkol sa kung paano pinangangasiwaan ng DrCertificate ang iyong data, mag-email sa care@drcertificate.com bago o pagkatapos kang mag-apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Kailangan ko ba ng video call para makakuha ng sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Hindi, walang video o harapang konsultasyon ang DrCertificate. Sinusuri ng doktor ang iyong form at maaaring magtanong pa sa pamamagitan ng text chat. Kung sa palagay ng doktor ay kailangan ng pisikal na pagsusuri o mga test para sa iyong kondisyon, tatanggihan ang kahilingan at dapat kang pumunta sa isang lokal na klinika."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Mga Sanggunian"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: May bayad na sick leave sa Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Alagaan ang iyong kalusugan, nang walang dagdag na stress."
+    },
+    {
+      "kind": "text",
+      "text": "Kapag may sakit ka, ang pagpapagaling dapat ang iyong priyoridad, hindi ang papeles. Mag-apply online sa loob ng ilang minuto, at kung aprubahan ng isang sertipikadong doktor ang iyong request, ipapadala ang iyong certificate sa iyong email."
+    },
+    {
+      "kind": "text",
+      "text": "May tanong ka muna? care@drcertificate.com"
+    }
+  ]
+}

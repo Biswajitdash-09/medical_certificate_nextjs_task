@@ -1,0 +1,71 @@
+{
+  "slug": "about-us",
+  "group": "company",
+  "title": "About us - DrCertificate.com",
+  "description": "At DrCertificate.com, we believe applying for a medical certificate should be straightforward and secure.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "At DrCertificate.com, we believe applying for a medical certificate should be straightforward and secure. DrCertificate is a digital platform that connects you with independent, certified doctors who hold an MBBS, MD or MS degree. You apply online, without a clinic visit, and the doctor decides whether to issue a certificate."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate, and the certificate is not for submission in India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review Every request is assessed individually",
+        "100% online application Apply from your phone or laptop",
+        "Email delivery if approved Sent to the address you provide",
+        "Payments processed by Stripe Secure online payment"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Each request is reviewed by a certified doctor, who alone decides whether to issue a certificate and what it says. If you need documentation for work, university or travel, a doctor reviews your request during working hours, and an approved certificate is sent to your email. If a certificate isn’t appropriate, the doctor may decline the request."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on the organisation you submit it to, so check first. An organisation can ask to verify a certificate from its official email domain, with you copied, and clinical details are not shared without your written consent. We store your data on encrypted servers, generally delete or anonymise it 15 days after the transaction unless the law requires longer, and never sell or rent it."
+    },
+    {
+      "kind": "text",
+      "text": "The service runs 365 days a year. Doctors review requests during working hours: 9 am to 9 pm IST Monday to Saturday, and 10 am to 8 pm IST on Sunday. A request made outside those hours is reviewed in the next working slot. DrCertificate does not provide diagnosis, treatment or prescriptions, and it is not for emergencies. If you need urgent care, contact your local emergency services."
+    },
+    {
+      "kind": "text",
+      "text": "How it works"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Three simple steps, with a doctor checking every request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online application Add your details and the reason for your request. You may be asked to share vitals or other measurements through a secure link sent by email.",
+        "2 Step 2: A certified doctor reviews your request The doctor assesses the information you provide and decides whether a certificate is medically appropriate. They may decline a request.",
+        "3 Step 3: Get your certificate by email, if approved Approved certificates are sent electronically to the email address you provide."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to apply? It only takes a few minutes."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor reviews every request. If approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

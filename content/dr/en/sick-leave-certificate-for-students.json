@@ -1,0 +1,455 @@
+{
+  "slug": "sick-leave-certificate-for-students",
+  "group": "audience",
+  "title": "Sick Leave Certificate for Students Online",
+  "description": "Get a sick leave certificate for students online. A certified doctor reviews your chat consultation, and a PDF arrives by email in about 30 minutes. Apply now.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For school, college and university students aged 16 and over in South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "Too unwell for class? DrCertificate helps students aged 16 and over request a sick leave certificate for students online."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor reviews each request after a chat consultation and decides whether to issue it. Prices depend on your country, for example 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Approved certificates usually arrive by email in about 30 minutes."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Can you get a sick leave certificate for students online?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. DrCertificate connects students aged 16 and over in 10 South East Asian countries with an MBBS, MD or MS doctor, who decides after a chat consultation whether to issue a sick leave certificate confirming you were unfit to attend classes. Approved certificates arrive by email as a PDF. Your school or university decides whether to accept it."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a sick leave certificate for students?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate for students is a signed note from a doctor stating that a student was unwell and unfit to attend school, college or university on set dates. The certificate names the student, the consultation date and the recommended leave period."
+    },
+    {
+      "kind": "text",
+      "text": "Schools ask for one to excuse absences and to decide on missed tests or deadlines. Universities that allow medical exam postponement usually grant it only when an authentic medical note from a licensed physician is submitted."
+    },
+    {
+      "kind": "text",
+      "text": "A certificate is not treatment."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor records what you reported and the leave recommended. DrCertificate does not diagnose, treat or prescribe, so a student who needs care or medicine should see a doctor in person."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When do students need a sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Students usually need a sick leave certificate when illness keeps them out of class for more than a day or when they miss an assessment."
+    },
+    {
+      "kind": "text",
+      "text": "Rules depend on the school. Check your student handbook for how many days of absence trigger a certificate requirement."
+    },
+    {
+      "kind": "text",
+      "text": "In the Philippines, DepEd Order No. 14, s. 2020, issued for COVID-19, says learners who were symptomatic in the last 14 days and have no relevant travel or exposure history shall seek medical advice and the necessary medical certificate before reporting back to school. Ask your school which certificate it expects."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Absence over more than one day A doctor's note explains a run of missed classes.",
+        "Missed exam or test Exam offices often ask for a medical certificate before rescheduling.",
+        "Late assignment Lecturers may want proof of illness before extending a deadline.",
+        "Missed online classes Illness that stops you studying from home counts too."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which illnesses can a doctor consider for a sick leave certificate for students?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor can consider common short term illnesses that keep students out of class, like colds, flu, fever and stomach upsets. The doctor decides case by case after the chat consultation and may decline when the details do not fit an online assessment."
+    },
+    {
+      "kind": "text",
+      "text": "Serious symptoms are different."
+    },
+    {
+      "kind": "text",
+      "text": "Severe pain, fainting, breathing trouble or symptoms that keep getting worse need in person care, not an online certificate."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Cold and flu Blocked nose, cough and body aches that make class hard to attend.",
+        "Fever A short fever that keeps you at home.",
+        "Stomach upset Nausea, vomiting or diarrhoea over a day or two.",
+        "Migraine and headache Headaches that stop you studying or sitting a test."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does the sick leave certificate for students include?"
+    },
+    {
+      "kind": "text",
+      "text": "The sick leave certificate for students includes the student's name, age and consultation date, the diagnosis recorded by the doctor and the recommended leave dates. The certificate also shows the issuing doctor's name, qualification and registration number."
+    },
+    {
+      "kind": "text",
+      "text": "Match each line against your school's checklist before you apply."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Detail on the certificate",
+        "What it shows"
+      ],
+      "rows": [
+        [
+          "Student's name",
+          "Your name as shown on your ID"
+        ],
+        [
+          "Age",
+          "Your age on the consultation date"
+        ],
+        [
+          "Consultation date",
+          "The date of your chat with the doctor"
+        ],
+        [
+          "Diagnosis",
+          "The illness the doctor records from your consultation"
+        ],
+        [
+          "Recommended leave dates",
+          "The start and end dates the doctor recommends"
+        ],
+        [
+          "Issuing doctor",
+          "Full name and MBBS, MD or MS qualification"
+        ],
+        [
+          "Registration number",
+          "The doctor's medical council registration"
+        ],
+        [
+          "Delivery format",
+          "PDF sent by email"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a sick leave certificate for students?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a sick leave certificate for students by filling in the DrCertificate form, paying through Stripe and chatting with a doctor. Approved certificates arrive by email as a PDF, with a typical turnaround of about 30 minutes."
+    },
+    {
+      "kind": "text",
+      "text": "Student fitness or good health certificates use the Medical Fitness Certificate option instead."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Enter your details as they appear on your ID, describe your symptoms and dates, and choose the Sick Leave option for university or work.",
+        "2 Step 2: Pay securely through Stripe Pay the fee for your country through Stripe. Payment is non refundable.",
+        "3 Step 3: Chat with the doctor A certified MBBS, MD or MS doctor reviews your request in a chat consultation and decides whether to issue a certificate.",
+        "4 Step 4: Receive your PDF by email An approved certificate arrives by email as a PDF, usually in about 30 minutes. Forward it to your school or university."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a sick leave certificate for students cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate for students costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Prices in the other served countries depend on the country."
+    },
+    {
+      "kind": "text",
+      "text": "The fee pays for the doctor's review and chat consultation, plus the PDF by email if the doctor approves. Payment goes through Stripe."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "No refund is given when the doctor declines. The one exception is a verified technical fault reported within 24 hours. A certificate cannot be corrected once issued unless the fault came from the medical team."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price",
+        "Payment"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD",
+          "Stripe"
+        ],
+        [
+          "Philippines",
+          "399 pesos",
+          "Stripe"
+        ],
+        [
+          "Malaysia",
+          "30 MYR",
+          "Stripe"
+        ],
+        [
+          "Other served countries",
+          "Depends on the country",
+          "Stripe"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should students check before applying?"
+    },
+    {
+      "kind": "text",
+      "text": "Students should confirm their school's or university's medical leave rules before paying. Each school, college and university may set its own rules, so check your institution's current policy and whether it accepts online medical notes. Acceptance is always the receiving institution's decision."
+    },
+    {
+      "kind": "text",
+      "text": "Ask the school office or registrar the questions below."
+    },
+    {
+      "kind": "text",
+      "text": "Leave rules also differ across South East Asia. Singapore, Malaysia, Thailand and the Philippines each have their own guidance, and private universities often add rules of their own."
+    },
+    {
+      "kind": "text",
+      "text": "Before you start the form, have your ID ready with the name your school uses. Note the date your symptoms began and keep any format your school gave you."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Which dates must the certificate cover? Confirm the illness date and the full absence period the school wants documented.",
+        "2 Step 2: Is a set format or signature required? A few institutions ask for a signed certificate or their own form.",
+        "3 Step 3: What doctor details are needed? Check whether the school wants the doctor's qualification and registration number.",
+        "4 Step 4: What is the deadline? Find out who receives the certificate, by when, and whether supporting documents are needed."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in the Philippines",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in Singapore",
+        "Online Sick Leave Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is an online sick leave certificate for students not the right choice?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate for students is not the right choice in an emergency. Chest pain, trouble breathing or a serious injury need emergency services or a hospital straight away."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate is not for insurance, legal purposes or submission in India. Applicants must be at least 16."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate offers chat consultations only, with no video or in person visits. The platform does not diagnose, treat or prescribe, so a student who needs medicine or tests should see a doctor in person."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who reviews your sick leave certificate for students request?"
+    },
+    {
+      "kind": "text",
+      "text": "Every student request on DrCertificate is reviewed by an independent, certified doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered with a medical council, and the doctor alone decides whether to issue a certificate."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is the platform in the middle. The platform runs the online form, takes payment through Stripe and emails the approved PDF, but does not make the medical decision."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline about 2% of requests."
+    },
+    {
+      "kind": "text",
+      "text": "Declines happen when details are wrong, like a name that does not match the ID, or when the symptoms and details shared are inconsistent."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is operated by Health Venture OU. Email care@drcertificate.com or write to KMC Armstrong Corporate Center, H.V. Dela Costa, Salcedo Village, Makati City, 1227 Metro Manila, Philippines."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about a sick leave certificate for students"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my school or university accept an online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is your school or university's decision, not DrCertificate's. Institutions set their own rules on medical notes, so check with the school office or registrar that online certificates are accepted before you apply. Ask about format, deadlines and whether a signed certificate is needed."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How many days of sick leave can a student request?"
+    },
+    {
+      "kind": "text",
+      "text": "In most South East Asian countries, sick leave notes go up to 7 days for generic symptoms. The doctor sets the final dates based on your symptoms and the chat consultation, and may recommend a shorter period than you asked for. A longer illness usually needs an in person doctor."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a student sick leave certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides which dates the certificate covers, and those dates must fit what you report in the consultation. Apply as soon as you feel unwell, because a past absence that your symptoms and timeline do not support may lead the doctor to decline the request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What happens if the doctor declines my request?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor declines, no certificate is issued and the payment is not refunded. Doctors decline about 2% of requests, usually when the name and ID do not match or when the symptoms and details shared are inconsistent. Check your details carefully before you submit the form."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use a sick leave certificate to postpone an exam?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate can support an exam postponement request if your university accepts online medical notes. Universities usually grant medical exam postponement only when a valid certificate from a registered doctor is submitted. Read your exam office rules on deadlines and format first, since late requests are often refused."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do I need a sick leave certificate for missed online classes?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate covers illness that stopped you studying, whether your classes were in person or online. Working students who can still work but need to stay home may fit the Work From Home option instead. Your school decides which document it needs for remote learning days."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Other certificates students may need"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick Leave Certificate for Bank Employees",
+        "Sick Leave Certificate for BPO Employees",
+        "Sick Leave Certificate for IT Employees",
+        "Online sick leave certificate",
+        "Medical fitness certificate for students",
+        "Sports fitness certificate",
+        "Work from home certificate",
+        "General medical certificate",
+        "Online Sick Leave Certificate in the Philippines",
+        "Online Sick Leave Certificate in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Start your sick leave certificate for students request"
+    },
+    {
+      "kind": "text",
+      "text": "Apply now to start your request. Prices are 25 SGD, 399 pesos or 30 MYR depending on your country, with a PDF by email in about 30 minutes. A doctor decides whether to issue, and payment is non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

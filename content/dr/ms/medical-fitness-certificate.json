@@ -1,0 +1,791 @@
+{
+  "slug": "medical-fitness-certificate",
+  "group": "service",
+  "service": "medical-fitness",
+  "title": "Online medical fitness certificate",
+  "description": "Apply online for a doctor-reviewed medical fitness certificate for a job, studies, travel or sport. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan · Disemak oleh doktor bertauliah"
+    },
+    {
+      "kind": "text",
+      "text": "Perlukan bukti bahawa anda layak dari segi kesihatan untuk pekerjaan baharu, kursus atau perjalanan? Mohon dalam talian, doktor bertauliah akan menyemak butiran kesihatan anda, dan jika diluluskan, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor bertauliah (MBBS, MD atau MS) mengeluarkan sijil ini, dan sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah",
+        "Dihantar melalui e-mel jika diluluskan",
+        "Tersedia 365 hari setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlukan jenis sijil lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Cuti sakit",
+        "Tidak layak terbang",
+        "Perubatan am"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0004"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Medical fitness"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is considered medically fit for the purpose stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah Setiap permohonan dinilai secara individu",
+        "Permohonan 100% dalam talian Mohon melalui telefon atau komputer riba anda",
+        "Penghantaran melalui e-mel jika diluluskan Dihantar ke alamat e-mel yang anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran dalam talian yang selamat"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimanakah cara mendapatkan sijil kecergasan perubatan secara dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan sijil kecergasan perubatan secara dalam talian dengan DrCertificate, isi borang dalam talian, pilih pilihan Medical Fitness Certificate dan bayar melalui Stripe. Seorang doktor bertauliah yang bebas akan menyemak butiran anda melalui sembang dan, jika berpuas hati, akan menghantar sijil dalam bentuk PDF melalui e-mel, biasanya dalam kira-kira 30 minit. Pengeluaran sijil bergantung pada pertimbangan doktor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum anda memohon"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang sijil ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah itu sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan ialah dokumen rasmi yang dikeluarkan oleh doktor yang berkelayakan. Sijil ini menyatakan bahawa anda telah dinilai dari segi perubatan dan dianggap layak untuk sesuatu aktiviti atau keperluan tertentu."
+    },
+    {
+      "kind": "text",
+      "text": "Organisasi mungkin memintanya untuk memastikan anda boleh menjalankan tugas tertentu dengan selamat, menyertai aktiviti atau memenuhi kriteria kelayakan berkaitan kesihatan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Kandungan sijil"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Butiran peribadi anda yang betul",
+        "Tarikh penilaian perubatan",
+        "Tujuan sijil",
+        "Penilaian kecergasan oleh doktor",
+        "Nama dan kelayakan doktor",
+        "Tandatangan atau pengesahan digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Butiran ini membantu majikan, universiti dan organisasi mengesahkan bahawa sijil dikeluarkan selepas penilaian perubatan yang sewajarnya."
+    },
+    {
+      "kind": "text",
+      "text": "Elakkan sijil palsu. Templat kosong, contoh sijil yang diubah suai dan penjana sijil palsu mungkin menyebabkan sijil ditolak. Sijil yang tulen hanya dikeluarkan selepas penilaian kesihatan yang sebenar oleh doktor yang berkelayakan."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bila anda mungkin memerlukan sijil kecergasan perubatan"
+    },
+    {
+      "kind": "text",
+      "text": "Majikan, universiti dan organisasi lain mungkin memintanya untuk mengesahkan bahawa anda memenuhi keperluan berkaitan kesihatan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerjaan"
+    },
+    {
+      "kind": "text",
+      "text": "Banyak majikan memintanya sebelum mengambil anda bekerja atau memberikan tanggungjawab tertentu."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Penerimaan pekerja baharu",
+        "Kerja yang memerlukan tenaga fizikal",
+        "Pematuhan keselamatan tempat kerja",
+        "Kelulusan kembali bekerja"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pelajar dan universiti"
+    },
+    {
+      "kind": "text",
+      "text": "Sekolah dan universiti mungkin memintanya semasa kemasukan atau untuk program yang mempunyai keperluan kesihatan."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kemasukan ke kolej atau universiti",
+        "Acara sukan",
+        "Latihan industri atau program latihan",
+        "Keperluan kesihatan kampus"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Perjalanan dan keperluan lain"
+    },
+    {
+      "kind": "text",
+      "text": "Sesetengah proses berkaitan perjalanan dan aktiviti meminta bukti kecergasan perubatan."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokumen perjalanan antarabangsa",
+        "Aktiviti lasak atau fizikal",
+        "Permohonan profesional"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sebab biasa orang memohon"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Memulakan pekerjaan baharu",
+        "Mendaftar di sekolah atau universiti",
+        "Sukan dan aktiviti fizikal",
+        "Keperluan perjalanan",
+        "Pemeriksaan kesihatan di tempat kerja",
+        "Kembali bekerja selepas sakit",
+        "Pengesahan kecergasan am"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Semak keperluan terlebih dahulu"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan sijil ditentukan oleh majikan, institusi, jabatan kerajaan atau pihak berkuasa yang memintanya. Sebelum memohon, semak:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Format sijil yang diperlukan",
+        "Keperluan kelayakan doktor",
+        "Tempoh sah laku",
+        "Sebarang ujian perubatan tambahan yang diperlukan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individu. Pengeluaran sijil, kandungan dan tempohnya adalah atas budi bicara doktor yang menyemak. Semua dokumen ditujukan kepada organisasi tempat ia diserahkan dan sah untuk sekali penggunaan sahaja. Penerimaan sijil ditentukan oleh organisasi tempat anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang biasanya diharapkan oleh majikan, sekolah atau syarikat penerbangan daripada sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Majikan, sekolah dan syarikat penerbangan biasanya mengharapkan sijil kecergasan perubatan menunjukkan nama penuh anda, kenyataan kecergasan yang jelas, tarikh yang terkini serta nama dan nombor pendaftaran doktor. Selain itu, setiap penerima menetapkan peraturannya sendiri, dan peraturan tersebut berbeza mengikut majikan, institusi, syarikat penerbangan dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Pemeriksaan rasmi di tempat kerja tertakluk kepada undang-undangnya sendiri. Di Filipina, Omnibus Rules yang melaksanakan Labor Code menyatakan bahawa doktor yang dilantik oleh majikan hendaklah menjalankan pemeriksaan perubatan pra-pekerjaan secara percuma untuk pemilihan dan penempatan pekerja yang sewajarnya, serta pemeriksaan fizikal tahunan secara percuma."
+    },
+    {
+      "kind": "text",
+      "text": "Ministry of Manpower Singapura menyatakan bahawa majikan mesti menghantar pekerja yang terdedah kepada bahaya pekerjaan tertentu untuk menjalani pemeriksaan perubatan pra-penempatan dan pemeriksaan perubatan berkala. Kementerian yang sama menyatakan bahawa pemeriksaan perubatan pekerja asing menyaring 4 jenis penyakit berjangkit dan memeriksa sama ada pekerja itu layak untuk bekerja. Nota dalam talian tidak menggantikan mana-mana pemeriksaan tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum anda memohon, tanya pihak penerima tiga soalan ini."
+    },
+    {
+      "kind": "text",
+      "text": "Adakah ia menerima nota perubatan dalam talian? Adakah ia mempunyai borang atau format sendiri? Berapa terkinikah tarikh sijil yang diperlukan?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sijil Cuti Sakit Dalam Talian di Singapura",
+        "Sijil perubatan dalam talian di Malaysia",
+        "Sijil Cuti Sakit Dalam Talian di Thailand",
+        "Cara mendapatkan sijil perubatan dalam talian untuk cuti"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah kandungan sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan DrCertificate mengandungi butiran peribadi anda, tarikh dikeluarkan, kenyataan kecergasan oleh doktor dan butiran doktor yang mengeluarkannya. Pihak penerima boleh memahami susun aturnya dengan sekali pandang."
+    },
+    {
+      "kind": "text",
+      "text": "Bahagian doktor menunjukkan nama doktor, kelayakan perubatan dan butiran pendaftaran majlis perubatan, yang boleh digunakan oleh penerima untuk menyemak doktor tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Tarikh pada sijil menunjukkan bila doktor menyemak permohonan anda dan, jika berkaitan, tempoh yang diliputi oleh kenyataan tersebut. Di kebanyakan negara Asia Tenggara, nota kecergasan secara amnya sah selama 30 hari."
+    },
+    {
+      "kind": "text",
+      "text": "Tulis tujuan sijil dalam borang jika anda mahu kenyataan itu menyebutnya."
+    },
+    {
+      "kind": "text",
+      "text": "Cara ia berfungsi"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah mudah, dengan doktor menyemak setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi borang permohonan dalam talian Masukkan butiran anda dan sebab permohonan. Anda mungkin diminta untuk berkongsi tanda vital atau ukuran lain melalui pautan selamat yang dihantar melalui e-mel.",
+        "2 Langkah 2: Doktor bertauliah menyemak permohonan anda Doktor menilai maklumat yang anda berikan dan memutuskan sama ada sijil sesuai dari segi perubatan. Doktor boleh menolak sesuatu permohonan.",
+        "3 Langkah 3: Terima sijil anda melalui e-mel, jika diluluskan Sijil yang diluluskan dihantar secara elektronik ke alamat e-mel yang anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pilihan manakah yang perlu anda pilih dalam borang untuk sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Pilih pilihan Medical Fitness Certificate, yang merangkumi sijil kecergasan pekerja, sijil kecergasan pelajar dan sijil kesihatan baik. Pilihan yang sama digunakan untuk permohonan kecergasan sukan, layak terbang dan layak bekerja."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam ruangan butiran, tulis siapa yang akan menerima sijil itu dan untuk apa, contohnya pekerjaan baharu, kursus universiti atau tarikh penerbangan."
+    },
+    {
+      "kind": "text",
+      "text": "Jika tiada pilihan yang sesuai, e-mel care@drcertificate.com sebelum anda membuat bayaran."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang akan ditanya oleh doktor untuk sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Doktor akan bertanya tentang kesihatan semasa anda, penyakit yang pernah dihidapi serta tarikh dan tujuan sijil. Jawapan yang jelas membantu doktor membuat keputusan dengan lebih cepat."
+    },
+    {
+      "kind": "text",
+      "text": "Jangkakan soalan tentang penyakit berterusan, penyakit atau kecederaan baru-baru ini, ubat yang diambil secara tetap dan sebarang gejala semasa bersenam atau menjalankan aktiviti harian. Nama dan butiran ID anda mesti sepadan antara satu sama lain, kerana ketidaksepadanan adalah salah satu sebab doktor menolak permohonan. Jika anda mempunyai laporan terkini daripada klinik, nyatakannya dalam borang."
+    },
+    {
+      "kind": "text",
+      "text": "Pastikan telefon atau e-mel anda sentiasa dekat."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor mungkin menghantar soalan susulan dalam sembang sebelum membuat keputusan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di manakah sijil kecergasan perubatan tidak boleh digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan DrCertificate tidak boleh digunakan untuk diserahkan di India, untuk tujuan undang-undang atau untuk insurans. Pemohon mestilah berumur sekurang-kurangnya 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Perkhidmatan ini hanya untuk situasi bukan kecemasan yang sesuai. Jika anda mengalami sakit dada, kesukaran bernafas, kecederaan teruk atau sebarang gejala yang mendesak, segera pergi ke jabatan kecemasan yang terdekat atau hubungi perkhidmatan kecemasan tempatan."
+    },
+    {
+      "kind": "text",
+      "text": "Pihak penerima yang menentukan sama ada sijil itu diterima, jadi semak dengan mereka terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang berlaku jika doktor tidak dapat mengeluarkan sijil kecergasan perubatan anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika doktor tidak dapat mengeluarkan sijil kecergasan perubatan anda, anda tidak akan menerima sijil dan bayaran tidak akan dikembalikan. Doktor menolak kira-kira 2% daripada permohonan."
+    },
+    {
+      "kind": "text",
+      "text": "Sebab yang biasa ialah butiran yang salah, seperti nama yang tidak sepadan dengan ID, atau gejala dan jawapan yang tidak selari. Doktor juga akan menolak permohonan apabila keadaan anda memerlukan pemeriksaan secara bersemuka atau ujian, contohnya pemeriksaan pra-pekerjaan oleh majikan atau saringan perubatan kerajaan. Dalam keadaan itu, pergi ke klinik atau berjumpa doktor yang dinamakan oleh pihak penerima anda."
+    },
+    {
+      "kind": "text",
+      "text": "Bayaran tidak akan dikembalikan. Satu-satunya pengecualian ialah kerosakan teknikal yang telah disahkan dan dilaporkan dalam tempoh 24 jam."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk bantuan, e-mel care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapakah kos sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan berharga 25 SGD di Singapura, 399 peso di Filipina dan 30 MYR di Malaysia. Harga di negara lain bergantung pada negara tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Yuran ini meliputi semakan oleh doktor dan, jika diluluskan, sijil dalam bentuk PDF. Bayaran dibuat melalui Stripe dan tidak akan dikembalikan."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga",
+        "Perkara yang diliputi oleh yuran"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD",
+          "Semakan oleh doktor, serta sijil PDF jika diluluskan"
+        ],
+        [
+          "Filipina",
+          "399 pesos",
+          "Semakan oleh doktor, serta sijil PDF jika diluluskan"
+        ],
+        [
+          "Malaysia",
+          "30 MYR",
+          "Semakan oleh doktor, serta sijil PDF jika diluluskan"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapakah yang mengeluarkan sijil kecergasan perubatan anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Doktor bertauliah Setiap permohonan diserahkan kepada doktor yang memiliki kelayakan MBBS, MD atau MS. Semua doktor di platform ini ialah doktor yang berdaftar dengan majlis perubatan.",
+        "Doktor yang membuat keputusan DrCertificate ialah sebuah platform. Hanya doktor yang memutuskan sama ada untuk mengeluarkan sijil, dan doktor menolak kira-kira 2% permohonan, biasanya apabila butiran tidak sepadan atau gejala tidak konsisten.",
+        "Penyemak perubatan Dr Urooj Arshad, M.B.B.S, Perubatan Am, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Adakah majikan, sekolah atau syarikat penerbangan saya akan menerima sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Majikan, sekolah atau syarikat penerbangan anda hanya akan menerima sijil kecergasan perubatan jika polisi mereka sendiri membenarkan nota perubatan dalam talian. DrCertificate tidak boleh membuat keputusan itu bagi pihak penerima, jadi tanya mereka dahulu sebelum anda memohon."
+    },
+    {
+      "kind": "text",
+      "text": "Semua doktor di platform ini berdaftar dengan majlis perubatan. Penerima yang ingin mengesahkan sijil boleh menyemak nama doktor dan butiran pendaftarannya dalam daftar majlis tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Jika penerima memerlukan borang mereka sendiri, tanya sama ada mereka akan menerima format DrCertificate sebagai gantinya. Jika jawapannya tidak, sila pergi ke klinik secara bersemuka."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sijil Kecergasan Dalam Talian di Singapura",
+        "Sijil Kecergasan Dalam Talian di Filipina",
+        "Sijil perubatan dalam talian di Malaysia",
+        "Sijil Kecergasan Dalam Talian di Indonesia",
+        "Sijil Kecergasan Dalam Talian di Thailand",
+        "Sijil Kecergasan Dalam Talian di Vietnam"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sijil kecergasan perubatan berbanding sijil yang berkaitan: yang mana satu anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan menyatakan bahawa anda layak dari segi kesihatan, manakala sijil cuti sakit menyatakan bahawa anda tidak sihat dan perlu berehat. Jika anda memilih sijil yang salah, yuran anda akan sia-sia, jadi pastikan sijil itu sepadan dengan apa yang diminta oleh penerima."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Sijil",
+        "Apa yang dinyatakan",
+        "Siapa yang biasanya menerimanya",
+        "Pilihan dalam borang yang perlu dipilih"
+      ],
+      "rows": [
+        [
+          "Kecergasan perubatan",
+          "Anda berada dalam keadaan kesihatan umum yang baik dan layak untuk bekerja atau belajar",
+          "Majikan, sekolah atau agensi",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Kecergasan sukan",
+          "Anda layak untuk menyertai sukan atau acara",
+          "Kelab, gim atau penganjur perlumbaan",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Layak untuk terbang",
+          "Anda layak untuk melakukan perjalanan udara",
+          "Syarikat penerbangan",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Cuti sakit atau perubatan am",
+          "Anda tidak sihat dan memerlukan cuti, sehingga 7 hari bagi gejala umum",
+          "Majikan atau universiti",
+          "Sick Leave"
+        ],
+        [
+          "Bekerja dari rumah",
+          "Anda boleh bekerja tetapi sepatutnya tinggal di rumah",
+          "Majikan",
+          "Work From Home"
+        ],
+        [
+          "Tidak layak untuk melakukan perjalanan",
+          "Anda tidak layak untuk melakukan perjalanan pada tarikh yang dinyatakan",
+          "Syarikat penerbangan atau penyedia perjalanan",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa memohon dalam talian"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Dapatkan penilaian tanpa perlu ke klinik"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak perlu keluar rumah atau duduk di bilik menunggu. Doktor yang berkelayakan tetap menyemak butiran kesihatan anda sebelum sebarang sijil dikeluarkan."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Akses mudah dari rumah Lengkapkan penilaian anda dari rumah tanpa perlu ke klinik.",
+        "Tiada temu janji klinik diperlukan Tidak perlu menunggu slot temu janji atau beratur.",
+        "Penilaian oleh doktor bertauliah Sijil hanya dikeluarkan selepas pengamal perubatan yang berkelayakan menyemak permohonan anda.",
+        "Sijil digital yang selamat Jika diluluskan, sijil anda dihantar secara digital, sedia untuk diserahkan melalui e-mel, portal HR atau sistem pelajar."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Doktor yang membuat keputusan. Tiada apa-apa yang diluluskan secara automatik. Doktor bertauliah menyemak setiap permohonan dan memutuskan sama ada untuk mengeluarkan sijil, kandungannya dan tempoh yang diliputinya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana perkhidmatan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara mempunyai halaman sijilnya sendiri, dan perkhidmatan yang tersedia mungkin berbeza. Pilih negara anda untuk menyemak sebelum memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia sekarang"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat sijil",
+        "Indonesia Lihat sijil",
+        "Philippines Lihat sijil",
+        "Thailand Lihat sijil",
+        "Vietnam Lihat sijil",
+        "Malaysia Lihat sijil",
+        "Cambodia Lihat sijil",
+        "Laos Lihat sijil",
+        "Myanmar Lihat sijil",
+        "Brunei Lihat sijil"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Soalan lazim"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Soalan tentang sijil kecergasan perubatan"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah Sijil Kecergasan (Fitness Certificate) dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil Kecergasan dalam talian ialah dokumen digital yang dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS) yang menyatakan bahawa anda telah dinilai sebagai layak untuk sesuatu pekerjaan, aktiviti, sukan atau perjalanan. Doktor akan menyemak butiran kesihatan anda, mungkin menghubungi anda melalui sembang digital yang selamat, dan memutuskan sama ada untuk mengeluarkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa cepat saya boleh menerima sijil saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Bagi kes kecergasan, doktor menyemak permohonan dari 9 pagi hingga 9 malam IST, Isnin hingga Sabtu, dan 10 pagi hingga 8 malam IST pada hari Ahad. Permohonan yang dibuat di luar waktu tersebut akan disemak pada slot waktu bekerja yang seterusnya. Jika doktor meluluskan permohonan anda, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah perkhidmatan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, perkhidmatan ini beroperasi 365 hari setahun, termasuk hujung minggu dan cuti umum. Doktor menyemak permohonan pada waktu bekerja, jadi permohonan yang dibuat di luar waktu tersebut akan menunggu slot waktu bekerja yang seterusnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Kecergasan dalam bahasa tempatan saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil dalam bahasa tempatan tidak dijanjikan. Hantar e-mel ke care@drcertificate.com untuk bertanya sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapakah yang mengeluarkan Sijil Kecergasan dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil ini dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS). Doktor tersebut bekerja secara bebas dan hanya doktor itu yang memutuskan sama ada untuk mengeluarkan sijil dan apa kandungannya. Sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapakah kos sijil?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga bergantung pada negara anda, contohnya 25 SGD di Singapura, 399 peso di Filipina atau 30 MYR di Malaysia. Borang permohonan menunjukkan harga sebelum anda membuat bayaran. Bayaran tidak akan dikembalikan, termasuk apabila doktor menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah sijil ini diterima oleh majikan dan institusi?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu. Sijil ini dikeluarkan oleh doktor bertauliah, jadi tanya sama ada mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Kecergasan pada hari cuti umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, anda boleh memohon pada hari cuti umum kerana perkhidmatan ini beroperasi 365 hari setahun. Doktor akan menyemak permohonan anda pada waktu bekerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika majikan atau institusi saya mempunyai keperluan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Hantar e-mel ke care@drcertificate.com bersama format tersebut sebelum anda memohon, kerana perubahan format tidak dijamin. Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lamakah tempoh sah sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan secara amnya sah selama 30 hari di kebanyakan negara Asia Tenggara. Peraturan muktamad ditentukan oleh penerima, dan majikan, sekolah atau syarikat penerbangan mungkin mahukan nota yang dikeluarkan lebih hampir dengan tarikh mula anda atau tarikh penerbangan anda. Semak tempoh masa yang mereka tetapkan sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah sijil kecergasan perubatan diberi tarikh ke belakang?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan mencerminkan penilaian doktor pada masa semakan melalui sembang, jadi nyatakan tarikh yang anda perlukan dalam borang dan biarkan doktor membuat keputusan. Doktor hanya akan menyatakan perkara yang disokong oleh butiran anda. Penerima biasanya mahukan tarikh yang terkini, bukan tarikh yang lama."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimanakah sijil kecergasan perubatan dihantar?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan yang diluluskan akan dihantar melalui e-mel dalam bentuk PDF, biasanya dalam masa kira-kira 30 minit. Gunakan alamat e-mel yang boleh anda buka di telefon, dan semak folder spam jika mesej belum diterima. Anda boleh mencetak PDF tersebut atau memajukannya kepada penerima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya membetulkan nama atau tarikh selepas sijil dikeluarkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil kecergasan perubatan tidak boleh dibetulkan setelah dikeluarkan, kecuali jika kesilapan itu datang daripada pasukan perubatan. Semak nama, ID dan tarikh pada borang dengan teliti sebelum anda membuat bayaran. Jika doktor yang melakukan kesilapan, hantar e-mel ke care@drcertificate.com dan terangkan apa yang perlu diubah."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya menggunakan sijil kecergasan perubatan di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate memberi perkhidmatan di 10 negara Asia Tenggara, termasuk Singapura, Malaysia, Indonesia dan Filipina, serta Thailand, Vietnam, Kemboja, Laos, Myanmar dan Brunei. Sijil ini bukan untuk diserahkan di India. Penerimaan bergantung kepada penerima, jadi pastikan majikan, sekolah atau syarikat penerbangan anda menerima sijil dalam talian."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah maklumat kesihatan saya dirahsiakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Maklumat kesihatan anda diberikan kepada doktor bebas yang menyemak permohonan anda dan digunakan untuk semakan tersebut. Kongsikan hanya maklumat yang diminta oleh borang dan doktor. Untuk sebarang soalan tentang cara DrCertificate menyimpan atau mengendalikan data anda, hantar e-mel ke care@drcertificate.com sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah saya perlu membuat panggilan video untuk mendapatkan sijil kecergasan perubatan?"
+    },
+    {
+      "kind": "text",
+      "text": "Konsultasi melalui video atau secara bersemuka tidak diperlukan untuk sijil kecergasan perubatan DrCertificate. Doktor akan menyemak borang anda dan berbual dengan anda secara bertulis. Jika keadaan anda memerlukan pemeriksaan fizikal atau ujian makmal, doktor akan menolak permohonan anda dan menasihati anda supaya pergi ke klinik."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Supreme Court of the Philippines E-Library: Peraturan Filipina mengenai pemeriksaan sebelum pekerjaan",
+        "Singapore Ministry of Manpower: Kenyataan MOM mengenai pemeriksaan sebelum penempatan",
+        "Singapore Ministry of Manpower: Kenyataan MOM mengenai pemeriksaan pekerja asing"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Lengkapkan pemeriksaan kesihatan anda dengan yakin."
+    },
+    {
+      "kind": "text",
+      "text": "Daripada pekerjaan baharu hingga kursus baharu, mohon dalam talian dalam masa beberapa minit. Jika doktor bertauliah meluluskan permohonan anda, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ada soalan sebelum memohon? care@drcertificate.com"
+    }
+  ]
+}

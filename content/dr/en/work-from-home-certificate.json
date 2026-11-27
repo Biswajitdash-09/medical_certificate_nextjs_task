@@ -1,0 +1,523 @@
+{
+  "slug": "work-from-home-certificate",
+  "group": "certificate",
+  "title": "Work From Home Certificate Online, Doctor Reviewed",
+  "description": "Get a work from home certificate online from a certified doctor after a chat review. PDF by email in about 30 minutes. Serving South East Asia. Apply now.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For employees and students in South East Asia who need a doctor's note to work from home"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate helps employees and students in South East Asia request a work from home certificate online. An independent certified doctor with an MBBS, MD or MS reviews your request through a digital chat consultation."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor issues the certificate only if your details support it. An approved certificate arrives as a PDF by email."
+    },
+    {
+      "kind": "text",
+      "text": "Press Apply now to start the online form."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a work from home certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get a work from home certificate online from DrCertificate, fill in the online form, choose the Work From Home option and pay through Stripe. An independent certified doctor reviews your details by chat and, if satisfied, issues the certificate as a PDF by email. Issuance always depends on the doctor's judgement."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A work from home certificate is a medical note in which a doctor recommends that you work from home for a period because of a health reason. When the doctor finds it medically supported, the certificate can include a recommended period or duration."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate supports your request. Your employer or school still makes the decision."
+    },
+    {
+      "kind": "text",
+      "text": "A work from home certificate is not a diagnosis or a treatment plan. DrCertificate does not diagnose, treat or prescribe, and the doctor's note is limited to the recommendation about where you work."
+    },
+    {
+      "kind": "text",
+      "text": "People also call this document a WFH certificate, a work from home medical certificate or a doctor's note for remote work."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When might you need a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "You might need a work from home certificate when a health problem makes the commute or the office hard to manage, but you can still do your job from home. Companies often request a medical record backing up a remote work application, and a physician's letter gives HR something tangible to assess."
+    },
+    {
+      "kind": "text",
+      "text": "A different certificate fits better in other cases. If you cannot work at all, a sick leave certificate is the right note. If your employer wants proof that you can return to the office, the Medical Fitness Certificate option covers fit to work notes, and sports clubs asking about fitness use that option too."
+    },
+    {
+      "kind": "text",
+      "text": "Airlines are a separate matter."
+    },
+    {
+      "kind": "text",
+      "text": "A question about whether you can travel needs an unfit to travel note, not a work from home certificate."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Recovering after a short illness You feel well enough to work but not yet ready for a long commute or a busy office.",
+        "Symptoms that make travel hard A health problem makes the trip to work difficult while the work itself is manageable at home.",
+        "A school or university request A student asked to study remotely for health reasons may need a note for the institution.",
+        "An agency or contract employer An agency placing you with a client may want a doctor's note before agreeing to remote work."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Employers and schools usually expect a work from home certificate to show your name, the doctor's details and the period the recommendation covers. Rules differ by employer, institution, airline and country, so check what your recipient wants before you apply."
+    },
+    {
+      "kind": "text",
+      "text": "In the Philippines, Republic Act No. 11165 defines telecommuting as a work arrangement that lets a private sector employee work from an alternative workplace using telecommunication or computer technologies. The same law says a private employer may offer a telecommuting program to its employees on a voluntary basis, on terms both sides agree."
+    },
+    {
+      "kind": "text",
+      "text": "A medical note does not force an employer to agree."
+    },
+    {
+      "kind": "text",
+      "text": "Before you apply, ask your recipient three questions. Do they have their own form? Do they accept online medical notes? Which dates must the note cover? Airlines rarely ask for a work from home certificate, since travel questions call for an unfit to travel note."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a work from home certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "A work from home certificate from DrCertificate includes your details, the doctor's recommendation, the dates covered and the issuing doctor's details. The final wording depends on what the doctor finds during the chat review."
+    },
+    {
+      "kind": "text",
+      "text": "Your name on the certificate comes from the form. Enter it as it is printed on your ID, because a mismatch is one of the reasons doctors decline."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your details Your name as entered on the application form, which should match your ID.",
+        "Dates The consultation date and, when medically supported, the recommended work from home period.",
+        "Doctor's statement The doctor's recommendation about working from home.",
+        "Doctor's details The doctor's name, qualification (MBBS, MD or MS) and medical council registration details."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a work from home certificate in 4 steps?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a work from home certificate in four steps: fill in the form, pay through Stripe, wait for the doctor's chat review and receive the PDF by email. The whole service runs online, with no video calls and no in person visits."
+    },
+    {
+      "kind": "text",
+      "text": "Typical turnaround is about 30 minutes."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose the Work From Home option, enter your details and describe your health reason and the dates you need.",
+        "2 Step 2: Pay through Stripe Pay the fee for your country at the Stripe checkout. Payment is non refundable.",
+        "3 Step 3: Chat with the doctor An independent certified doctor reviews your request by chat, may ask follow-up questions and decides whether to issue the certificate.",
+        "4 Step 4: Receive your PDF by email If the doctor approves, the certificate arrives as a PDF at the email address you gave."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose Medical Certificate Work From Home on the application form. In the details box, explain your health reason, when it started, why working from home helps and which dates you need covered."
+    },
+    {
+      "kind": "text",
+      "text": "No option fits? Email care@drcertificate.com before you pay, since payments are non refundable."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask about your symptoms, when they began, how they affect your commute or office work and which dates you need. Accurate answers help the doctor reach a decision without delay."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor may ask follow-up questions in the chat. Reply promptly and give true answers."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Health details What you are experiencing and how it affects travel to work or time in the office.",
+        "Dates When symptoms started and the period you want the note to cover.",
+        "Supporting documents Any earlier medical reports or clinic notes you already hold can help the doctor."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can a work from home certificate not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "A DrCertificate work from home certificate cannot be used in India, for legal purposes or for insurance. Applicants must be at least 16, and the service is only for suitable non emergency situations."
+    },
+    {
+      "kind": "text",
+      "text": "Ministry of Labour and Employment rules say an employer may let a worker work from home, subject to the conditions agreed with workers, in industrial establishments covered by standing orders, but DrCertificate notes are still not for submission in India."
+    },
+    {
+      "kind": "text",
+      "text": "If you have severe symptoms, contact local emergency services now."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is always the recipient's decision, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your work from home certificate, you do not receive one and the payment is not refunded. Doctors decline about 2% of requests, mostly when details are wrong or do not fit together."
+    },
+    {
+      "kind": "text",
+      "text": "A name that does not match the ID is a common cause. Symptoms and details that contradict each other are another. A doctor may also decide that your situation needs an in person examination or tests. The online service cannot offer either of those. In that case, visit a local clinic for a physical check."
+    },
+    {
+      "kind": "text",
+      "text": "Refunds apply only to a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "text",
+      "text": "For help, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How much does a work from home certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A work from home certificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The fee covers the doctor's chat review and, if approved, the PDF certificate by email."
+    },
+    {
+      "kind": "text",
+      "text": "You pay through Stripe, and the fee is non refundable."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your work from home certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance of a work from home certificate depends on your employer's, school's or airline's own policy. DrCertificate cannot promise that any recipient will accept it, so check before you apply."
+    },
+    {
+      "kind": "text",
+      "text": "All doctors on the platform are registered with a medical council. A recipient who wants to verify the note can look up the issuing doctor's name and registration with that council."
+    },
+    {
+      "kind": "text",
+      "text": "Does your recipient require its own form? Ask whether a doctor's certificate can go alongside it, or whether you need to see a local doctor in person instead."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Work from home certificate vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "A work from home certificate says you can work, but a doctor recommends doing so from home, while a sick leave certificate says you should rest and not work. Pick the note that matches what your recipient asked for, and choose the form option shown in the table."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who usually receives it",
+        "Form option to choose"
+      ],
+      "rows": [
+        [
+          "Work from home certificate",
+          "You can work, but a doctor recommends working from home for a period",
+          "Employer, HR team, school or agency",
+          "Medical Certificate Work From Home"
+        ],
+        [
+          "Sick leave certificate",
+          "You should rest and not work or study for a period",
+          "Employer, school or university",
+          "Medical Certificate Sick Leave"
+        ],
+        [
+          "Fit to work certificate",
+          "You are medically fit to work or return to work",
+          "Employer or recruitment agency",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Unfit to travel certificate",
+          "You should not travel for a period on medical grounds",
+          "Airline or travel provider",
+          "Medical Certificate Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why choose DrCertificate for a work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is an online platform run by Health Venture OU that connects people in South East Asia with independent doctors. All doctors on the platform are registered with a medical council, and each certificate is decided by a certified doctor with an MBBS, MD or MS."
+    },
+    {
+      "kind": "text",
+      "text": "The platform is open about refusals. About 2% of requests are declined, when the name and ID do not match or when the symptoms shared are inconsistent."
+    },
+    {
+      "kind": "text",
+      "text": "You know the usual limits before you pay."
+    },
+    {
+      "kind": "text",
+      "text": "In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms, and fitness notes are generally valid for 30 days. The form maps simply to your need. Fit to work, fit to fly and sports fitness notes use the Medical Fitness Certificate option, and a general medical certificate uses the Sick Leave option."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate encourages you to confirm that your recipient accepts online medical notes before choosing the service."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about the work from home certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is a work from home certificate valid?"
+    },
+    {
+      "kind": "text",
+      "text": "In most South East Asian countries, a work from home note goes up to 7 days for generic symptoms. The doctor sets the period on your certificate based on the chat review, and your employer or school decides whether that period is enough under its own policy."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a work from home certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate does not promise backdated certificates. The doctor decides which dates the certificate shows, based on what the chat consultation supports. If your employer needs past dates covered, explain this on the form and let the doctor decide, knowing the payment is non refundable if the doctor declines."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How will I receive my work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An approved work from home certificate arrives by email as a PDF, with a typical turnaround of about 30 minutes. Check that the email address on the form is correct before paying, and look in your spam folder if the message does not appear in your inbox."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct my name or dates after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a work from home certificate cannot be corrected once issued, unless the fault came from the medical team. Enter your name as it is printed on your ID and check every date before you pay, because errors made on the form stay on the certificate."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use a work from home certificate in my country?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, if you live in one of the ten South East Asian countries DrCertificate serves and your recipient accepts online notes. The list covers Singapore, Malaysia, Brunei and Indonesia. It also covers the Philippines, Thailand and Vietnam, along with Cambodia, Laos and Myanmar."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details are shared with the independent doctor reviewing your request so the doctor can make a decision. Payment runs through Stripe checkout. For any question about how your data is handled, or to ask about your records, email care@drcertificate.com before or after you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is it possible to obtain a work from home certificate without a video call?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, every request is reviewed by chat. DrCertificate does not offer video or in person consultations. If the doctor feels you need a physical examination or tests, the doctor will decline the request and you should visit a local clinic instead."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Supreme Court of the Philippines E-Library: What telecommuting means"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Fitness Certificate for Adventure Activities",
+        "Fitness Certificate for Gym Membership",
+        "Fitness Certificate for Marathons",
+        "Sports Fitness Certificate Online",
+        "Online medical fitness certificate",
+        "Online Sick Leave Certificate in the Philippines",
+        "Online Sick Leave Certificate in Singapore",
+        "Medical certificates online in Malaysia",
+        "Unfit to Fly Certificate in the Philippines",
+        "Medical Certificate for Migraine"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your work from home certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Apply now for a work from home certificate reviewed by a certified doctor. The fee is 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia, with a typical turnaround of about 30 minutes. The doctor decides whether to issue it, and payment is non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

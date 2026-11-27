@@ -1,0 +1,273 @@
+{
+  "slug": "br/medical-certificates-online-in-brunei",
+  "group": "country",
+  "title": "Medical Certificates Online in Brunei",
+  "description": "Apply online for a medical certificate in Brunei, reviewed by a certified doctor. Sick leave, fitness and travel certificates, sent by email if approved.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Brunei · Reviewed by certified doctors"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor-reviewed medical certificates for residents and workers in Brunei. Fill in a short online form from your phone or laptop. A certified doctor checks your details. When approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter bersertifikat (MBBS, MD, atau MS) menerbitkan surat keterangan ini, dan surat keterangan ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat",
+        "Dikirim lewat email jika disetujui",
+        "Ajukan dari ponsel Anda"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0001"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum Anda mengajukan permohonan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Choose the certificate you need in Brunei"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Surat keterangan sakit Mencatat periode sakit Anda untuk tempat kerja, kampus, atau sekolah, tergantung kebijakan masing-masing. Lihat detail tentang surat keterangan sakit",
+        "Surat keterangan sehat Untuk pekerjaan, pendaftaran masuk universitas, perjalanan, maskapai penerbangan, atau keperluan lain yang meminta pendapat dokter tentang kelayakan kesehatan Anda. Lihat detail tentang surat keterangan sehat",
+        "Surat keterangan tidak layak terbang Untuk kondisi ketika penyakit, cedera, atau masalah kesehatan lain membuat Anda sebaiknya tidak bepergian dengan pesawat. Lihat detail tentang surat keterangan tidak layak terbang",
+        "Surat keterangan medis umum Untuk keperluan pribadi atau resmi lain yang meminta surat keterangan dokter. Lihat detail tentang surat keterangan medis umum"
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat Setiap permohonan dinilai secara individual",
+        "Pengajuan 100% online Ajukan dari ponsel atau laptop Anda",
+        "Pengiriman lewat email jika disetujui Dikirim ke alamat email yang Anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran online yang aman"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Surat keterangan dan aturan setempat"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online fitness certificate in Brunei",
+        "Online sick leave certificate Brunei",
+        "Unfit to fly certificate in Brunei"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cara kerja"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah sederhana, dengan dokter yang memeriksa setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi formulir pengajuan online Masukkan data diri Anda dan alasan permohonan. Anda mungkin diminta membagikan tanda vital atau hasil pengukuran lain melalui tautan aman yang dikirim lewat email.",
+        "2 Langkah 2: Dokter bersertifikat meninjau permohonan Anda Dokter menilai informasi yang Anda berikan dan memutuskan apakah surat keterangan layak diberikan secara medis. Dokter dapat menolak permohonan.",
+        "3 Langkah 3: Terima surat keterangan lewat email, jika disetujui Surat keterangan yang disetujui dikirim secara elektronik ke alamat email yang Anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individual. Penerbitan surat keterangan, isi, dan jangka waktunya merupakan keputusan dokter yang meninjau. Semua dokumen ditujukan kepada organisasi tempat dokumen tersebut diserahkan dan hanya berlaku untuk satu kali penggunaan. Diterima atau tidaknya surat keterangan bergantung pada organisasi tempat Anda menyerahkannya."
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical certificates in other countries"
+    },
+    {
+      "kind": "text",
+      "text": "Negara yang tersedia"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore",
+        "Indonesia",
+        "Philippines",
+        "Thailand",
+        "Vietnam",
+        "Malaysia",
+        "Cambodia",
+        "Laos",
+        "Myanmar"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pertanyaan umum"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What is an online doctor certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An online doctor certificate is a document from a doctor about your health status. It can record illness or physical fitness. With DrCertificate, a certified doctor (MBBS, MD or MS) reviews your request and decides whether to issue one. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "When will I receive my medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "It usually takes about 30 minutes. For fitness cases, doctors review requests from 9 am to 9 pm IST Monday to Saturday, and 10 am to 8 pm IST on Sunday. If the doctor approves your request, your certificate is sent to your email as a PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Which doctor can issue a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "On DrCertificate, a certified doctor (MBBS, MD or MS) issues the certificate. The certificate is not for submission in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Are these medical certificates genuine?"
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues each certificate after reviewing your request, and the doctor may decline it. An approved certificate is a PDF with the doctor's registration number, digital signature and date. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is there an upper limit of sick leaves one can get?"
+    },
+    {
+      "kind": "text",
+      "text": "The duration of sick leave depends on the medical assessment and the doctor’s discretion. Each case is individually evaluated. Specific institutional policies may also apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "In which case do I need to visit a doctor physically or get an online consultation?"
+    },
+    {
+      "kind": "text",
+      "text": "See a doctor in person if you are hospitalized, undergoing specialized treatment or have emergency symptoms. An online consultation can suit common, non-emergency situations, and the doctor may decline a request and advise an in-person visit. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is there a medical leave format for students?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. The sick leave option covers students too, and an approved certificate gives the rest duration and the doctor's details to show your school or university. Ask them first whether they accept online medical notes."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to get a fitness medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "You can apply by filling out a form with your health details. A certified doctor reviews them, may contact you by secure digital chat, and decides whether to issue a certificate about your fitness for activities such as study, work or travel."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my health insurance cover the costs?"
+    },
+    {
+      "kind": "text",
+      "text": "Coverage of medical certificates by health insurance varies depending on the insurance policy. Typically, costs for online medical certificates are paid out of pocket unless explicitly covered by your health insurance plan in general telemedicine practice."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Which countries do you operate in?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate lists 10 countries in South East Asia: Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, Cambodia, Laos, Myanmar and Brunei. Available services can differ, so check your country's page before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to apply in Brunei? It only takes a few minutes."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter bersertifikat meninjau setiap permohonan. Jika disetujui, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ingin bertanya dulu? care@drcertificate.com"
+    }
+  ]
+}

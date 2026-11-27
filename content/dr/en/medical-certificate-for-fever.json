@@ -1,0 +1,436 @@
+{
+  "slug": "medical-certificate-for-fever",
+  "group": "symptom",
+  "title": "Medical Certificate for Fever Online",
+  "description": "Request a medical certificate for fever online in South East Asia. A certified doctor reviews your chat request, with approved PDFs sent by email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Doctor reviewed requests by digital chat for non emergency fever in South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "Down with a fever and need a note for work or university? DrCertificate lets you request a medical certificate for fever online through a chat based consultation with a certified doctor. The doctor reviews what you share and decides whether to issue a certificate."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for non emergency cases in 10 South East Asian countries, including Singapore, Malaysia, the Philippines and Indonesia."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Can you get a medical certificate for fever online?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. DrCertificate connects people in South East Asia with certified MBBS, MD or MS doctors who can review a fever case through a digital chat consultation and decide whether to issue a medical certificate for fever. Approved certificates arrive as a PDF by email. The service is for non emergency fever and is not for India, legal or insurance use."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical certificate for fever?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for fever is a note from a certified doctor stating that you were assessed and, in the doctor's view, needed rest or a change to how you work because of fever. Fever cases usually fall under a sick leave certificate. A work from home certificate fits when you can still work but should stay away from other people."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate records the doctor's decision after a digital chat. DrCertificate does not diagnose, treat or prescribe. This means the note is not a treatment plan."
+    },
+    {
+      "kind": "text",
+      "text": "Employers, universities and schools are the usual readers."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which kinds of fever can a doctor consider online?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor on DrCertificate can consider short, common fevers where the person is unwell but managing at home. Fever with a cold, flu, like aches or a mild stomach upset are typical examples."
+    },
+    {
+      "kind": "text",
+      "text": "No fever comes with a set number of days off."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor reads your answers in the chat and decides whether you need rest, and for how long, or whether a certificate is not right for you at all. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms like fever."
+    },
+    {
+      "kind": "text",
+      "text": "The NHS advises staying at home and avoiding contact with other people until you no longer have a high temperature, which is why a fever note usually covers rest at home or remote work. A fever that comes with severe symptoms, or one that needs a blood test or an examination to understand, is not suitable for a chat consultation."
+    },
+    {
+      "kind": "text",
+      "text": "In tropical parts of the region, a sudden high fever can point to dengue, which doctors usually check with blood tests in person."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Fever with a cold or flu A raised temperature with a runny nose, cough, sore throat or body aches.",
+        "Viral fever A short fever with tiredness, chills and headache, and no warning signs.",
+        "Fever with a mild stomach upset Fever with nausea or loose stools while you can still keep fluids down.",
+        "Suspected dengue Usually needs blood tests in person, and a chat request may be declined."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should you tell the doctor about your fever?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tell the doctor your highest temperature, when the fever started and how it has changed since. Those three details give the doctor most of what is needed to decide on a fever certificate.",
+        "Add any other symptoms, like chills, headache, cough or body aches, and say how bad they feel. Mention whether you can eat, drink and sleep. If you already had a blood test or another check, include the result.",
+        "Then state the dates you want covered and whether you need sick leave or a work from home note. Use the same name that appears on your ID."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is fever not suitable for an online certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Fever is not suitable for an online certificate when it comes with any emergency warning sign. MedlinePlus advises calling 911 or your local emergency number if a person with fever shows any of the signs below."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is only for suitable non emergency situations. The platform does not diagnose, treat or prescribe, and a doctor may decline a request that cannot be judged safely over chat."
+    },
+    {
+      "kind": "text",
+      "text": "Get help first. The certificate can wait."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Hard to wake or confused The person cannot be woken easily or seems confused.",
+        "Cannot walk or has a seizure The person is unable to walk or has a seizure.",
+        "Breathing trouble or blue colour Difficulty breathing, or blue lips, tongue or nails.",
+        "Very bad headache or stiff neck A severe headache, or a neck that feels stiff."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which certificate should you choose for fever?"
+    },
+    {
+      "kind": "text",
+      "text": "For most fever cases, the Sick Leave option on the form is the right choice. The table matches each form option to a fever situation. The form cannot confirm that your fever has cleared or cover time spent looking after a sick relative."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Form option",
+        "When it suits someone with fever",
+        "Good to know"
+      ],
+      "rows": [
+        [
+          "Sick Leave, for university or work",
+          "You need time off work or classes to rest at home",
+          "Also used for a general medical certificate"
+        ],
+        [
+          "Work From Home",
+          "You can work but should keep away from other people",
+          "Up to 7 days for generic symptoms in most countries served"
+        ],
+        [
+          "Unfit to Travel",
+          "Fever means you should not travel on a booked date",
+          "The doctor decides if travel should wait"
+        ],
+        [
+          "Medical Fitness Certificate",
+          "A school, employer or club asks for a fitness or good health note",
+          "Generally valid for 30 days and not a recovery certificate"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical certificate for fever online?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a medical certificate for fever online in four steps, from the form to your inbox. The whole request runs through a written chat, with no video call."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose your certificate option and describe your fever, the dates you need and your details as they appear on your ID.",
+        "2 Step 2: Pay securely through Stripe Pay the fee for your country through Stripe before the review starts.",
+        "3 Step 3: Doctor review by digital chat A certified doctor reads your request, may ask questions in the chat and decides whether to issue a certificate.",
+        "4 Step 4: Receive your PDF by email Approved certificates arrive by email as a PDF, usually in about 30 minutes."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a medical certificate for fever cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for fever costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The price in other countries served depends on the country and shows on the form before you pay."
+    },
+    {
+      "kind": "text",
+      "text": "Your payment covers a certified doctor's review of your request, not a promised certificate. You pay through Stripe."
+    },
+    {
+      "kind": "text",
+      "text": "All payments are non refundable, except a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor does not issue a certificate for fever?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor does not issue a certificate for fever, you receive no certificate and the payment is not refunded. Issuing is always the independent decision of the doctor who reviews your request."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline about 2% of requests. The usual reasons are details that do not match, like a name that differs from the ID, or symptoms and answers that do not fit together. A fever with warning signs, or one that needs tests, is also not suitable for chat."
+    },
+    {
+      "kind": "text",
+      "text": "Questions about a request can go to care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can you use a medical certificate for fever?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You can use a medical certificate for fever from DrCertificate in the 10 South East Asian countries listed below, including in Manila, Cebu and Davao in the Philippines.",
+        "The certificate is not for submission in India, not for legal purposes and must not be used for insurance. Applicants must be at least 16.",
+        "Acceptance is up to your employer, school or university. Check that they accept online medical notes before you apply."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical certificates online in Singapore",
+        "Medical certificates online in Indonesia",
+        "Medical certificates online in the Philippines",
+        "Medical certificates online in Thailand",
+        "Medical certificates online in Vietnam",
+        "Medical certificates online in Malaysia",
+        "Medical certificates online in Cambodia",
+        "Medical certificates online in Laos",
+        "Medical certificates online in Myanmar",
+        "Medical certificates online in Brunei",
+        "Medical Certificate Online in Manila",
+        "Medical Certificate Online in Cebu",
+        "Medical Certificate Online in Davao"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why request your fever certificate through DrCertificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is an online platform run by Health Venture OU that connects people in South East Asia with independent, certified doctors."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Registered, certified doctors An MBBS, MD or MS doctor registered with a medical council reviews every request.",
+        "PDF by email in about 30 minutes Approved certificates are sent to your inbox as a PDF.",
+        "Reachable support Write to care@drcertificate.com. The address is in Salcedo Village, Makati City, Metro Manila."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about medical certificates for fever"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I share fever test results with the doctor?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, mention any test results you already have when you describe your fever in the form, for example a blood test done for suspected dengue. The doctor considers what you share when deciding on the certificate. If you have had no tests, state this, and describe your temperature and symptoms instead."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long can a sick leave certificate for fever cover?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor who reviews your request decides how long a sick leave certificate for fever covers, and whether to issue one at all. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms like fever. Ask only for the dates you need."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my employer accept an online medical certificate for fever?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer or university decides whether to accept an online medical certificate for fever. Every doctor on DrCertificate is registered with a medical council, but acceptance rules differ between workplaces. Check with HR or your school office that online medical notes are accepted before you apply, because payments are non refundable."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I have a video call or see a doctor in person?"
+    },
+    {
+      "kind": "text",
+      "text": "No, DrCertificate does not offer video or in person consultations. Every fever request is handled through the online form and a written digital chat with a certified doctor. If you feel you need to be examined, visit a local clinic or hospital instead of applying online."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What should I do if my fever gets worse?"
+    },
+    {
+      "kind": "text",
+      "text": "If your fever gets worse, or you notice any emergency warning sign, get urgent in person care straight away. Call your local emergency number for signs like confusion, trouble breathing, a stiff neck or a seizure. A certificate is never a reason to delay care, and the online service is for non emergency cases."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How quickly will my fever certificate arrive?"
+    },
+    {
+      "kind": "text",
+      "text": "An approved medical certificate for fever usually arrives as a PDF by email in about 30 minutes. Check your spam folder if it does not show up. Fitness requests are reviewed from 9 am to 9 pm IST Monday to Saturday, and 10 am to 8 pm IST on Sunday."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "NHS: Staying home with a high temperature",
+        "MedlinePlus: Fever signs that need emergency care"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related certificates and conditions"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for Food Poisoning",
+        "Medical Certificate for Migraine",
+        "Medical Certificate for Stomach Infection",
+        "Medical Certificate for Allergy",
+        "Sick leave certificate",
+        "Work from home certificate",
+        "General medical certificate",
+        "Medical fitness certificate",
+        "Online Sick Leave Certificate in the Philippines",
+        "Online Sick Leave Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Request a medical certificate for fever"
+    },
+    {
+      "kind": "text",
+      "text": "Apply now to request a medical certificate for fever. The price is 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia, and approved certificates arrive as a PDF by email. Notice any emergency warning sign? Get urgent care first."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

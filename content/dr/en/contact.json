@@ -1,0 +1,50 @@
+{
+  "slug": "contact",
+  "group": "company",
+  "title": "Contact - DrCertificate.com",
+  "description": "Contact DrCertificate: email care@drcertificate.com or send us your question.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Questions about a certificate, or interested in working with us? We're happy to help."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Get in Touch With Us"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Email care@drcertificate.com",
+        "Address KMC Armstrong Corporate Center, H.V. Dela Costa, Salcedo Village, Makati City, 1227 Metro Manila, Philippines"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Have a Question? Email us"
+    },
+    {
+      "kind": "text",
+      "text": "Write to us with your question, and include the name and email address you used on the form if it is about a request."
+    },
+    {
+      "kind": "text",
+      "text": "Email care@drcertificate.com"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to apply? It only takes a few minutes."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor reviews every request. If approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

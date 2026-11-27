@@ -1,0 +1,765 @@
+{
+  "slug": "general-medical-certificate",
+  "group": "service",
+  "service": "general",
+  "title": "Online general medical certificate",
+  "description": "Apply online for a doctor-reviewed general medical certificate for work, study or travel. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế tổng quát · Do bác sĩ được chứng nhận xem xét"
+    },
+    {
+      "kind": "text",
+      "text": "Cần giấy tờ chính thức chứng minh việc khám bệnh, bị ốm, hồi phục hoặc tình trạng sức khỏe? Hãy đăng ký trực tuyến, bác sĩ được chứng nhận sẽ xem xét yêu cầu của bạn, và nếu được chấp thuận, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ được chứng nhận (MBBS, MD hoặc MS) cấp giấy chứng nhận này, và giấy chứng nhận không dùng để nộp tại Ấn Độ."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ được chứng nhận xem xét",
+        "Gửi qua email nếu được chấp thuận",
+        "Hoạt động 365 ngày mỗi năm"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cần loại giấy chứng nhận khác?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Nghỉ ốm",
+        "Đủ sức khỏe",
+        "Không đủ sức khỏe để bay"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ được chứng nhận xem xét Mỗi yêu cầu đều được đánh giá riêng",
+        "Đăng ký trực tuyến 100% Đăng ký trên điện thoại hoặc máy tính xách tay",
+        "Nhận qua email nếu được chấp thuận Gửi đến địa chỉ email bạn cung cấp",
+        "Thanh toán do Stripe xử lý Thanh toán trực tuyến an toàn"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Làm thế nào để nhận giấy chứng nhận y tế thông thường trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Để nhận giấy chứng nhận y tế thông thường trực tuyến với DrCertificate, bạn điền biểu mẫu trực tuyến, thanh toán qua Stripe và trả lời câu hỏi của bác sĩ có chứng nhận trong phần trao đổi bằng tin nhắn. Nếu bác sĩ chấp thuận, giấy chứng nhận sẽ được gửi qua email dưới dạng tệp PDF, thường trong khoảng 30 phút. Bác sĩ sẽ quyết định có cấp giấy hay không, dựa trên thông tin của bạn."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Trước khi đăng ký"
+    },
+    {
+      "kind": "text",
+      "text": "Về giấy chứng nhận này"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận y tế tổng quát là gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế tổng quát là văn bản chính thức do bác sĩ cấp sau khi đánh giá sức khỏe của bạn. Giấy này xác nhận việc khám bệnh, tình trạng bệnh, sự hồi phục hoặc tình trạng sức khỏe, tùy theo mục đích bạn cần."
+    },
+    {
+      "kind": "text",
+      "text": "Nhà tuyển dụng, trường phổ thông, trường đại học, đơn vị du lịch và các tổ chức khác thường yêu cầu giấy này làm giấy tờ chứng minh về sức khỏe."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Nội dung của giấy chứng nhận"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Thông tin cá nhân chính xác của bạn",
+        "Ngày khám",
+        "Đánh giá y khoa liên quan",
+        "Mục đích của giấy chứng nhận",
+        "Thời gian nghỉ ngơi được khuyến nghị, nếu có",
+        "Họ tên và thông tin hành nghề của bác sĩ",
+        "Chữ ký hoặc xác thực điện tử"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Nội dung của giấy chứng nhận tùy thuộc vào mục đích sử dụng và đánh giá chuyên môn của bác sĩ."
+    },
+    {
+      "kind": "text",
+      "text": "Tránh dùng giấy chứng nhận giả. Giấy làm từ mẫu giả, giấy tờ đã chỉnh sửa hoặc giấy tạo tức thì bằng công cụ mà không có sự tham gia của bác sĩ có thể bị từ chối và gây thêm rắc rối. Giấy chứng nhận thật chỉ được cấp sau khi có đánh giá y khoa thực sự."
+    },
+    {
+      "kind": "text",
+      "text": "Dành cho ai"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Khi nào bạn có thể cần giấy chứng nhận y tế tổng quát"
+    },
+    {
+      "kind": "text",
+      "text": "Bất cứ khi nào một tổ chức yêu cầu giấy tờ chính thức về sức khỏe. Bác sĩ quyết định nội dung có thể ghi trên giấy chứng nhận, dựa trên đánh giá của mình."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người đi làm"
+    },
+    {
+      "kind": "text",
+      "text": "Dùng cho việc nghỉ vì lý do sức khỏe, hồ sơ tại nơi làm việc hoặc yêu cầu khi đi làm lại."
+    },
+    {
+      "kind": "text",
+      "text": "Thường được yêu cầu cho"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy tờ nghỉ ốm",
+        "Xác minh vắng mặt tại nơi làm việc",
+        "Hồi phục sau khi ốm",
+        "Yêu cầu hồ sơ của bộ phận HR"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Học sinh, sinh viên"
+    },
+    {
+      "kind": "text",
+      "text": "Khi bệnh khiến bạn phải nghỉ học, lỡ kỳ thi, buổi đào tạo hoặc các hoạt động học tập khác."
+    },
+    {
+      "kind": "text",
+      "text": "Thường được yêu cầu cho"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Nghỉ học",
+        "Lỡ kỳ thi",
+        "Xin gia hạn trong học tập",
+        "Yêu cầu để tham gia thể thao"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người làm việc từ xa và kết hợp"
+    },
+    {
+      "kind": "text",
+      "text": "Bệnh tật có thể ảnh hưởng đến khả năng làm việc của bạn, kể cả khi làm việc tại nhà."
+    },
+    {
+      "kind": "text",
+      "text": "Thường được yêu cầu cho"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Duyệt nghỉ ốm",
+        "Giấy tờ cho bộ phận HR",
+        "Tạm thời không thể làm việc",
+        "Yêu cầu liên quan đến sức khỏe tại nơi làm việc"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Lý do đăng ký thường gặp"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy tờ y tế cho nơi làm việc",
+        "Nghỉ học ở trường phổ thông hoặc đại học",
+        "Bằng chứng bị ốm",
+        "Xác nhận đã hồi phục",
+        "Yêu cầu liên quan đến đi lại",
+        "Xác minh tình trạng sức khỏe chung"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Hãy kiểm tra yêu cầu trước"
+    },
+    {
+      "kind": "text",
+      "text": "Việc giấy có được chấp nhận hay không tùy thuộc vào tổ chức mà bạn nộp. Trước khi nộp, hãy kiểm tra xem các bên sau có yêu cầu mẫu giấy cụ thể hoặc thêm thông tin hay không:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Nhà tuyển dụng",
+        "Trường phổ thông hoặc đại học",
+        "Cơ quan nhà nước",
+        "Công ty du lịch"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mỗi yêu cầu đều được đánh giá riêng. Việc có cấp giấy chứng nhận hay không, nội dung và thời hạn của giấy do bác sĩ xem xét quyết định. Mọi giấy tờ đều được gửi đến tổ chức mà bạn nộp và chỉ có giá trị sử dụng một lần. Việc giấy có được chấp nhận hay không tùy thuộc vào tổ chức mà bạn nộp."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi làm việc, trường học hoặc hãng hàng không thường yêu cầu gì ở một giấy chứng nhận y tế thông thường?"
+    },
+    {
+      "kind": "text",
+      "text": "Hầu hết nơi làm việc và trường học yêu cầu giấy do bác sĩ đã đăng ký hành nghề cấp, có ghi tên bạn, nêu rõ các ngày và đưa ra khuyến nghị. Singapore là ví dụ cho thấy quy định có thể chặt chẽ đến mức nào. Ministry of Manpower cho biết, để được hưởng nghỉ ốm có lương, người lao động phải được một người hành nghề y đã đăng ký theo Medical Registration Act hoặc Dental Registration Act xác nhận là không đủ sức khỏe để làm việc."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bạn làm việc tại Singapore, hãy xác nhận với bộ phận nhân sự rằng giấy của bạn đáp ứng quy định này trước khi đăng ký."
+    },
+    {
+      "kind": "text",
+      "text": "Quy định khác nhau tùy theo nơi làm việc, cơ sở giáo dục, hãng hàng không và quốc gia."
+    },
+    {
+      "kind": "text",
+      "text": "Ở hầu hết các nước Đông Nam Á, giấy nghỉ ốm và giấy làm việc tại nhà cho các triệu chứng thông thường có thời hạn tối đa 7 ngày. Bên nhận có thể đặt giới hạn ngắn hơn, yêu cầu dùng mẫu riêng của họ hoặc hoàn toàn không chấp nhận giấy trực tuyến."
+    },
+    {
+      "kind": "text",
+      "text": "Trước khi đăng ký, hãy hỏi bên nhận ba điều. Họ có chấp nhận giấy chứng nhận y tế trực tuyến không? Họ có cần mẫu hoặc định dạng riêng không? Một giấy có thể ghi tối đa bao nhiêu ngày?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy nghỉ ốm trực tuyến tại Singapore",
+        "Giấy chứng nhận y tế trực tuyến tại Malaysia",
+        "Giấy nghỉ ốm trực tuyến tại Thái Lan",
+        "Cách nhận giấy chứng nhận y tế trực tuyến để xin nghỉ"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận y tế thông thường gồm những nội dung gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế thông thường của DrCertificate gồm thông tin cá nhân của bạn, các ngày được ghi trong giấy, nhận định của bác sĩ và thông tin của bác sĩ cấp giấy."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bên nhận cần một mục mà giấy chứng nhận không có, hãy xin mẫu riêng của họ trước khi đăng ký."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Thông tin người bệnh Họ tên đầy đủ và thông tin giấy tờ tùy thân của bạn, hai thông tin này phải khớp nhau.",
+        "Các ngày Ngày tư vấn và khoảng thời gian bác sĩ khuyến nghị.",
+        "Nhận định của bác sĩ Khuyến nghị của bác sĩ dựa trên phần trao đổi bằng tin nhắn.",
+        "Thông tin bác sĩ Tên bác sĩ, bằng cấp MBBS, MD hoặc MS và số đăng ký với hội đồng y khoa."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cách thức hoạt động"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ba bước đơn giản, mọi yêu cầu đều được bác sĩ kiểm tra"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Bước 1: Điền đơn đăng ký trực tuyến Nhập thông tin của bạn và lý do yêu cầu. Bạn có thể được đề nghị cung cấp các chỉ số sinh tồn hoặc số đo khác qua một đường liên kết bảo mật được gửi qua email.",
+        "2 Bước 2: Bác sĩ được chứng nhận xem xét yêu cầu của bạn Bác sĩ đánh giá thông tin bạn cung cấp và quyết định liệu việc cấp giấy chứng nhận có phù hợp về mặt y khoa hay không. Bác sĩ có thể từ chối yêu cầu.",
+        "3 Bước 3: Nhận giấy chứng nhận qua email, nếu được chấp thuận Giấy chứng nhận đã được chấp thuận sẽ được gửi dưới dạng điện tử đến địa chỉ email bạn cung cấp."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ tiếp tục trên biểu mẫu đăng ký bảo mật của DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bạn nên chọn mục nào trên biểu mẫu để xin giấy chứng nhận y tế thông thường?"
+    },
+    {
+      "kind": "text",
+      "text": "Hãy chọn mục “Sick Leave” để xin giấy chứng nhận y tế thông thường. Trên biểu mẫu, mục này được ghi là “Medical Certificate, Sick Leave, for university or work”."
+    },
+    {
+      "kind": "text",
+      "text": "Trong phần trả lời, hãy nêu rằng bạn cần giấy chứng nhận y tế thông thường và ai sẽ nhận giấy, ví dụ nơi làm việc hoặc trường học của bạn. Điều đó giúp bác sĩ biết giấy được dùng vào mục đích gì."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu không có mục nào phù hợp, hãy gửi email đến care@drcertificate.com trước khi thanh toán."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bác sĩ sẽ hỏi bạn những gì khi xin giấy chứng nhận y tế thông thường?"
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ sẽ hỏi về triệu chứng của bạn, thời điểm bắt đầu và những ngày cần ghi trong giấy chứng nhận. Bạn cũng có thể được hỏi bệnh ảnh hưởng thế nào đến công việc hoặc việc học, và bạn đã đi khám bác sĩ khác chưa."
+    },
+    {
+      "kind": "text",
+      "text": "Hãy ghi họ tên và số giấy tờ tùy thân đúng như trên giấy tờ tùy thân, chính xác từng chữ cái. Thông tin không khớp là một trong những lý do khiến yêu cầu bị từ chối."
+    },
+    {
+      "kind": "text",
+      "text": "Hồ sơ từ lần khám trước tại phòng khám có thể hữu ích, vì vậy hãy cho bác sĩ biết nếu bạn có. Bác sĩ có thể hỏi thêm trong phần trao đổi bằng tin nhắn trước khi quyết định."
+    },
+    {
+      "kind": "text",
+      "text": "Hãy trả lời chính xác và kịp thời."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận y tế thông thường không thể được sử dụng ở đâu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế chung của DrCertificate không thể được sử dụng tại Ấn Độ, cho mục đích pháp lý hoặc cho bảo hiểm. Người đăng ký phải từ 16 tuổi trở lên."
+    },
+    {
+      "kind": "text",
+      "text": "Dịch vụ này chỉ dành cho các trường hợp không khẩn cấp và phù hợp. Nếu bạn bị đau ngực, khó thở hoặc có triệu chứng nặng xuất hiện đột ngột, hãy liên hệ ngay với dịch vụ cấp cứu tại địa phương hoặc đến bệnh viện gần nhất."
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận giấy chứng nhận do bên nhận quyết định. Hãy hỏi họ trước khi bạn đăng ký."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Điều gì xảy ra nếu bác sĩ không thể cấp giấy chứng nhận y tế chung cho bạn?"
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bác sĩ không thể cấp giấy chứng nhận y tế chung, bạn sẽ không nhận được giấy và khoản thanh toán sẽ không được hoàn lại. Bác sĩ từ chối khoảng 2% yêu cầu, thường là do tên và giấy tờ tùy thân không khớp hoặc các triệu chứng và thông tin bạn cung cấp không nhất quán."
+    },
+    {
+      "kind": "text",
+      "text": "Việc đánh giá qua trò chuyện trực tuyến có những giới hạn."
+    },
+    {
+      "kind": "text",
+      "text": "Khi triệu chứng cần khám trực tiếp hoặc làm xét nghiệm, bác sĩ có thể từ chối và đề nghị bạn đến khám trực tiếp tại một phòng khám ở địa phương. Khoản thanh toán không được hoàn lại trong mọi trường hợp, chỉ trừ một trường hợp duy nhất là lỗi kỹ thuật đã được xác minh và được báo cáo trong vòng 24 giờ. Hãy xem khoản phí này là tiền trả cho việc bác sĩ đánh giá, không phải cho một giấy chứng nhận được đảm bảo."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bạn cho rằng lỗi kỹ thuật đã ảnh hưởng đến yêu cầu của mình, hãy gửi thư cho bộ phận hỗ trợ ngay trong ngày."
+    },
+    {
+      "kind": "text",
+      "text": "Liên hệ care@drcertificate.com nếu bạn có bất kỳ câu hỏi nào về yêu cầu của mình."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận y tế chung có giá bao nhiêu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế chung có giá 25 SGD tại Singapore, 399 pesos tại Philippines và 30 MYR tại Malaysia. Giá cho các quốc gia khác sẽ hiển thị khi thanh toán."
+    },
+    {
+      "kind": "text",
+      "text": "Khoản phí này bao gồm việc bác sĩ đánh giá và, nếu được chấp thuận, giấy chứng nhận dạng PDF gửi qua email. Việc thanh toán được thực hiện qua Stripe và không được hoàn lại."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Quốc gia",
+        "Giá"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ tiếp tục trên biểu mẫu đăng ký bảo mật của DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ai cấp giấy chứng nhận y tế chung cho bạn?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ có chứng nhận Mỗi yêu cầu được chuyển đến một bác sĩ có bằng MBBS, MD hoặc MS. Tất cả bác sĩ trên nền tảng đều đã đăng ký với hội đồng y khoa.",
+        "Bác sĩ là người quyết định DrCertificate là một nền tảng. Chỉ bác sĩ mới có quyền quyết định có cấp giấy chứng nhận hay không, và bác sĩ từ chối khoảng 2% số yêu cầu, thường là khi thông tin không khớp hoặc triệu chứng không nhất quán.",
+        "Bác sĩ thẩm định nội dung y khoa Bác sĩ Urooj Arshad, M.B.B.S, Y khoa tổng quát, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi làm việc, trường học hoặc hãng hàng không của tôi có chấp nhận giấy chứng nhận y tế chung không?"
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận tùy thuộc vào chính sách riêng của bên nhận, vì vậy DrCertificate không thể hứa hẹn điều này. Mỗi nơi làm việc, trường học hoặc hãng hàng không đều có quy định riêng về giấy xác nhận y tế trực tuyến."
+    },
+    {
+      "kind": "text",
+      "text": "Bên nhận muốn xác minh giấy có thể tra cứu bác sĩ đã cấp bằng thông tin đăng ký hành nghề ghi trên giấy chứng nhận. Tất cả bác sĩ trên nền tảng đều đã đăng ký với một hội đồng y khoa."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bên nhận yêu cầu dùng mẫu đơn riêng của họ, hãy hỏi họ trước khi bạn đăng ký. Giấy chứng nhận PDF tiêu chuẩn có thể không thay thế được mẫu đơn mà họ yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy chứng nhận y tế chung và các loại giấy chứng nhận liên quan: bạn cần loại nào?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế chung là giấy xác nhận của bác sĩ với nội dung tổng quát, còn mỗi loại giấy chứng nhận liên quan chỉ xác nhận một vấn đề cụ thể. Hãy chọn loại phù hợp với yêu cầu của bên nhận."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Loại giấy",
+        "Nội dung xác nhận",
+        "Thường do ai yêu cầu",
+        "Lựa chọn trên mẫu đơn"
+      ],
+      "rows": [
+        [
+          "Giấy chứng nhận y tế tổng quát",
+          "Một vấn đề sức khỏe và thời gian nghỉ ngơi bác sĩ khuyến nghị cho các ngày được ghi rõ",
+          "Nơi làm việc, trường học, câu lạc bộ",
+          "Sick Leave"
+        ],
+        [
+          "Giấy nghỉ ốm",
+          "Bạn không đủ sức khỏe để làm việc hoặc học tập trong các ngày được ghi rõ",
+          "Nơi làm việc, trường đại học",
+          "Sick Leave"
+        ],
+        [
+          "Giấy chứng nhận đủ sức khỏe",
+          "Bác sĩ đánh giá bạn đủ sức khỏe để làm việc, học tập, chơi thể thao hoặc đi lại",
+          "Nơi làm việc mới, trường học, câu lạc bộ thể thao, hãng hàng không",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Giấy chứng nhận làm việc tại nhà",
+          "Bạn có thể làm việc nhưng nên ở nhà",
+          "Nhà tuyển dụng",
+          "Work From Home"
+        ],
+        [
+          "Giấy chứng nhận không đủ sức khỏe để đi lại",
+          "Bạn không nên đi máy bay hoặc đi lại trong các ngày được ghi rõ",
+          "Hãng hàng không, đơn vị cung cấp dịch vụ du lịch",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Vì sao nên đăng ký trực tuyến"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy tờ y tế mà không cần đến phòng khám"
+    },
+    {
+      "kind": "text",
+      "text": "Bệnh nhẹ, lịch trình bận rộn, khó khăn khi di chuyển hoặc làm việc từ xa có thể khiến việc đi khám tại phòng khám trở nên khó khăn. Đăng ký trực tuyến là lựa chọn đơn giản hơn."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tư vấn từ bất cứ đâu Đăng ký không cần ra khỏi nhà, hữu ích khi bạn cần nghỉ ngơi hoặc không thể đi lại vì bệnh.",
+        "Tiết kiệm thời gian Không cần xếp hàng hay ngồi phòng chờ ở phòng khám, chỉ cần hoàn tất đơn đăng ký trực tuyến.",
+        "Nhận giấy chứng nhận điện tử Nếu được chấp thuận, giấy chứng nhận sẽ được gửi đến email của bạn, sẵn sàng để chia sẻ.",
+        "Quy trình trực tuyến an toàn Thông tin của bạn được xử lý qua quy trình trực tuyến bảo mật."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ là người quyết định. Không có yêu cầu nào được chấp thuận tự động. Bác sĩ được chứng nhận xem xét mọi yêu cầu và quyết định có cấp giấy chứng nhận hay không, nội dung ghi gì và thời hạn bao lâu."
+    },
+    {
+      "kind": "text",
+      "text": "Phạm vi dịch vụ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi dịch vụ đang được cung cấp"
+    },
+    {
+      "kind": "text",
+      "text": "Mỗi quốc gia có trang giấy chứng nhận riêng và các dịch vụ hiện có có thể khác nhau. Hãy chọn quốc gia của bạn để kiểm tra trước khi đăng ký."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Hiện có dịch vụ"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Xem giấy chứng nhận",
+        "Indonesia Xem giấy chứng nhận",
+        "Philippines Xem giấy chứng nhận",
+        "Thailand Xem giấy chứng nhận",
+        "Vietnam Xem giấy chứng nhận",
+        "Malaysia Xem giấy chứng nhận",
+        "Cambodia Xem giấy chứng nhận",
+        "Laos Xem giấy chứng nhận",
+        "Myanmar Xem giấy chứng nhận",
+        "Brunei Xem giấy chứng nhận"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Câu hỏi thường gặp"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Câu hỏi về giấy chứng nhận y tế tổng quát"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận y tế tổng quát trực tuyến là gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế tổng quát là văn bản chính thức do bác sĩ cấp sau khi đánh giá tình trạng sức khỏe của người bệnh. Tùy theo nhu cầu của mỗi người, giấy này xác nhận bằng văn bản các thông tin liên quan đến buổi khám tư vấn, tình trạng bệnh, quá trình hồi phục hoặc tình trạng sức khỏe."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bao lâu thì tôi nhận được Giấy chứng nhận y tế tổng quát?"
+    },
+    {
+      "kind": "text",
+      "text": "Thường mất khoảng 30 phút. Nếu bác sĩ chấp thuận yêu cầu của bạn, giấy chứng nhận sẽ được gửi đến email của bạn dưới dạng tệp PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Dịch vụ có hoạt động tất cả các ngày không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, dịch vụ hoạt động 365 ngày mỗi năm, kể cả cuối tuần và ngày lễ. Bác sĩ chỉ xem xét yêu cầu trong giờ làm việc, vì vậy yêu cầu gửi ngoài giờ sẽ được xử lý vào khung giờ làm việc tiếp theo."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể nhận Giấy chứng nhận y tế tổng quát bằng ngôn ngữ địa phương không?"
+    },
+    {
+      "kind": "text",
+      "text": "Chúng tôi không cam kết cấp giấy chứng nhận bằng ngôn ngữ địa phương. Vui lòng gửi email đến care@drcertificate.com để hỏi trước khi nộp đơn."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ai cấp Giấy chứng nhận y tế tổng quát trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận do bác sĩ có bằng cấp chuyên môn (MBBS, MD hoặc MS) cấp. Bác sĩ làm việc độc lập và là người duy nhất quyết định có cấp giấy hay không cũng như nội dung trong giấy. Giấy chứng nhận này không dùng để nộp tại Ấn Độ."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận có giá bao nhiêu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giá tùy theo quốc gia của bạn, ví dụ 25 SGD tại Singapore, 399 pesos tại Philippines hoặc 30 MYR tại Malaysia. Mẫu đơn đăng ký sẽ hiển thị giá trước khi bạn thanh toán. Khoản thanh toán không được hoàn lại, kể cả khi bác sĩ từ chối yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người sử dụng lao động và các tổ chức có chấp nhận những giấy chứng nhận này không?"
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận tùy thuộc vào tổ chức mà bạn nộp giấy, vì vậy hãy hỏi trước. Người sử dụng lao động, trường học hoặc đại học, cơ quan nhà nước và công ty du lịch đều có yêu cầu riêng, vì vậy hãy xác nhận xem họ có cần mẫu giấy cụ thể hoặc thêm thông tin nào không. Giấy chứng nhận do bác sĩ có bằng cấp chuyên môn cấp, vì vậy hãy hỏi xem họ có chấp nhận điều đó không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể xin Giấy chứng nhận y tế tổng quát vào ngày lễ không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, bạn có thể nộp đơn vào ngày lễ vì dịch vụ hoạt động 365 ngày mỗi năm. Bác sĩ sẽ xem xét yêu cầu của bạn trong giờ làm việc."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Nếu người sử dụng lao động hoặc tổ chức của tôi yêu cầu mẫu giấy cụ thể thì sao?"
+    },
+    {
+      "kind": "text",
+      "text": "Hãy gửi mẫu giấy đó đến care@drcertificate.com trước khi nộp đơn, vì chúng tôi không đảm bảo có thể thay đổi mẫu. Việc chấp nhận tùy thuộc vào tổ chức mà bạn nộp giấy, vì vậy hãy hỏi trước."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận y tế chung có hiệu lực trong bao lâu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế chung có hiệu lực cho các ngày mà bác sĩ ghi trên giấy. Ở hầu hết các nước Đông Nam Á, giấy nghỉ ốm cho các triệu chứng thông thường có thời hạn tối đa 7 ngày, còn giấy chứng nhận đủ sức khỏe thường có hiệu lực trong 30 ngày. Nơi làm việc hoặc trường học của bạn có thể áp dụng thời hạn ngắn hơn, vì vậy hãy kiểm tra chính sách của họ trước."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận y tế chung có thể ghi lùi ngày không?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate không thể hứa cấp giấy chứng nhận y tế chung ghi lùi ngày. Bác sĩ sẽ quyết định giấy có hiệu lực cho những ngày nào, dựa trên các triệu chứng và ngày tháng bạn cung cấp trong cuộc trò chuyện. Nếu ngày tháng bạn đưa ra không phù hợp với triệu chứng, bác sĩ có thể từ chối yêu cầu và khoản thanh toán sẽ không được hoàn lại."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận được gửi bằng cách nào và mất bao lâu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế chung đã được chấp thuận sẽ được gửi dưới dạng PDF qua email, thường khoảng 30 phút sau khi bạn đăng ký. Hãy kiểm tra thư mục thư rác nếu bạn không tìm thấy. Đối với các trường hợp chứng nhận đủ sức khỏe, bác sĩ làm việc từ 9 giờ sáng đến 9 giờ tối IST, từ thứ Hai đến thứ Bảy, và từ 10 giờ sáng đến 8 giờ tối IST vào Chủ nhật."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể sửa tên hoặc ngày tháng sau khi giấy chứng nhận đã được cấp không?"
+    },
+    {
+      "kind": "text",
+      "text": "Không, giấy chứng nhận y tế chung không thể được sửa sau khi đã cấp, trừ khi lỗi do đội ngũ y tế gây ra. Hãy nhập tên đúng như trên giấy tờ tùy thân, chính xác từng chữ cái, và kiểm tra lại mọi ngày tháng trước khi thanh toán. Tên không khớp với giấy tờ tùy thân là lý do phổ biến khiến yêu cầu bị từ chối."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể dùng giấy chứng nhận y tế thông thường ở nước mình không?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận y tế thông thường từ DrCertificate được dùng tại Singapore, Indonesia, Philippines, Thái Lan, Việt Nam, Malaysia, Campuchia, Lào, Myanmar và Brunei. Giấy chứng nhận này không dùng để nộp tại Ấn Độ, không dùng cho mục đích pháp lý và không dùng cho bảo hiểm. Việc giấy có được chấp nhận ở bất kỳ nước nào trong 10 nước này hay không phụ thuộc vào chính sách của bên nhận."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Thông tin sức khỏe của tôi có được giữ riêng tư không?"
+    },
+    {
+      "kind": "text",
+      "text": "Thông tin sức khỏe của bạn được chuyển đến bác sĩ xem xét yêu cầu cấp giấy chứng nhận y tế thông thường của bạn và được dùng để quyết định về yêu cầu đó. Việc thanh toán được thực hiện qua Stripe, một nhà cung cấp dịch vụ thanh toán riêng biệt. Nếu có câu hỏi về cách xử lý thông tin của bạn, hãy gửi email đến care@drcertificate.com trước hoặc sau khi nộp đơn."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nguồn tham khảo"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Ai phải xác nhận nghỉ ốm có lương tại Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Thủ tục giấy tờ đơn giản, dù bạn ở bất cứ đâu."
+    },
+    {
+      "kind": "text",
+      "text": "Dù cho công việc, học tập, du lịch hay nhu cầu cá nhân, bạn có thể đăng ký trực tuyến trong vài phút. Nếu bác sĩ được chứng nhận chấp thuận yêu cầu, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "text",
+      "text": "Có câu hỏi trước khi đăng ký? care@drcertificate.com"
+    }
+  ]
+}

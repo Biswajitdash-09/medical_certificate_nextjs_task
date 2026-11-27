@@ -1,0 +1,117 @@
+{
+  "slug": "refund-cancellation-policy",
+  "group": "legal",
+  "title": "Refund & Cancellation Policy - DrCertificate.com",
+  "description": "How payments, refunds, cancellations and payment disputes work for services on DrCertificate.com.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Scope and Applicability"
+    },
+    {
+      "kind": "text",
+      "text": "This Payments & Refunds Policy governs all financial transactions, billing procedures, and refund conditions related to services provided through DrCertificate.com (“the Platform”). By completing a payment, the User acknowledges, accepts, and agrees to all terms stated herein, as well as those incorporated in the Platform’s Terms of Service and Privacy & Data Protection Policy."
+    },
+    {
+      "kind": "text",
+      "text": "Medical review is conducted by assessing the information, medical records and supporting documents submitted by the User. Additional information, wherever required, is requested through email. A telephone or video consultation is not mandatory for medical review. The payment is towards medical assessment and associated services and does not guarantee the issuance of a medical certificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Payment Processing"
+    },
+    {
+      "kind": "text",
+      "text": "All payments are securely processed through Stripe Payments Europe Ltd. or its authorized affiliates. Service prices and transaction currencies may vary depending on the User’s geographical location. The applicable price and currency will be displayed at checkout before payment confirmation. Prices displayed on the Platform exclude VAT unless expressly stated otherwise. Upon successful payment, an electronic confirmation is sent to the User’s registered email address. Physical invoices or printed receipts are not issued unless legally mandated."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nature of Service"
+    },
+    {
+      "kind": "text",
+      "text": "Payments made on the Platform correspond to a digital teleconsultation service. Upon order confirmation, the Platform immediately allocates medical and administrative resources and assigns the case for professional review. The consultation process is deemed initiated at the moment of successful payment. Consequently, the User agrees that no withdrawal or cancellation rights apply pursuant to Article 16(m) of the EU Consumer Rights Directive 2011/83/EU, which governs digital service delivery."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Non-Refundable Policy"
+    },
+    {
+      "kind": "text",
+      "text": "All payments made on DrCertificate.com are final and strictly non-refundable. Refunds or cancellations are not granted under any circumstances, including but not limited to the following situations:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Non-issuance or rejection of a certificate by the consulting doctor.",
+        "User error, such as incomplete, inaccurate, or misleading information.",
+        "Change of intent after payment submission.",
+        "Institutional, employer, or third-party non-acceptance of the certificate.",
+        "Delays within stated operational timelines.",
+        "Duplicate payments by the same User."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The issuance, details, and validity of any certificate remain solely at the discretion of the consulting healthcare professional."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Refunds and Exceptions"
+    },
+    {
+      "kind": "text",
+      "text": "Refunds are permitted only in the event of a verified technical malfunction originating from the Platform’s system, where no order was created and no consultation initiated. Such issues must be reported within twenty-four (24) hours of payment by emailing care@drcertificate.com with transaction proof. The Platform will review and respond to the refund request within seven (7) working days. Once validated and approved by the Platform's finance team, the refund will be initiated to the original payment method within an additional seven (7) to ten (10) working days. The actual credit of funds may take additional time depending on the processing timelines of the payment gateway, issuing bank, or financial institution, which are beyond the Platform's control. Requests through calls, WhatsApp or personal messages are not accepted as formal refund requests."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Chargebacks and Disputes"
+    },
+    {
+      "kind": "text",
+      "text": "Initiating a chargeback or payment dispute without prior written communication to care@drcertificate.com constitutes a material breach of this Policy and the Terms of Service. By completing payment, the User expressly waives the right to initiate chargebacks based on dissatisfaction, doctor discretion, or non-issuance claims. In case of any dispute, the Platform further reserves the right to furnish transaction records, application details, medical review records, and relevant communications to the payment processor or financial institution. The Platform reserves the right to suspend access, recover administrative costs, or pursue legal action in response to fraudulent or unjustified chargebacks."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Governing Law and Jurisdiction"
+    },
+    {
+      "kind": "text",
+      "text": "All transactions, obligations, and claims arising from the use of this Platform shall be governed by the laws of the Republic of Estonia. All disputes or proceedings shall fall under the exclusive jurisdiction of the competent courts of Cuttack, Odisha (India)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Other Conditions"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "DrCertificate.com is a facilitating platform connecting Users with registered medical practitioners. All medical decisions remain at the independent discretion of the consulting doctor.",
+        "Users are responsible for providing accurate information, selecting the appropriate service and confirming the receiving organisation's requirements before applying.",
+        "Users must provide accurate information, genuine medical records and supporting documents wherever required. The medical team may reject applications involving fraudulent or misleading information, insufficient medical evidence, medico-legal purposes or requests that do not meet medical requirements. Such rejections are not eligible for a standard refund.",
+        "Once a certificate is issued, the service is considered completed. Cancellation, requests for changes to medical details or extensions do not qualify for a refund under the standard policy.",
+        "All add-ons and upgrades are non-refundable.",
+        "No changes can be made to a certificate once issued.",
+        "Users are responsible for monitoring their registered email inbox, including spam and junk folders. Delays resulting from pending information, documentation or responses from the User do not qualify for a standard refund.",
+        "If a User becomes unresponsive or fails to provide the required information for seven (7) consecutive calendar days, the case will be automatically cancelled. Cancelled cases cannot be reopened, and further service requires a fresh application and payment. No refund will be provided for cases cancelled due to User inactivity under the standard policy."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Contact"
+    },
+    {
+      "kind": "text",
+      "text": "For all payment-related verifications, technical clarifications, or billing concerns, please contact care@drcertificate.com ."
+    }
+  ]
+}

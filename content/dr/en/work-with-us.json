@@ -1,0 +1,123 @@
+{
+  "slug": "work-with-us",
+  "group": "company",
+  "title": "Work with us - join DrCertificate as a doctor",
+  "description": "Registered doctors in Southeast Asia: review medical certificate requests online with DrCertificate. Apply and sign online in six short steps.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For registered doctors"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate connects patients with registered doctors who review their requests online and issue medical certificates when they're clinically appropriate. We're looking for doctors to join us."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Registered doctors only We verify every registration",
+        "10 countries Across Southeast Asia",
+        "Six short steps Apply and sign online"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The role"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What the work involves"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Review requests online"
+    },
+    {
+      "kind": "text",
+      "text": "Patients send their requests through DrCertificate, and you review each one online."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "You make the clinical call"
+    },
+    {
+      "kind": "text",
+      "text": "You decide whether a certificate is appropriate, and you stay clinically responsible for every case you sign."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "A free listing for your clinic"
+    },
+    {
+      "kind": "text",
+      "text": "We can show your clinic on DrCertificate at no charge, and refer patients who want to be seen in person."
+    },
+    {
+      "kind": "text",
+      "text": "Who we're looking for"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Is this right for you?"
+    },
+    {
+      "kind": "text",
+      "text": "We work with doctors registered in Southeast Asia who want to help patients get the medical certificates they need, quickly and properly."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You are registered and licensed to practise medicine in one of our 10 countries",
+        "You can share your registration number and a current CV",
+        "You are comfortable reviewing patient requests online",
+        "You can consult in English or another language our patients speak"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "How to apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "From application to your first case"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Fill in the application Six short steps: your details, registration, practice address, documents, how you'd like to work and the agreement.",
+        "2 Sign the agreement online Read the doctor terms and sign with your mouse, finger or stylus, or type your name. We email you a copy with a PDF record.",
+        "3 We verify your registration We check your registration with your medical council or ministry of health.",
+        "4 We contact you with next steps Once you're verified, we email you to get you started."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What you'll need"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your registration number As issued by your medical council",
+        "Your CV PDF or Word, up to 3 MB",
+        "Registration certificate Optional, but it usually speeds up the check",
+        "Your practice address Or where you usually work, if you don't have a clinic"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to join?"
+    },
+    {
+      "kind": "text",
+      "text": "Apply in six short steps. Questions first? Email care@drcertificate.com ."
+    }
+  ]
+}

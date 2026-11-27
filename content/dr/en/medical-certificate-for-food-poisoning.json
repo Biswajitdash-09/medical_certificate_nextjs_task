@@ -1,0 +1,440 @@
+{
+  "slug": "medical-certificate-for-food-poisoning",
+  "group": "symptom",
+  "title": "Medical Certificate for Food Poisoning",
+  "description": "Request a Medical Certificate for Food Poisoning through the web in South East Asia. A certified doctor reviews your request and approved PDFs arrive by email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Doctor reviewed, chat based, delivered by email"
+    },
+    {
+      "kind": "text",
+      "text": "Need a medical certificate for food poisoning without leaving home? DrCertificate connects you with an independent certified doctor who reviews your request through a digital chat and decides whether to issue a certificate."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for non emergency situations only."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate serves people in 10 South East Asian countries, including Singapore, Malaysia, the Philippines and Indonesia. Fill in the online form to start."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Is it possible to obtain a Medical Certificate for Food Poisoning digitally?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. DrCertificate connects people in 10 South East Asian countries with certified MBBS, MD or MS doctors, who may issue a food poisoning medical certificate after a digital chat. Issuing is at the doctor's discretion. Approved certificates arrive as a PDF by email. Limits apply: non emergency cases only, and no use in India, for legal matters or for insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical certificate for food poisoning?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for food poisoning is a document from a certified doctor stating that, after a consultation, you were judged unfit for work or study, or needed to work from home, for a set period. Employers and universities usually ask for one when you miss work or classes."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate records the doctor's decision after a chat consultation, and DrCertificate itself does not diagnose, treat or prescribe."
+    },
+    {
+      "kind": "text",
+      "text": "For food poisoning, the sick leave option is the usual choice. A work from home note suits a person well enough to work but not to travel to the office or campus."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate goes to whoever asked for it, most often an employer, HR team or university office."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which kinds of food poisoning can a doctor consider online?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor can consider the common, milder forms of food poisoning online, where symptoms are typical and you can still keep fluids down. The doctor reads your description, then decides whether a certificate fits and for how long. No number of days is promised before that review."
+    },
+    {
+      "kind": "text",
+      "text": "The period of rest is the doctor's call. A toxin can cause vomiting that settles within a day, while a bacterial infection can take longer to clear. The NHS says food poisoning is rarely serious and usually gets better within a week. Your symptoms, their timing and how you are coping all shape the decision. Nothing about the length is fixed in advance."
+    },
+    {
+      "kind": "text",
+      "text": "Not every case belongs in a chat."
+    },
+    {
+      "kind": "text",
+      "text": "Bloody diarrhoea, signs of severe dehydration or symptoms that keep getting worse need a doctor who can examine you in person."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bacterial food poisoning Linked to bacteria like Salmonella, Campylobacter or E. Coli. Diarrhoea, cramps, vomiting and fever are common.",
+        "Viral stomach bug Norovirus spreads through contaminated food and close contact, with sudden vomiting and watery diarrhoea.",
+        "Toxin food poisoning Toxins from Staphylococcus aureus in food can cause sudden vomiting within hours that often passes quickly.",
+        "Traveller's diarrhoea Loose stools and cramps after contaminated food or water while away from home."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should you tell the doctor about your food poisoning?"
+    },
+    {
+      "kind": "text",
+      "text": "Tell the doctor which symptoms you have, when they started, how severe they are and the leave period you are asking for. Clear, honest details help the doctor reach a decision."
+    },
+    {
+      "kind": "text",
+      "text": "Your name and ID details must match, or the request can be declined."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Symptoms Vomiting, diarrhoea, stomach cramps or fever.",
+        "Onset and duration The date symptoms began and whether they are easing.",
+        "Severity How often you vomit or pass loose stools, and whether you can keep fluids down.",
+        "Reports Any clinic notes or test results you already have.",
+        "Leave requested The dates you need the certificate to cover."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is food poisoning not suitable for an online certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Food poisoning is not suitable for an online certificate when warning signs point to a more serious illness. The NHS tells people in the UK to call its 111 service straight away for the signs below. In South East Asia, see a doctor in person or call local emergency services."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is only for suitable non emergency situations. The platform does not diagnose, treat or prescribe, and a doctor may decline any request that cannot be handled safely by chat."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Constant vomiting You keep being sick and cannot keep fluid down.",
+        "Blood You have bloody diarrhoea or bleeding from the bottom.",
+        "Long lasting diarrhoea Diarrhoea has gone on for more than 7 days.",
+        "Long lasting vomiting Vomiting has gone on for more than 2 days."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which certificate should you choose for food poisoning?"
+    },
+    {
+      "kind": "text",
+      "text": "For most people with food poisoning, the Sick Leave option is the right choice on the DrCertificate form. Choose Work From Home if you can still work remotely, or Unfit to Travel if the illness affects a trip."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Form option",
+        "When it suits food poisoning"
+      ],
+      "rows": [
+        [
+          "Sick Leave, for university or work",
+          "You are too unwell to attend work or classes. This option also covers a general medical certificate."
+        ],
+        [
+          "Work From Home",
+          "You can work but should stay home while symptoms settle."
+        ],
+        [
+          "Unfit to Travel",
+          "Food poisoning stops you from travelling or flying as planned."
+        ],
+        [
+          "Medical Fitness",
+          "Your employer or school asks for a fitness note, including fit to work or fit to fly."
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is the process for obtaining a Medical Certificate for Food Poisoning online?"
+    },
+    {
+      "kind": "text",
+      "text": "You can obtain a Medical Certificate for Food Poisoning through the web by completing the DrCertificate form, paying through Stripe and waiting for a doctor's decision. Approved certificates arrive as a PDF by email, usually in about 30 minutes."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose the Sick Leave, Work From Home, Unfit to Travel or Medical Fitness option. Describe your symptoms, dates and the leave period you need.",
+        "2 Step 2: Pay securely through Stripe Pay the fee for your country. Payment covers the doctor's review and is non refundable.",
+        "3 Step 3: Doctor review by chat A certified doctor reviews your request in a digital chat consultation and decides whether to issue a certificate.",
+        "4 Step 4: Receive your PDF by email If approved, the certificate lands in your inbox as a PDF."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a medical certificate for food poisoning cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for food poisoning costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The price depends on your country."
+    },
+    {
+      "kind": "text",
+      "text": "Payment covers the doctor's review of your request. You pay securely through Stripe, and the payment is non refundable, including when the doctor declines."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor does not issue a certificate for food poisoning?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor does not issue a certificate, you do not receive one and the payment is not refunded. Each doctor makes an independent decision based on what you share."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline about 2% of requests. The usual reasons are details that do not match, like a name that differs from the ID, or symptoms and details that are inconsistent. Warning signs that need in person care are another reason."
+    },
+    {
+      "kind": "text",
+      "text": "Refunds apply only for a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "text",
+      "text": "For help, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can you use a medical certificate for food poisoning?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You can use a DrCertificate medical certificate for food poisoning in 10 South East Asian countries, for work, university or travel plans. Acceptance is up to your employer or institution, so check that they take online medical notes before you apply.",
+        "The certificate is not for submission in India, not for legal purposes and must not be used for insurance. Applicants must be at least 16 years old."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical certificates online in Singapore",
+        "Medical certificates online in Indonesia",
+        "Medical certificates online in the Philippines",
+        "Medical certificates online in Thailand",
+        "Medical certificates online in Vietnam",
+        "Medical certificates online in Malaysia",
+        "Medical certificates online in Cambodia",
+        "Medical certificates online in Laos",
+        "Medical certificates online in Myanmar",
+        "Medical certificates online in Brunei",
+        "Medical Certificate Online in Manila",
+        "Medical Certificate Online in Cebu",
+        "Medical Certificate Online in Davao"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why request your food poisoning certificate through DrCertificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate puts your request in front of a certified doctor registered with a medical council and sends any approved certificate straight to your inbox."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Requests are reviewed by doctors with MBBS, MD or MS qualifications, all registered with a medical council.",
+        "Email delivery Approved certificates arrive as a PDF by email, usually in about 30 minutes.",
+        "Careful checks Doctors decline requests when names and IDs do not match or the details shared are inconsistent.",
+        "Who runs it DrCertificate is operated by Health Venture OU."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about medical certificates for food poisoning"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I share test results or reports for food poisoning?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, you can mention any test results, clinic notes or reports in the details you give on the form. Tests are not always needed for food poisoning, but sharing what you already have gives the doctor a fuller picture. Keep every detail accurate, since inconsistent information is a common reason for a decline."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long can a food poisoning sick leave certificate cover?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides the leave period after the chat, based on your symptoms. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms. The NHS says food poisoning usually gets better within a week, and shorter periods are common."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my employer accept an online medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is decided by your employer or institution, not by DrCertificate. All doctors on the platform are registered with a medical council, but workplace and university rules differ. Check with HR or your school office that online medical notes are accepted before you apply, because payments are non refundable."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I have a video call or see the doctor in person?"
+    },
+    {
+      "kind": "text",
+      "text": "No. DrCertificate does not offer video or in person consultations. The doctor reviews your request through a digital chat consultation only. If you feel your food poisoning needs a physical examination, visit a local clinic or hospital instead of applying online."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What should I do if my food poisoning symptoms get worse?"
+    },
+    {
+      "kind": "text",
+      "text": "Seek in person medical care straight away if food poisoning gets worse. Go to a clinic or hospital if you cannot keep fluids down, notice blood in your stool, or have diarrhoea beyond 7 days or vomiting beyond 2 days. In an emergency, call your local emergency number."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How fast will I receive my food poisoning certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Approved certificates usually arrive by email as a PDF in about 30 minutes. The doctor first reviews your form and completes the chat consultation. A certificate cannot be corrected once issued unless the fault came from the medical team, so check your name, ID and dates before you submit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "NHS: How long food poisoning usually lasts"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related certificates and conditions"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for Migraine",
+        "Medical Certificate for Stomach Infection",
+        "Medical Certificate for Allergy",
+        "Medical Certificate for Ankle Sprain",
+        "Sick leave certificate online",
+        "Work from home certificate",
+        "Medical fitness certificate",
+        "General medical certificate",
+        "Online Sick Leave Certificate in the Philippines",
+        "Unfit to Fly Certificate in the Philippines"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Request a medical certificate for food poisoning"
+    },
+    {
+      "kind": "text",
+      "text": "Start your request on the DrCertificate form. It costs 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia, and approved certificates arrive as a PDF by email. If you have warning signs, seek urgent in person care instead."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

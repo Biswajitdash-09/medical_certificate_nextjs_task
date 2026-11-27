@@ -1,0 +1,745 @@
+{
+  "slug": "sick-leave-certificate",
+  "group": "service",
+  "service": "sick-leave",
+  "title": "Online sick leave certificate",
+  "description": "Apply online for a doctor-reviewed sick leave certificate for work or study. A certified doctor reviews every request, and approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm · Do bác sĩ được chứng nhận xem xét"
+    },
+    {
+      "kind": "text",
+      "text": "Khi không khỏe, bạn không nên phải đi lại và chờ đợi ở phòng khám chỉ vì thủ tục giấy tờ. Hãy đăng ký trực tuyến, bác sĩ được chứng nhận sẽ xem xét yêu cầu của bạn, và nếu được chấp thuận, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ được chứng nhận (MBBS, MD hoặc MS) cấp giấy chứng nhận này, và giấy chứng nhận không dùng để nộp tại Ấn Độ."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ được chứng nhận xem xét",
+        "Gửi qua email nếu được chấp thuận",
+        "Hoạt động 365 ngày mỗi năm"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cần loại giấy chứng nhận khác?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Đủ sức khỏe",
+        "Không đủ sức khỏe để bay",
+        "Y tế tổng quát"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0002"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised rest for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ được chứng nhận xem xét Mỗi yêu cầu đều được đánh giá riêng",
+        "Đăng ký trực tuyến 100% Đăng ký trên điện thoại hoặc máy tính xách tay",
+        "Nhận qua email nếu được chấp thuận Gửi đến địa chỉ email bạn cung cấp",
+        "Thanh toán do Stripe xử lý Thanh toán trực tuyến an toàn"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Làm thế nào để xin giấy nghỉ ốm trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Để xin giấy nghỉ ốm trực tuyến từ DrCertificate, hãy điền mẫu đơn trực tuyến, thanh toán qua Stripe và trả lời các câu hỏi của một bác sĩ độc lập có chứng chỉ hành nghề qua tin nhắn trò chuyện. Nếu bác sĩ chấp thuận, giấy chứng nhận sẽ được gửi qua email dưới dạng PDF, thường trong khoảng 30 phút. Việc cấp giấy luôn phụ thuộc vào đánh giá chuyên môn của bác sĩ."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Trước khi đăng ký"
+    },
+    {
+      "kind": "text",
+      "text": "Về giấy chứng nhận này"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy nghỉ ốm là gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm là văn bản y tế chính thức do bác sĩ được chứng nhận cấp. Giấy này xác nhận rằng, về mặt y khoa, bạn không đủ sức khỏe để đi làm, đi học hoặc thực hiện công việc thường ngày trong một khoảng thời gian nhất định."
+    },
+    {
+      "kind": "text",
+      "text": "Nhà tuyển dụng và các tổ chức dùng giấy này để xác minh những lần vắng mặt thực sự vì lý do sức khỏe và lưu giữ hồ sơ chuyên cần chính xác."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Nội dung của giấy chứng nhận"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Thông tin cá nhân chính xác của bạn",
+        "Ngày khám",
+        "Lý do nghỉ",
+        "Thời gian nghỉ ngơi được khuyến nghị",
+        "Họ tên và thông tin hành nghề của bác sĩ",
+        "Chữ ký hoặc xác thực điện tử"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Hãy kiểm tra các thông tin này trước khi nộp. Giấy chứng nhận thiếu thông tin có thể bị nhà tuyển dụng hoặc tổ chức xử lý chậm hoặc từ chối."
+    },
+    {
+      "kind": "text",
+      "text": "Tránh dùng giấy chứng nhận giả. Giấy chứng nhận thật chỉ được cấp sau khi có đánh giá sức khỏe thực sự từ bác sĩ đủ chuyên môn. Giấy làm từ công cụ tạo giấy chứng nhận hoặc mẫu đã chỉnh sửa có thể bị từ chối và có thể gây rắc rối cho bạn với nhà tuyển dụng hoặc tổ chức."
+    },
+    {
+      "kind": "text",
+      "text": "Dành cho ai"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Khi nào bạn có thể cần giấy nghỉ ốm"
+    },
+    {
+      "kind": "text",
+      "text": "Quy định mỗi nơi một khác, nhưng giấy chứng nhận của bác sĩ thường được yêu cầu khi bạn phải nghỉ làm hoặc nghỉ học vì bệnh."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người đi làm"
+    },
+    {
+      "kind": "text",
+      "text": "Giúp bộ phận HR duyệt ngày nghỉ của bạn theo quy định công ty và giữ hồ sơ chấm công, tính lương chính xác."
+    },
+    {
+      "kind": "text",
+      "text": "Thường cần khi"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bạn nghỉ làm vì bị ốm",
+        "Số ngày nghỉ ốm vượt quá mức công ty quy định",
+        "Công ty yêu cầu bằng chứng bạn bị ốm"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Học sinh, sinh viên"
+    },
+    {
+      "kind": "text",
+      "text": "Các trường phổ thông và đại học thường yêu cầu giấy chứng nhận của bác sĩ trước khi duyệt cho nghỉ ốm."
+    },
+    {
+      "kind": "text",
+      "text": "Thường cần khi"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bạn nghỉ học hoặc lỡ kỳ thi",
+        "Bạn lỡ bài tập hoặc hoạt động học tập",
+        "Bạn vắng các buổi bắt buộc phải có mặt"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người làm việc từ xa và kết hợp"
+    },
+    {
+      "kind": "text",
+      "text": "Làm việc tại nhà không có nghĩa là bạn không cần thời gian hồi phục. Sốt, mệt mỏi nặng hoặc nhiễm trùng có thể khiến bạn không làm việc được, dù ở bất cứ đâu."
+    },
+    {
+      "kind": "text",
+      "text": "Thường cần khi"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bạn không đủ sức khỏe để làm việc tại nhà",
+        "Quản lý hoặc bộ phận HR yêu cầu giấy tờ chứng minh"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Lý do đăng ký thường gặp"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sốt và nhiễm virus",
+        "Triệu chứng cảm lạnh, cúm",
+        "Vấn đề về dạ dày",
+        "Đau nửa đầu hoặc đau đầu dữ dội",
+        "Chấn thương nhẹ",
+        "Hồi phục sau thủ thuật y tế",
+        "Nghỉ ngơi theo lời khuyên của bác sĩ"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Thay vào đó, hãy đi khám trực tiếp"
+    },
+    {
+      "kind": "text",
+      "text": "Tư vấn trực tuyến dành cho các trường hợp không khẩn cấp và phù hợp. Hãy tìm trợ giúp y tế khẩn cấp nếu bạn có:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Khó thở nặng",
+        "Đau ngực",
+        "Mất ý thức",
+        "Chấn thương nghiêm trọng",
+        "Mất nước nặng",
+        "Bất kỳ triệu chứng nào cần cấp cứu"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mỗi yêu cầu đều được đánh giá riêng. Việc có cấp giấy chứng nhận hay không, nội dung và thời hạn của giấy do bác sĩ xem xét quyết định. Mọi giấy tờ đều được gửi đến tổ chức mà bạn nộp và chỉ có giá trị sử dụng một lần. Việc giấy có được chấp nhận hay không tùy thuộc vào tổ chức mà bạn nộp."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi làm việc, trường học hoặc hãng hàng không thường yêu cầu gì ở giấy nghỉ ốm trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Hầu hết nơi làm việc và trường học yêu cầu giấy chứng nhận có ghi tên bạn, nêu rõ những ngày bạn không đủ sức khỏe, và có tên cùng số đăng ký hành nghề của bác sĩ. Quy định khác nhau tùy theo nơi làm việc, cơ sở, hãng hàng không và quốc gia."
+    },
+    {
+      "kind": "text",
+      "text": "Singapore là một ví dụ rõ ràng. Theo Ministry of Manpower (Bộ Nhân lực Singapore), người lao động thuộc phạm vi áp dụng của Employment Act được nghỉ ốm có hưởng lương sau khi làm việc ít nhất 3 tháng, tối đa 14 ngày điều trị ngoại trú và 60 ngày nằm viện, và được hưởng đầy đủ sau 6 tháng. Người lao động không thể đi làm phải báo cho người sử dụng lao động trong vòng 48 giờ."
+    },
+    {
+      "kind": "text",
+      "text": "Sau đó, người lao động nộp giấy chứng nhận y tế khi quay lại làm việc. Để được nghỉ ốm có hưởng lương, người lao động phải được một người hành nghề y đã đăng ký theo Medical Registration Act hoặc Dental Registration Act xác nhận là không đủ sức khỏe để làm việc."
+    },
+    {
+      "kind": "text",
+      "text": "Trước khi nộp yêu cầu, hãy hỏi bộ phận nhân sự hoặc văn phòng nhà trường xem họ có chấp nhận giấy chứng nhận y tế trực tuyến không, họ có dùng mẫu riêng không, và một giấy được chấp nhận cho khoảng thời gian tối đa bao lâu."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Giấy nghỉ ốm trực tuyến tại Singapore",
+        "Giấy chứng nhận y tế trực tuyến tại Malaysia",
+        "Giấy nghỉ ốm trực tuyến tại Philippines",
+        "Giấy nghỉ ốm trực tuyến tại Thái Lan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy nghỉ ốm trực tuyến gồm những nội dung gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm trực tuyến từ DrCertificate cho biết bạn là ai, khoảng thời gian bác sĩ khuyên bạn nghỉ ngơi, và ai là người cấp. Bên nhận thường kiểm tra ba phần này trước tiên."
+    },
+    {
+      "kind": "text",
+      "text": "Họ tên đầy đủ của bạn được ghi đúng như trên giấy tờ tùy thân. Phần xác nhận của bác sĩ nêu những ngày bạn không đủ sức khỏe để làm việc hoặc học tập. Với các triệu chứng thông thường, giấy nghỉ ốm ở hầu hết các nước Đông Nam Á chỉ áp dụng tối đa 7 ngày."
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận có ghi tên, bằng cấp và thông tin đăng ký với hội đồng y khoa của bác sĩ. Nơi làm việc hoặc trường học có thể dùng các thông tin này để kiểm tra ai đã ký giấy."
+    },
+    {
+      "kind": "text",
+      "text": "Cách thức hoạt động"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ba bước đơn giản, mọi yêu cầu đều được bác sĩ kiểm tra"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Bước 1: Điền đơn đăng ký trực tuyến Nhập thông tin của bạn và lý do yêu cầu. Bạn có thể được đề nghị cung cấp các chỉ số sinh tồn hoặc số đo khác qua một đường liên kết bảo mật được gửi qua email.",
+        "2 Bước 2: Bác sĩ được chứng nhận xem xét yêu cầu của bạn Bác sĩ đánh giá thông tin bạn cung cấp và quyết định liệu việc cấp giấy chứng nhận có phù hợp về mặt y khoa hay không. Bác sĩ có thể từ chối yêu cầu.",
+        "3 Bước 3: Nhận giấy chứng nhận qua email, nếu được chấp thuận Giấy chứng nhận đã được chấp thuận sẽ được gửi dưới dạng điện tử đến địa chỉ email bạn cung cấp."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ tiếp tục trên biểu mẫu đăng ký bảo mật của DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bạn nên chọn mục nào trên mẫu đơn để xin giấy nghỉ ốm trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Hãy chọn Medical Certificate Sick Leave (For University/Work) trên mẫu đơn. Lựa chọn này cũng dùng cho giấy chứng nhận y tế thông thường."
+    },
+    {
+      "kind": "text",
+      "text": "Trong câu trả lời, hãy nêu rõ ai sẽ nhận giấy chứng nhận, ví dụ nơi làm việc hoặc trường đại học của bạn, và liệt kê các triệu chứng cùng ngày bắt đầu có triệu chứng. Nếu không có lựa chọn nào phù hợp, hãy gửi email đến care@drcertificate.com trước khi thanh toán."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bác sĩ sẽ hỏi gì khi bạn xin giấy nghỉ ốm trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ sẽ hỏi bạn có những triệu chứng gì, bắt đầu từ khi nào và bạn cần giấy chứng nhận cho những ngày nào. Câu trả lời rõ ràng, trung thực giúp bác sĩ đưa ra quyết định nhanh chóng."
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ được hỏi về việc bệnh ảnh hưởng thế nào đến các công việc hằng ngày, các loại thuốc bạn đã dùng và những vấn đề sức khỏe trước đây có liên quan. Nếu có, hóa đơn nhà thuốc, kết quả đo nhiệt độ hoặc giấy khám trước đó của phòng khám có thể hữu ích."
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ có thể gửi thêm câu hỏi trong cuộc trò chuyện. Hãy trả lời kịp thời, vì cuộc trò chuyện bị bỏ dở sẽ làm chậm quá trình xem xét. Họ tên của bạn phải khớp với giấy tờ tùy thân, và các triệu chứng phải phù hợp với những ngày bạn yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy nghỉ ốm trực tuyến không được dùng ở đâu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm trực tuyến từ DrCertificate không được nộp tại Ấn Độ, không dùng cho mục đích pháp lý và không dùng cho bảo hiểm. Người nộp yêu cầu phải từ 16 tuổi trở lên."
+    },
+    {
+      "kind": "text",
+      "text": "Dịch vụ chỉ dành cho các trường hợp không khẩn cấp phù hợp. Nếu bạn bị đau ngực, khó thở, chảy máu nhiều hoặc có bất kỳ triệu chứng nào mà bạn cảm thấy nghiêm trọng, hãy đến khoa cấp cứu gần nhất hoặc gọi ngay số điện thoại cấp cứu tại địa phương."
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận giấy là do bên nhận quyết định. Hãy hỏi nơi làm việc hoặc trường học của bạn trước khi nộp yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Điều gì xảy ra nếu bác sĩ không thể cấp giấy nghỉ ốm trực tuyến cho bạn?"
+    },
+    {
+      "kind": "text",
+      "text": "Nếu bác sĩ không thể cấp giấy nghỉ ốm trực tuyến cho bạn, bạn sẽ không nhận được giấy chứng nhận và khoản thanh toán sẽ không được hoàn lại. Bác sĩ từ chối khoảng 2% yêu cầu."
+    },
+    {
+      "kind": "text",
+      "text": "Yêu cầu sẽ bị từ chối khi thông tin không chính xác, ví dụ họ tên và số giấy tờ tùy thân không khớp, hoặc các triệu chứng và thông tin bạn cung cấp không nhất quán. Bác sĩ cũng sẽ từ chối khi tình trạng của bạn cần được khám trực tiếp hoặc cần làm xét nghiệm mà việc trao đổi qua tin nhắn không thể thay thế. Trong trường hợp đó, bạn hãy đến phòng khám hoặc bệnh viện tại địa phương."
+    },
+    {
+      "kind": "text",
+      "text": "Chỉ hoàn tiền khi có lỗi kỹ thuật đã được xác minh, trong vòng 24 giờ."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu cần hỗ trợ, vui lòng gửi email đến care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy nghỉ ốm trực tuyến có giá bao nhiêu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm trực tuyến có giá 25 SGD tại Singapore, 399 pesos tại Philippines và 30 MYR tại Malaysia. Khoản phí này bao gồm việc bác sĩ xem xét hồ sơ và, nếu được chấp thuận, giấy chứng nhận dạng PDF."
+    },
+    {
+      "kind": "text",
+      "text": "Thanh toán qua Stripe và không được hoàn lại."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Quốc gia",
+        "Giá"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bạn sẽ tiếp tục trên biểu mẫu đăng ký bảo mật của DrCertificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ai cấp giấy nghỉ ốm trực tuyến cho bạn?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Bác sĩ có chứng nhận Mỗi yêu cầu được chuyển đến một bác sĩ có bằng MBBS, MD hoặc MS. Tất cả bác sĩ trên nền tảng đều đã đăng ký với hội đồng y khoa.",
+        "Bác sĩ là người quyết định DrCertificate là một nền tảng. Chỉ bác sĩ mới có quyền quyết định có cấp giấy chứng nhận hay không, và bác sĩ từ chối khoảng 2% số yêu cầu, thường là khi thông tin không khớp hoặc triệu chứng không nhất quán.",
+        "Bác sĩ thẩm định nội dung y khoa Bác sĩ Urooj Arshad, M.B.B.S, Y khoa tổng quát, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi làm việc, trường học hoặc hãng hàng không có chấp nhận giấy nghỉ ốm trực tuyến không?"
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận phụ thuộc vào quy định riêng của nơi làm việc hoặc trường học của bạn, và không có giấy chứng nhận trực tuyến nào được chấp nhận ở mọi nơi. DrCertificate khuyến khích mọi khách hàng xác nhận với bên nhận trước khi đăng ký."
+    },
+    {
+      "kind": "text",
+      "text": "Tất cả bác sĩ trên nền tảng đều đã đăng ký với một hội đồng y khoa. Bên nhận có thể xác minh bác sĩ cấp giấy bằng cách đối chiếu họ tên và thông tin đăng ký hành nghề ghi trên giấy với hồ sơ của hội đồng đó. Tại Singapore, nghỉ ốm có hưởng lương cần có giấy của bác sĩ đã đăng ký theo Medical Registration Act, vì vậy bạn nên hỏi bộ phận nhân sự trước."
+    },
+    {
+      "kind": "text",
+      "text": "Nếu nơi làm việc hoặc trường học của bạn yêu cầu dùng mẫu đơn riêng, file PDF của DrCertificate sẽ không thay thế được mẫu đó. Bạn hãy hỏi xem họ có chấp nhận giấy chứng nhận của bác sĩ thay cho mẫu đó hay không."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Giấy nghỉ ốm trực tuyến và các loại giấy liên quan: bạn cần loại nào?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm trực tuyến xác nhận bạn quá mệt để làm việc hoặc học tập, còn giấy chứng nhận làm việc tại nhà xác nhận bạn có thể làm việc nhưng nên ở nhà. Hãy chọn dòng phù hợp với yêu cầu của bên nhận, sau đó chọn tùy chọn tương ứng trên mẫu đơn."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Loại giấy",
+        "Nội dung xác nhận",
+        "Bên nhận thường gặp",
+        "Tùy chọn trên mẫu đơn"
+      ],
+      "rows": [
+        [
+          "Nghỉ ốm",
+          "Bạn không đủ sức khỏe để làm việc hoặc học tập trong những ngày được ghi",
+          "Nơi làm việc, trường học hoặc trường đại học",
+          "Sick Leave"
+        ],
+        [
+          "Làm việc tại nhà",
+          "Bạn có thể làm việc nhưng nên ở nhà trong một khoảng thời gian",
+          "Nơi làm việc",
+          "Work From Home"
+        ],
+        [
+          "Không đủ sức khỏe để bay",
+          "Bệnh khiến bạn không thể đi máy bay",
+          "Hãng hàng không hoặc đại lý du lịch",
+          "Unfit to Travel"
+        ],
+        [
+          "Đủ sức khỏe",
+          "Bạn đủ sức khỏe để làm việc, học tập, chơi thể thao hoặc đi lại",
+          "Nơi làm việc, trường học, câu lạc bộ hoặc hãng hàng không",
+          "Medical Fitness Certificate"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Vì sao nên đăng ký trực tuyến"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nghỉ ngơi tại nhà trong khi bác sĩ xem xét yêu cầu của bạn"
+    },
+    {
+      "kind": "text",
+      "text": "Đến phòng khám là cả một sự vất vả khi bạn đang không khỏe. Đăng ký trực tuyến là lựa chọn thoải mái hơn."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tư vấn từ bất cứ đâu Đăng ký không cần ra khỏi nhà, hữu ích khi bạn cần nghỉ ngơi hoặc không thể đi lại vì bệnh.",
+        "Tiết kiệm thời gian Không cần xếp hàng hay ngồi phòng chờ ở phòng khám, chỉ cần hoàn tất đơn đăng ký trực tuyến.",
+        "Giấy chứng nhận điện tử bảo mật Nếu được chấp thuận, bạn sẽ nhận giấy chứng nhận dưới dạng điện tử, sẵn sàng để nộp qua email, cổng thông tin HR hoặc hệ thống quản lý sinh viên.",
+        "Bác sĩ được chứng nhận đánh giá Giấy chứng nhận chỉ được cấp sau khi chuyên gia y tế đủ chuyên môn đã xem xét yêu cầu của bạn."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ là người quyết định. Không có yêu cầu nào được chấp thuận tự động. Bác sĩ được chứng nhận xem xét mọi yêu cầu và quyết định có cấp giấy chứng nhận hay không, nội dung ghi gì và thời hạn bao lâu."
+    },
+    {
+      "kind": "text",
+      "text": "Phạm vi dịch vụ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nơi dịch vụ đang được cung cấp"
+    },
+    {
+      "kind": "text",
+      "text": "Mỗi quốc gia có trang giấy chứng nhận riêng và các dịch vụ hiện có có thể khác nhau. Hãy chọn quốc gia của bạn để kiểm tra trước khi đăng ký."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Hiện có dịch vụ"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Xem giấy chứng nhận",
+        "Indonesia Xem giấy chứng nhận",
+        "Philippines Xem giấy chứng nhận",
+        "Thailand Xem giấy chứng nhận",
+        "Vietnam Xem giấy chứng nhận",
+        "Malaysia Xem giấy chứng nhận",
+        "Cambodia Xem giấy chứng nhận",
+        "Laos Xem giấy chứng nhận",
+        "Myanmar Xem giấy chứng nhận",
+        "Brunei Xem giấy chứng nhận"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Câu hỏi thường gặp"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Câu hỏi về giấy nghỉ ốm"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận nghỉ ốm trực tuyến là gì?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận nghỉ ốm trực tuyến là văn bản điện tử do bác sĩ có bằng cấp chuyên môn (MBBS, MD hoặc MS) cấp, ghi nhận tình trạng bệnh của bạn và đề nghị cho bạn nghỉ làm hoặc nghỉ học. Bạn nộp đơn mà không cần đến khám trực tiếp, và bác sĩ sẽ quyết định có cấp giấy hay không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bao lâu thì tôi nhận được Giấy chứng nhận nghỉ ốm?"
+    },
+    {
+      "kind": "text",
+      "text": "Thường mất khoảng 30 phút. Nếu bác sĩ chấp thuận yêu cầu của bạn, giấy chứng nhận sẽ được gửi đến email của bạn dưới dạng tệp PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Dịch vụ có hoạt động tất cả các ngày không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, dịch vụ hoạt động 365 ngày mỗi năm, kể cả cuối tuần và ngày lễ. Bác sĩ chỉ xem xét yêu cầu trong giờ làm việc, vì vậy yêu cầu gửi ngoài giờ sẽ được xử lý vào khung giờ làm việc tiếp theo."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể nhận Giấy chứng nhận nghỉ ốm bằng ngôn ngữ địa phương không?"
+    },
+    {
+      "kind": "text",
+      "text": "Chúng tôi không cam kết cấp giấy chứng nhận bằng ngôn ngữ địa phương. Vui lòng gửi email đến care@drcertificate.com để hỏi trước khi nộp đơn."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Ai cấp Giấy chứng nhận nghỉ ốm trực tuyến?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy chứng nhận do bác sĩ có bằng cấp chuyên môn (MBBS, MD hoặc MS) cấp. Bác sĩ làm việc độc lập và là người duy nhất quyết định có cấp giấy hay không cũng như nội dung trong giấy. Giấy chứng nhận này không dùng để nộp tại Ấn Độ."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy chứng nhận có giá bao nhiêu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giá tùy theo quốc gia của bạn, ví dụ 25 SGD tại Singapore, 399 pesos tại Philippines hoặc 30 MYR tại Malaysia. Mẫu đơn đăng ký sẽ hiển thị giá trước khi bạn thanh toán. Khoản thanh toán không được hoàn lại, kể cả khi bác sĩ từ chối yêu cầu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Người sử dụng lao động và các tổ chức có chấp nhận những giấy chứng nhận này không?"
+    },
+    {
+      "kind": "text",
+      "text": "Việc chấp nhận tùy thuộc vào tổ chức mà bạn nộp giấy, vì vậy hãy hỏi trước. Giấy chứng nhận do bác sĩ có bằng cấp chuyên môn cấp, vì vậy hãy hỏi xem họ có chấp nhận điều đó không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể xin Giấy chứng nhận nghỉ ốm vào ngày lễ không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, bạn có thể nộp đơn vào ngày lễ vì dịch vụ hoạt động 365 ngày mỗi năm. Bác sĩ sẽ xem xét yêu cầu của bạn trong giờ làm việc."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Nếu người sử dụng lao động hoặc tổ chức của tôi yêu cầu mẫu giấy cụ thể thì sao?"
+    },
+    {
+      "kind": "text",
+      "text": "Hãy gửi mẫu giấy đó đến care@drcertificate.com trước khi nộp đơn, vì chúng tôi không đảm bảo có thể thay đổi mẫu. Việc chấp nhận tùy thuộc vào tổ chức mà bạn nộp giấy, vì vậy hãy hỏi trước."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy nghỉ ốm trực tuyến có hiệu lực trong bao lâu?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy nghỉ ốm trực tuyến áp dụng cho những ngày bác sĩ ghi trên giấy. Ở hầu hết các nước Đông Nam Á, giấy nghỉ ốm cho các triệu chứng thông thường tối đa là 7 ngày. Sau đó, nơi làm việc hoặc trường học của bạn sẽ quyết định khoảng thời gian đó có đáp ứng quy định nghỉ phép của họ hay không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy nghỉ ốm có thể ghi lùi ngày không?"
+    },
+    {
+      "kind": "text",
+      "text": "Bác sĩ chỉ xác nhận những ngày phù hợp với triệu chứng và diễn biến bạn khai báo. Bạn có thể mô tả bệnh đã bắt đầu từ trước khi đăng ký, và bác sĩ sẽ quyết định khoảng thời gian ghi trên giấy. Các yêu cầu có ngày và triệu chứng không khớp nhau sẽ bị từ chối, và phí sẽ không được hoàn lại."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Giấy nghỉ ốm trực tuyến được gửi đến bạn như thế nào?"
+    },
+    {
+      "kind": "text",
+      "text": "Giấy đã được chấp thuận sẽ được gửi qua email dưới dạng file PDF, thường khoảng 30 phút sau khi bạn đăng ký. Nếu không thấy, hãy kiểm tra thư mục thư rác. Bạn có thể in file PDF hoặc chuyển tiếp cho nơi làm việc, trường học hoặc bộ phận nhân sự, tùy theo cách bên nhận muốn."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể sửa họ tên hoặc ngày sau khi giấy đã được cấp không?"
+    },
+    {
+      "kind": "text",
+      "text": "Không, giấy chứng nhận không thể chỉnh sửa sau khi đã cấp, trừ khi lỗi đến từ đội ngũ y tế. Hãy nhập tên khớp với giấy tờ tùy thân và kiểm tra lại các ngày trước khi thanh toán. Nếu đội ngũ y tế mắc lỗi, hãy gửi email đến care@drcertificate.com kèm thông tin của bạn."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có thể dùng giấy chứng nhận ở nước mình không?"
+    },
+    {
+      "kind": "text",
+      "text": "Có, nếu bạn sống tại một trong 10 quốc gia Đông Nam Á mà DrCertificate phục vụ và nơi nhận chấp nhận giấy khám bệnh trực tuyến. Giấy chứng nhận không dùng để nộp tại Ấn Độ, cho mục đích pháp lý hoặc cho bảo hiểm. Hãy hỏi trước nơi làm việc hoặc trường học xem họ có chấp nhận không."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Thông tin sức khỏe của tôi có được giữ riêng tư không?"
+    },
+    {
+      "kind": "text",
+      "text": "Thông tin sức khỏe của bạn được chia sẻ với bác sĩ xem xét yêu cầu của bạn, nhằm phục vụ việc xem xét đó. Chỉ cung cấp những thông tin bác sĩ cần để đưa ra quyết định. Nếu có bất kỳ câu hỏi nào về cách DrCertificate xử lý dữ liệu của bạn, hãy gửi email đến care@drcertificate.com trước hoặc sau khi đăng ký."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tôi có cần gọi video để nhận giấy chứng nhận nghỉ ốm không?"
+    },
+    {
+      "kind": "text",
+      "text": "Không, DrCertificate không có tư vấn qua video hay khám trực tiếp. Bác sĩ xem xét biểu mẫu của bạn và có thể đặt thêm câu hỏi qua trò chuyện bằng tin nhắn. Nếu bác sĩ thấy tình trạng của bạn cần khám trực tiếp hoặc làm xét nghiệm, yêu cầu sẽ bị từ chối và bạn nên đến một phòng khám tại địa phương."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nguồn tham khảo"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Paid sick leave in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Chăm sóc sức khỏe của bạn, không thêm căng thẳng."
+    },
+    {
+      "kind": "text",
+      "text": "Khi bị ốm, ưu tiên của bạn nên là hồi phục, không phải giấy tờ. Đăng ký trực tuyến trong vài phút, và nếu bác sĩ được chứng nhận chấp thuận yêu cầu, giấy chứng nhận sẽ được gửi đến email của bạn."
+    },
+    {
+      "kind": "text",
+      "text": "Có câu hỏi trước khi đăng ký? care@drcertificate.com"
+    }
+  ]
+}

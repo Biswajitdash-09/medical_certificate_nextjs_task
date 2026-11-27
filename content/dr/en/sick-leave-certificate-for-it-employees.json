@@ -1,0 +1,429 @@
+{
+  "slug": "sick-leave-certificate-for-it-employees",
+  "group": "audience",
+  "title": "Sick Leave Certificate for IT Employees",
+  "description": "Get a sick leave certificate for IT employees online. A certified doctor reviews your chat consultation and approved PDFs arrive by email in about 30 minutes.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For developers, support engineers and tech staff across South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate offers a sick leave certificate for IT employees, developers, support engineers and other tech staff in South East Asia. A certified doctor with an MBBS, MD or MS degree reviews each request after a chat consultation and decides whether to issue it."
+    },
+    {
+      "kind": "text",
+      "text": "The fee is 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Approved certificates usually arrive by email as a PDF in about 30 minutes."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Can you get a sick leave certificate for IT employees online?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. IT employees in 10 South East Asian countries, including Singapore, Malaysia and the Philippines, can request a sick leave certificate online through DrCertificate. After a chat consultation, an MBBS, MD or MS doctor decides whether to issue a certificate confirming you were unfit for work. Approved certificates arrive by email as a PDF. Your employer decides whether to accept it."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a sick leave certificate for IT employees?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate for IT employees is a document from a doctor stating that you were unwell and unfit for work for a set number of days. Tech companies, software houses and outsourcing firms commonly ask for one when a staff member misses a shift, a sprint or an on call rotation."
+    },
+    {
+      "kind": "text",
+      "text": "Long hours at a screen come with the job. The NHS says you may be at higher risk of dry eyes if you look at computer screens for a long time without a break."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate records a doctor's view of your fitness for work."
+    },
+    {
+      "kind": "text",
+      "text": "A certificate is not a diagnosis or a treatment plan. DrCertificate does not diagnose, treat or prescribe, so visit your own doctor if you need medical care."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When do IT employees need a sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "IT employees usually need a sick leave certificate when they miss more than a day of work, or when HR asks for proof of illness after an absence. The rule comes from your contract or company handbook, not from the doctor."
+    },
+    {
+      "kind": "text",
+      "text": "Tech roles bring their own triggers."
+    },
+    {
+      "kind": "text",
+      "text": "Check your own leave policy for how many days of absence trigger a certificate requirement. One company asks from the first day, while another waits until day three."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Multi day absence Missing two or more working days with fever, flu or a stomach bug often prompts a request from HR.",
+        "Missed on call or night shifts Support engineers and operations staff on rotating shifts may need a note when they cannot cover a scheduled shift.",
+        "Sick on a remote work day A home based workday still counts as a working day, so being too ill to log in may need a note.",
+        "Release, demo or deadline days Missing a launch, client demo or sprint review can lead a manager to ask for documentation."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which illnesses can a doctor consider for a sick leave certificate for IT employees?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor on DrCertificate may consider common short term, non emergency illnesses that keep you away from your desk for a day or more. Each request is judged on its own details, and the doctor can decline."
+    },
+    {
+      "kind": "text",
+      "text": "Desk work plays a part in how tech staff feel. The WHO says lives are becoming increasingly sedentary partly through the increased use of screens for work, education and recreation, and that higher amounts of sedentary behaviour are associated with poor health outcomes."
+    },
+    {
+      "kind": "text",
+      "text": "Chest pain, trouble breathing, fainting or sudden weakness need in person care."
+    },
+    {
+      "kind": "text",
+      "text": "Call your local emergency number or go to a hospital for serious symptoms."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Colds, flu and fever Short viral illnesses that make focused screen work hard.",
+        "Stomach upsets and gastritis Digestive complaints that keep you close to home.",
+        "Migraines and eye strain Headaches and dry, tired eyes linked to long screen hours.",
+        "Back and neck pain Aches that build up after long periods of sitting."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for Migraine",
+        "Medical Certificate for Gastritis"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does the sick leave certificate for IT employees include?"
+    },
+    {
+      "kind": "text",
+      "text": "The sick leave certificate for IT employees shows who you are, the leave dates the doctor recommends and who issued it. Compare each detail with what your HR team asks for before you apply."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Detail",
+        "What it shows"
+      ],
+      "rows": [
+        [
+          "Applicant details",
+          "Your name and the personal details you gave on the form"
+        ],
+        [
+          "Recommended leave dates",
+          "The start and end dates of leave the doctor recommends"
+        ],
+        [
+          "Issuing doctor",
+          "The doctor's name and qualification, MBBS, MD or MS"
+        ],
+        [
+          "Consultation date",
+          "The date of your chat consultation"
+        ],
+        [
+          "Format",
+          "A PDF sent to your email address"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a sick leave certificate for IT employees?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a sick leave certificate for IT employees by filling in the DrCertificate online form, paying through Stripe and completing a chat consultation with a doctor. If the doctor approves, the PDF comes to your inbox, usually in about 30 minutes."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose Medical Certificate, Sick Leave (For University/Work) and enter your name, ID and symptoms as they appear in your records. Pick the Work From Home option instead if you can still work but should stay home.",
+        "2 Step 2: Pay securely through Stripe Pay the fee for your country through Stripe. Payment is non refundable.",
+        "3 Step 3: Chat consultation and decision An independent MBBS, MD or MS doctor reads your request, may ask questions in the chat and decides whether to issue a certificate.",
+        "4 Step 4: Receive your PDF by email Approved certificates arrive by email as a PDF. Forward it to HR or upload it to your leave portal."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How much does a sick leave certificate for IT employees cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate for IT employees costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Prices in the other served countries depend on the country."
+    },
+    {
+      "kind": "text",
+      "text": "The fee covers the doctor's chat consultation and review, plus email delivery of the PDF if approved."
+    },
+    {
+      "kind": "text",
+      "text": "Payment goes through Stripe and is non refundable, including when the doctor declines. The one exception is a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should IT employees check before applying?"
+    },
+    {
+      "kind": "text",
+      "text": "IT employees should confirm with HR that their company accepts online medical certificates before paying. Acceptance is always the employer's decision, not DrCertificate's or the doctor's."
+    },
+    {
+      "kind": "text",
+      "text": "Ask HR or your team lead the questions below."
+    },
+    {
+      "kind": "text",
+      "text": "Leave rules differ across South East Asia. The Philippines, Malaysia, Singapore and Thailand each have their own labour laws, and company policy sits on top of them. A rule that applies at a Manila office may not apply at a Kuala Lumpur branch of the same firm, so read your local handbook, not a regional one."
+    },
+    {
+      "kind": "text",
+      "text": "Before you start the form, have your ID, your name as printed on that ID, the dates you were unwell and a clear account of your symptoms ready."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Accepted format Does the company accept a PDF certificate from an online consultation?",
+        "2 Step 2: Deadline and channel How soon after returning must you submit it, and through which portal or email address?",
+        "3 Step 3: Day threshold From which day of absence is a certificate required?",
+        "4 Step 4: Dates covered Must the certificate cover every day you missed?"
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in the Philippines",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in Singapore",
+        "Online Sick Leave Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is an online sick leave certificate for IT employees not the right choice?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate is not the right choice in an emergency. If you have chest pain, trouble breathing or a sudden severe symptom, call your local emergency number or go to a hospital."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate is not for insurance, legal purposes or submission in India. Applicants must be at least 16."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate offers no video or in person consultations. The platform does not diagnose, treat or prescribe, so you still need your own doctor for ongoing care."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who reviews your sick leave certificate for IT employees request?"
+    },
+    {
+      "kind": "text",
+      "text": "Independent doctors with an MBBS, MD or MS degree review every sick leave certificate request on DrCertificate. All doctors on the platform are registered with a medical council, and each doctor decides independently whether to issue a certificate."
+    },
+    {
+      "kind": "text",
+      "text": "The platform handles the form, the Stripe payment and email delivery of the PDF. DrCertificate has no say in the medical decision."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline when details do not match."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is operated by Health Venture OU. The address is KMC Armstrong Corporate Center, H.V. Dela Costa, Salcedo Village, Makati City, 1227 Metro Manila, Philippines, and questions can go to care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about sick leave certificates for IT employees"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my IT company accept an online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer decides whether to accept an online sick leave certificate, and DrCertificate cannot promise acceptance. Policies differ by company, so ask HR before you apply. All doctors on the platform are registered with a medical council, and the certificate shows the issuing doctor's name and qualification."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How many days of sick leave can I request?"
+    },
+    {
+      "kind": "text",
+      "text": "In most South East Asian countries, sick leave notes go up to 7 days for generic symptoms. The doctor decides the number of days based on what you share in the chat. If you need longer or your symptoms get worse, see a doctor in person."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can the sick leave certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides which dates the sick leave certificate covers, and the consultation date appears on it. Whether earlier days can be included depends on your symptoms and the doctor's judgement. Your employer may also reject notes for past dates, so check the policy first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What happens if the doctor declines my request?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor declines, no certificate is issued and the payment is not refunded. Doctors decline about 2% of requests, usually when the name and ID do not match or the symptoms and details shared are inconsistent. Check your details before you submit."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I get a certificate for a work from home day?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, if you can still work but should stay home, choose the Work From Home option on the form instead of sick leave. A doctor reviews that request in the same way. In most South East Asian countries, work from home notes go up to 7 days for generic symptoms."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How fast will I receive my sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Approved certificates usually arrive by email as a PDF in about 30 minutes. Timing depends on the doctor's review and any questions asked in the chat. A certificate cannot be corrected once issued unless the fault is from the medical team, so enter your details with care."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Other certificates IT employees may need"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick Leave Certificate for Students",
+        "Sick Leave Certificate for Bank Employees",
+        "Sick Leave Certificate for BPO Employees",
+        "Online sick leave certificate",
+        "Work from home medical certificate",
+        "Medical fitness certificate",
+        "General medical certificate",
+        "Online Sick Leave Certificate in Singapore",
+        "Online Sick Leave Certificate in the Philippines",
+        "Medical certificates online in Malaysia"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Start your IT employee sick leave certificate request"
+    },
+    {
+      "kind": "text",
+      "text": "Fill in the online form, pay 25 SGD, 399 pesos or 30 MYR depending on your country, and expect a decision in about 30 minutes. A doctor decides whether to issue, and payment is non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

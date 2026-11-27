@@ -1,0 +1,556 @@
+{
+  "slug": "fit-to-work-certificate",
+  "group": "certificate",
+  "title": "Fit to Work Certificate Online from a Certified Doctor",
+  "description": "Get a fit to work certificate online from a certified doctor after a chat review. PDF by email in about 30 minutes. Serving South East Asia. Apply now.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For employees, job applicants and students in Singapore, the Philippines, Malaysia and seven more South East Asian countries"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate online from DrCertificate records a doctor's opinion that you are well enough to start or return to work."
+    },
+    {
+      "kind": "text",
+      "text": "An independent certified doctor with an MBBS, MD or MS reviews your request after a short online chat consultation. The certificate is issued only if the doctor approves, and approved certificates arrive as a PDF by email."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a fit to work certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get a fit to work certificate online with DrCertificate, fill in the online form, choose the Medical Fitness Certificate option and pay through Stripe. An independent certified doctor reviews your details by chat and, if satisfied, issues the certificate as a PDF by email, usually in about 30 minutes. Issuance always depends on the doctor's judgement."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate is a short medical note in which a doctor states that, based on the information reviewed, a person is fit to carry out their work."
+    },
+    {
+      "kind": "text",
+      "text": "Employers ask for one when someone joins the company or comes back after an illness. The note records the doctor's opinion on the date of review."
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate does not diagnose a condition. The note also does not approve leave or a return to work by itself, because that decision belongs to the employer."
+    },
+    {
+      "kind": "text",
+      "text": "People also call it a fitness to work certificate, a return to work note, a medical fitness certificate or an employee fitness certificate. On DrCertificate, every one of these goes through the Medical Fitness Certificate option."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When might you need a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "You might need a fit to work certificate when an employer, school or agency wants a doctor's confirmation that you are well enough to work."
+    },
+    {
+      "kind": "text",
+      "text": "The request usually comes from HR, a recruitment agency or a placement coordinator. A sports club asking for a fitness note uses the same form option."
+    },
+    {
+      "kind": "text",
+      "text": "A different certificate fits better in other cases. If you are still unwell and need time off, a sick leave certificate is the right choice. If you can work but should stay home, ask for a work from home certificate, and if an airline wants clearance for a flight, look at the fit to fly pages."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Starting a new job HR or a recruitment agency asks for a fitness note before your first day.",
+        "Returning after illness Your employer wants confirmation that you have recovered enough to come back.",
+        "Work placements and internships A school or host company asks students for a fitness note before a placement starts.",
+        "Agency and contract roles A staffing agency needs a fitness note on file before sending you to a client."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Work from home certificate for staying home while working",
+        "Online Sick Leave Certificate in the Philippines"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Employers, schools and agencies usually expect a fit to work certificate to name you, show the date of the doctor's review and state plainly that you are fit for work. Most want it from a registered doctor in a readable format."
+    },
+    {
+      "kind": "text",
+      "text": "Rules differ by employer, institution and country. An employer in Manila, Cebu or Davao can follow different rules from a school in Singapore."
+    },
+    {
+      "kind": "text",
+      "text": "Singapore's Ministry of Manpower sets stricter rules for hazardous work. The Ministry says that when a medical examination shows an employee previously removed from exposure is fit for hazardous work, a designated workplace doctor needs to submit a certificate of fitness before that employee returns."
+    },
+    {
+      "kind": "text",
+      "text": "The Ministry also says the medical examination for migrant workers screens for 4 types of infectious diseases and checks if they are fit to work. An online chat review cannot replace either examination."
+    },
+    {
+      "kind": "text",
+      "text": "Before you apply, confirm these points with the recipient."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online notes Ask whether they accept a medical note from an online doctor.",
+        "Their own form Check whether they need a form of their own instead of a standard certificate.",
+        "Dates Confirm the start or return date and how recent the note must be."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a fit to work certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate from DrCertificate shows your details, the doctor's statement on your fitness for work and the details of the issuing doctor, in one PDF."
+    },
+    {
+      "kind": "text",
+      "text": "Fitness notes of this type generally carry the parts below."
+    },
+    {
+      "kind": "text",
+      "text": "Want to see the format before you apply? Email care@drcertificate.com and ask."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your details Your full name, matching the ID you entered on the form.",
+        "Dates The date of the doctor's review. Fitness notes are generally valid for 30 days.",
+        "Doctor's statement A plain line stating the doctor's opinion on your fitness to work.",
+        "Doctor details The doctor's name, qualification of MBBS, MD or MS, and medical council registration."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a fit to work certificate in 4 steps?"
+    },
+    {
+      "kind": "text",
+      "text": "Getting a fit to work certificate online with DrCertificate takes four steps, from the form to your inbox. Everything happens through the form and a text chat."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate offers no video or in person consultations."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Step 1: Fill in the online form Choose the Medical Fitness Certificate option, enter your full name as shown on your ID, and explain that you need a fit to work note and the date you start or return.",
+        "2 Step 2: Step 2: Pay through Stripe Pay the fee through Stripe. The amount depends on your country, and the payment is non refundable.",
+        "3 Step 3: Step 3: Doctor review by chat An independent certified doctor reads your form and asks follow-up questions in the chat if more detail is needed. The doctor then decides whether to issue the certificate.",
+        "4 Step 4: Step 4: Receive your PDF by email If approved, the certificate arrives as a PDF at the email address you gave. Turnaround is about 30 minutes."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Medical Fitness Certificate option on the DrCertificate form for a fit to work certificate. The same option covers employee fitness, student fitness and good health certificates."
+    },
+    {
+      "kind": "text",
+      "text": "In the details box, write that you need a fit to work note, who will receive it and the date you start or return."
+    },
+    {
+      "kind": "text",
+      "text": "If no option looks right for your situation, email care@drcertificate.com before you pay."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask about your current health, any recent illness and the dates that matter for your work. Clear and consistent answers help the doctor reach a decision sooner."
+    },
+    {
+      "kind": "text",
+      "text": "Expect questions on these topics."
+    },
+    {
+      "kind": "text",
+      "text": "Keep any recent clinic notes or discharge papers ready, since they can help the doctor understand your recovery. The doctor may send follow-up questions in the chat. Answer them accurately, because details that do not match are a common reason for a decline."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Recent illness What you were unwell with and when it ended.",
+        "Current symptoms Whether anything still affects you today.",
+        "Your work The kind of job you do and its physical demands.",
+        "Dates The day you start or return to work."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can a fit to work certificate not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate from DrCertificate cannot be used for submission in India, for legal purposes or for insurance. Applicants must be at least 16 years old."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for suitable non emergency situations only. If you have chest pain, trouble breathing or another urgent symptom, go to your nearest emergency department or call local emergency services now."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is always decided by the recipient."
+    },
+    {
+      "kind": "text",
+      "text": "Check with your employer, school or agency that they accept online medical notes before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your fit to work certificate, you will not receive one and the payment is not refunded. Doctors decline about 2% of requests."
+    },
+    {
+      "kind": "text",
+      "text": "Declines happen when details are wrong, for example when the name and ID do not match, or when the symptoms and details shared are inconsistent. A doctor will also decline when your situation needs an in person examination or tests. Return to hazardous work in Singapore and migrant worker medical examinations both need a designated or examining doctor in person."
+    },
+    {
+      "kind": "text",
+      "text": "The same applies when your recovery can only be judged with a physical check or lab results, so a local clinic is the right place to go."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, except for a verified technical fault reported within 24 hours. Questions go to care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a fit to work certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Prices in other countries depend on the country."
+    },
+    {
+      "kind": "text",
+      "text": "The fee covers the doctor's review and, if approved, the PDF certificate. Payment goes through Stripe and is non refundable."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your fit to work certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer, school or airline will accept a fit to work certificate only if its own policy allows online medical notes. DrCertificate encourages every applicant to check this before applying."
+    },
+    {
+      "kind": "text",
+      "text": "All doctors on the platform are registered with a medical council. A recipient who wants to verify the issuing doctor can look up the doctor's name and registration with that medical council."
+    },
+    {
+      "kind": "text",
+      "text": "If the recipient insists on its own form, a standard online certificate may not be enough. Ask whether a DrCertificate PDF can be used in place of that form, and apply only once they confirm it can."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Fit to work certificate vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate says you are well enough to work, while a sick leave certificate says you need time off."
+    },
+    {
+      "kind": "text",
+      "text": "Travel notes cause the other common mix up. The fit to fly certificate is often confused with the unfit to travel certificate, which states the opposite outcome."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who usually receives it",
+        "Form option to choose"
+      ],
+      "rows": [
+        [
+          "Fit to work",
+          "You are fit to start or return to work",
+          "Employer, agency or placement provider",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Sick leave",
+          "You need time off, up to 7 days for generic symptoms in most South East Asian countries",
+          "Employer or university",
+          "Sick Leave"
+        ],
+        [
+          "Work from home",
+          "You can work but should stay home, up to 7 days for generic symptoms",
+          "Employer",
+          "Work From Home"
+        ],
+        [
+          "Fit to fly",
+          "You are fit to travel by air",
+          "Airline",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Unfit to travel",
+          "You should not travel as booked",
+          "Airline or travel provider",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why choose DrCertificate for a fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is an online platform run by Health Venture OU, with an address at KMC Armstrong Corporate Center, Salcedo Village, Makati City, Metro Manila. The platform connects people in 10 South East Asian countries with independent certified doctors."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate does not diagnose, treat or prescribe."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Registered doctors Every doctor on DrCertificate is registered with a medical council and holds an MBBS, MD or MS.",
+        "Review in about 30 minutes Fitness requests are reviewed from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday.",
+        "Clear reasons for a decline Doctors decline about 2% of requests when the name and ID do not match or the details shared are inconsistent.",
+        "Plain form guidance Fit to work, sports fitness and fit to fly requests all use the Medical Fitness Certificate option.",
+        "Check before you pay DrCertificate encourages customers to confirm that the recipient accepts online medical notes before choosing the service."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about the fit to work certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is a fit to work certificate valid?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to work certificate is generally valid for 30 days in most South East Asian countries, since fitness notes usually cover that period. Your employer or school can ask for a more recent note, so check how fresh they want it before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a fit to work certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor sets the dates on a fit to work certificate from what you share in the form and chat. Enter the date you need and explain why. The doctor decides whether your details support it, and dates cannot be changed after the certificate is issued."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How is the fit to work certificate delivered?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate sends an approved fit to work certificate as a PDF to the email address you enter on the form. Turnaround is about 30 minutes. Check your spam folder if the email has not arrived, then contact care@drcertificate.com if it still does not show up."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct the name or date after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a fit to work certificate cannot be corrected once it is issued, unless the error came from the medical team. Type your full name as shown on your ID and double check every date before you submit the form."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use a fit to work certificate in my country?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate serves Singapore, Malaysia, Indonesia and Brunei. The service also covers the Philippines, Thailand and Vietnam, plus Cambodia, Laos and Myanmar. A fit to work certificate works there if the recipient accepts online notes. The certificate is not for submission in India, for legal purposes or for insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details go to the doctor reviewing your fit to work certificate request, who uses them to decide whether to issue it. Share only what the doctor needs for that decision. For questions about how your data is handled, email care@drcertificate.com before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What hours do doctors review fit to work requests?"
+    },
+    {
+      "kind": "text",
+      "text": "Doctors review fitness requests, including fit to work, from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday. A request sent outside those hours waits for the next review window, so apply early if your start date is near."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Ministry of Manpower: MOM on returning to hazardous work",
+        "Singapore Ministry of Manpower: MOM on migrant worker examinations"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for School in the Philippines",
+        "Medical Fitness Certificate for College Admission",
+        "Medical Fitness Certificate for Employment",
+        "Online medical fitness certificate",
+        "Work from home certificate",
+        "Online Fitness Certificate in Singapore",
+        "Online Fitness Certificate in the Philippines",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in Singapore",
+        "Unfit to Fly Certificate in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your fit to work certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Start your fit to work certificate online with DrCertificate. The fee is 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia, and review takes about 30 minutes. Issuance depends on the doctor, and payment is non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

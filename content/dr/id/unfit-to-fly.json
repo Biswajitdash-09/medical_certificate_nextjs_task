@@ -1,0 +1,762 @@
+{
+  "slug": "unfit-to-fly",
+  "group": "service",
+  "service": "unfit-to-fly",
+  "title": "Online unfit to fly certificate",
+  "description": "Apply online for a doctor-reviewed unfit to fly certificate for airlines or travel changes. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang · Ditinjau oleh dokter bersertifikat"
+    },
+    {
+      "kind": "text",
+      "text": "Jika karena sakit atau cedera Anda sebaiknya tidak terbang, Anda tidak perlu ke klinik hanya untuk urusan surat-menyurat. Ajukan secara online, dokter bersertifikat akan meninjau permohonan Anda, dan jika disetujui, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter bersertifikat (MBBS, MD, atau MS) menerbitkan surat keterangan ini, dan surat keterangan ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat",
+        "Dikirim lewat email jika disetujui",
+        "Tersedia 365 hari dalam setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlu surat keterangan lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Keterangan sakit",
+        "Keterangan sehat",
+        "Medis umum"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0003"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Unfit to fly"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised not to travel by air for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat Setiap permohonan dinilai secara individual",
+        "Pengajuan 100% online Ajukan dari ponsel atau laptop Anda",
+        "Pengiriman lewat email jika disetujui Dikirim ke alamat email yang Anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran online yang aman"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimana cara mendapatkan surat keterangan tidak layak terbang secara online?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan surat keterangan tidak layak terbang secara online dari DrCertificate, isi formulir online, pilih opsi Unfit to Travel, lalu bayar melalui Stripe. Seorang dokter independen bersertifikat akan meninjau data Anda melalui chat. Jika dokter menyetujui, surat keterangan dikirim melalui email dalam bentuk PDF, biasanya dalam waktu sekitar 30 menit. Penerbitan selalu bergantung pada penilaian medis dokter."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum Anda mengajukan permohonan"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang surat keterangan ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa itu surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang adalah dokumen medis yang diterbitkan oleh dokter. Surat ini menyatakan bahwa Anda telah menjalani penilaian dan saat ini secara medis tidak layak untuk bepergian dengan pesawat."
+    },
+    {
+      "kind": "text",
+      "text": "Maskapai atau perusahaan perjalanan mungkin memintanya saat Anda perlu membatalkan, menunda, atau mengubah rencana perjalanan karena kondisi kesehatan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Isi surat keterangan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Data pribadi Anda yang benar",
+        "Tanggal konsultasi",
+        "Penilaian medis oleh dokter",
+        "Rekomendasi kelayakan terbang",
+        "Masa pembatasan perjalanan, jika ada",
+        "Nama dan kredensial dokter",
+        "Tanda tangan atau verifikasi digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Informasi ini membantu maskapai atau pemberi kerja memahami alasan medis yang memengaruhi perjalanan Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Hindari surat keterangan palsu. Surat keterangan palsu, template yang diedit, atau dokumen yang dibuat secara otomatis dapat ditolak oleh maskapai. Surat keterangan asli hanya diterbitkan setelah penilaian yang semestinya oleh dokter yang berkualifikasi."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kapan Anda mungkin memerlukan surat keterangan tidak layak terbang"
+    },
+    {
+      "kind": "text",
+      "text": "Surat ini membantu menjelaskan, berdasarkan penilaian medis, mengapa bepergian mungkin tidak disarankan untuk Anda saat ini."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sakit sebelum bepergian"
+    },
+    {
+      "kind": "text",
+      "text": "Sakit mendadak, infeksi, atau cedera menjelang tanggal keberangkatan dapat membuat Anda tidak layak terbang."
+    },
+    {
+      "kind": "text",
+      "text": "Mungkin diperlukan untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sakit mendadak sebelum bepergian",
+        "Infeksi berat atau menular",
+        "Pemulihan setelah operasi atau pengobatan",
+        "Cedera yang memengaruhi keselamatan perjalanan",
+        "Pembatasan perjalanan terkait kehamilan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pembatalan atau perubahan penerbangan"
+    },
+    {
+      "kind": "text",
+      "text": "Banyak maskapai meminta dokumen pendukung saat Anda membatalkan atau mengubah penerbangan karena alasan medis."
+    },
+    {
+      "kind": "text",
+      "text": "Dapat membantu mendukung"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pembatalan penerbangan",
+        "Perubahan tanggal",
+        "Pengajuan pengembalian dana",
+        "Perjalanan yang terlewat karena sakit"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Perjalanan kerja atau studi"
+    },
+    {
+      "kind": "text",
+      "text": "Pemberi kerja dan sekolah mungkin meminta bukti saat penyakit menghalangi perjalanan yang telah direncanakan."
+    },
+    {
+      "kind": "text",
+      "text": "Mereka mungkin ingin melihat"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tanggal penilaian medis Anda",
+        "Jenis masalah medis",
+        "Rekomendasi dokter terkait perjalanan",
+        "Kapan perjalanan tidak disarankan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Alasan umum seseorang mungkin tidak layak terbang"
+    },
+    {
+      "kind": "text",
+      "text": "Perubahan tekanan kabin, ruang gerak yang terbatas, dan perjalanan panjang memberi beban tambahan pada tubuh. Alasan yang umum meliputi:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Demam tinggi atau infeksi serius",
+        "Gejala pernapasan berat",
+        "Baru menjalani operasi",
+        "Cedera yang signifikan",
+        "Kondisi jantung atau paru-paru tertentu",
+        "Nyeri hebat yang mengganggu perjalanan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Periksa persyaratannya terlebih dahulu"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap organisasi memiliki aturannya sendiri. Sebelum mengajukan, periksa apakah format tertentu, laporan medis tambahan, atau formulir maskapai diperlukan oleh:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Maskapai",
+        "Agen perjalanan",
+        "Pemberi kerja atau institusi"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individual. Penerbitan surat keterangan, isi, dan jangka waktunya merupakan keputusan dokter yang meninjau. Semua dokumen ditujukan kepada organisasi tempat dokumen tersebut diserahkan dan hanya berlaku untuk satu kali penggunaan. Diterima atau tidaknya surat keterangan bergantung pada organisasi tempat Anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang biasanya diharapkan pemberi kerja, sekolah, atau maskapai dari surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Sebagian besar penerima menginginkan surat keterangan tidak layak terbang yang menyatakan dengan jelas bahwa Anda tidak layak terbang, mencantumkan tanggal yang bersangkutan, dan menunjukkan data dokter. Di luar itu, persyaratannya berbeda-beda antara maskapai, pemberi kerja, sekolah, dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Keputusan akhir ada di tangan maskapai."
+    },
+    {
+      "kind": "text",
+      "text": "UK Civil Aviation Authority menyatakan bahwa sebagian besar maskapai memiliki penasihat medis yang menentukan apakah penumpang layak terbang, dan keputusan akhir untuk mengangkut seorang penumpang atau tidak ada pada maskapai. Cebu Pacific adalah salah satu maskapai yang memiliki aturan tertulis. Saat penumpang mengajukan permintaan kasus medis, Cebu Pacific meminta surat keterangan medis yang sah yang menyatakan tidak layak terbang, disertai tanda tangan dokter, nomor PRC, dan kop surat resmi."
+    },
+    {
+      "kind": "text",
+      "text": "Jika Anda terbang dengan Cebu Pacific, pastikan terlebih dahulu sebelum mengajukan permintaan bahwa surat keterangan dari dokter di DrCertificate akan memenuhi standar tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum membayar, ajukan tiga pertanyaan ini kepada pihak penerima."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Apakah Anda menerima surat keterangan medis online? Jawaban ya untuk pertanyaan ini lebih menentukan daripada apa pun yang tertulis di surat keterangan.",
+        "Apakah Anda memerlukan formulir atau format khusus? Maskapai atau pemberi kerja yang memiliki formulir sendiri mungkin tidak menerima surat keterangan terpisah.",
+        "Rincian dan batas waktu apa yang berlaku? Tanyakan tanggal, nama, atau rincian pemesanan apa saja yang harus dicantumkan, serta berapa lama setelah penerbangan Anda harus mengirimkan surat keterangan."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa saja isi surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang dari DrCertificate memuat identitas Anda, kesimpulan dokter, dan identitas dokter. Setiap bagian ditempatkan di area tersendiri sehingga maskapai atau pemberi kerja dapat menemukannya dengan cepat."
+    },
+    {
+      "kind": "text",
+      "text": "Jika pihak penerima memerlukan tata letak tertentu, bandingkan permintaan mereka dengan daftar ini sebelum Anda mengajukan permintaan."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Data Anda Nama lengkap Anda sesuai yang diisi di formulir, yang harus sama dengan kartu identitas dan pemesanan Anda.",
+        "Pernyataan dokter Pendapat dokter bahwa Anda secara medis tidak layak terbang.",
+        "Tanggal Tanggal konsultasi Anda dan periode ketika Anda sebaiknya tidak terbang.",
+        "Data dokter Nama dokter, gelar (MBBS, MD, atau MS), dan rincian pendaftaran di dewan kedokteran."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cara kerja"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah sederhana, dengan dokter yang memeriksa setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi formulir pengajuan online Masukkan data diri Anda dan alasan permohonan. Anda mungkin diminta membagikan tanda vital atau hasil pengukuran lain melalui tautan aman yang dikirim lewat email.",
+        "2 Langkah 2: Dokter bersertifikat meninjau permohonan Anda Dokter menilai informasi yang Anda berikan dan memutuskan apakah surat keterangan layak diberikan secara medis. Dokter dapat menolak permohonan.",
+        "3 Langkah 3: Terima surat keterangan lewat email, jika disetujui Surat keterangan yang disetujui dikirim secara elektronik ke alamat email yang Anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Opsi mana yang harus Anda pilih di formulir untuk surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk surat keterangan tidak layak terbang, pilih Medical Certificate Unfit to Travel di formulir pengajuan. Formulir ini tidak memiliki opsi khusus untuk penerbangan, dan Unfit to Travel juga mencakup perjalanan udara."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam jawaban formulir, sebutkan bahwa Anda memerlukan surat keterangan untuk penerbangan yang sudah dipesan, cantumkan tanggal penerbangan, dan jelaskan kapan gejala Anda mulai muncul. Jika tidak ada opsi yang sesuai dengan situasi Anda, kirim email ke care@drcertificate.com sebelum membayar."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang akan ditanyakan dokter untuk surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Dokter akan menanyakan gejala Anda, kapan gejala mulai muncul, dan tanggal penerbangan yang tidak dapat Anda ikuti. Tanggal yang jelas membantu dokter menilai apakah terbang tidak aman bagi Anda selama periode tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Bersiaplah menjawab pertanyaan tentang kondisi Anda hari ini, penyakit atau cedera yang baru dialami, dan obat yang Anda konsumsi. Jika Anda sudah memiliki dokumen, misalnya catatan klinik terbaru, hasil pemeriksaan, atau konfirmasi pemesanan, sebutkan di chat dan bagikan jika dokter memintanya."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter mungkin mengirimkan pertanyaan lanjutan. Balas dengan segera dan pastikan jawaban Anda sesuai dengan isi formulir, karena rincian yang tidak cocok menjadi alasan permintaan ditolak."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana surat keterangan tidak layak terbang tidak dapat digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang dari DrCertificate tidak dapat diserahkan di India, tidak dapat digunakan untuk keperluan hukum, dan tidak dapat digunakan untuk asuransi. Pemohon harus berusia minimal 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Layanan ini hanya untuk kondisi yang bukan darurat. Jika Anda mengalami nyeri dada, sesak napas, perdarahan hebat, atau sakit parah yang tiba-tiba, segera hubungi layanan darurat setempat atau pergi ke rumah sakit terdekat sekarang juga."
+    },
+    {
+      "kind": "text",
+      "text": "Diterima atau tidaknya surat keterangan ditentukan oleh pihak penerima. Tanyakan terlebih dahulu kepada maskapai, pemberi kerja, atau sekolah Anda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang terjadi jika dokter tidak dapat menerbitkan surat keterangan tidak layak terbang Anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika dokter tidak dapat menerbitkan surat keterangan tidak layak terbang Anda, Anda tidak akan menerimanya dan pembayaran Anda tidak dikembalikan. Dokter di DrCertificate menolak sekitar 2% permintaan."
+    },
+    {
+      "kind": "text",
+      "text": "Penolakan terjadi bila data tidak benar, misalnya nama yang tidak sesuai dengan kartu identitas, atau bila gejala dan keterangan yang Anda berikan tidak konsisten. Dokter juga akan menolak bila kondisi Anda memerlukan pemeriksaan fisik atau tes yang tidak dapat digantikan oleh obrolan. Dalam hal ini, periksakan diri langsung ke dokter di klinik atau rumah sakit setempat."
+    },
+    {
+      "kind": "text",
+      "text": "Pembayaran tidak dapat dikembalikan, dengan satu pengecualian. Gangguan teknis yang telah diverifikasi dan dilaporkan dalam 24 jam dapat dikembalikan dananya."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk bantuan, kirim email ke care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapa biaya surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang dikenakan biaya 25 SGD di Singapura, 399 peso di Filipina, dan 30 MYR di Malaysia. Harga di negara lain bergantung pada negaranya."
+    },
+    {
+      "kind": "text",
+      "text": "Biaya ini mencakup peninjauan oleh dokter dan, jika disetujui, surat keterangan dalam bentuk PDF yang dikirim melalui email. Anda membayar melalui Stripe, dan pembayaran tidak dapat dikembalikan, meskipun dokter menolak permintaan Anda."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD"
+        ],
+        [
+          "Filipina",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapa yang menerbitkan surat keterangan tidak layak terbang Anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokter bersertifikat Setiap permintaan ditangani oleh dokter dengan kualifikasi MBBS, MD, atau MS. Semua dokter di platform ini adalah dokter yang terdaftar di dewan kedokteran.",
+        "Dokter yang memutuskan DrCertificate adalah sebuah platform. Hanya dokter yang memutuskan apakah surat keterangan akan diterbitkan, dan dokter menolak sekitar 2% permintaan, biasanya karena data tidak sesuai atau gejala tidak konsisten.",
+        "Peninjau medis Dr Urooj Arshad, M.B.B.S, Kedokteran Umum, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah pemberi kerja, sekolah, atau maskapai saya akan menerima surat keterangan tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Pemberi kerja, sekolah, atau maskapai Anda hanya akan menerima surat keterangan tidak layak terbang jika kebijakan mereka sendiri mengizinkan surat keterangan medis online. DrCertificate tidak dapat memutuskan hal itu untuk mereka. Tanyakan terlebih dahulu sebelum Anda mengajukan permintaan."
+    },
+    {
+      "kind": "text",
+      "text": "Penerima yang ingin memverifikasi surat keterangan dapat memeriksa nama dokter dan data registrasi yang tercantum di dalamnya kepada konsil kedokteran tempat dokter tersebut terdaftar. Semua dokter di platform ini terdaftar di konsil kedokteran."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk maskapai, perlu kehati-hatian lebih."
+    },
+    {
+      "kind": "text",
+      "text": "Menurut panduan UK Civil Aviation Authority, maskapai yang membuat keputusan akhir untuk mengangkut penumpang, dan penasihat medis maskapai dapat meninjau kasus Anda. Jika penerima mengharuskan formulirnya sendiri, tanyakan apakah formulir tersebut harus ditandatangani oleh dokter mereka sendiri. Jika demikian, layanan ini tidak sesuai untuk Anda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Surat keterangan tidak layak terbang dibandingkan surat keterangan terkait: mana yang Anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang menyatakan bahwa Anda sebaiknya tidak terbang, sedangkan surat keterangan layak terbang menyatakan bahwa Anda cukup sehat untuk naik pesawat. Surat keterangan sakit mencakup izin tidak masuk kerja atau sekolah dan tidak menyatakan apa pun tentang penerbangan."
+    },
+    {
+      "kind": "text",
+      "text": "Pilih yang sesuai dengan keterangan yang dibutuhkan oleh penerima Anda."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Surat keterangan",
+        "Isi pernyataan",
+        "Biasanya diserahkan kepada",
+        "Pilihan formulir yang dipilih"
+      ],
+      "rows": [
+        [
+          "Tidak layak terbang",
+          "Anda tidak layak secara medis untuk bepergian dengan pesawat selama jangka waktu yang dinyatakan",
+          "Maskapai, pemberi kerja, sekolah, atau agen perjalanan",
+          "Medical Certificate Unfit to Travel"
+        ],
+        [
+          "Layak terbang",
+          "Anda layak secara medis untuk bepergian dengan pesawat",
+          "Maskapai saat pemesanan atau check in",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Keterangan sakit",
+          "Anda memerlukan izin tidak masuk kerja atau sekolah",
+          "Atasan, sekolah, atau universitas",
+          "Medical Certificate Sick Leave"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa mengajukan online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Fokus pada kesehatan Anda selagi dokter meninjau permohonan Anda"
+    },
+    {
+      "kind": "text",
+      "text": "Saat gejala muncul menjelang tanggal keberangkatan, pergi ke klinik bisa jadi sulit. Mengajukan secara online bisa lebih minim stres."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Konsultasi dari rumah Ajukan tanpa harus pergi ke klinik saat Anda sedang tidak enak badan.",
+        "Ajukan sebelum terbang Ajukan segera setelah gejala muncul, sebelum jadwal perjalanan Anda.",
+        "Dokumen digital yang aman Jika disetujui, surat keterangan Anda dikirim lewat email, siap dibagikan kepada maskapai Anda.",
+        "Penilaian oleh dokter bersertifikat Surat keterangan hanya diterbitkan setelah tenaga medis profesional yang berkualifikasi meninjau permohonan Anda."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dokter yang memutuskan. Tidak ada yang disetujui secara otomatis. Dokter bersertifikat meninjau setiap permohonan dan memutuskan apakah akan menerbitkan surat keterangan, apa isinya, dan berapa lama jangka waktunya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana layanan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara memiliki halaman surat keterangannya sendiri, dan layanan yang tersedia bisa berbeda. Pilih negara Anda untuk memeriksanya sebelum mengajukan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia saat ini"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat surat keterangan",
+        "Indonesia Lihat surat keterangan",
+        "Philippines Lihat surat keterangan",
+        "Thailand Lihat surat keterangan",
+        "Vietnam Lihat surat keterangan",
+        "Malaysia Lihat surat keterangan",
+        "Cambodia Lihat surat keterangan",
+        "Laos Lihat surat keterangan",
+        "Myanmar Lihat surat keterangan",
+        "Brunei Lihat surat keterangan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pertanyaan seputar surat keterangan tidak layak terbang"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apa itu Surat Keterangan Tidak Layak Terbang online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat Keterangan Tidak Layak Terbang online adalah dokumen digital yang diterbitkan oleh dokter bersertifikat (MBBS, MD atau MS) yang menyatakan bahwa, karena alasan kesehatan, Anda untuk sementara disarankan tidak bepergian dengan pesawat. Anda mengajukan permohonan tanpa perlu bertemu dokter secara langsung. Maskapai Anda mungkin memiliki formulir sendiri, jadi tanyakan terlebih dahulu kepada maskapai."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lama saya bisa menerima Surat Keterangan Tidak Layak Terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Biasanya sekitar 30 menit. Jika dokter menyetujui permohonan Anda, surat dikirim ke email Anda dalam bentuk PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah layanan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, layanan berjalan 365 hari setahun, termasuk akhir pekan dan hari libur nasional. Dokter meninjau permohonan pada jam kerja, jadi permohonan yang diajukan di luar jam tersebut akan menunggu jadwal kerja berikutnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya mendapatkan Surat Keterangan Tidak Layak Terbang dalam bahasa lokal saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat dalam bahasa lokal tidak dijanjikan. Kirim email ke care@drcertificate.com untuk menanyakannya sebelum Anda mengajukan permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapa yang menerbitkan Surat Keterangan Tidak Layak Terbang online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat diterbitkan oleh dokter bersertifikat (MBBS, MD atau MS). Dokter bekerja secara independen, dan hanya dokter yang memutuskan apakah surat diterbitkan serta apa isinya. Surat ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa biaya surat keterangan?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga tergantung negara Anda, misalnya 25 SGD di Singapura, 399 peso di Filipina, atau 30 MYR di Malaysia. Formulir permohonan menampilkan harga sebelum Anda membayar. Pembayaran tidak dapat dikembalikan, termasuk jika dokter menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat ini diterima oleh maskapai dan lembaga?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan tergantung pada organisasi tempat Anda menyerahkannya, jadi tanyakan terlebih dahulu. Surat ini diterbitkan oleh dokter bersertifikat, jadi tanyakan apakah mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya mendapatkan Surat Keterangan Tidak Layak Terbang pada hari libur nasional?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, Anda bisa mengajukan permohonan pada hari libur nasional, karena layanan berjalan 365 hari setahun. Dokter meninjau permohonan Anda pada jam kerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika maskapai atau lembaga saya memiliki persyaratan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Kirim email berisi format yang diminta ke care@drcertificate.com sebelum Anda mengajukan permohonan, karena perubahan format tidak dijamin. Penerimaan tergantung pada organisasi tempat Anda menyerahkannya, jadi tanyakan terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lama surat keterangan tidak layak terbang berlaku?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang mencakup jangka waktu yang ditulis dokter di dalamnya, berdasarkan konsultasi Anda. Tidak ada satu aturan masa berlaku yang berlaku untuk surat keterangan tidak layak terbang. Di sebagian besar negara Asia Tenggara, surat keterangan sakit untuk gejala umum mencakup paling lama 7 hari. Perkirakan jangka waktu yang singkat sesuai dengan penyakit yang benar-benar Anda alami."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat keterangan tidak layak terbang dapat diberi tanggal mundur?"
+    },
+    {
+      "kind": "text",
+      "text": "Apakah surat keterangan tidak layak terbang mencakup tanggal sebelumnya adalah keputusan dokter, bukan keputusan Anda atau DrCertificate. Dokter hanya menyatakan apa yang dapat didukung oleh keterangan yang Anda berikan. Jika Anda jatuh sakit sebelum penerbangan, tuliskan tanggal mulai gejala yang sebenarnya di formulir untuk membantu dokter menilai."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana surat keterangan tidak layak terbang dikirimkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan tidak layak terbang dikirim dalam bentuk PDF melalui email setelah dokter menyetujuinya, biasanya sekitar 30 menit setelah Anda mengirim permintaan dan membayar. Gunakan alamat email yang sering Anda periksa. Seluruh proses permintaan dilakukan melalui formulir online dan obrolan teks, tanpa konsultasi video atau tatap muka."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah saya dapat memperbaiki nama atau tanggal setelah surat keterangan diterbitkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak. Surat keterangan DrCertificate tidak dapat dikoreksi setelah diterbitkan, kecuali jika kesalahan berasal dari tim medis. Pastikan nama Anda sesuai dengan kartu identitas dan pemesanan Anda, serta semua tanggal sudah benar, sebelum Anda mengirim permintaan. Nama yang tidak sesuai dengan kartu identitas menjadi salah satu alasan dokter menolak permintaan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah saya bisa menggunakan sertifikat ini di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Anda dapat menggunakan surat keterangan ini di 10 negara Asia Tenggara yang dilayani DrCertificate, termasuk Singapura, Malaysia, dan Filipina, jika penerima Anda menerima surat keterangan medis online. Surat keterangan ini tidak dapat diajukan di India. Pastikan terlebih dahulu dengan maskapai, pemberi kerja, atau sekolah Anda sebelum mengajukan permintaan, karena penerimaan adalah keputusan mereka."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah informasi kesehatan saya dijaga kerahasiaannya?"
+    },
+    {
+      "kind": "text",
+      "text": "Data kesehatan Anda diberikan kepada dokter independen yang meninjau permintaan Anda, yang memerlukannya untuk membuat keputusan. Berikan hanya informasi yang diperlukan dokter untuk surat keterangan tidak layak terbang Anda. Untuk pertanyaan tentang cara DrCertificate menangani data pribadi Anda, kirim email ke care@drcertificate.com sebelum Anda mengajukan permintaan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat keterangan tidak layak terbang menjamin pengembalian dana dari maskapai?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak. Surat keterangan tidak layak terbang adalah bukti medis, bukan persetujuan pengembalian dana. Maskapai menerapkan kebijakannya sendiri untuk penjadwalan ulang, pengembalian dana, dan pembebasan biaya. UK Civil Aviation Authority menyebutkan bahwa maskapai yang membuat keputusan akhir untuk mengangkut penumpang. Periksa terlebih dahulu aturan maskapai Anda untuk kasus medis."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "UK Civil Aviation Authority: UK CAA tentang siapa yang memutuskan",
+        "Cebu Pacific: surat keterangan tidak layak terbang Cebu Pacific"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Utamakan kesehatan Anda sebelum bepergian."
+    },
+    {
+      "kind": "text",
+      "text": "Sakit bisa datang meski perjalanan Anda sudah dipesan. Ajukan secara online dalam beberapa menit, dan jika dokter bersertifikat menyetujui permohonan Anda, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ingin bertanya dulu? care@drcertificate.com"
+    }
+  ]
+}

@@ -25,6 +25,46 @@ export type Brand = {
   faq: { q: string; a: string }[];
   contact: { email?: string; address?: string; emergency?: string };
   meta: { title: string; description: string; url: string };
+  // Optional parity fields: brands that omit them keep the simple flat nav, footer, and English-only routing
+  locales?: Locale[];
+  megaNav?: NavGroup[];
+  footerColumns?: FooterColumn[];
+  socials?: Social[];
+};
+
+// Supported UI/content locales; English is unprefixed in URLs
+export type Locale = "en" | "fil" | "id" | "ms" | "th" | "vi" | "km" | "lo" | "my";
+
+// Mega-menu group for desktop dropdowns and mobile accordions
+export type NavGroup = {
+  title: string;
+  items: { label: string; href: string; blurb?: string; image?: string }[];
+  seeAll?: { label: string; href: string };
+};
+
+// Structured footer link column
+export type FooterColumn = { title: string; links: { label: string; href: string }[] };
+
+// Social profile link rendered as an inline SVG icon
+export type Social = { kind: "x" | "instagram" | "linkedin"; href: string };
+
+// Scraped content block rendered by components/ContentPage.tsx
+export type PageBlock =
+  | { kind: "heading"; level: 2 | 3; text: string }
+  | { kind: "text"; text: string }
+  | { kind: "list"; items: string[] }
+  | { kind: "faq"; items: { q: string; a: string }[] }
+  | { kind: "table"; head: string[]; rows: string[][] };
+
+// One scraped internal page in a single locale
+export type ContentPage = {
+  slug: string;
+  title: string;
+  description: string;
+  blocks: PageBlock[];
+  service?: string;
+  group?: "service" | "country" | "symptom" | "certificate" | "audience" | "guide" | "company" | "legal";
+  lastUpdated?: string;
 };
 
 // The hero shows the real thing: dr's live certificate illustration, or a photograph with its licence credit

@@ -1,0 +1,762 @@
+{
+  "slug": "unfit-to-fly",
+  "group": "service",
+  "service": "unfit-to-fly",
+  "title": "Online unfit to fly certificate",
+  "description": "Apply online for a doctor-reviewed unfit to fly certificate for airlines or travel changes. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang · Disemak oleh doktor bertauliah"
+    },
+    {
+      "kind": "text",
+      "text": "Jika penyakit atau kecederaan menyebabkan anda tidak sepatutnya menaiki penerbangan, anda tidak perlu ke klinik semata-mata untuk urusan dokumen. Mohon dalam talian, doktor bertauliah akan menyemak permohonan anda, dan jika diluluskan, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor bertauliah (MBBS, MD atau MS) mengeluarkan sijil ini, dan sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah",
+        "Dihantar melalui e-mel jika diluluskan",
+        "Tersedia 365 hari setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlukan jenis sijil lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Cuti sakit",
+        "Kecergasan perubatan",
+        "Perubatan am"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0003"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Unfit to fly"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised not to travel by air for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah Setiap permohonan dinilai secara individu",
+        "Permohonan 100% dalam talian Mohon melalui telefon atau komputer riba anda",
+        "Penghantaran melalui e-mel jika diluluskan Dihantar ke alamat e-mel yang anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran dalam talian yang selamat"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimanakah cara mendapatkan sijil tidak layak terbang secara dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan sijil tidak layak terbang secara dalam talian daripada DrCertificate, isi borang dalam talian, pilih pilihan Unfit to Travel dan bayar melalui Stripe. Seorang doktor bertauliah yang bebas akan menyemak butiran anda melalui sembang dan, jika doktor meluluskannya, sijil akan dihantar melalui e-mel dalam bentuk PDF, biasanya dalam masa kira-kira 30 minit. Pengeluaran sijil sentiasa bergantung pada pertimbangan perubatan doktor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum anda memohon"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang sijil ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah itu sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang ialah dokumen perubatan yang dikeluarkan oleh doktor. Sijil ini menyatakan bahawa anda telah dinilai dan buat masa ini tidak sesuai dari segi perubatan untuk menaiki penerbangan."
+    },
+    {
+      "kind": "text",
+      "text": "Syarikat penerbangan atau syarikat pelancongan mungkin memintanya apabila anda perlu membatalkan, menangguhkan atau mengubah rancangan perjalanan kerana keadaan kesihatan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Kandungan sijil"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Butiran peribadi anda yang betul",
+        "Tarikh konsultasi",
+        "Penilaian perubatan oleh doktor",
+        "Syor tentang kelayakan untuk terbang",
+        "Tempoh sekatan, jika berkenaan",
+        "Nama dan kelayakan doktor",
+        "Tandatangan atau pengesahan digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Butiran ini membantu syarikat penerbangan atau majikan memahami sebab perubatan yang menjejaskan perjalanan anda."
+    },
+    {
+      "kind": "text",
+      "text": "Elakkan sijil palsu. Sijil palsu, templat yang diubah suai atau dokumen yang dijana secara automatik boleh ditolak oleh syarikat penerbangan. Sijil yang tulen hanya dikeluarkan selepas penilaian yang sewajarnya oleh doktor yang berkelayakan."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bila anda mungkin memerlukan sijil tidak layak terbang"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil ini membantu menjelaskan, berdasarkan penilaian perubatan, mengapa perjalanan mungkin tidak disyorkan untuk anda buat masa ini."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sakit sebelum perjalanan"
+    },
+    {
+      "kind": "text",
+      "text": "Sakit, jangkitan atau kecederaan secara mengejut menjelang tarikh perjalanan boleh menjadikan penerbangan tidak sesuai untuk anda."
+    },
+    {
+      "kind": "text",
+      "text": "Mungkin diperlukan untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sakit mengejut sebelum perjalanan",
+        "Jangkitan teruk atau mudah berjangkit",
+        "Pemulihan selepas pembedahan atau rawatan",
+        "Kecederaan yang menjejaskan keselamatan perjalanan",
+        "Sekatan perjalanan berkaitan kehamilan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pembatalan atau perubahan penerbangan"
+    },
+    {
+      "kind": "text",
+      "text": "Banyak syarikat penerbangan meminta dokumen sokongan apabila anda membatalkan atau mengubah penerbangan atas sebab perubatan."
+    },
+    {
+      "kind": "text",
+      "text": "Boleh membantu menyokong"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pembatalan penerbangan",
+        "Perubahan tarikh",
+        "Permohonan bayaran balik",
+        "Perjalanan yang terlepas kerana sakit"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Perjalanan kerja atau pengajian"
+    },
+    {
+      "kind": "text",
+      "text": "Majikan dan sekolah mungkin meminta bukti apabila penyakit menghalang perjalanan yang dirancang."
+    },
+    {
+      "kind": "text",
+      "text": "Mereka mungkin ingin melihat"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tarikh penilaian perubatan anda",
+        "Jenis masalah perubatan",
+        "Syor doktor tentang perjalanan",
+        "Tempoh perjalanan tidak dinasihatkan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sebab biasa seseorang mungkin tidak layak terbang"
+    },
+    {
+      "kind": "text",
+      "text": "Perubahan tekanan kabin, pergerakan yang terhad dan perjalanan yang jauh memberi beban tambahan kepada badan. Sebab biasa termasuk:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Demam tinggi atau jangkitan serius",
+        "Simptom pernafasan yang teruk",
+        "Pembedahan baru-baru ini",
+        "Kecederaan yang ketara",
+        "Masalah jantung atau paru-paru tertentu",
+        "Sakit teruk yang menjejaskan perjalanan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Semak keperluan terlebih dahulu"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap organisasi mempunyai peraturannya sendiri. Sebelum menyerahkan sijil, semak sama ada format tertentu, laporan perubatan tambahan atau borang syarikat penerbangan diperlukan oleh:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Syarikat penerbangan",
+        "Agensi pelancongan",
+        "Majikan atau institusi"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individu. Pengeluaran sijil, kandungan dan tempohnya adalah atas budi bicara doktor yang menyemak. Semua dokumen ditujukan kepada organisasi tempat ia diserahkan dan sah untuk sekali penggunaan sahaja. Penerimaan sijil ditentukan oleh organisasi tempat anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang biasanya dijangka oleh majikan, sekolah atau syarikat penerbangan daripada sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Kebanyakan penerima mahukan sijil tidak layak terbang yang menyatakan dengan jelas bahawa anda tidak layak untuk terbang, menyebut tarikh yang berkaitan dan menunjukkan butiran doktor. Selain itu, jangkaan berbeza antara syarikat penerbangan, majikan, sekolah dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Keputusan muktamad terletak pada syarikat penerbangan."
+    },
+    {
+      "kind": "text",
+      "text": "UK Civil Aviation Authority menyatakan bahawa kebanyakan syarikat penerbangan mempunyai penasihat perubatan yang meluluskan penumpang sebagai layak terbang, dan keputusan muktamad sama ada untuk membawa seseorang penumpang terletak pada syarikat penerbangan. Cebu Pacific ialah salah satu syarikat penerbangan yang mempunyai peraturan bertulis. Apabila penumpang menghantar permohonan kes perubatan, Cebu Pacific meminta sijil perubatan yang sah yang menyatakan tidak layak terbang, dengan tandatangan doktor, nombor PRC dan kepala surat rasmi."
+    },
+    {
+      "kind": "text",
+      "text": "Jika anda terbang dengan Cebu Pacific, dapatkan pengesahan sebelum anda memohon bahawa sijil daripada doktor di DrCertificate akan memenuhi standard tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum membayar, tanya penerima anda tiga soalan."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Adakah anda menerima nota perubatan dalam talian? Jawapan ya bagi soalan ini lebih penting daripada apa-apa lagi pada sijil.",
+        "Adakah anda memerlukan borang atau format anda sendiri? Syarikat penerbangan atau majikan yang mempunyai borang sendiri mungkin tidak menerima sijil yang berasingan.",
+        "Apakah butiran dan tarikh akhir yang terpakai? Tanya tarikh, nama atau butiran tempahan yang mesti dinyatakan dan berapa lama selepas penerbangan anda mesti menghantar sijil."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah kandungan sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang daripada DrCertificate menyatakan siapa anda, kesimpulan doktor dan siapa doktor tersebut. Setiap bahagian diletakkan di ruangnya sendiri, supaya syarikat penerbangan atau majikan dapat mencarinya dengan cepat."
+    },
+    {
+      "kind": "text",
+      "text": "Jika penerima anda memerlukan susun atur tertentu, bandingkan permintaan mereka dengan senarai ini sebelum anda memohon."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Butiran anda Nama penuh anda seperti yang dimasukkan dalam borang, yang sepatutnya sepadan dengan dokumen pengenalan dan tempahan anda.",
+        "Kenyataan doktor Pendapat doktor bahawa anda tidak layak dari segi perubatan untuk terbang.",
+        "Tarikh Tarikh konsultasi anda dan tempoh anda tidak sepatutnya terbang.",
+        "Butiran doktor Nama doktor, kelayakan (MBBS, MD atau MS) dan butiran pendaftaran dengan majlis perubatan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cara ia berfungsi"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah mudah, dengan doktor menyemak setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi borang permohonan dalam talian Masukkan butiran anda dan sebab permohonan. Anda mungkin diminta untuk berkongsi tanda vital atau ukuran lain melalui pautan selamat yang dihantar melalui e-mel.",
+        "2 Langkah 2: Doktor bertauliah menyemak permohonan anda Doktor menilai maklumat yang anda berikan dan memutuskan sama ada sijil sesuai dari segi perubatan. Doktor boleh menolak sesuatu permohonan.",
+        "3 Langkah 3: Terima sijil anda melalui e-mel, jika diluluskan Sijil yang diluluskan dihantar secara elektronik ke alamat e-mel yang anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pilihan manakah yang perlu anda pilih dalam borang untuk sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk sijil tidak layak terbang, pilih Medical Certificate Unfit to Travel dalam borang permohonan. Borang ini tidak mempunyai pilihan khusus untuk penerbangan, dan Unfit to Travel merangkumi perjalanan udara."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam jawapan borang anda, nyatakan bahawa anda memerlukan sijil untuk penerbangan yang telah ditempah, berikan tarikh penerbangan dan terangkan bila gejala anda bermula. Jika tiada pilihan yang sesuai dengan keadaan anda, e-mel care@drcertificate.com sebelum anda membayar."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang akan ditanya oleh doktor untuk sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Doktor akan bertanya tentang gejala anda, bila gejala itu bermula dan tarikh penerbangan yang tidak dapat anda naiki. Tarikh yang jelas membantu doktor menilai sama ada terbang tidak selamat untuk anda dalam tempoh tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan ditanya tentang keadaan anda hari ini, sebarang penyakit atau kecederaan baru-baru ini dan ubat yang anda ambil. Jika anda sudah mempunyai dokumen, contohnya nota klinik terkini, keputusan ujian atau pengesahan tempahan anda, nyatakannya dalam sembang dan kongsikannya jika doktor meminta."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor mungkin menghantar soalan susulan. Balas dengan segera dan pastikan jawapan anda selaras dengan borang anda, kerana butiran yang tidak sepadan merupakan salah satu sebab permohonan ditolak."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di manakah sijil tidak layak terbang tidak boleh digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang daripada DrCertificate tidak boleh diserahkan di India, digunakan untuk tujuan undang-undang atau digunakan untuk insurans. Pemohon mestilah berumur sekurang-kurangnya 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Perkhidmatan ini hanya untuk situasi bukan kecemasan. Jika anda mengalami sakit dada, kesukaran bernafas, pendarahan teruk atau penyakit teruk yang berlaku secara tiba-tiba, hubungi perkhidmatan kecemasan tempatan atau pergi ke hospital terdekat sekarang."
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada pihak penerima. Semak dengan syarikat penerbangan, majikan atau sekolah anda terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang berlaku jika doktor tidak dapat mengeluarkan sijil tidak layak terbang anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika doktor tidak dapat mengeluarkan sijil tidak layak terbang anda, anda tidak akan menerimanya dan bayaran anda tidak dipulangkan. Doktor di DrCertificate menolak kira-kira 2% permohonan."
+    },
+    {
+      "kind": "text",
+      "text": "Permohonan ditolak apabila butiran salah, contohnya nama yang tidak sepadan dengan dokumen pengenalan diri, atau apabila simptom dan butiran yang anda kongsikan tidak konsisten. Doktor juga akan menolak jika keadaan anda memerlukan pemeriksaan fizikal atau ujian yang tidak boleh digantikan dengan sembang. Dalam keadaan itu, jumpa doktor secara bersemuka di klinik atau hospital berdekatan."
+    },
+    {
+      "kind": "text",
+      "text": "Bayaran tidak boleh dipulangkan, kecuali dalam satu keadaan. Bayaran bagi kerosakan teknikal yang disahkan dan dilaporkan dalam tempoh 24 jam mungkin dipulangkan."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk bantuan, e-mel care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapakah kos sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang berharga 25 SGD di Singapura, 399 peso di Filipina dan 30 MYR di Malaysia. Harga di negara lain bergantung pada negara tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Bayaran ini meliputi semakan doktor dan, jika diluluskan, sijil PDF melalui e-mel. Anda membayar melalui Stripe, dan bayaran tidak boleh dipulangkan, walaupun doktor menolak permohonan anda."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD"
+        ],
+        [
+          "Filipina",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapakah yang mengeluarkan sijil tidak layak terbang anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Doktor bertauliah Setiap permohonan diserahkan kepada doktor yang memiliki kelayakan MBBS, MD atau MS. Semua doktor di platform ini ialah doktor yang berdaftar dengan majlis perubatan.",
+        "Doktor yang membuat keputusan DrCertificate ialah sebuah platform. Hanya doktor yang memutuskan sama ada untuk mengeluarkan sijil, dan doktor menolak kira-kira 2% permohonan, biasanya apabila butiran tidak sepadan atau gejala tidak konsisten.",
+        "Penyemak perubatan Dr Urooj Arshad, M.B.B.S, Perubatan Am, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Adakah majikan, sekolah atau syarikat penerbangan saya akan menerima sijil tidak layak terbang?"
+    },
+    {
+      "kind": "text",
+      "text": "Majikan, sekolah atau syarikat penerbangan anda hanya akan menerima sijil tidak layak terbang jika polisi mereka sendiri membenarkan nota perubatan dalam talian. DrCertificate tidak boleh membuat keputusan itu bagi pihak mereka. Tanya dahulu sebelum anda memohon."
+    },
+    {
+      "kind": "text",
+      "text": "Penerima yang ingin mengesahkan sijil boleh menyemak nama doktor dan butiran pendaftaran yang tertera padanya dengan majlis perubatan tempat doktor itu berdaftar. Semua doktor di platform ini berdaftar dengan majlis perubatan."
+    },
+    {
+      "kind": "text",
+      "text": "Bagi syarikat penerbangan, anda perlu lebih berhati-hati."
+    },
+    {
+      "kind": "text",
+      "text": "Menurut panduan UK Civil Aviation Authority, syarikat penerbangan membuat keputusan muktamad sama ada untuk membawa seseorang penumpang, dan penasihat perubatannya mungkin meneliti kes anda. Jika penerima berkeras mahu menggunakan borangnya sendiri, tanya sama ada borang itu mesti ditandatangani oleh doktornya sendiri. Jika ya, perkhidmatan ini tidak sesuai untuk anda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sijil tidak layak terbang berbanding sijil lain yang berkaitan: yang mana satu anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang menyatakan bahawa anda tidak patut terbang, manakala sijil layak terbang menyatakan bahawa anda cukup sihat untuk menaiki pesawat. Sijil cuti sakit meliputi cuti daripada kerja atau pengajian dan tidak menyebut apa-apa tentang penerbangan."
+    },
+    {
+      "kind": "text",
+      "text": "Pilih sijil yang sepadan dengan apa yang perlu diketahui oleh penerima anda."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Sijil",
+        "Apa yang dinyatakan",
+        "Siapa yang biasanya menerimanya",
+        "Pilihan dalam borang yang perlu dipilih"
+      ],
+      "rows": [
+        [
+          "Tidak layak terbang",
+          "Anda tidak layak dari segi perubatan untuk melakukan perjalanan udara bagi tempoh yang dinyatakan",
+          "Syarikat penerbangan, majikan, sekolah atau ejen pelancongan",
+          "Medical Certificate Unfit to Travel"
+        ],
+        [
+          "Layak untuk terbang",
+          "Anda layak dari segi perubatan untuk melakukan perjalanan udara",
+          "Syarikat penerbangan semasa tempahan atau daftar masuk",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Cuti sakit",
+          "Anda memerlukan cuti daripada kerja atau pengajian",
+          "Majikan, sekolah atau universiti",
+          "Medical Certificate Sick Leave"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa memohon dalam talian"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Utamakan kesihatan anda sementara doktor menyemak permohonan anda"
+    },
+    {
+      "kind": "text",
+      "text": "Apabila simptom bermula menjelang tarikh perjalanan, pergi ke klinik boleh menjadi sukar. Memohon dalam talian boleh menjadi kurang menekan."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Konsultasi dari rumah Mohon tanpa perlu ke klinik semasa anda kurang sihat.",
+        "Mohon sebelum penerbangan Mohon sebaik sahaja simptom muncul, sebelum tarikh perjalanan anda.",
+        "Dokumentasi digital yang selamat Jika diluluskan, sijil anda dihantar melalui e-mel, sedia untuk dikongsi dengan syarikat penerbangan anda.",
+        "Penilaian oleh doktor bertauliah Sijil hanya dikeluarkan selepas pengamal perubatan yang berkelayakan menyemak permohonan anda."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Doktor yang membuat keputusan. Tiada apa-apa yang diluluskan secara automatik. Doktor bertauliah menyemak setiap permohonan dan memutuskan sama ada untuk mengeluarkan sijil, kandungannya dan tempoh yang diliputinya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana perkhidmatan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara mempunyai halaman sijilnya sendiri, dan perkhidmatan yang tersedia mungkin berbeza. Pilih negara anda untuk menyemak sebelum memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia sekarang"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat sijil",
+        "Indonesia Lihat sijil",
+        "Philippines Lihat sijil",
+        "Thailand Lihat sijil",
+        "Vietnam Lihat sijil",
+        "Malaysia Lihat sijil",
+        "Cambodia Lihat sijil",
+        "Laos Lihat sijil",
+        "Myanmar Lihat sijil",
+        "Brunei Lihat sijil"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Soalan lazim"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Soalan tentang sijil tidak layak terbang"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah Sijil Tidak Layak Terbang (Unfit to Fly Certificate) dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil Tidak Layak Terbang dalam talian ialah dokumen digital yang dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS) yang menyatakan bahawa atas sebab kesihatan, anda dinasihatkan buat sementara waktu untuk tidak melakukan perjalanan udara. Anda memohon tanpa perlu berjumpa doktor secara bersemuka. Syarikat penerbangan anda mungkin mempunyai borang sendiri, jadi semak dengan mereka terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa cepat saya boleh menerima Sijil Tidak Layak Terbang saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Biasanya mengambil masa kira-kira 30 minit. Jika doktor meluluskan permohonan anda, sijil akan dihantar ke e-mel anda dalam bentuk PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah perkhidmatan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, perkhidmatan ini beroperasi 365 hari setahun, termasuk hujung minggu dan cuti umum. Doktor menyemak permohonan pada waktu bekerja, jadi permohonan yang dibuat di luar waktu tersebut akan menunggu slot waktu bekerja yang seterusnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Tidak Layak Terbang dalam bahasa tempatan saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil dalam bahasa tempatan tidak dijanjikan. Hantar e-mel ke care@drcertificate.com untuk bertanya sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapakah yang mengeluarkan Sijil Tidak Layak Terbang dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil ini dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS). Doktor tersebut bekerja secara bebas dan hanya doktor itu yang memutuskan sama ada untuk mengeluarkan sijil dan apa kandungannya. Sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapakah kos sijil?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga bergantung pada negara anda, contohnya 25 SGD di Singapura, 399 peso di Filipina atau 30 MYR di Malaysia. Borang permohonan menunjukkan harga sebelum anda membuat bayaran. Bayaran tidak akan dikembalikan, termasuk apabila doktor menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah sijil ini diterima oleh syarikat penerbangan dan institusi?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu. Sijil ini dikeluarkan oleh doktor bertauliah, jadi tanya sama ada mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Tidak Layak Terbang pada hari cuti umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, anda boleh memohon pada hari cuti umum kerana perkhidmatan ini beroperasi 365 hari setahun. Doktor akan menyemak permohonan anda pada waktu bekerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika syarikat penerbangan atau institusi saya mempunyai keperluan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Hantar e-mel ke care@drcertificate.com bersama format tersebut sebelum anda memohon, kerana perubahan format tidak dijamin. Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lamakah sijil tidak layak terbang sah?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang meliputi tempoh yang ditulis oleh doktor padanya, berdasarkan konsultasi anda. Tiada satu peraturan tempoh sah yang terpakai untuk semua nota tidak layak terbang. Di kebanyakan negara Asia Tenggara, nota cuti sakit untuk simptom umum adalah sehingga 7 hari. Jangkakan tempoh yang singkat dan berkaitan dengan penyakit sebenar anda."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah sijil tidak layak terbang merujuk kepada tarikh terdahulu?"
+    },
+    {
+      "kind": "text",
+      "text": "Sama ada sijil tidak layak terbang merujuk kepada tarikh terdahulu adalah keputusan doktor, bukan keputusan anda atau DrCertificate. Doktor hanya menyatakan perkara yang boleh disokong oleh butiran yang anda kongsikan. Jika anda jatuh sakit sebelum penerbangan anda, nyatakan tarikh sebenar simptom anda bermula dalam borang untuk membantu doktor membuat penilaian."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimanakah sijil tidak layak terbang dihantar?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil tidak layak terbang dihantar sebagai PDF melalui e-mel sebaik sahaja doktor meluluskannya, biasanya kira-kira 30 minit selepas anda menghantar permohonan dan membuat bayaran. Gunakan alamat e-mel yang kerap anda semak. Keseluruhan permohonan dijalankan melalui borang dalam talian dan sembang teks, tanpa konsultasi video atau bersemuka."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya membetulkan nama atau tarikh selepas sijil dikeluarkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak. Sijil DrCertificate tidak boleh dibetulkan selepas dikeluarkan kecuali kesilapan itu berpunca daripada pasukan perubatan. Sebelum menghantar permohonan, semak bahawa nama anda sepadan dengan dokumen pengenalan diri dan tempahan anda, dan setiap tarikh adalah betul. Nama yang tidak sepadan dengan dokumen pengenalan diri ialah salah satu sebab doktor menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya menggunakan sijil ini di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Anda boleh menggunakan sijil ini di 10 negara Asia Tenggara yang dilayani oleh DrCertificate, termasuk Singapura, Malaysia dan Filipina, jika penerima anda menerima nota perubatan dalam talian. Sijil ini tidak boleh dikemukakan di India. Sahkan dengan syarikat penerbangan, majikan atau sekolah anda sebelum memohon, kerana penerimaan adalah keputusan mereka."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah maklumat kesihatan saya dirahsiakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Butiran kesihatan anda dihantar kepada doktor bebas yang menyemak permohonan anda, kerana doktor memerlukannya untuk membuat keputusan. Kongsikan hanya maklumat yang diperlukan oleh doktor untuk sijil tidak layak terbang anda. Untuk soalan tentang cara DrCertificate mengendalikan data peribadi anda, hantar e-mel ke care@drcertificate.com sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah sijil tidak layak terbang menjamin bayaran balik daripada syarikat penerbangan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak. Sijil tidak layak terbang ialah bukti perubatan, bukan kelulusan bayaran balik. Syarikat penerbangan menggunakan polisinya sendiri bagi tempahan semula, bayaran balik dan pengecualian caj. UK Civil Aviation Authority menyatakan bahawa syarikat penerbangan membuat keputusan muktamad sama ada untuk membawa penumpang. Semak dahulu peraturan syarikat penerbangan anda bagi kes perubatan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "UK Civil Aviation Authority: UK CAA tentang pihak yang membuat keputusan",
+        "Cebu Pacific: sijil tidak layak terbang Cebu Pacific"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Utamakan kesihatan anda sebelum melakukan perjalanan."
+    },
+    {
+      "kind": "text",
+      "text": "Sakit boleh datang walaupun perjalanan anda sudah ditempah. Mohon dalam talian dalam masa beberapa minit, dan jika doktor bertauliah meluluskan permohonan anda, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ada soalan sebelum memohon? care@drcertificate.com"
+    }
+  ]
+}

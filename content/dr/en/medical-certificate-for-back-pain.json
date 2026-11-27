@@ -1,0 +1,453 @@
+{
+  "slug": "medical-certificate-for-back-pain",
+  "group": "symptom",
+  "title": "Medical Certificate for Back Pain Online",
+  "description": "Request a back pain medical certificate online. A certified doctor reviews your chat consultation and approved PDFs arrive by email in about 30 minutes.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Doctor reviewed requests for non emergency back pain in South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "Request a medical certificate for back pain through DrCertificate, an online platform that connects you with independent certified doctors."
+    },
+    {
+      "kind": "text",
+      "text": "A doctor reviews your request in a digital chat consultation and decides whether to issue a certificate. The service is for non emergency back pain only and is open to people aged 16 and over in 10 South East Asian countries."
+    },
+    {
+      "kind": "text",
+      "text": "Start with the online form."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Is it possible to obtain a medical certificate for back pain online?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. DrCertificate connects people with back pain to certified MBBS, MD or MS doctors, who may issue a medical certificate after a digital chat consultation. Issuing is the doctor's decision. Approved certificates arrive as a PDF by email. The service covers non emergency cases only and is not for India, legal matters or insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical certificate for back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for back pain is a signed PDF note from a certified doctor confirming that you consulted them about back pain and, in their judgement, need rest or a change to how you work for a stated period. Employers and universities usually ask for one to support an absence."
+    },
+    {
+      "kind": "text",
+      "text": "Most people with back pain choose the sick leave option. The work from home option suits someone who can manage a laptop at home but not a commute or a full day at an office desk."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate records the doctor's decision after a chat consultation."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate does not diagnose, treat or prescribe, so the certificate is not a treatment plan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which kinds of back pain can a doctor consider online?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor on DrCertificate can consider common, non emergency back pain during a chat consultation. The presentations people describe most often are shown here."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides whether any rest is needed and for how long, based on what you share. No type of back pain comes with a set number of days."
+    },
+    {
+      "kind": "text",
+      "text": "The NHS says back pain usually gets better within weeks, though it can last longer or keep coming back. Back pain that started after a serious accident, or that comes with the warning signs in the next section, is not suitable for chat and needs in person care."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Lower back strain Pain and stiffness in the lower back after lifting, twisting, bending or a long day of physical work.",
+        "Muscle spasm Sudden tightness in the back muscles that makes standing, sitting or turning painful.",
+        "Neck and upper back pain Stiffness across the neck, shoulders or upper back, often after long hours at a desk or screen.",
+        "Pain spreading into one leg Pain that travels from the lower back down one leg, sometimes called sciatica. Symptoms in both legs are a warning sign."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should you tell the doctor about your back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "Tell the doctor where your back hurts, when the pain started and how bad it is. Clear details let the doctor make a decision without guessing."
+    },
+    {
+      "kind": "text",
+      "text": "Mention whether the pain spreads into a leg, what makes it worse, and how it affects sitting, standing or walking. Give the date it began and a severity score from 0 to 10."
+    },
+    {
+      "kind": "text",
+      "text": "If you already have an X-ray, MRI or clinic report, include the main findings."
+    },
+    {
+      "kind": "text",
+      "text": "State the leave dates you are asking for."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Location and spread Lower back, upper back or neck, and whether pain or tingling reaches one leg.",
+        "Onset and duration The date the pain began, what you were doing and whether it has happened before.",
+        "Severity and effect on work A score from 0 to 10 and which work tasks you cannot manage."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is back pain not suitable for an online certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Back pain is not suitable for an online certificate when it comes with signs of a serious problem. The NHS advises emergency care if back pain comes with any of the signs listed here, so go to an emergency department or call your local emergency number."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is only for suitable non emergency situations and does not diagnose, treat or prescribe. A doctor may decline a request that cannot be handled safely by chat."
+    },
+    {
+      "kind": "text",
+      "text": "Get help in person first."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Both legs affected Pain, tingling, weakness or numbness in both legs.",
+        "Loss of feeling Numbness around the genitals or anus.",
+        "Bladder or bowel changes Trouble passing urine, leaking, or changes in bowel control.",
+        "Chest pain Back pain that comes with chest pain.",
+        "After a serious accident Back pain that started after a fall, crash or other serious injury."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which certificate should you choose for back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Sick Leave option if back pain stops you working or studying. The table matches each form option to a back pain situation."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Form option",
+        "When it suits back pain",
+        "Good to know"
+      ],
+      "rows": [
+        [
+          "Sick Leave, for university or work",
+          "Back pain keeps you from working or attending classes",
+          "Also used for a general medical certificate"
+        ],
+        [
+          "Work From Home",
+          "You can work at home but cannot commute or sit at an office desk",
+          "For people well enough to work remotely"
+        ],
+        [
+          "Unfit to Travel",
+          "Back pain makes a planned flight or trip unwise",
+          "Useful when changing or cancelling travel plans"
+        ],
+        [
+          "Medical Fitness",
+          "You have recovered and need to show you are fit for work, study or sport",
+          "Covers fit to work and sports fitness requests"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What steps are needed to obtain a medical certificate for back pain online?"
+    },
+    {
+      "kind": "text",
+      "text": "Getting a medical certificate for back pain online takes four steps, from the form to your inbox. Approved requests usually arrive in about 30 minutes."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose your certificate option, then describe your back pain, when it began, how severe it is and the dates you need covered. Use the name and ID that match your documents.",
+        "2 Step 2: Pay through Stripe Pay the fee for your country securely through Stripe. The payment covers the doctor's review of your request.",
+        "3 Step 3: Chat with the doctor A certified doctor reviews your details in a digital chat consultation, may ask follow-up questions, and decides whether to issue a certificate.",
+        "4 Step 4: Get your PDF by email If the doctor approves your request, the certificate arrives as a PDF by email."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How much does a medical certificate for back pain cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for back pain costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The price depends on your country."
+    },
+    {
+      "kind": "text",
+      "text": "The fee pays for a certified doctor to review your request. You pay securely through Stripe."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, except for a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor does not issue a certificate for back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor does not issue a certificate, you receive no certificate and the payment is not refunded. Issuing is always the independent doctor's decision."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline about 2% of requests. The usual reasons are wrong details, a name that does not match the ID, or symptoms and details that do not add up. Back pain with warning signs is also not suitable for chat."
+    },
+    {
+      "kind": "text",
+      "text": "A certificate cannot be corrected once issued, unless the fault came from the medical team."
+    },
+    {
+      "kind": "text",
+      "text": "For questions, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can you use a medical certificate for back pain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "A medical certificate for back pain from DrCertificate is for use in the 10 South East Asian countries linked here. Choose your country for local details.",
+        "The certificate is not for submission in India, not for legal purposes and must not be used for insurance. Applicants must be at least 16.",
+        "Your employer, university or institution decides whether to accept it. Check with them that online medical notes are accepted before you apply."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical certificates online in Singapore",
+        "Medical certificates online in Indonesia",
+        "Medical certificates online in the Philippines",
+        "Medical certificates online in Thailand",
+        "Medical certificates online in Vietnam",
+        "Medical certificates online in Malaysia",
+        "Medical certificates online in Cambodia",
+        "Medical certificates online in Laos",
+        "Medical certificates online in Myanmar",
+        "Medical certificates online in Brunei"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why request your back pain certificate through DrCertificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate keeps the service simple and the checks honest."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Every request is reviewed by a doctor with an MBBS, MD or MS degree who is registered with a medical council.",
+        "About 30 minutes Approved certificates usually arrive as a PDF by email in about 30 minutes.",
+        "Careful checks Doctors decline about 2% of requests, mostly when names and IDs do not match or symptoms are inconsistent.",
+        "Known operator DrCertificate is run by Health Venture OU, with an office at KMC Armstrong Corporate Center, Makati City, Metro Manila, Philippines."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about medical certificates for back pain"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I share an X-ray or MRI report for my back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, include details from any X-ray, MRI or earlier clinic report when you describe your back pain. Reports give the doctor more context, but common back strain does not need one. The doctor decides whether the information you share is enough to issue a medical certificate for back pain."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How many days off can I get for back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides how many days, if any, after the chat consultation. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms. The NHS says back pain usually improves within weeks, so pain that lasts longer is worth checking in person."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my employer accept an online medical certificate for back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer or university decides whether to accept an online medical certificate. All doctors on DrCertificate are registered with a medical council, yet workplace policies differ. Check with HR or your school office that online medical notes are accepted before you apply, since payments are non refundable."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I speak to the doctor by video or visit in person?"
+    },
+    {
+      "kind": "text",
+      "text": "No. DrCertificate does not offer video or in person consultations. Every request is handled through the online form and a digital chat with a certified doctor. If your back pain needs a physical examination, see a doctor at a local clinic or hospital instead of applying online."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What should I do if my back pain gets worse?"
+    },
+    {
+      "kind": "text",
+      "text": "See a doctor in person if your back pain gets worse or does not improve. Go to an emergency department straight away if you notice weakness or numbness in both legs, numbness around the genitals or anus, bladder or bowel changes, or chest pain. An online certificate is not a substitute for care."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I get a fit to work certificate after back pain?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. Fit to work requests use the Medical Fitness Certificate option on the form, and fitness notes are generally valid for 30 days. Doctors handle fitness cases from 9 am to 9 pm IST Monday to Saturday and from 10 am to 8 pm IST on Sunday."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "NHS: How long back pain usually lasts"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related certificates and conditions"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for Cold and Cough",
+        "Medical Certificate for Fever",
+        "Medical Certificate for Food Poisoning",
+        "Medical Certificate for Migraine",
+        "Sick leave certificate",
+        "Work from home certificate",
+        "Medical fitness certificate",
+        "General medical certificate",
+        "Online Sick Leave Certificate in the Philippines"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Request a medical certificate for back pain"
+    },
+    {
+      "kind": "text",
+      "text": "Start your request for a doctor reviewed medical certificate for back pain. The fee is 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia, and approved PDFs arrive by email. Warning signs need urgent care first."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

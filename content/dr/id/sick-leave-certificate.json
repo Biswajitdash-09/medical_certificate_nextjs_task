@@ -1,0 +1,745 @@
+{
+  "slug": "sick-leave-certificate",
+  "group": "service",
+  "service": "sick-leave",
+  "title": "Online sick leave certificate",
+  "description": "Apply online for a doctor-reviewed sick leave certificate for work or study. A certified doctor reviews every request, and approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Surat keterangan sakit · Ditinjau oleh dokter bersertifikat"
+    },
+    {
+      "kind": "text",
+      "text": "Sedang tidak enak badan bukan berarti Anda harus bepergian dan menunggu di klinik hanya untuk urusan surat-menyurat. Ajukan secara online, dokter bersertifikat akan meninjau permohonan Anda, dan jika disetujui, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter bersertifikat (MBBS, MD, atau MS) menerbitkan surat keterangan ini, dan surat keterangan ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat",
+        "Dikirim lewat email jika disetujui",
+        "Tersedia 365 hari dalam setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlu surat keterangan lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Keterangan sehat",
+        "Tidak layak terbang",
+        "Medis umum"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0002"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised rest for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat Setiap permohonan dinilai secara individual",
+        "Pengajuan 100% online Ajukan dari ponsel atau laptop Anda",
+        "Pengiriman lewat email jika disetujui Dikirim ke alamat email yang Anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran online yang aman"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimana cara mendapatkan surat keterangan cuti sakit secara online?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan surat keterangan cuti sakit online dari DrCertificate, isi formulir online, bayar melalui Stripe, dan jawab pertanyaan dari dokter bersertifikat independen melalui chat. Jika dokter menyetujui, surat keterangan dikirim melalui email dalam bentuk PDF, biasanya dalam waktu sekitar 30 menit. Penerbitan selalu bergantung pada penilaian medis dokter."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum Anda mengajukan permohonan"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang surat keterangan ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa itu surat keterangan sakit?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan sakit adalah dokumen medis resmi yang diterbitkan oleh dokter bersertifikat. Surat ini menyatakan bahwa secara medis Anda tidak layak untuk masuk kerja, mengikuti kelas, atau menjalankan tanggung jawab rutin Anda selama periode tertentu."
+    },
+    {
+      "kind": "text",
+      "text": "Pemberi kerja dan institusi menggunakannya untuk memverifikasi ketidakhadiran yang benar-benar karena alasan medis dan menjaga catatan kehadiran tetap akurat."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Isi surat keterangan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Data pribadi Anda yang benar",
+        "Tanggal konsultasi",
+        "Alasan izin",
+        "Masa istirahat yang disarankan",
+        "Nama dan kredensial dokter",
+        "Tanda tangan atau verifikasi digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Periksa data ini sebelum Anda menyerahkannya. Surat keterangan yang tidak lengkap dapat tertunda atau ditolak oleh pemberi kerja atau institusi."
+    },
+    {
+      "kind": "text",
+      "text": "Hindari surat keterangan palsu. Surat keterangan asli hanya diterbitkan setelah pemeriksaan kesehatan yang sebenarnya oleh dokter yang berkualifikasi. Surat dari generator surat keterangan dan template yang diedit dapat ditolak dan bisa menimbulkan masalah dengan pemberi kerja atau institusi Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kapan Anda mungkin memerlukan surat keterangan sakit"
+    },
+    {
+      "kind": "text",
+      "text": "Kebijakan setiap organisasi berbeda-beda, tetapi surat keterangan dokter umumnya diminta saat Anda tidak bisa bekerja atau belajar karena sakit."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Karyawan"
+    },
+    {
+      "kind": "text",
+      "text": "Membantu HR menyetujui izin sakit Anda sesuai kebijakan perusahaan serta menjaga catatan kehadiran dan penggajian tetap akurat."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diperlukan saat"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Anda tidak masuk kerja karena sakit",
+        "Izin sakit Anda melebihi batas yang ditetapkan perusahaan",
+        "Pemberi kerja meminta bukti bahwa Anda sakit"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pelajar dan mahasiswa"
+    },
+    {
+      "kind": "text",
+      "text": "Sekolah dan universitas sering meminta surat keterangan dokter sebelum menyetujui izin sakit."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diperlukan saat"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Anda melewatkan kelas atau ujian",
+        "Anda melewatkan tugas atau kegiatan akademik",
+        "Anda melewatkan sesi yang wajib dihadiri"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerja remote dan hybrid"
+    },
+    {
+      "kind": "text",
+      "text": "Bekerja dari rumah tidak berarti Anda tidak perlu memulihkan diri. Demam, kelelahan berat, atau infeksi bisa membuat Anda tidak dapat bekerja di mana pun Anda berada."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diperlukan saat"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Anda terlalu sakit untuk bekerja dari rumah",
+        "Atasan atau HR meminta dokumen pendukung"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Alasan umum orang mengajukan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Demam dan infeksi virus",
+        "Gejala pilek dan flu",
+        "Gangguan perut",
+        "Migrain atau sakit kepala berat",
+        "Cedera ringan",
+        "Pemulihan setelah tindakan medis",
+        "Istirahat atas saran dokter"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sebaiknya temui dokter secara langsung"
+    },
+    {
+      "kind": "text",
+      "text": "Konsultasi online ditujukan untuk kondisi yang sesuai dan bukan gawat darurat. Segera cari pertolongan medis jika Anda mengalami:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kesulitan bernapas yang parah",
+        "Nyeri dada",
+        "Hilang kesadaran",
+        "Cedera serius",
+        "Dehidrasi berat",
+        "Gejala apa pun yang memerlukan penanganan darurat"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individual. Penerbitan surat keterangan, isi, dan jangka waktunya merupakan keputusan dokter yang meninjau. Semua dokumen ditujukan kepada organisasi tempat dokumen tersebut diserahkan dan hanya berlaku untuk satu kali penggunaan. Diterima atau tidaknya surat keterangan bergantung pada organisasi tempat Anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang biasanya diharapkan oleh pemberi kerja, sekolah, atau maskapai dari surat keterangan cuti sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Sebagian besar pemberi kerja dan sekolah mengharapkan surat keterangan yang mencantumkan nama Anda, tanggal saat Anda tidak layak beraktivitas, serta nama dan nomor registrasi dokter. Aturannya berbeda-beda tergantung pemberi kerja, institusi, maskapai, dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Singapura memberikan contoh yang jelas. Ministry of Manpower menyatakan bahwa karyawan yang dilindungi Employment Act berhak atas cuti sakit berbayar setelah masa kerja minimal 3 bulan, hingga 14 hari untuk rawat jalan dan 60 hari untuk rawat inap, dengan hak penuh setelah 6 bulan. Karyawan yang tidak dapat masuk kerja wajib memberi tahu pemberi kerja dalam waktu 48 jam."
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis kemudian diserahkan saat kembali bekerja. Agar berhak atas cuti sakit berbayar, karyawan harus dinyatakan tidak layak bekerja oleh praktisi medis yang terdaftar berdasarkan Medical Registration Act atau Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum mengajukan, tanyakan kepada bagian HR atau kantor sekolah Anda apakah mereka menerima surat keterangan medis online, apakah mereka menggunakan formulir sendiri, dan berapa lama periode yang mereka terima dalam satu surat keterangan."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Surat Keterangan Cuti Sakit Online di Singapura",
+        "Sertifikat medis online di Malaysia",
+        "Surat Keterangan Cuti Sakit Online di Filipina",
+        "Surat Keterangan Cuti Sakit Online di Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa saja isi surat keterangan cuti sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan cuti sakit online dari DrCertificate menunjukkan siapa Anda, periode istirahat yang direkomendasikan dokter, dan siapa yang menerbitkannya. Penerima biasanya memeriksa ketiga bagian ini terlebih dahulu."
+    },
+    {
+      "kind": "text",
+      "text": "Nama lengkap Anda dicantumkan sesuai dengan kartu identitas Anda. Pernyataan dokter memuat tanggal saat Anda tidak layak bekerja atau belajar. Untuk gejala umum, surat keterangan cuti sakit di sebagian besar negara Asia Tenggara mencakup hingga 7 hari."
+    },
+    {
+      "kind": "text",
+      "text": "Nama, kualifikasi, dan rincian registrasi dewan medis dokter tercantum pada surat keterangan. Pemberi kerja atau sekolah dapat menggunakannya untuk memeriksa siapa yang menandatanganinya."
+    },
+    {
+      "kind": "text",
+      "text": "Cara kerja"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah sederhana, dengan dokter yang memeriksa setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi formulir pengajuan online Masukkan data diri Anda dan alasan permohonan. Anda mungkin diminta membagikan tanda vital atau hasil pengukuran lain melalui tautan aman yang dikirim lewat email.",
+        "2 Langkah 2: Dokter bersertifikat meninjau permohonan Anda Dokter menilai informasi yang Anda berikan dan memutuskan apakah surat keterangan layak diberikan secara medis. Dokter dapat menolak permohonan.",
+        "3 Langkah 3: Terima surat keterangan lewat email, jika disetujui Surat keterangan yang disetujui dikirim secara elektronik ke alamat email yang Anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pilihan mana yang sebaiknya Anda pilih di formulir untuk surat keterangan cuti sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Pilih Medical Certificate Sick Leave (For University/Work) di formulir. Pilihan yang sama juga mencakup surat keterangan medis umum."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam jawaban Anda, sebutkan siapa yang akan menerima surat keterangan, misalnya pemberi kerja atau universitas Anda, dan sebutkan gejala Anda beserta tanggal mulainya. Jika tidak ada pilihan yang sesuai, kirim email ke care@drcertificate.com sebelum membayar."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang akan ditanyakan dokter untuk surat keterangan cuti sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Dokter akan menanyakan gejala yang Anda alami, kapan gejala itu mulai, dan tanggal berapa saja yang perlu dicakup oleh surat keterangan. Jawaban yang jelas dan jujur membantu dokter mengambil keputusan dengan cepat."
+    },
+    {
+      "kind": "text",
+      "text": "Bersiaplah untuk ditanya tentang bagaimana penyakit tersebut memengaruhi aktivitas sehari-hari Anda, obat yang sudah Anda minum, dan riwayat masalah kesehatan yang relevan. Struk apotek, hasil pengukuran termometer, atau catatan klinik sebelumnya dapat membantu jika Anda memilikinya."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter mungkin mengirim pertanyaan lanjutan melalui chat. Balas segera, karena chat yang terhenti memperlambat peninjauan. Nama Anda harus sesuai dengan kartu identitas, dan gejala Anda harus sesuai dengan tanggal yang Anda minta."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana surat keterangan cuti sakit online tidak dapat digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan cuti sakit online dari DrCertificate tidak dapat diserahkan di India, tidak dapat digunakan untuk keperluan hukum, dan tidak dapat digunakan untuk asuransi. Pemohon harus berusia minimal 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Layanan ini hanya untuk situasi bukan darurat yang sesuai. Jika Anda mengalami nyeri dada, kesulitan bernapas, perdarahan hebat, atau gejala apa pun yang terasa parah, segera pergi ke unit gawat darurat terdekat atau hubungi nomor darurat setempat sekarang."
+    },
+    {
+      "kind": "text",
+      "text": "Diterima atau tidaknya surat keterangan bergantung pada pihak penerima. Tanyakan kepada pemberi kerja atau sekolah Anda sebelum mengajukan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang terjadi jika dokter tidak dapat menerbitkan surat keterangan cuti sakit online Anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika dokter tidak dapat menerbitkan surat keterangan cuti sakit online Anda, Anda tidak menerima surat keterangan dan pembayaran tidak dikembalikan. Dokter menolak sekitar 2% permintaan."
+    },
+    {
+      "kind": "text",
+      "text": "Permohonan ditolak jika data tidak benar, misalnya nama dan nomor identitas tidak cocok, atau gejala dan keterangan yang Anda berikan tidak konsisten. Dokter juga akan menolak jika kondisi Anda memerlukan pemeriksaan tatap muka atau tes yang tidak dapat digantikan dengan konsultasi melalui chat. Dalam hal ini, silakan datang ke klinik atau rumah sakit terdekat."
+    },
+    {
+      "kind": "text",
+      "text": "Pengembalian dana hanya berlaku untuk gangguan teknis yang telah diverifikasi dalam waktu 24 jam."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk bantuan, kirim email ke care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapa biaya surat keterangan sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Biaya surat keterangan sakit online adalah 25 SGD di Singapura, 399 peso di Filipina, dan 30 MYR di Malaysia. Biaya ini mencakup peninjauan oleh dokter dan, jika disetujui, surat keterangan dalam bentuk PDF."
+    },
+    {
+      "kind": "text",
+      "text": "Pembayaran dilakukan melalui Stripe dan tidak dapat dikembalikan."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD"
+        ],
+        [
+          "Filipina",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapa yang menerbitkan surat keterangan sakit online Anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokter bersertifikat Setiap permintaan ditangani oleh dokter dengan kualifikasi MBBS, MD, atau MS. Semua dokter di platform ini adalah dokter yang terdaftar di dewan kedokteran.",
+        "Dokter yang memutuskan DrCertificate adalah sebuah platform. Hanya dokter yang memutuskan apakah surat keterangan akan diterbitkan, dan dokter menolak sekitar 2% permintaan, biasanya karena data tidak sesuai atau gejala tidak konsisten.",
+        "Peninjau medis Dr Urooj Arshad, M.B.B.S, Kedokteran Umum, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah atasan, sekolah, atau maskapai saya akan menerima surat keterangan sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada kebijakan masing-masing tempat kerja atau sekolah Anda, dan tidak ada surat keterangan online yang diterima di semua tempat. DrCertificate menganjurkan setiap pelanggan untuk memastikannya terlebih dahulu kepada pihak penerima sebelum mengajukan permohonan."
+    },
+    {
+      "kind": "text",
+      "text": "Semua dokter di platform ini terdaftar di dewan kedokteran. Pihak penerima dapat memverifikasi dokter yang menerbitkan surat dengan mencocokkan nama dan data registrasi pada surat keterangan dengan catatan dewan kedokteran tersebut. Di Singapura, cuti sakit berbayar memerlukan dokter yang terdaftar berdasarkan Medical Registration Act, sehingga ada baiknya Anda bertanya ke bagian HR terlebih dahulu."
+    },
+    {
+      "kind": "text",
+      "text": "Jika tempat kerja atau sekolah Anda mewajibkan formulirnya sendiri, PDF dari DrCertificate tidak dapat menggantikannya. Tanyakan apakah surat keterangan dokter dapat diterima sebagai penggantinya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Surat keterangan sakit online dan surat keterangan terkait: mana yang Anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan sakit online menyatakan bahwa Anda terlalu sakit untuk bekerja atau belajar, sedangkan surat keterangan bekerja dari rumah menyatakan bahwa Anda dapat bekerja tetapi sebaiknya tetap di rumah. Pilih baris yang sesuai dengan permintaan pihak penerima, lalu pilih opsi formulir yang sesuai."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Surat keterangan",
+        "Isi pernyataan",
+        "Biasanya diserahkan kepada",
+        "Opsi formulir"
+      ],
+      "rows": [
+        [
+          "Keterangan sakit",
+          "Anda tidak layak bekerja atau belajar pada tanggal yang disebutkan",
+          "Atasan, sekolah, atau universitas",
+          "Sick Leave"
+        ],
+        [
+          "Bekerja dari rumah",
+          "Anda dapat bekerja tetapi sebaiknya tetap di rumah selama jangka waktu tertentu",
+          "Atasan",
+          "Work From Home"
+        ],
+        [
+          "Tidak layak terbang",
+          "Penyakit membuat Anda tidak dapat bepergian dengan pesawat",
+          "Maskapai atau agen perjalanan",
+          "Unfit to Travel"
+        ],
+        [
+          "Keterangan sehat",
+          "Anda layak untuk bekerja, belajar, berolahraga, atau bepergian",
+          "Atasan, sekolah, klub, atau maskapai",
+          "Medical Fitness Certificate"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa mengajukan online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Istirahat di rumah selagi dokter meninjau permohonan Anda"
+    },
+    {
+      "kind": "text",
+      "text": "Pergi ke klinik terasa berat saat Anda sedang tidak enak badan. Mengajukan secara online adalah alternatif yang lebih nyaman."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Konsultasi dari mana saja Ajukan tanpa keluar rumah, sehingga lebih mudah saat Anda perlu istirahat atau tidak bisa bepergian karena sakit.",
+        "Hemat waktu Lewati antrean klinik dan ruang tunggu, lalu selesaikan pengajuan Anda secara online.",
+        "Surat keterangan digital yang aman Jika disetujui, surat keterangan Anda dikirim dalam bentuk digital, siap diserahkan melalui email, portal HR, atau sistem akademik.",
+        "Penilaian oleh dokter bersertifikat Surat keterangan hanya diterbitkan setelah tenaga medis profesional yang berkualifikasi meninjau permohonan Anda."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dokter yang memutuskan. Tidak ada yang disetujui secara otomatis. Dokter bersertifikat meninjau setiap permohonan dan memutuskan apakah akan menerbitkan surat keterangan, apa isinya, dan berapa lama jangka waktunya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana layanan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara memiliki halaman surat keterangannya sendiri, dan layanan yang tersedia bisa berbeda. Pilih negara Anda untuk memeriksanya sebelum mengajukan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia saat ini"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat surat keterangan",
+        "Indonesia Lihat surat keterangan",
+        "Philippines Lihat surat keterangan",
+        "Thailand Lihat surat keterangan",
+        "Vietnam Lihat surat keterangan",
+        "Malaysia Lihat surat keterangan",
+        "Cambodia Lihat surat keterangan",
+        "Laos Lihat surat keterangan",
+        "Myanmar Lihat surat keterangan",
+        "Brunei Lihat surat keterangan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pertanyaan seputar surat keterangan sakit"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apa itu Surat Keterangan Sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat Keterangan Sakit online adalah dokumen digital yang diterbitkan oleh dokter bersertifikat (MBBS, MD atau MS) yang mencatat penyakit Anda dan merekomendasikan istirahat dari pekerjaan atau sekolah. Anda mengajukan permohonan tanpa perlu datang langsung, dan dokter yang memutuskan apakah surat diterbitkan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lama saya bisa menerima Surat Keterangan Sakit?"
+    },
+    {
+      "kind": "text",
+      "text": "Biasanya sekitar 30 menit. Jika dokter menyetujui permohonan Anda, surat dikirim ke email Anda dalam bentuk PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah layanan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, layanan berjalan 365 hari setahun, termasuk akhir pekan dan hari libur nasional. Dokter meninjau permohonan pada jam kerja, jadi permohonan yang diajukan di luar jam tersebut akan menunggu jadwal kerja berikutnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya mendapatkan Surat Keterangan Sakit dalam bahasa lokal saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat dalam bahasa lokal tidak dijanjikan. Kirim email ke care@drcertificate.com untuk menanyakannya sebelum Anda mengajukan permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapa yang menerbitkan Surat Keterangan Sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat diterbitkan oleh dokter bersertifikat (MBBS, MD atau MS). Dokter bekerja secara independen, dan hanya dokter yang memutuskan apakah surat diterbitkan serta apa isinya. Surat ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa biaya surat keterangan?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga tergantung negara Anda, misalnya 25 SGD di Singapura, 399 peso di Filipina, atau 30 MYR di Malaysia. Formulir permohonan menampilkan harga sebelum Anda membayar. Pembayaran tidak dapat dikembalikan, termasuk jika dokter menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat ini diterima oleh pemberi kerja dan lembaga?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan tergantung pada organisasi tempat Anda menyerahkannya, jadi tanyakan terlebih dahulu. Surat ini diterbitkan oleh dokter bersertifikat, jadi tanyakan apakah mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya mendapatkan Surat Keterangan Sakit pada hari libur nasional?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, Anda bisa mengajukan permohonan pada hari libur nasional, karena layanan berjalan 365 hari setahun. Dokter meninjau permohonan Anda pada jam kerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika pemberi kerja atau lembaga saya memiliki persyaratan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Kirim email berisi format yang diminta ke care@drcertificate.com sebelum Anda mengajukan permohonan, karena perubahan format tidak dijamin. Penerimaan tergantung pada organisasi tempat Anda menyerahkannya, jadi tanyakan terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lama masa berlaku surat keterangan sakit online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan sakit online mencakup tanggal yang ditulis dokter di dalamnya. Di sebagian besar negara Asia Tenggara, surat keterangan sakit untuk gejala umum diberikan hingga 7 hari. Selanjutnya, atasan atau sekolah Anda yang menentukan apakah jangka waktu tersebut memenuhi aturan cuti mereka."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat keterangan sakit dapat diberi tanggal mundur?"
+    },
+    {
+      "kind": "text",
+      "text": "Dokter hanya menyatakan tanggal yang sesuai dengan gejala dan urutan waktu yang Anda laporkan. Anda dapat menjelaskan penyakit yang sudah dimulai sebelum Anda mengajukan permohonan, dan dokter yang menentukan jangka waktu yang dicantumkan. Permohonan yang tanggal dan gejalanya tidak sesuai akan ditolak, dan biayanya tidak dikembalikan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana surat keterangan sakit online dikirimkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan yang disetujui dikirim melalui email dalam bentuk PDF, biasanya sekitar 30 menit setelah Anda mengajukan permohonan. Periksa folder spam jika email belum masuk. Anda dapat mencetak PDF tersebut atau meneruskannya ke atasan, sekolah, atau tim HR, sesuai yang diminta pihak penerima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah saya dapat memperbaiki nama atau tanggal setelah surat keterangan diterbitkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak, sertifikat tidak dapat dikoreksi setelah diterbitkan, kecuali jika kesalahannya berasal dari tim medis. Ketik nama Anda sesuai dengan kartu identitas dan periksa tanggal Anda sebelum membayar. Jika kesalahan dibuat oleh tim medis, kirim email ke care@drcertificate.com beserta data Anda."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah saya bisa menggunakan sertifikat ini di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, jika Anda tinggal di salah satu dari 10 negara Asia Tenggara yang dilayani DrCertificate dan pihak penerima menerima surat keterangan dokter online. Sertifikat ini tidak untuk diserahkan di India, untuk keperluan hukum, atau untuk asuransi. Pastikan terlebih dahulu kepada pemberi kerja atau sekolah Anda bahwa sertifikat ini diterima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah informasi kesehatan saya dijaga kerahasiaannya?"
+    },
+    {
+      "kind": "text",
+      "text": "Data kesehatan Anda dibagikan kepada dokter yang meninjau permintaan Anda, untuk keperluan peninjauan tersebut. Berikan hanya informasi yang dibutuhkan dokter untuk mengambil keputusan. Untuk pertanyaan apa pun tentang cara DrCertificate menangani data Anda, kirim email ke care@drcertificate.com sebelum atau sesudah Anda mengajukan permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah saya perlu panggilan video untuk mendapatkan surat keterangan sakit?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak, DrCertificate tidak menyediakan konsultasi video maupun tatap muka. Dokter meninjau formulir Anda dan mungkin mengajukan pertanyaan lanjutan melalui chat teks. Jika dokter menilai kondisi Anda memerlukan pemeriksaan fisik atau tes, permintaan Anda akan ditolak dan sebaiknya Anda mengunjungi klinik setempat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Paid sick leave in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Jaga kesehatan Anda, tanpa stres tambahan."
+    },
+    {
+      "kind": "text",
+      "text": "Saat sakit, prioritas Anda seharusnya pemulihan, bukan urusan berkas. Ajukan secara online dalam beberapa menit, dan jika dokter bersertifikat menyetujui permohonan Anda, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ingin bertanya dulu? care@drcertificate.com"
+    }
+  ]
+}

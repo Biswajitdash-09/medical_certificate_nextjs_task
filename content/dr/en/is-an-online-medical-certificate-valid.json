@@ -1,0 +1,536 @@
+{
+  "slug": "is-an-online-medical-certificate-valid",
+  "group": "guide",
+  "title": "Medical Certificate for Office Sick Leave: Is Online Valid?",
+  "description": "Is an online medical certificate for office sick leave valid in South East Asia? See who decides, what HR checks and how DrCertificate doctors review requests.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Who decides, what HR checks and how to request one from home"
+    },
+    {
+      "kind": "text",
+      "text": "Can you hand HR an online medical certificate for office sick leave and have it count? Usually yes, if a registered doctor issued it and your employer accepts online notes."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate connects you with an independent registered doctor who reviews every request after a digital chat consultation. The service is for people in the 10 South East Asian countries it serves, from Singapore and Malaysia to the Philippines and Brunei."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The short answer on an online medical certificate for office sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, an online medical certificate for office sick leave is valid when it comes from a registered doctor and your employer accepts online notes. On DrCertificate, an independent doctor reviews your chat consultation and decides whether to issue one. Your employer makes the final call, so confirm their policy before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Main points about online sick leave certificates"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "A doctor decides An independent doctor with an MBBS, MD or MS decides whether to issue a DrCertificate certificate after a chat consultation.",
+        "Your employer decides acceptance The employer, school or airline receiving the note decides whether to accept an online medical certificate.",
+        "Up to 7 days In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms.",
+        "DrCertificate certificates are not for submission in India, not for legal purposes and must not be used for insurance.",
+        "About 30 minutes by email Approved certificates arrive by email as a PDF, usually in about 30 minutes."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is an online medical certificate for office sick leave?"
+    },
+    {
+      "kind": "text",
+      "text": "An online medical certificate for office sick leave is a note from a registered doctor stating that you were unfit for work on the dates shown, issued after a remote consultation instead of a clinic visit. The note records the doctor's view of your fitness for work. The note is not a treatment plan, a prescription or proof for an insurance claim or legal case."
+    },
+    {
+      "kind": "text",
+      "text": "On DrCertificate, the matching choice is the Medical Certificate Sick Leave option, which covers both work and university. A general medical certificate also uses the Sick Leave option."
+    },
+    {
+      "kind": "text",
+      "text": "People mix this note up with three others. A work from home certificate says you can work, just not from the office, and has its own option on the form. A medical fitness certificate says you are fit for a job, sport or travel. An Unfit to Travel certificate covers trips, not office absence."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When do you need a medical certificate for office sick leave?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You need a medical certificate for office sick leave when your employer's policy asks for proof that an absence was caused by illness. The point at which a note becomes required differs by company, so the staff handbook is the first place to look.",
+        "HR is usually the team that asks. A line manager may ask too. Students hear the same request from a university office after missed classes or an exam, and an airline or travel provider may want a note when you were too unwell to fly.",
+        "Why do organisations ask at all? A medical note turns an unexplained absence into recorded sick leave, which protects your pay and your leave balance. The note also leaves a record if the leave is audited or disputed later. In Singapore, the Ministry of Manpower says that to qualify for paid sick leave, an employee must be certified unfit for work by a medical practitioner registered under the Medical Registration Act or Dental Registration Act.",
+        "Rules like that explain why HR checks who signed your note and not only whether you have one. Employers elsewhere in the region apply their own versions of the same idea."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Online medical certificate for office sick leave at a glance"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides the number of days or the fitness outcome case by case. The table shows common office and study situations and how each one fits the DrCertificate form."
+    },
+    {
+      "kind": "text",
+      "text": "Urgent or worsening symptoms always need an in person visit."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Situation",
+        "Form option",
+        "What the doctor considers",
+        "What the certificate can cover"
+      ],
+      "rows": [
+        [
+          "Off work with a cold, fever or stomach upset",
+          "Sick Leave",
+          "Your symptoms, when they started and whether your details are consistent",
+          "Up to 7 days for generic symptoms in most South East Asian countries, set by the doctor"
+        ],
+        [
+          "Able to work but should stay home",
+          "Work From Home",
+          "Whether you can do your job from home but should not travel to the office",
+          "Up to 7 days in most South East Asian countries, set by the doctor"
+        ],
+        [
+          "Missed university classes or an exam",
+          "Sick Leave",
+          "The same points as office sick leave",
+          "The dates the doctor finds supported"
+        ],
+        [
+          "Asked to show you are fit to work",
+          "Medical Fitness Certificate",
+          "Your health details and the purpose of the note",
+          "Fitness notes are generally valid for 30 days"
+        ],
+        [
+          "Too unwell to travel",
+          "Unfit to Travel",
+          "Your symptoms and travel dates",
+          "The dates the doctor finds supported"
+        ],
+        [
+          "Chest pain, trouble breathing or symptoms getting worse",
+          "Not suitable online",
+          "Needs an examination",
+          "See a doctor in person or call emergency services"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues an online medical certificate for office sick leave?"
+    },
+    {
+      "kind": "text",
+      "text": "Independent doctors with an MBBS, MD or MS qualification review and issue every DrCertificate certificate. DrCertificate is the platform that connects you with those doctors. The platform does not diagnose, treat or prescribe, and the decision to issue rests with the doctor alone."
+    },
+    {
+      "kind": "text",
+      "text": "Every doctor on the platform is registered with a medical council."
+    },
+    {
+      "kind": "text",
+      "text": "One point matters for Singapore. The Ministry of Manpower ties paid sick leave to certification by a practitioner registered under the Medical Registration Act or Dental Registration Act. If your employer applies that rule to your claim, ask HR whether an online note from a doctor registered with another medical council will be accepted, and get the answer before you pay."
+    },
+    {
+      "kind": "text",
+      "text": "Employees in Malaysia, the Philippines and the other served countries should ask the same question in their own setting."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical certificate for office sick leave online, step by step?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a medical certificate for office sick leave from DrCertificate by filling in an online form, paying, and waiting for a doctor to review your request in a digital chat. The whole request happens on your phone or computer."
+    },
+    {
+      "kind": "text",
+      "text": "There are no video calls and no in person appointments."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Check your employer's policy Confirm with HR that online medical notes are accepted and ask what details they need to see on the certificate.",
+        "2 Step 2: Choose the right option and fill in the form with accurate answers Pick Sick Leave for an office absence or Work From Home if you can work but should not go in. Make sure your name matches your ID, because a mismatch is a common reason doctors decline.",
+        "3 Step 3: Pay through Stripe Pay the fee for your country through Stripe. The payment is non refundable, including if the doctor does not issue a certificate.",
+        "4 Step 4: Chat with the doctor An independent doctor reads your request in a digital chat, may ask follow up questions and decides whether to issue a certificate.",
+        "5 Step 5: Receive your PDF by email If the doctor approves, the certificate arrives by email as a PDF, usually in about 30 minutes."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should a medical certificate for office sick leave include?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for office sick leave usually shows your full name, the dates you were unfit for work, the purpose of the note and the details of the doctor who issued it. HR uses those details to match the note to your leave record."
+    },
+    {
+      "kind": "text",
+      "text": "Your employer may have its own format."
+    },
+    {
+      "kind": "text",
+      "text": "Check the staff handbook or ask HR before you apply. A DrCertificate certificate cannot be corrected once issued unless the fault came from the medical team, so the details you type into the form need to be right the first time."
+    },
+    {
+      "kind": "text",
+      "text": "Run this check before you submit."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Name Matches your ID and your HR records",
+        "Dates Cover the days you were away from work",
+        "Purpose Says sick leave or work from home, whichever HR agreed",
+        "Doctor details Present and readable",
+        "File The PDF opens and prints well."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will your employer or school accept an online medical certificate for office sick leave?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance of an online medical certificate is decided by the organisation that receives it, not by the doctor or by DrCertificate. Your employer, school or airline applies its own policy and can question any note."
+    },
+    {
+      "kind": "text",
+      "text": "The same principle shows up across sectors. The UK Civil Aviation Authority says most airlines have medical advisors who clear passengers as fit to fly, and that the final decision whether to carry a passenger belongs to the airline."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate certificates are not for submission in India, yet the lesson travels well: HR looks at what is on the page."
+    },
+    {
+      "kind": "text",
+      "text": "A note gets questioned for plain reasons. The wrong type was chosen. A detail is missing, or the name does not match HR records. Or the employer only accepts notes from a panel clinic or a locally registered doctor."
+    },
+    {
+      "kind": "text",
+      "text": "If HR questions your certificate, ask for the reason in writing and what would satisfy them. If the policy rules out online notes, an in person clinic visit is the better route."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is an online medical certificate for office sick leave not the right choice?"
+    },
+    {
+      "kind": "text",
+      "text": "An online medical certificate for office sick leave is not the right choice when you need urgent care, when the use falls outside the service rules or when you do not qualify. The doctor may also decline any request."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline about 2% of requests, mostly when the name and ID do not match or the symptoms and details shared are inconsistent."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for suitable non emergency situations only. Chest pain, difficulty breathing, confusion or symptoms that keep getting worse need in person or emergency care straight away."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate certificates are not for submission in India. Nor are the certificates for legal purposes, and they must never be used for insurance. Applicants must be at least 16."
+    },
+    {
+      "kind": "text",
+      "text": "Recovery and caretaker certificates are not offered."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Online medical certificate for office sick leave in Singapore, Malaysia and the rest of South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate serves people in 10 South East Asian countries. Sick leave and fitness rules differ by country and by employer, so a note that works for one company may not suit another."
+    },
+    {
+      "kind": "text",
+      "text": "Check the official rules with the labour ministry in your country. In Singapore that is the Ministry of Manpower, and in the Philippines it is the Department of Labor and Employment."
+    },
+    {
+      "kind": "text",
+      "text": "Then confirm with your employer, school or airline before you apply."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Singapore",
+        "Check Ministry of Manpower rules and whether HR needs a locally registered doctor."
+      ],
+      "rows": [
+        [
+          "Malaysia",
+          "Ask HR whether online notes are accepted alongside panel clinic notes."
+        ],
+        [
+          "Philippines",
+          "Covers Manila, Cebu, Davao and the rest of the country."
+        ],
+        [
+          "Indonesia",
+          "Confirm your company leave policy first."
+        ],
+        [
+          "Thailand",
+          "Check what your employer asks for after sick days."
+        ],
+        [
+          "Vietnam",
+          "Confirm the accepted format with HR."
+        ],
+        [
+          "Cambodia",
+          "Check your employer policy on online notes."
+        ],
+        [
+          "Laos",
+          "Confirm acceptance with HR before applying."
+        ],
+        [
+          "Myanmar",
+          "Ask your employer which notes they accept."
+        ],
+        [
+          "Brunei",
+          "Check your workplace leave rules first."
+        ]
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in Singapore",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in the Philippines",
+        "Online Sick Leave Certificate in Indonesia",
+        "Online Sick Leave Certificate in Thailand",
+        "Online Sick Leave Certificate in Vietnam",
+        "Online Sick Leave Certificate in Cambodia",
+        "Online Sick Leave Certificate in Laos",
+        "Online Sick Leave Certificate in Myanmar",
+        "Online Sick Leave Certificate in Brunei"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does an online medical certificate for office sick leave cost and how long does it take?"
+    },
+    {
+      "kind": "text",
+      "text": "An online medical certificate for office sick leave from DrCertificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. In the other served countries, the price depends on where you are. The fee covers the doctor's review of your chat consultation and, if approved, the PDF certificate sent by email."
+    },
+    {
+      "kind": "text",
+      "text": "A decision usually takes about 30 minutes, depending on your details and doctor availability."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, including when the doctor does not issue a certificate. The one exception is a verified technical fault reported within 24 hours. Fitness cases are reviewed 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price",
+        "What the price includes"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD",
+          "Doctor review by chat and PDF by email if approved"
+        ],
+        [
+          "Philippines",
+          "399 pesos",
+          "Doctor review by chat and PDF by email if approved"
+        ],
+        [
+          "Malaysia",
+          "30 MYR",
+          "Doctor review by chat and PDF by email if approved"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about an online medical certificate for office sick leave"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can an online medical certificate for office sick leave be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "Do not count on a backdated certificate. The doctor reviews your request at the time of the chat consultation and decides which dates, if any, your details support. Apply as soon as you feel unwell, and tell HR when you applied if your absence began a day or two earlier."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How many days of sick leave can the certificate cover?"
+    },
+    {
+      "kind": "text",
+      "text": "In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms. The doctor decides the number of days case by case after reading your details. For a longer illness, see a doctor in person who can examine you and follow up."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do I have to talk to the doctor?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, by chat only. DrCertificate uses a digital chat consultation, and the doctor may message you with follow up questions before deciding. There are no video calls or in person appointments. Keep an eye on your messages after you apply, because quick replies help the doctor reach a decision sooner."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What happens if the doctor declines my request?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor declines, no certificate is issued and the payment is not refunded. Doctors decline about 2% of requests, mostly when the name and ID do not match or the symptoms shared are inconsistent. Check your details before paying, and see a doctor in person if you still need a note."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is a work from home certificate the same as a sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "No. A work from home certificate says you can work but should not go into the office, while a sick leave certificate says you were unfit for work. Pick the option HR has agreed to, because a certificate cannot be corrected once issued unless the medical team made the error."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use a DrCertificate certificate for office leave in India?"
+    },
+    {
+      "kind": "text",
+      "text": "No. DrCertificate certificates are not for submission in India. DrCertificate serves people in 10 South East Asian countries, and its certificates are also not for legal purposes or insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Who must certify paid sick leave in Singapore",
+        "UK Civil Aviation Authority: UK CAA on who decides"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related guides to online medical certificates for office sick leave"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Leave letter for fever, for school and office",
+        "Medical certificate for 1 day of sick leave",
+        "Medical certificate for office sick leave",
+        "Medical fitness certificate format",
+        "How to get a medical certificate online",
+        "Sick leave certificate from DrCertificate",
+        "Online Sick Leave Certificate in Singapore",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in the Philippines",
+        "Online Sick Leave Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your online medical certificate for office sick leave?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Sick Leave option, answer the chat questions with accurate information and let an independent doctor decide whether to issue your certificate. Payment is non refundable, and the service suits non emergency cases for people aged 16 and over in the 10 countries served."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

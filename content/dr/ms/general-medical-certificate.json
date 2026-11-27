@@ -1,0 +1,765 @@
+{
+  "slug": "general-medical-certificate",
+  "group": "service",
+  "service": "general",
+  "title": "Online general medical certificate",
+  "description": "Apply online for a doctor-reviewed general medical certificate for work, study or travel. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am · Disemak oleh doktor bertauliah"
+    },
+    {
+      "kind": "text",
+      "text": "Perlukan bukti rasmi tentang konsultasi, penyakit, pemulihan atau status kesihatan? Mohon dalam talian, doktor bertauliah akan menyemak permohonan anda, dan jika diluluskan, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor bertauliah (MBBS, MD atau MS) mengeluarkan sijil ini, dan sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah",
+        "Dihantar melalui e-mel jika diluluskan",
+        "Tersedia 365 hari setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlukan jenis sijil lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Cuti sakit",
+        "Kecergasan perubatan",
+        "Tidak layak terbang"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah Setiap permohonan dinilai secara individu",
+        "Permohonan 100% dalam talian Mohon melalui telefon atau komputer riba anda",
+        "Penghantaran melalui e-mel jika diluluskan Dihantar ke alamat e-mel yang anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran dalam talian yang selamat"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimanakah cara mendapatkan sijil perubatan am dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan sijil perubatan am dalam talian melalui DrCertificate, isi borang dalam talian, buat bayaran melalui Stripe dan jawab soalan doktor bertauliah dalam semakan melalui sembang. Jika doktor meluluskannya, sijil akan dihantar dalam bentuk PDF melalui e-mel, biasanya dalam masa kira-kira 30 minit. Doktor yang memutuskan sama ada sijil itu dikeluarkan atau tidak, berdasarkan maklumat anda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum anda memohon"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang sijil ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah itu sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am ialah dokumen rasmi yang dikeluarkan oleh doktor selepas menilai kesihatan anda. Sijil ini mengesahkan konsultasi perubatan, penyakit, pemulihan atau status kesihatan, bergantung pada tujuan anda memerlukannya."
+    },
+    {
+      "kind": "text",
+      "text": "Majikan, sekolah, universiti, penyedia perkhidmatan perjalanan dan organisasi lain lazimnya memintanya sebagai dokumen sokongan kesihatan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Kandungan sijil"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Butiran peribadi anda yang betul",
+        "Tarikh konsultasi",
+        "Penilaian perubatan yang berkaitan",
+        "Tujuan sijil",
+        "Tempoh rehat yang disyorkan, jika berkenaan",
+        "Nama dan kelayakan doktor",
+        "Tandatangan atau pengesahan digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Kandungan sijil bergantung pada tujuannya dan penilaian profesional doktor."
+    },
+    {
+      "kind": "text",
+      "text": "Elakkan sijil palsu. Templat palsu, dokumen yang diubah suai atau penjana sijil segera tanpa penglibatan doktor mungkin ditolak dan menimbulkan masalah lain. Sijil yang tulen hanya dikeluarkan selepas semakan perubatan yang sebenar."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bila anda mungkin memerlukan sijil perubatan am"
+    },
+    {
+      "kind": "text",
+      "text": "Apabila sesebuah organisasi meminta dokumen kesihatan rasmi. Doktor yang memutuskan apa yang boleh dinyatakan dalam sijil, berdasarkan penilaiannya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerja"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk ketidakhadiran berkaitan kesihatan, rekod tempat kerja atau keperluan untuk kembali bekerja."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokumen cuti sakit",
+        "Pengesahan ketidakhadiran kerja",
+        "Pemulihan selepas sakit",
+        "Keperluan rekod HR"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pelajar"
+    },
+    {
+      "kind": "text",
+      "text": "Apabila sakit menyebabkan anda terlepas kelas, peperiksaan, latihan atau aktiviti akademik lain."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Tidak hadir ke kelas",
+        "Peperiksaan yang terlepas",
+        "Permohonan lanjutan tempoh akademik",
+        "Keperluan penyertaan sukan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerja jarak jauh dan hibrid"
+    },
+    {
+      "kind": "text",
+      "text": "Sakit boleh menjejaskan keupayaan anda untuk bekerja, walaupun dari rumah."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kelulusan cuti sakit",
+        "Dokumen HR",
+        "Tidak dapat bekerja buat sementara",
+        "Permintaan tempat kerja berkaitan kesihatan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sebab biasa orang memohon"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokumen perubatan untuk tempat kerja",
+        "Tidak hadir ke sekolah atau universiti",
+        "Bukti sakit",
+        "Pengesahan pemulihan",
+        "Keperluan berkaitan perjalanan",
+        "Pengesahan kesihatan am"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Semak keperluan terlebih dahulu"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan sijil ditentukan oleh organisasi tempat anda menyerahkannya. Sebelum itu, semak sama ada format tertentu atau maklumat tambahan diperlukan oleh:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Majikan",
+        "Sekolah atau universiti",
+        "Agensi kerajaan",
+        "Syarikat pelancongan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individu. Pengeluaran sijil, kandungan dan tempohnya adalah atas budi bicara doktor yang menyemak. Semua dokumen ditujukan kepada organisasi tempat ia diserahkan dan sah untuk sekali penggunaan sahaja. Penerimaan sijil ditentukan oleh organisasi tempat anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang biasanya diharapkan oleh majikan, sekolah atau syarikat penerbangan daripada sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Kebanyakan majikan dan sekolah mengharapkan surat daripada doktor berdaftar yang menyatakan nama anda, tarikh dan cadangan doktor. Singapura menunjukkan betapa ketatnya peraturan ini. Ministry of Manpower menyatakan bahawa untuk layak mendapat cuti sakit bergaji, pekerja mesti disahkan tidak layak bekerja oleh pengamal perubatan yang berdaftar di bawah Medical Registration Act atau Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Jika anda bekerja di Singapura, sahkan dengan bahagian HR bahawa sijil anda memenuhi peraturan ini sebelum memohon."
+    },
+    {
+      "kind": "text",
+      "text": "Peraturan berbeza mengikut majikan, institusi, syarikat penerbangan dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Di kebanyakan negara Asia Tenggara, sijil cuti sakit dan sijil bekerja dari rumah boleh meliputi sehingga 7 hari bagi gejala umum. Penerima anda mungkin menetapkan had yang lebih pendek, meminta borang mereka sendiri atau langsung tidak menerima sijil dalam talian."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum memohon, tanya penerima tiga perkara. Adakah mereka menerima sijil perubatan dalam talian? Adakah mereka memerlukan borang atau format mereka sendiri? Berapa hari yang boleh diliputi oleh satu sijil?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sijil Cuti Sakit Dalam Talian di Singapura",
+        "Sijil perubatan dalam talian di Malaysia",
+        "Sijil Cuti Sakit Dalam Talian di Thailand",
+        "Cara mendapatkan sijil perubatan dalam talian untuk cuti"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah kandungan sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am daripada DrCertificate mengandungi butiran peribadi anda, tarikh yang diliputi, kenyataan doktor dan butiran doktor yang mengeluarkannya."
+    },
+    {
+      "kind": "text",
+      "text": "Jika penerima anda memerlukan maklumat yang tidak terdapat pada sijil, minta borang mereka sendiri sebelum anda memohon."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Butiran pesakit Nama penuh dan butiran ID anda, yang mesti sepadan antara satu sama lain.",
+        "Tarikh Tarikh konsultasi dan tempoh yang dicadangkan oleh doktor.",
+        "Kenyataan doktor Cadangan doktor berdasarkan semakan melalui sembang.",
+        "Butiran doktor Nama doktor, kelayakan MBBS, MD atau MS dan nombor pendaftaran majlis perubatan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cara ia berfungsi"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah mudah, dengan doktor menyemak setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi borang permohonan dalam talian Masukkan butiran anda dan sebab permohonan. Anda mungkin diminta untuk berkongsi tanda vital atau ukuran lain melalui pautan selamat yang dihantar melalui e-mel.",
+        "2 Langkah 2: Doktor bertauliah menyemak permohonan anda Doktor menilai maklumat yang anda berikan dan memutuskan sama ada sijil sesuai dari segi perubatan. Doktor boleh menolak sesuatu permohonan.",
+        "3 Langkah 3: Terima sijil anda melalui e-mel, jika diluluskan Sijil yang diluluskan dihantar secara elektronik ke alamat e-mel yang anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pilihan manakah yang perlu anda pilih pada borang untuk sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Pilih pilihan \"Sick Leave\" untuk sijil perubatan am. Pada borang, pilihan ini tertulis \"Medical Certificate, Sick Leave, for university or work\"."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam jawapan anda, nyatakan bahawa anda memerlukan sijil perubatan am dan siapa yang akan menerimanya, contohnya majikan atau sekolah anda. Ini memberitahu doktor tujuan sijil tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Jika tiada pilihan yang sesuai, hantar e-mel ke care@drcertificate.com sebelum membuat bayaran."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang akan ditanya oleh doktor untuk sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Doktor akan bertanya tentang gejala anda, bila gejala itu bermula dan tarikh yang perlu diliputi oleh sijil. Anda juga akan ditanya bagaimana penyakit itu menjejaskan kerja atau pengajian anda dan sama ada anda telah berjumpa doktor lain."
+    },
+    {
+      "kind": "text",
+      "text": "Berikan nama dan ID anda tepat seperti yang tertera pada dokumen pengenalan diri anda, huruf demi huruf. Maklumat yang tidak sepadan adalah antara sebab permohonan ditolak."
+    },
+    {
+      "kind": "text",
+      "text": "Rekod daripada lawatan ke klinik sebelum ini boleh membantu, jadi nyatakan jika anda memilikinya. Doktor mungkin bertanya soalan susulan dalam sembang sebelum membuat keputusan."
+    },
+    {
+      "kind": "text",
+      "text": "Balas dengan tepat dan segera."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di manakah sijil perubatan am tidak boleh digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am daripada DrCertificate tidak boleh digunakan di India, untuk tujuan undang-undang atau untuk insurans. Pemohon mestilah berumur sekurang-kurangnya 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Perkhidmatan ini hanya untuk keadaan bukan kecemasan yang sesuai. Jika anda mengalami sakit dada, sukar bernafas atau simptom teruk yang berlaku secara tiba-tiba, hubungi perkhidmatan kecemasan tempatan atau pergi ke hospital terdekat dengan segera."
+    },
+    {
+      "kind": "text",
+      "text": "Pihak penerima yang memutuskan sama ada mahu menerima sijil tersebut. Semak dengan mereka sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang berlaku jika doktor tidak dapat mengeluarkan sijil perubatan am anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika doktor tidak dapat mengeluarkan sijil perubatan am anda, anda tidak akan menerimanya dan bayaran tidak akan dikembalikan. Doktor menolak kira-kira 2% permohonan, biasanya kerana nama dan dokumen pengenalan diri tidak sepadan atau simptom dan butiran yang dikongsi tidak konsisten."
+    },
+    {
+      "kind": "text",
+      "text": "Semakan melalui sembang mempunyai batasan."
+    },
+    {
+      "kind": "text",
+      "text": "Apabila simptom memerlukan pemeriksaan fizikal atau ujian, doktor mungkin menolak permohonan dan mencadangkan anda berjumpa secara bersemuka di klinik tempatan. Bayaran tidak akan dikembalikan dalam semua keadaan kecuali satu, iaitu masalah teknikal yang disahkan dan dilaporkan dalam tempoh 24 jam. Anggaplah yuran ini sebagai bayaran untuk semakan doktor, bukan untuk sijil yang dijamin."
+    },
+    {
+      "kind": "text",
+      "text": "Jika anda rasa masalah teknikal telah menjejaskan permohonan anda, tulis kepada pasukan sokongan pada hari yang sama."
+    },
+    {
+      "kind": "text",
+      "text": "Hubungi care@drcertificate.com untuk sebarang pertanyaan tentang permohonan anda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapakah kos sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am berharga 25 SGD di Singapura, 399 peso di Filipina dan 30 MYR di Malaysia. Harga untuk negara lain dipaparkan semasa pembayaran."
+    },
+    {
+      "kind": "text",
+      "text": "Yuran ini meliputi semakan doktor dan, jika diluluskan, sijil PDF yang dihantar melalui e-mel. Bayaran dibuat melalui Stripe dan tidak akan dikembalikan."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD"
+        ],
+        [
+          "Filipina",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapakah yang mengeluarkan sijil perubatan am anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Doktor bertauliah Setiap permohonan diserahkan kepada doktor yang memiliki kelayakan MBBS, MD atau MS. Semua doktor di platform ini ialah doktor yang berdaftar dengan majlis perubatan.",
+        "Doktor yang membuat keputusan DrCertificate ialah sebuah platform. Hanya doktor yang memutuskan sama ada untuk mengeluarkan sijil, dan doktor menolak kira-kira 2% permohonan, biasanya apabila butiran tidak sepadan atau gejala tidak konsisten.",
+        "Penyemak perubatan Dr Urooj Arshad, M.B.B.S, Perubatan Am, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Adakah majikan, sekolah atau syarikat penerbangan saya akan menerima sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada polisi pihak penerima sendiri, jadi DrCertificate tidak dapat menjanjikannya. Setiap majikan, sekolah atau syarikat penerbangan menetapkan peraturan sendiri tentang nota perubatan dalam talian."
+    },
+    {
+      "kind": "text",
+      "text": "Penerima yang ingin mengesahkan nota tersebut boleh menyemak doktor yang mengeluarkannya menggunakan butiran pendaftaran pada sijil. Semua doktor di platform ini berdaftar dengan majlis perubatan."
+    },
+    {
+      "kind": "text",
+      "text": "Jika penerima berkeras mahu menggunakan borang mereka sendiri, tanya mereka sebelum anda memohon. Sijil PDF standard mungkin tidak dapat menggantikan borang yang mereka perlukan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sijil perubatan am berbanding sijil berkaitan: yang mana satu anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am ialah nota doktor yang bersifat umum, manakala setiap sijil berkaitan menjawab satu soalan yang khusus. Pilih sijil yang sepadan dengan apa yang diminta oleh penerima anda."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Sijil",
+        "Apa yang dinyatakan",
+        "Siapa yang biasanya memintanya",
+        "Pilihan dalam borang yang perlu dipilih"
+      ],
+      "rows": [
+        [
+          "Sijil perubatan am",
+          "Masalah kesihatan dan rehat yang disyorkan oleh doktor untuk tarikh yang dinyatakan",
+          "Majikan, sekolah, kelab",
+          "Sick Leave"
+        ],
+        [
+          "Sijil cuti sakit",
+          "Bahawa anda tidak sihat untuk bekerja atau belajar pada tarikh yang dinyatakan",
+          "Majikan, universiti",
+          "Sick Leave"
+        ],
+        [
+          "Sijil kecergasan perubatan",
+          "Bahawa doktor mendapati anda sihat untuk bekerja, belajar, bersukan atau melakukan perjalanan",
+          "Majikan baharu, sekolah, kelab sukan, syarikat penerbangan",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Sijil bekerja dari rumah",
+          "Bahawa anda boleh bekerja tetapi patut berada di rumah",
+          "Majikan",
+          "Work From Home"
+        ],
+        [
+          "Sijil tidak sihat untuk perjalanan",
+          "Bahawa anda tidak patut menaiki penerbangan atau melakukan perjalanan pada tarikh yang dinyatakan",
+          "Syarikat penerbangan, penyedia perkhidmatan pelancongan",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa memohon dalam talian"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Dokumen perubatan tanpa perlu ke klinik"
+    },
+    {
+      "kind": "text",
+      "text": "Sakit ringan, jadual yang padat, masalah pergerakan atau kerja jarak jauh boleh menyukarkan temu janji di klinik. Memohon dalam talian ialah alternatif yang lebih mudah."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Konsultasi dari mana-mana sahaja Mohon tanpa perlu keluar rumah, memudahkan apabila anda perlu berehat atau tidak dapat ke mana-mana kerana sakit.",
+        "Jimat masa Tidak perlu beratur atau duduk di bilik menunggu klinik - lengkapkan permohonan anda dalam talian.",
+        "Penghantaran sijil digital Jika diluluskan, sijil anda akan dihantar ke e-mel anda, sedia untuk dikongsi.",
+        "Proses dalam talian yang selamat Butiran anda dikendalikan melalui proses dalam talian yang selamat."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Doktor yang membuat keputusan. Tiada apa-apa yang diluluskan secara automatik. Doktor bertauliah menyemak setiap permohonan dan memutuskan sama ada untuk mengeluarkan sijil, kandungannya dan tempoh yang diliputinya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana perkhidmatan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara mempunyai halaman sijilnya sendiri, dan perkhidmatan yang tersedia mungkin berbeza. Pilih negara anda untuk menyemak sebelum memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia sekarang"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat sijil",
+        "Indonesia Lihat sijil",
+        "Philippines Lihat sijil",
+        "Thailand Lihat sijil",
+        "Vietnam Lihat sijil",
+        "Malaysia Lihat sijil",
+        "Cambodia Lihat sijil",
+        "Laos Lihat sijil",
+        "Myanmar Lihat sijil",
+        "Brunei Lihat sijil"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Soalan lazim"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Soalan tentang sijil perubatan am"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah Sijil Perubatan Am (General Medical Certificate) dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am ialah dokumen rasmi yang dikeluarkan oleh doktor selepas menilai keadaan kesihatan pesakit. Sijil ini memberikan pengesahan bertulis berkaitan konsultasi perubatan, penyakit, pemulihan atau status kesihatan, bergantung pada keperluan individu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa cepat saya boleh menerima Sijil Perubatan Am saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Biasanya mengambil masa kira-kira 30 minit. Jika doktor meluluskan permohonan anda, sijil akan dihantar ke e-mel anda dalam bentuk PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah perkhidmatan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, perkhidmatan ini beroperasi 365 hari setahun, termasuk hujung minggu dan cuti umum. Doktor menyemak permohonan pada waktu bekerja, jadi permohonan yang dibuat di luar waktu tersebut akan menunggu slot waktu bekerja yang seterusnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Perubatan Am dalam bahasa tempatan saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil dalam bahasa tempatan tidak dijanjikan. Hantar e-mel ke care@drcertificate.com untuk bertanya sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapakah yang mengeluarkan Sijil Perubatan Am dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil ini dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS). Doktor tersebut bekerja secara bebas dan hanya doktor itu yang memutuskan sama ada untuk mengeluarkan sijil dan apa kandungannya. Sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapakah kos sijil?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga bergantung pada negara anda, contohnya 25 SGD di Singapura, 399 peso di Filipina atau 30 MYR di Malaysia. Borang permohonan menunjukkan harga sebelum anda membuat bayaran. Bayaran tidak akan dikembalikan, termasuk apabila doktor menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah sijil ini diterima oleh majikan dan institusi?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu. Majikan, sekolah atau universiti, organisasi kerajaan dan syarikat pelancongan masing-masing menetapkan keperluan sendiri, jadi sahkan sama ada mereka memerlukan format tertentu atau maklumat tambahan. Sijil ini dikeluarkan oleh doktor bertauliah, jadi tanya sama ada mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Perubatan Am pada hari cuti umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, anda boleh memohon pada hari cuti umum kerana perkhidmatan ini beroperasi 365 hari setahun. Doktor akan menyemak permohonan anda pada waktu bekerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika majikan atau institusi saya mempunyai keperluan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Hantar e-mel ke care@drcertificate.com bersama format tersebut sebelum anda memohon, kerana perubahan format tidak dijamin. Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lamakah tempoh sah sijil perubatan am?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am meliputi tarikh yang ditulis oleh doktor padanya. Di kebanyakan negara Asia Tenggara, nota cuti sakit boleh meliputi sehingga 7 hari untuk simptom umum, dan nota kecergasan biasanya sah selama 30 hari. Majikan atau sekolah anda mungkin menetapkan had yang lebih pendek, jadi semak polisi mereka terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah sijil perubatan am diberi tarikh ke belakang?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate tidak dapat menjanjikan sijil perubatan am yang bertarikh ke belakang. Doktor yang menentukan tarikh yang diliputi oleh nota tersebut, berdasarkan simptom dan tarikh yang anda laporkan dalam sembang. Jika tarikh yang anda berikan tidak sepadan dengan simptom anda, doktor boleh menolak permohonan tersebut, dan bayaran tidak akan dikembalikan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimanakah sijil dihantar dan berapa cepat?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am yang diluluskan akan dihantar sebagai PDF melalui e-mel, biasanya kira-kira 30 minit selepas anda memohon. Semak folder spam anda jika anda tidak menemuinya. Untuk kes kecergasan, doktor bertugas dari 9 pagi hingga 9 malam IST, Isnin hingga Sabtu, dan 10 pagi hingga 8 malam IST pada hari Ahad."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya membetulkan nama atau tarikh selepas sijil dikeluarkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak, sijil perubatan am tidak boleh dibetulkan setelah dikeluarkan, kecuali jika kesilapan itu berpunca daripada pasukan perubatan. Masukkan nama anda sebagaimana yang tertulis pada dokumen pengenalan diri anda, huruf demi huruf, dan semak setiap tarikh sebelum anda membuat bayaran. Nama yang tidak sepadan dengan dokumen pengenalan diri ialah sebab biasa permohonan ditolak."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya menggunakan sijil perubatan am di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan am daripada DrCertificate adalah untuk digunakan di Singapura, Indonesia, Filipina, Thailand, Vietnam, Malaysia, Kemboja, Laos, Myanmar dan Brunei. Sijil ini bukan untuk diserahkan di India, bukan untuk tujuan undang-undang dan bukan untuk insurans. Penerimaan di mana-mana daripada 10 negara ini bergantung pada polisi pihak penerima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah maklumat kesihatan saya dirahsiakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Butiran kesihatan anda dihantar kepada doktor yang menyemak permohonan sijil perubatan am anda dan digunakan untuk membuat keputusan tentang permohonan tersebut. Pembayaran diproses melalui Stripe, iaitu penyedia pembayaran yang berasingan. Untuk sebarang soalan tentang cara maklumat anda dikendalikan, e-mel care@drcertificate.com sebelum atau selepas anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Siapa yang mesti memperakui cuti sakit bergaji di Singapura"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Urusan dokumen dipermudah, di mana sahaja anda berada."
+    },
+    {
+      "kind": "text",
+      "text": "Sama ada untuk kerja, pengajian, perjalanan atau keperluan peribadi, mohon dalam talian dalam masa beberapa minit. Jika doktor bertauliah meluluskan permohonan anda, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ada soalan sebelum memohon? care@drcertificate.com"
+    }
+  ]
+}

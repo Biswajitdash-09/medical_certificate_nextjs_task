@@ -1,0 +1,528 @@
+{
+  "slug": "medical-fitness-certificate-for-employment",
+  "group": "certificate",
+  "title": "Medical Fitness Certificate for Employment",
+  "description": "Get a medical fitness certificate for employment online in South East Asia. A certified doctor reviews your chat request, with a PDF in about 30 minutes.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For job applicants and employees in South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "Need a medical fitness certificate for employment for a new job, an onboarding pack or a recruitment file? DrCertificate connects job applicants and employees in South East Asia with independent certified doctors who review each request through an online chat consultation."
+    },
+    {
+      "kind": "text",
+      "text": "A doctor issues the certificate only if they judge you fit for work."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical fitness certificate for employment online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get a medical fitness certificate for employment online with DrCertificate, fill in the online form, choose the Medical Fitness Certificate option and pay through Stripe. An independent certified doctor with an MBBS, MD or MS reviews your details by chat. If the doctor approves, the PDF certificate arrives by email. The doctor alone decides whether to issue it."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment is a signed statement from a doctor confirming that a job applicant or employee is in general good health and fit to do regular work. The doctor records your name, age and the date of the review, and declares that no communicable disease or condition prevents regular work."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate does not diagnose an illness, prescribe treatment or approve leave by itself. Your employer still makes the hiring decision."
+    },
+    {
+      "kind": "text",
+      "text": "People also call it a fit to work certificate, a pre employment medical certificate, a job fitness certificate or a good health certificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When might you need a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You might need a medical fitness certificate for employment when a job offer, onboarding checklist or recruitment process asks for proof that you are fit to work. The request usually comes from the employer's HR team or a recruitment agency, and at times from a school or college arranging a work placement.",
+        "Common moments include accepting an offer, joining a new company, renewing a contract or moving into a new role. Government recruitment bodies, including public sector undertakings and recruitment boards, often require a fitness certificate from a registered practitioner.",
+        "A different certificate fits better in other cases. If you are too unwell to work, you need a sick leave certificate. If you can work but only from home, a work from home note is the right choice. A race, gym or sports club wants a sports fitness certificate, and an airline asks for a fit to fly note."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "Employers usually expect a dated certificate, signed by a registered doctor, stating that you are fit for work and free of conditions that would stop regular duties. Schools ask for the same thing for placements. Airlines rarely ask for this certificate, since flying has its own fit to fly note."
+    },
+    {
+      "kind": "text",
+      "text": "Rules differ by employer, institution, airline and country. In the Philippines, the Omnibus Rules Implementing the Labor Code say the physician engaged by an employer shall conduct a pre employment medical examination free of charge, for the proper selection and placement of workers, along with a free annual physical examination."
+    },
+    {
+      "kind": "text",
+      "text": "In Singapore, the Ministry of Manpower says employers must send employees exposed to listed occupational hazards for pre placement and regular medical examinations. An online certificate does not replace those employer arranged exams."
+    },
+    {
+      "kind": "text",
+      "text": "Before applying, ask the recipient three questions. Do they accept online medical certificates? Do they need their own form, and how recent must the certificate be?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in Singapore",
+        "How to get a medical certificate online for leave",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a medical fitness certificate for employment include?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment from DrCertificate includes your details, the review date, the doctor's statement on your fitness for work and the doctor's registration details."
+    },
+    {
+      "kind": "text",
+      "text": "Fitness notes are generally valid for 30 days in most South East Asian countries. Time your request close to your joining date."
+    },
+    {
+      "kind": "text",
+      "text": "Read more about our medical fitness certificate service for other purposes."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your details Your full name and age, matching the ID you entered on the form.",
+        "Dates The date of the doctor's review, which is the date your fitness is confirmed.",
+        "Doctor's statement A declaration of general fitness for the job, with no communicable disease or condition that would prevent regular work.",
+        "Doctor's details The issuing doctor's name, qualification and medical council registration details."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical fitness certificate"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical fitness certificate for employment in 4 steps?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a medical fitness certificate for employment in four steps: form, payment, doctor review and email delivery. The whole process happens online."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate offers no video or in person consultations. Every review happens by chat."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose the Medical Fitness Certificate option and enter your name as it appears on your ID, your age, your health details and the job you are joining.",
+        "2 Step 2: Pay through Stripe Pay the fee for your country at the Stripe checkout. Payment is non refundable.",
+        "3 Step 3: Chat with the doctor An independent certified doctor reviews your answers by chat, may ask follow up questions and decides whether to issue the certificate.",
+        "4 Step 4: Receive your PDF by email If the doctor approves, the certificate arrives as a PDF in your inbox, usually in about 30 minutes."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Medical Fitness Certificate option, the one listed for employee and student fitness and good health certificates."
+    },
+    {
+      "kind": "text",
+      "text": "In the details box, write that the certificate is for employment, plus the job title and your joining date. The doctor then knows the purpose."
+    },
+    {
+      "kind": "text",
+      "text": "If no option seems to fit, email care@drcertificate.com before paying."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask about your current health, past illnesses and the work you are joining. Expect questions on ongoing conditions, recent surgery or injury, regular medicines and symptoms like chest pain, breathlessness or fainting."
+    },
+    {
+      "kind": "text",
+      "text": "Share your joining date and the physical demands of the role. Recent clinic reports or test results can help if you have them."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor may ask follow up questions in the chat."
+    },
+    {
+      "kind": "text",
+      "text": "Give full, accurate answers, because a certificate built on missing details protects no one."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can a medical fitness certificate for employment not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment from DrCertificate cannot be submitted in India, used for legal purposes or used for insurance."
+    },
+    {
+      "kind": "text",
+      "text": "Applicants must be at least 16."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for non emergency situations only. If you feel seriously unwell, go to your nearest emergency department straight away."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is decided by the recipient, so check with them first."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your medical fitness certificate for employment, you receive no certificate and the payment is not refunded. Doctors decline about 2% of requests, usually when details are wrong, like a name that does not match the ID, or when the symptoms and details shared are inconsistent."
+    },
+    {
+      "kind": "text",
+      "text": "A chat review cannot replace a physical examination or tests. If your employer needs a chest X ray, blood tests, an ECG or an exam by its own physician, book an in person clinic visit instead."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, except for a verified technical fault reported within 24 hours. For help, contact care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a medical fitness certificate for employment cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The fee covers the doctor's chat review and, if approved, the PDF certificate by email."
+    },
+    {
+      "kind": "text",
+      "text": "Payment goes through Stripe and is non refundable, including when the doctor declines."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your medical fitness certificate for employment?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer, school or airline will accept a medical fitness certificate for employment only if its own policy allows online medical certificates. Acceptance is the recipient's decision, and DrCertificate encourages you to confirm before you apply."
+    },
+    {
+      "kind": "text",
+      "text": "A recipient can verify the issuing doctor through the registration details printed on the certificate, by checking them with the medical council named."
+    },
+    {
+      "kind": "text",
+      "text": "If the recipient requires its own form, ask whether a separate certificate will do. If not, have that form completed at a clinic."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical fitness certificate for employment vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment states that you are fit to work, while a sick leave certificate states that you are not fit to work for a set period. Pick the one that matches what the recipient asked for."
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave and work from home notes go up to 7 days for generic symptoms in most South East Asian countries."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who receives it",
+        "Form option to choose"
+      ],
+      "rows": [
+        [
+          "Medical fitness certificate for employment",
+          "Fit for general work, with no communicable disease or condition preventing regular work",
+          "Employer, HR team or recruitment agency",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Sick leave certificate",
+          "Unfit for work or study for a set period",
+          "Employer or university",
+          "Sick Leave"
+        ],
+        [
+          "Work from home certificate",
+          "Able to work, but from home for a set period",
+          "Employer",
+          "Work From Home"
+        ],
+        [
+          "Sports fitness certificate",
+          "Fit to take part in a sport or event",
+          "Club, race organiser or school team",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Fit to fly certificate",
+          "Fit to travel by air",
+          "Airline",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Unfit to travel certificate",
+          "Not fit to travel for now",
+          "Airline or travel provider",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why choose DrCertificate for a medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is an online platform that connects people in ten South East Asian countries with independent certified doctors. The platform is run by Health Venture OU, with an office at KMC Armstrong Corporate Center in Makati City, Metro Manila."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Doctors registered with a medical council Every doctor on DrCertificate is registered with a medical council and holds an MBBS, MD or MS.",
+        "Careful decisions Doctors decline about 2% of requests, when names and IDs do not match or the details shared are inconsistent. A certificate is never automatic.",
+        "A decision in about 30 minutes Fitness requests are reviewed by chat, and approved certificates arrive as a PDF by email.",
+        "One clear form option Employment, sports, fit to fly and fit to work certificates all use the Medical Fitness Certificate option, so you never have to guess.",
+        "Upfront about acceptance DrCertificate encourages you to check that your employer accepts online medical notes before you pay."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about the medical fitness certificate for employment"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is a medical fitness certificate for employment valid?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment is generally valid for 30 days in most South East Asian countries. Your employer may set its own limit, so check how recent the certificate must be and apply close to your joining date to stay inside that window."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a medical fitness certificate for employment be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical fitness certificate for employment confirms your fitness on the date of the doctor's review, so it is not meant to cover earlier dates. If your employer wants a certificate dated before today, ask them whether a current certificate will do instead."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How is the medical fitness certificate delivered?"
+    },
+    {
+      "kind": "text",
+      "text": "The certificate arrives as a PDF by email once the doctor approves your request, usually in about 30 minutes. Fitness cases are reviewed from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday. Later requests wait for the next session."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct my name or dates after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a certificate cannot be corrected once issued, unless the mistake came from the medical team. Type your full name as it appears on your ID and check the dates before you pay. A name that does not match the ID is a common reason for a decline."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use the certificate in my country?"
+    },
+    {
+      "kind": "text",
+      "text": "You can use the certificate in the ten South East Asian countries DrCertificate serves, from Singapore and Malaysia to the Philippines and Vietnam, if the recipient accepts online medical notes. The certificate is not for submission in India, not for legal purposes and not for insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details are shared with the independent doctor who reviews your request, for the purpose of that review. Share what the doctor needs to judge your fitness for work. For questions about how your data is handled, email care@drcertificate.com before or after you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do I need a video call or clinic visit?"
+    },
+    {
+      "kind": "text",
+      "text": "No, DrCertificate does not offer video or in person consultations. The doctor reviews your request through a chat consultation only. If your employer needs a physical examination or tests, visit a clinic instead, because an online certificate will not replace that exam."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Supreme Court of the Philippines E-Library: Philippine rule on pre-employment exams",
+        "Singapore Ministry of Manpower: MOM on pre-placement examinations"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Work From Home Certificate Online",
+        "Fitness Certificate for Adventure Activities",
+        "Fitness Certificate for Gym Membership",
+        "Fitness Certificate for Marathons",
+        "Online medical fitness certificate",
+        "Sports fitness certificate for races and clubs",
+        "Unfit to Fly Certificate in the Philippines",
+        "Unfit to Fly Certificate in Singapore",
+        "General medical certificate",
+        "Medical certificates online in Malaysia"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your medical fitness certificate for employment?"
+    },
+    {
+      "kind": "text",
+      "text": "Fill in the form, pay through Stripe and get a doctor's decision in about 30 minutes. The fee is 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The doctor decides whether to issue, and payment is non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

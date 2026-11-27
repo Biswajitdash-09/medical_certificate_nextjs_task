@@ -1,0 +1,745 @@
+{
+  "slug": "sick-leave-certificate",
+  "group": "service",
+  "service": "sick-leave",
+  "title": "Online sick leave certificate",
+  "description": "Apply online for a doctor-reviewed sick leave certificate for work or study. A certified doctor reviews every request, and approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit · Disemak oleh doktor bertauliah"
+    },
+    {
+      "kind": "text",
+      "text": "Apabila kurang sihat, anda tidak sepatutnya terpaksa keluar dan menunggu di klinik semata-mata untuk urusan dokumen. Mohon dalam talian, doktor bertauliah akan menyemak permohonan anda, dan jika diluluskan, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor bertauliah (MBBS, MD atau MS) mengeluarkan sijil ini, dan sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah",
+        "Dihantar melalui e-mel jika diluluskan",
+        "Tersedia 365 hari setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlukan jenis sijil lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kecergasan perubatan",
+        "Tidak layak terbang",
+        "Perubatan am"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0002"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised rest for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Semakan oleh doktor bertauliah Setiap permohonan dinilai secara individu",
+        "Permohonan 100% dalam talian Mohon melalui telefon atau komputer riba anda",
+        "Penghantaran melalui e-mel jika diluluskan Dihantar ke alamat e-mel yang anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran dalam talian yang selamat"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimanakah cara mendapatkan sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan sijil cuti sakit dalam talian daripada DrCertificate, isi borang dalam talian, bayar melalui Stripe dan jawab soalan doktor bertauliah yang bebas melalui sembang. Jika doktor meluluskan, sijil akan dihantar melalui e-mel dalam bentuk PDF, biasanya dalam masa kira-kira 30 minit. Pengeluaran sijil sentiasa bergantung pada pertimbangan perubatan doktor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum anda memohon"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang sijil ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah itu sijil cuti sakit?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit ialah dokumen perubatan rasmi yang dikeluarkan oleh doktor bertauliah. Sijil ini mengesahkan bahawa anda tidak layak dari segi perubatan untuk hadir bekerja, ke kelas atau menjalankan tanggungjawab biasa anda bagi suatu tempoh tertentu."
+    },
+    {
+      "kind": "text",
+      "text": "Majikan dan institusi menggunakannya untuk mengesahkan ketidakhadiran yang benar-benar disebabkan oleh masalah perubatan dan menyimpan rekod kehadiran yang tepat."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Kandungan sijil"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Butiran peribadi anda yang betul",
+        "Tarikh konsultasi",
+        "Sebab cuti",
+        "Tempoh rehat yang disyorkan",
+        "Nama dan kelayakan doktor",
+        "Tandatangan atau pengesahan digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Semak butiran ini sebelum anda menyerahkannya. Sijil yang tidak lengkap mungkin tertangguh atau ditolak oleh majikan atau institusi."
+    },
+    {
+      "kind": "text",
+      "text": "Elakkan sijil palsu. Sijil yang tulen hanya dikeluarkan selepas penilaian kesihatan yang sebenar oleh doktor yang berkelayakan. Sijil daripada penjana sijil atau templat yang diubah suai boleh ditolak dan mungkin menimbulkan masalah dengan majikan atau institusi anda."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bila anda mungkin memerlukan sijil cuti sakit"
+    },
+    {
+      "kind": "text",
+      "text": "Polisi berbeza antara organisasi, tetapi sijil doktor lazimnya diminta apabila anda tidak dapat bekerja atau belajar kerana sakit."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerja"
+    },
+    {
+      "kind": "text",
+      "text": "Membantu HR meluluskan cuti anda mengikut polisi syarikat dan memastikan rekod kehadiran serta penggajian kekal tepat."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diperlukan apabila"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Anda tidak hadir bekerja kerana sakit",
+        "Cuti sakit anda melebihi had yang ditetapkan syarikat",
+        "Majikan anda meminta bukti sakit"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pelajar"
+    },
+    {
+      "kind": "text",
+      "text": "Sekolah dan universiti sering meminta sijil doktor sebelum meluluskan cuti sakit."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diperlukan apabila"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Anda tidak hadir ke kelas atau peperiksaan",
+        "Anda terlepas tugasan atau aktiviti akademik",
+        "Anda terlepas sesi yang wajib dihadiri"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerja jarak jauh dan hibrid"
+    },
+    {
+      "kind": "text",
+      "text": "Bekerja dari rumah tidak bermakna anda tidak perlu masa untuk pulih. Demam, keletihan yang teruk atau jangkitan boleh menghalang anda daripada bekerja walau di mana pun anda berada."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diperlukan apabila"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Anda tidak cukup sihat untuk bekerja dari rumah",
+        "Pengurus atau HR anda meminta dokumen sokongan"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Sebab biasa orang memohon"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Demam dan jangkitan virus",
+        "Simptom selesema dan flu",
+        "Masalah perut",
+        "Migrain atau sakit kepala yang teruk",
+        "Kecederaan ringan",
+        "Pemulihan selepas prosedur perubatan",
+        "Rehat atas nasihat doktor"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Jumpa doktor secara bersemuka, bukan dalam talian"
+    },
+    {
+      "kind": "text",
+      "text": "Konsultasi dalam talian adalah untuk situasi bukan kecemasan yang sesuai. Dapatkan rawatan perubatan segera jika anda mengalami:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Kesukaran bernafas yang teruk",
+        "Sakit dada",
+        "Hilang kesedaran",
+        "Kecederaan serius",
+        "Dehidrasi teruk",
+        "Sebarang simptom yang memerlukan rawatan kecemasan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individu. Pengeluaran sijil, kandungan dan tempohnya adalah atas budi bicara doktor yang menyemak. Semua dokumen ditujukan kepada organisasi tempat ia diserahkan dan sah untuk sekali penggunaan sahaja. Penerimaan sijil ditentukan oleh organisasi tempat anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang biasanya dijangkakan oleh majikan, sekolah atau syarikat penerbangan daripada sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Kebanyakan majikan dan sekolah menjangkakan sijil yang menyatakan nama anda, tarikh anda tidak sihat, serta nama dan butiran pendaftaran doktor. Peraturan berbeza mengikut majikan, institusi, syarikat penerbangan dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Singapura memberikan contoh yang jelas. Ministry of Manpower menyatakan bahawa pekerja yang dilindungi oleh Employment Act layak mendapat cuti sakit bergaji selepas berkhidmat sekurang-kurangnya 3 bulan, sehingga 14 hari cuti sakit pesakit luar dan 60 hari cuti hospital, dengan kelayakan penuh selepas 6 bulan. Pekerja yang tidak dapat hadir bekerja mesti memaklumkan majikan dalam tempoh 48 jam."
+    },
+    {
+      "kind": "text",
+      "text": "Sijil perubatan kemudiannya diserahkan apabila kembali bekerja. Untuk layak mendapat cuti sakit bergaji, pekerja mesti disahkan tidak sihat untuk bekerja oleh pengamal perubatan yang berdaftar di bawah Medical Registration Act atau Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum memohon, tanya bahagian HR atau pejabat sekolah anda sama ada mereka menerima surat perubatan dalam talian, sama ada mereka menggunakan borang sendiri, dan berapa lama tempoh yang mereka terima bagi satu surat."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sijil Cuti Sakit Dalam Talian di Singapura",
+        "Sijil perubatan dalam talian di Malaysia",
+        "Sijil Cuti Sakit Dalam Talian di Filipina",
+        "Sijil Cuti Sakit Dalam Talian di Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah kandungan sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit dalam talian daripada DrCertificate menunjukkan identiti anda, tempoh rehat yang disyorkan oleh doktor, dan siapa yang mengeluarkannya. Penerima biasanya menyemak tiga bahagian ini dahulu."
+    },
+    {
+      "kind": "text",
+      "text": "Nama penuh anda dicatatkan sama seperti pada ID anda. Kenyataan doktor menyatakan tarikh anda tidak sihat untuk bekerja atau belajar. Bagi simptom umum, surat cuti sakit di kebanyakan negara Asia Tenggara meliputi tempoh sehingga 7 hari."
+    },
+    {
+      "kind": "text",
+      "text": "Nama, kelayakan dan butiran pendaftaran majlis perubatan doktor dicatatkan pada sijil. Majikan atau sekolah boleh menggunakannya untuk menyemak siapa yang menandatangani sijil tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Cara ia berfungsi"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah mudah, dengan doktor menyemak setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi borang permohonan dalam talian Masukkan butiran anda dan sebab permohonan. Anda mungkin diminta untuk berkongsi tanda vital atau ukuran lain melalui pautan selamat yang dihantar melalui e-mel.",
+        "2 Langkah 2: Doktor bertauliah menyemak permohonan anda Doktor menilai maklumat yang anda berikan dan memutuskan sama ada sijil sesuai dari segi perubatan. Doktor boleh menolak sesuatu permohonan.",
+        "3 Langkah 3: Terima sijil anda melalui e-mel, jika diluluskan Sijil yang diluluskan dihantar secara elektronik ke alamat e-mel yang anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pilihan manakah yang perlu anda pilih pada borang untuk sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Pilih Medical Certificate Sick Leave (For University/Work) pada borang. Pilihan yang sama juga meliputi sijil perubatan am."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam jawapan anda, nyatakan siapa yang akan menerima sijil itu, contohnya majikan atau universiti anda, dan senaraikan simptom anda beserta tarikh simptom itu bermula. Jika tiada pilihan yang sesuai, e-mel care@drcertificate.com sebelum anda membuat bayaran."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang akan ditanya oleh doktor untuk sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Doktor akan bertanya tentang simptom yang anda alami, bila simptom itu bermula dan tarikh yang perlu diliputi oleh sijil. Jawapan yang jelas dan jujur membantu doktor membuat keputusan dengan cepat."
+    },
+    {
+      "kind": "text",
+      "text": "Anda boleh menjangkakan soalan tentang cara penyakit itu menjejaskan tugasan harian anda, ubat yang telah anda ambil dan masalah kesihatan lalu yang berkaitan. Resit farmasi, bacaan termometer atau surat klinik sebelum ini boleh membantu jika anda ada."
+    },
+    {
+      "kind": "text",
+      "text": "Doktor mungkin menghantar soalan susulan dalam sembang. Balas dengan segera, kerana sembang yang tergendala akan melambatkan semakan. Nama anda mesti sepadan dengan ID anda, dan simptom anda mesti sesuai dengan tarikh yang anda minta."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di manakah sijil cuti sakit dalam talian tidak boleh digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit dalam talian daripada DrCertificate tidak boleh diserahkan di India, digunakan untuk tujuan undang-undang atau digunakan untuk insurans. Pemohon mesti berumur sekurang-kurangnya 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Perkhidmatan ini hanya untuk situasi bukan kecemasan yang sesuai. Jika anda mengalami sakit dada, sukar bernafas, pendarahan teruk atau apa-apa simptom yang terasa serius, pergi ke jabatan kecemasan terdekat atau hubungi nombor kecemasan tempatan anda sekarang."
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan sijil terpulang kepada penerima. Semak dengan majikan atau sekolah anda sebelum memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah yang berlaku jika doktor tidak dapat mengeluarkan sijil cuti sakit dalam talian anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika doktor tidak dapat mengeluarkan sijil cuti sakit dalam talian anda, anda tidak akan menerima sijil dan bayaran tidak akan dikembalikan. Doktor menolak kira-kira 2% permohonan."
+    },
+    {
+      "kind": "text",
+      "text": "Permohonan ditolak apabila butiran tidak betul, contohnya apabila nama dan nombor pengenalan tidak sepadan, atau apabila gejala dan butiran yang anda kongsikan tidak konsisten. Doktor juga akan menolak permohonan jika keadaan anda memerlukan pemeriksaan secara bersemuka atau ujian yang tidak boleh digantikan dengan sesi chat. Dalam keadaan ini, sila ke klinik atau hospital berhampiran."
+    },
+    {
+      "kind": "text",
+      "text": "Bayaran balik hanya diberikan bagi kerosakan teknikal yang telah disahkan dalam tempoh 24 jam."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk bantuan, e-mel care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapakah kos sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit dalam talian berharga 25 SGD di Singapura, 399 peso di Filipina dan 30 MYR di Malaysia. Bayaran ini meliputi semakan oleh doktor dan, jika diluluskan, sijil dalam bentuk PDF."
+    },
+    {
+      "kind": "text",
+      "text": "Pembayaran dibuat melalui Stripe dan tidak akan dikembalikan."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD"
+        ],
+        [
+          "Filipina",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan diteruskan ke borang permohonan DrCertificate yang selamat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapakah yang mengeluarkan sijil cuti sakit dalam talian anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Doktor bertauliah Setiap permohonan diserahkan kepada doktor yang memiliki kelayakan MBBS, MD atau MS. Semua doktor di platform ini ialah doktor yang berdaftar dengan majlis perubatan.",
+        "Doktor yang membuat keputusan DrCertificate ialah sebuah platform. Hanya doktor yang memutuskan sama ada untuk mengeluarkan sijil, dan doktor menolak kira-kira 2% permohonan, biasanya apabila butiran tidak sepadan atau gejala tidak konsisten.",
+        "Penyemak perubatan Dr Urooj Arshad, M.B.B.S, Perubatan Am, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Adakah majikan, sekolah atau syarikat penerbangan saya akan menerima sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada polisi majikan atau sekolah anda sendiri, dan tiada sijil dalam talian yang diterima di semua tempat. DrCertificate menggalakkan setiap pelanggan untuk mengesahkan dengan pihak penerima sebelum memohon."
+    },
+    {
+      "kind": "text",
+      "text": "Semua doktor di platform ini berdaftar dengan majlis perubatan. Pihak penerima boleh mengesahkan doktor yang mengeluarkan sijil dengan menyemak nama dan butiran pendaftaran pada sijil dengan rekod majlis tersebut. Di Singapura, cuti sakit bergaji memerlukan pengamal perubatan yang berdaftar di bawah Medical Registration Act, jadi elok bertanya kepada HR terlebih dahulu."
+    },
+    {
+      "kind": "text",
+      "text": "Jika majikan atau sekolah anda mewajibkan borang mereka sendiri, PDF daripada DrCertificate tidak akan menggantikannya. Tanya sama ada sijil doktor boleh diterima sebagai gantinya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sijil cuti sakit dalam talian berbanding sijil lain yang berkaitan: yang mana satu anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit dalam talian menyatakan bahawa anda terlalu sakit untuk bekerja atau belajar, manakala sijil bekerja dari rumah menyatakan bahawa anda boleh bekerja tetapi perlu berada di rumah. Pilih baris yang sepadan dengan apa yang diminta oleh pihak penerima, kemudian pilih pilihan borang yang sepadan."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Sijil",
+        "Apa yang dinyatakan",
+        "Siapa yang biasanya menerimanya",
+        "Pilihan borang"
+      ],
+      "rows": [
+        [
+          "Cuti sakit",
+          "Anda tidak layak untuk bekerja atau belajar pada tarikh yang dinyatakan",
+          "Majikan, sekolah atau universiti",
+          "Sick Leave"
+        ],
+        [
+          "Bekerja dari rumah",
+          "Anda boleh bekerja tetapi perlu berada di rumah untuk satu tempoh",
+          "Majikan",
+          "Work From Home"
+        ],
+        [
+          "Tidak layak terbang",
+          "Penyakit menghalang anda daripada melakukan perjalanan melalui udara",
+          "Syarikat penerbangan atau ejen pelancongan",
+          "Unfit to Travel"
+        ],
+        [
+          "Kecergasan perubatan",
+          "Anda layak untuk bekerja, belajar, bersukan atau melakukan perjalanan",
+          "Majikan, sekolah, kelab atau syarikat penerbangan",
+          "Medical Fitness Certificate"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa memohon dalam talian"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berehat di rumah sementara doktor menyemak permohonan anda"
+    },
+    {
+      "kind": "text",
+      "text": "Pergi ke klinik memang memenatkan apabila anda sudah tidak sihat. Memohon dalam talian ialah alternatif yang lebih selesa."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Konsultasi dari mana-mana sahaja Mohon tanpa perlu keluar rumah, memudahkan apabila anda perlu berehat atau tidak dapat ke mana-mana kerana sakit.",
+        "Jimat masa Tidak perlu beratur atau duduk di bilik menunggu klinik - lengkapkan permohonan anda dalam talian.",
+        "Sijil digital yang selamat Jika diluluskan, sijil anda dihantar secara digital, sedia untuk diserahkan melalui e-mel, portal HR atau sistem pelajar.",
+        "Penilaian oleh doktor bertauliah Sijil hanya dikeluarkan selepas pengamal perubatan yang berkelayakan menyemak permohonan anda."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Doktor yang membuat keputusan. Tiada apa-apa yang diluluskan secara automatik. Doktor bertauliah menyemak setiap permohonan dan memutuskan sama ada untuk mengeluarkan sijil, kandungannya dan tempoh yang diliputinya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana perkhidmatan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara mempunyai halaman sijilnya sendiri, dan perkhidmatan yang tersedia mungkin berbeza. Pilih negara anda untuk menyemak sebelum memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia sekarang"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat sijil",
+        "Indonesia Lihat sijil",
+        "Philippines Lihat sijil",
+        "Thailand Lihat sijil",
+        "Vietnam Lihat sijil",
+        "Malaysia Lihat sijil",
+        "Cambodia Lihat sijil",
+        "Laos Lihat sijil",
+        "Myanmar Lihat sijil",
+        "Brunei Lihat sijil"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Soalan lazim"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Soalan tentang sijil cuti sakit"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah Sijil Cuti Sakit (Sick Leave Certificate) dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil Cuti Sakit dalam talian ialah dokumen digital yang dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS) yang merekodkan penyakit anda dan mengesyorkan cuti daripada kerja atau sekolah. Anda memohon tanpa perlu hadir secara bersemuka, dan doktor memutuskan sama ada untuk mengeluarkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa cepat saya boleh menerima Sijil Cuti Sakit saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Biasanya mengambil masa kira-kira 30 minit. Jika doktor meluluskan permohonan anda, sijil akan dihantar ke e-mel anda dalam bentuk PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah perkhidmatan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, perkhidmatan ini beroperasi 365 hari setahun, termasuk hujung minggu dan cuti umum. Doktor menyemak permohonan pada waktu bekerja, jadi permohonan yang dibuat di luar waktu tersebut akan menunggu slot waktu bekerja yang seterusnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Cuti Sakit dalam bahasa tempatan saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil dalam bahasa tempatan tidak dijanjikan. Hantar e-mel ke care@drcertificate.com untuk bertanya sebelum anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapakah yang mengeluarkan Sijil Cuti Sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil ini dikeluarkan oleh doktor bertauliah (MBBS, MD atau MS). Doktor tersebut bekerja secara bebas dan hanya doktor itu yang memutuskan sama ada untuk mengeluarkan sijil dan apa kandungannya. Sijil ini bukan untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapakah kos sijil?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga bergantung pada negara anda, contohnya 25 SGD di Singapura, 399 peso di Filipina atau 30 MYR di Malaysia. Borang permohonan menunjukkan harga sebelum anda membuat bayaran. Bayaran tidak akan dikembalikan, termasuk apabila doktor menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah sijil ini diterima oleh majikan dan institusi?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu. Sijil ini dikeluarkan oleh doktor bertauliah, jadi tanya sama ada mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya mendapatkan Sijil Cuti Sakit pada hari cuti umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, anda boleh memohon pada hari cuti umum kerana perkhidmatan ini beroperasi 365 hari setahun. Doktor akan menyemak permohonan anda pada waktu bekerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika majikan atau institusi saya mempunyai keperluan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Hantar e-mel ke care@drcertificate.com bersama format tersebut sebelum anda memohon, kerana perubahan format tidak dijamin. Penerimaan bergantung pada organisasi tempat anda menyerahkannya, jadi semak terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lamakah tempoh sah sijil cuti sakit dalam talian?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil cuti sakit dalam talian meliputi tarikh yang ditulis oleh doktor pada sijil tersebut. Di kebanyakan negara Asia Tenggara, sijil cuti sakit bagi gejala umum adalah sehingga 7 hari. Majikan atau sekolah anda kemudian akan memutuskan sama ada tempoh tersebut memenuhi peraturan cuti mereka sendiri."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah sijil cuti sakit dibuat dengan tarikh terdahulu?"
+    },
+    {
+      "kind": "text",
+      "text": "Doktor hanya memperakui tarikh yang selaras dengan gejala dan garis masa yang anda laporkan. Anda boleh menerangkan penyakit yang bermula sebelum anda memohon, dan doktor akan memutuskan tempoh yang akan dinyatakan. Permohonan yang tarikh dan gejalanya tidak sepadan akan ditolak, dan bayaran tidak akan dikembalikan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimanakah sijil cuti sakit dalam talian dihantar?"
+    },
+    {
+      "kind": "text",
+      "text": "Sijil yang diluluskan akan dihantar melalui e-mel dalam bentuk PDF, biasanya kira-kira 30 minit selepas anda memohon. Semak folder spam jika anda tidak menerimanya. Anda boleh mencetak PDF tersebut atau memajukannya kepada majikan, sekolah atau pasukan HR anda, mengikut cara yang dipilih oleh pihak penerima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya membetulkan nama atau tarikh selepas sijil dikeluarkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak, sijil tidak boleh dibetulkan selepas dikeluarkan, kecuali jika kesilapan itu datang daripada pasukan perubatan. Taip nama anda sama seperti dalam ID anda dan semak tarikh anda sebelum membuat bayaran. Jika pasukan perubatan yang membuat kesilapan, e-mel care@drcertificate.com bersama butiran anda."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bolehkah saya menggunakan sijil ini di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, jika anda tinggal di salah satu daripada 10 negara Asia Tenggara yang dilayani oleh DrCertificate dan pihak penerima anda menerima nota perubatan dalam talian. Sijil ini bukan untuk diserahkan di India, bukan untuk tujuan undang-undang dan bukan untuk insurans. Sahkan dahulu dengan majikan atau sekolah anda bahawa sijil ini diterima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah maklumat kesihatan saya dirahsiakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Butiran kesihatan anda dikongsi dengan doktor yang menyemak permohonan anda, bagi tujuan semakan tersebut. Berikan hanya maklumat yang diperlukan oleh doktor untuk membuat keputusan. Untuk sebarang soalan tentang cara DrCertificate mengendalikan data anda, e-mel care@drcertificate.com sebelum atau selepas anda memohon."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Adakah saya perlu membuat panggilan video untuk mendapatkan sijil cuti sakit?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak, DrCertificate tidak menyediakan konsultasi melalui video atau secara bersemuka. Doktor akan menyemak borang anda dan mungkin bertanya soalan susulan melalui sembang teks. Jika doktor berpendapat keadaan anda memerlukan pemeriksaan fizikal atau ujian, permohonan akan ditolak dan anda perlu pergi ke klinik berdekatan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Paid sick leave in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Jaga kesihatan anda, tanpa tekanan tambahan."
+    },
+    {
+      "kind": "text",
+      "text": "Apabila sakit, keutamaan anda sepatutnya ialah pemulihan, bukan urusan dokumen. Mohon dalam talian dalam masa beberapa minit, dan jika doktor bertauliah meluluskan permohonan anda, sijil anda akan dihantar ke e-mel anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ada soalan sebelum memohon? care@drcertificate.com"
+    }
+  ]
+}

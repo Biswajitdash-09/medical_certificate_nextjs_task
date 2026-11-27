@@ -1,0 +1,525 @@
+{
+  "slug": "what-is-a-medical-certificate",
+  "group": "guide",
+  "title": "What Is a Medical Certificate? Uses, Types, Requirements",
+  "description": "What is a medical certificate? Learn what it states, when you need one, what it should include and how a doctor issues one online in South East Asia.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Uses, types and requirements, explained for people in South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate is a document from a doctor that records your health status for a stated purpose, from sick leave to fitness checks. This guide explains what a medical certificate says, when you need one and what it should include."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate connects people in Singapore, Malaysia, the Philippines and seven other South East Asian countries with independent registered doctors. A doctor reviews every request after a digital chat consultation and decides whether to issue a certificate."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The short answer on what a medical certificate is"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate is a document a registered doctor prepares after assessing you, stating medical information or an opinion for a stated reason, like sick leave or fitness. On DrCertificate, an independent doctor reviews your online request and decides whether to issue one. The receiving employer, school or airline decides whether to accept it."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical certificate facts in brief"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Purpose comes first A medical certificate records a doctor's opinion for one stated purpose, so a sick leave note and a fitness note are not interchangeable.",
+        "Doctors decide Only a qualified, registered doctor decides whether a medical certificate is issued and what it covers.",
+        "Typical lengths In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms, and fitness notes are generally valid for 30 days.",
+        "The receiver has the last word Your employer, school or airline decides whether to accept a medical certificate, so check its rules before you apply."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "After examining a patient, a doctor writes a medical certificate, a record that sets out medical details or the doctor's view on a specified matter. It tells an employer, school or airline what the doctor concluded about your health on a given date."
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate states only what the doctor can stand behind, like whether you were unwell, how long rest was advised or whether you were fit for an activity. It does not prove a diagnosis in court, replace treatment or work as an insurance document."
+    },
+    {
+      "kind": "text",
+      "text": "The type matters more than the name."
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate records that an employee or learner is unwell and requires time off for health reasons. A medical fitness certificate verifies that someone has undergone evaluation and found suitable for a specified role, such as employment, athletics or air travel. Work from home and unfit to travel certificates cover the cases in between."
+    },
+    {
+      "kind": "text",
+      "text": "On DrCertificate, a general medical certificate uses the Sick Leave option, while sports, fit to fly and fit to work notes use the Medical Fitness Certificate option."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When do you need a medical certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You need a medical certificate when an organisation asks for a doctor's written opinion before it grants leave, excuses an absence or lets you take part in an activity. Work, study and travel are the usual triggers.",
+        "At work, HR teams ask for one when you take sick leave or start a new role. In Singapore, the Ministry of Manpower says an employee must be certified unfit for work by a medical practitioner registered under the Medical Registration Act or Dental Registration Act to qualify for paid sick leave.",
+        "Universities and schools ask for a medical certificate to excuse missed classes, exams or deadlines. Student offices want proof the absence had a medical reason.",
+        "Travel works differently. An airline may ask for a fit to fly note before carrying a passenger who has been ill recently, or for an unfit to travel note when a passenger wants to change plans for health reasons. Sports clubs and race organisers ask for fitness notes before events.",
+        "Each of these bodies wants a doctor, not a desk clerk, to make the health call. The paper gives them a record they can file if questions come up later.",
+        "Why ask at all? A certificate moves the health judgement to a qualified doctor and keeps it away from a manager or teacher."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical certificate types at a glance"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides the number of days or the fitness outcome case by case. An in person visit suits anything that needs a physical exam, tests or urgent care."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Situation",
+        "Option on the DrCertificate form",
+        "What the doctor considers",
+        "What the certificate covers"
+      ],
+      "rows": [
+        [
+          "Sick leave from work or university",
+          "Medical Certificate, Sick Leave",
+          "Your symptoms, when they started and how they affect work or study",
+          "Days of rest set by the doctor, up to 7 for generic symptoms in most countries"
+        ],
+        [
+          "Working from home while unwell",
+          "Medical Certificate, Work From Home",
+          "Whether you can work but should stay away from the office",
+          "Days at home, set by the doctor case by case"
+        ],
+        [
+          "New job, studies or sport",
+          "Medical Fitness Certificate",
+          "Your health declaration and the activity involved",
+          "Fit or not fit for the named purpose, generally valid for 30 days"
+        ],
+        [
+          "Flying soon after an illness",
+          "Medical Fitness Certificate, for fit to fly",
+          "Your recent illness and how you feel now",
+          "Fitness to fly on a stated date"
+        ],
+        [
+          "Unable to travel as planned",
+          "Medical Certificate, Unfit to Travel",
+          "Symptoms that make flying unwise",
+          "Advice against travel for a set period"
+        ],
+        [
+          "Severe, sudden or worsening symptoms",
+          "Not suitable online",
+          "Needs a hands on examination",
+          "Visit a clinic or emergency department in person"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Only a suitably trained and licensed physician who is entitled to carry out the relevant evaluation ought to sign a medical certificate. On DrCertificate, that means an independent doctor holding an MBBS, MD or MS qualification."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is a platform, not a clinic. It connects applicants with doctors and handles the form and payment. The platform does not diagnose, treat or prescribe."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor makes the medical call."
+    },
+    {
+      "kind": "text",
+      "text": "Every doctor on the platform is registered with a medical council. The doctor reads your form, chats with you where needed and decides whether a certificate is justified and what it should say. The platform team does not make that decision."
+    },
+    {
+      "kind": "text",
+      "text": "Registration matters because it lets an employer or school trace the certificate to an accountable professional. If your organisation insists on a doctor registered in your own country, check that before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical certificate online, step by step?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a medical certificate online through DrCertificate by filling in a form, paying, and waiting for a doctor's decision by email. The whole route is text based."
+    },
+    {
+      "kind": "text",
+      "text": "There are no video or in person consultations."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Pick the right form option Choose Sick Leave, Work From Home, Unfit to Travel or Medical Fitness Certificate. Fit to fly, sports and fit to work requests go under Medical Fitness Certificate.",
+        "2 Step 2: Fill in the form accurately Enter your name as shown on your ID, plus your symptoms or the purpose of the certificate. A name that does not match the ID, or details that conflict, are the usual reasons a doctor declines.",
+        "3 Step 3: Pay through Stripe Payment is taken through Stripe when you submit. The fee is non refundable, so check your details before paying.",
+        "4 Step 4: Chat with the doctor An independent doctor reviews your request in a digital chat, may ask follow up questions and decides whether to issue a certificate.",
+        "5 Step 5: Receive your PDF Approved certificates arrive by email as a PDF, usually in about 30 minutes."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should a medical certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate should show who it is for, which dates it covers, what it is for and which doctor issued it. Missing any of those gives the receiver a reason to send it back."
+    },
+    {
+      "kind": "text",
+      "text": "Most certificates carry your full name and the dates of assessment and issue. They also show the period of rest or the fitness outcome, plus the doctor's name, qualification, registration details and signature."
+    },
+    {
+      "kind": "text",
+      "text": "Ask your HR team, school office or airline whether they use their own form. Find out before you apply, because a certificate cannot be corrected once issued unless the fault came from the medical team."
+    },
+    {
+      "kind": "text",
+      "text": "Run this check before you submit."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Name matches your ID Spelling and order match the ID your employer or school holds.",
+        "Dates are right Start and end dates match the leave you are requesting.",
+        "Correct type A sick leave note for leave, a fitness note for fitness.",
+        "Doctor details shown Name, qualification and registration details are present.",
+        "Format accepted The receiver accepts online certificates in this format."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will your employer or school accept a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer, school or airline decides whether to accept a medical certificate, not the doctor and not DrCertificate. Most organisations set their own rules on who can issue a certificate and in what format."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate encourages every customer to check that the place of submission accepts online medical notes before choosing the service. A short email to HR or the student office saves money and stress."
+    },
+    {
+      "kind": "text",
+      "text": "Certificates get questioned for ordinary reasons. One frequent problem is the wrong type, like a sick leave note handed in where a fitness note was needed. Dates that do not match the leave request cause trouble too. So does a name that differs from company records. An organisation that insists on its own printed form will also turn away anything else."
+    },
+    {
+      "kind": "text",
+      "text": "If your certificate is questioned, ask the reviewer what is missing. You can point to the doctor's name and registration details on the PDF. If the receiver needs a physical exam or a doctor registered in your own country, a local clinic is the better route."
+    },
+    {
+      "kind": "text",
+      "text": "One more thing to remember."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate cannot change an issued certificate unless the error came from the medical team."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is an online medical certificate not the right choice?"
+    },
+    {
+      "kind": "text",
+      "text": "An online medical certificate is not the right choice for emergencies, legal matters, insurance or anyone under 16. The doctor can also decline any request that does not fit."
+    },
+    {
+      "kind": "text",
+      "text": "If you have chest pain, trouble breathing, a high fever that will not settle or a symptom that is getting worse fast, go to a clinic or emergency department straight away. DrCertificate is only for suitable non emergency situations."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate certificates are not for submission in India, not for legal purposes and must not be used for insurance. Applicants must be at least 16. Recovery and caretaker certificates are not offered."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline a small share of requests. That happens when details are wrong, like a name that does not match the ID, or when symptoms and other details do not add up. A declined request is not refunded."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical certificates in Singapore, Malaysia and the rest of South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate serves people in 10 South East Asian countries, grouped below. Sick leave and fitness rules differ from one country to the next, and from one employer to the next."
+    },
+    {
+      "kind": "text",
+      "text": "National rules are only half the picture."
+    },
+    {
+      "kind": "text",
+      "text": "Your contract, student handbook or airline policy can ask for more than the law does. Confirm with your employer, school or airline before you apply, then pick the matching option on the form."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Singapore",
+        "The Ministry of Manpower website sets out paid sick leave rules, including certification by a registered medical practitioner."
+      ],
+      "rows": [
+        [
+          "Malaysia",
+          "Check the Ministry of Human Resources and your employer's own sick leave policy."
+        ],
+        [
+          "Philippines",
+          "Serving Manila, Cebu, Davao and the rest of the country. Check Department of Labor and Employment rules and your company handbook."
+        ],
+        [
+          "Thailand, Indonesia and Vietnam",
+          "Check your national labour ministry and your employer or school before applying."
+        ],
+        [
+          "Brunei, Cambodia, Laos and Myanmar",
+          "Check your national labour ministry and confirm the receiver accepts online notes."
+        ]
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in Singapore",
+        "Medical certificates online in Singapore",
+        "Medical certificates online in Malaysia",
+        "Medical certificates online in the Philippines",
+        "Medical Certificate Online in Manila",
+        "Medical Certificate Online in Cebu",
+        "Medical Certificate Online in Davao",
+        "Online Sick Leave Certificate in Thailand",
+        "Medical certificates online in Thailand",
+        "Medical certificates online in Indonesia",
+        "Medical certificates online in Vietnam",
+        "Medical certificates online in Brunei",
+        "Medical certificates online in Cambodia",
+        "Medical certificates online in Laos",
+        "Medical certificates online in Myanmar"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a medical certificate cost and how long does it take?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate on DrCertificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The price in other served countries depends on the country."
+    },
+    {
+      "kind": "text",
+      "text": "The fee covers the doctor's review of your request, the chat consultation and, if approved, the certificate sent as a PDF by email. A decision usually takes about 30 minutes, depending on whether the doctor needs to ask follow up questions. Fitness cases are reviewed from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, including when the doctor does not issue a certificate. The only exception is a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about medical certificates"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a medical certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "You should not expect a medical certificate to be backdated. The doctor only records dates the consultation supports, and that call belongs to the doctor alone. If you fell ill before applying, say so on the form and let the doctor decide what the certificate can state."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long can a sick leave certificate cover?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate in most South East Asian countries covers up to 7 days for generic symptoms, and fitness notes are generally valid for 30 days. The doctor decides the number of days in each case. If you need longer rest, see a doctor in person."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do I have to talk to the doctor?"
+    },
+    {
+      "kind": "text",
+      "text": "You do not need a video call or clinic visit, because DrCertificate works through a written digital chat. The doctor reads your form and may message you with follow up questions before deciding. Answer promptly and accurately, since unclear or conflicting replies are one reason a request is declined."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What happens if my request is declined?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor declines your request, you do not receive a certificate and the payment is not refunded. Doctors decline when details are wrong, like a name that does not match the ID, or when symptoms do not add up. For urgent or complex problems, see a doctor in person."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is an online medical certificate accepted everywhere?"
+    },
+    {
+      "kind": "text",
+      "text": "No, an online medical certificate is not accepted everywhere, because each employer, school or airline sets its own rules. DrCertificate certificates come from registered doctors, yet the receiver still decides. Check that your place of submission accepts online medical notes before you apply, and ask whether it needs its own format."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Who can apply for a medical certificate on DrCertificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Anyone aged 16 or older in one of the 10 South East Asian countries DrCertificate serves can apply, for a suitable non emergency situation. The certificate cannot be submitted in India, used for legal purposes or used for insurance. Recovery and caretaker certificates are not available on the platform."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Who must certify paid sick leave in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related guides to medical certificates"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "How to check what your employer accepts",
+        "Fit to fly or unfit to fly certificate: which do you need?",
+        "How to prepare your medical details before you apply",
+        "How to tell your employer you are sick",
+        "General medical certificate",
+        "Sick leave certificate",
+        "Medical fitness certificate",
+        "Work from home certificate",
+        "Online Sick Leave Certificate in Singapore",
+        "How to get a medical certificate online for leave"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose Sick Leave for a general medical certificate, or Medical Fitness Certificate for fitness, sports or fit to fly. An independent doctor reviews your request and decides. Payment is non refundable, and the service is for non emergency situations and people aged 16 and over."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

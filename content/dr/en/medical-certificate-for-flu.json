@@ -1,0 +1,424 @@
+{
+  "slug": "medical-certificate-for-flu",
+  "group": "symptom",
+  "title": "Medical Certificate for Flu Online",
+  "description": "Get a medical certificate for flu online from a certified doctor after a chat consultation. PDF by email in about 30 minutes across South East Asia.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Request a doctor reviewed sick leave or work from home note for flu from your phone"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate connects you with an independent certified doctor who reviews your flu symptoms through a digital chat consultation and decides whether to issue a medical certificate for flu."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for non emergency situations in 10 South East Asian countries, including Singapore, Malaysia and the Philippines. Fill in the online form to start."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Can you get a medical certificate for flu online?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. DrCertificate lets you request a medical certificate for flu online. A certified MBBS, MD or MS doctor reviews your request in a digital chat consultation and decides whether to issue one. Approved certificates arrive as a PDF by email. The service suits non emergency flu only and is not for use in India, legal matters or insurance."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical certificate for flu?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for flu is a signed note from a doctor confirming that you consulted them about flu symptoms and, where the doctor agrees, that you need time away from work or study. Employers and universities ask for one to approve sick leave."
+    },
+    {
+      "kind": "text",
+      "text": "Most people with flu need the sick leave option. A work from home note fits when you can still work but want to keep the virus away from colleagues."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is a platform, not a clinic."
+    },
+    {
+      "kind": "text",
+      "text": "The platform does not diagnose, treat or prescribe, and the certificate is not a treatment plan or a lab confirmation of influenza. The certificate records the doctor's assessment from your consultation and the dates of rest the doctor approved."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which kinds of flu can a doctor consider online?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "A doctor on DrCertificate can consider typical, uncomplicated flu that you can describe well in a chat. That covers seasonal influenza A or B with fever, aches and cough, and flu, like illness where you have not had a test.",
+        "Seasonal flu often starts suddenly. Fever, chills and muscle aches come first, followed by a dry cough, sore throat and tiredness that can linger after the fever settles. Flu caught during an office outbreak or a rainy season wave looks the same to the doctor, and the questions do not change.",
+        "Stomach flu is a different matter, because the term usually describes a gut infection, not influenza. Describe any vomiting or diarrhoea plainly in the form. A flu test is not required to apply, and the doctor works from what you write.",
+        "Rest periods are not fixed. The doctor decides whether you need time off and for how long, based on the consultation. Not every case suits chat. Flu with breathing trouble, chest pain or a fever that will not come down needs a clinic or hospital, as does flu that feels far worse than a usual bout."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should you tell the doctor about your flu?"
+    },
+    {
+      "kind": "text",
+      "text": "Tell the doctor your flu symptoms, the date they began, how severe they feel and the leave period you are requesting. Clear details help the doctor decide."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Symptoms Fever with your highest reading, chills and body aches. Add cough, sore throat or exhaustion if present.",
+        "Onset and duration The day symptoms started and whether they are improving, steady or getting worse.",
+        "Severity Whether you can get out of bed, eat, drink and manage light tasks.",
+        "Test results A rapid flu test or swab result, if you already have one.",
+        "Leave requested The dates you want the certificate to cover."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is flu not suitable for an online certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Flu is not suitable for an online certificate when you have signs of a serious illness. The NHS advises emergency care for sudden chest pain, severe difficulty breathing or coughing up blood. Go to an emergency department or call your local emergency number straight away if any of these happen."
+    },
+    {
+      "kind": "text",
+      "text": "Other red flags call for a doctor in person. Confusion, bluish lips, fits, or a fever that eases and then returns worse all belong in that group."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is for suitable non emergency situations only. The platform does not diagnose, treat or prescribe, and a doctor may decline a request that cannot be judged safely by chat."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which certificate should you choose for flu?"
+    },
+    {
+      "kind": "text",
+      "text": "For most flu cases, choose the sick leave option. Pick by what you need the note to do. A general medical certificate also uses the Sick Leave option."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Form option",
+        "When it suits someone with flu",
+        "Typical validity"
+      ],
+      "rows": [
+        [
+          "Sick Leave, for university or work",
+          "Flu keeps you away from work or classes",
+          "Up to 7 days for generic symptoms in most South East Asian countries"
+        ],
+        [
+          "Work From Home",
+          "You can work but should stay away from colleagues while unwell",
+          "Up to 7 days for generic symptoms in most South East Asian countries"
+        ],
+        [
+          "Unfit to Travel",
+          "Flu means you should not fly or travel on a booked date",
+          "Dates set by the doctor"
+        ],
+        [
+          "Medical Fitness Certificate",
+          "Your employer or school asks you to confirm you are fit for work or study",
+          "Generally valid for 30 days"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical certificate for flu online?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a medical certificate for flu online in four steps, from the form to your inbox. Most requests are handled in about 30 minutes."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Choose your certificate type, enter your name and ID just as they appear on your documents, and describe your flu symptoms and dates.",
+        "2 Step 2: Pay securely through Stripe Pay the fee for your country through Stripe, the payment provider the form uses.",
+        "3 Step 3: Chat with the doctor A certified doctor reviews your request in a digital chat, may ask follow-up questions, and decides whether to issue a certificate.",
+        "4 Step 4: Receive your PDF by email If approved, your certificate arrives as a PDF at the email address you gave."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a medical certificate for flu cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for flu costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The form shows the price for other countries."
+    },
+    {
+      "kind": "text",
+      "text": "Your payment, made through Stripe, covers a certified doctor's review of your request. Payments are non refundable, including when the doctor decides not to issue."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor does not issue a certificate for flu?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor does not issue a certificate for flu, your request closes without a note and the fee is not refunded. Issuing is the doctor's independent decision."
+    },
+    {
+      "kind": "text",
+      "text": "Doctors decline about 2% of requests. The usual reasons are a name and ID that do not match, or symptoms and details that do not add up. Flu with warning signs is also unsuitable for chat."
+    },
+    {
+      "kind": "text",
+      "text": "Refunds apply only to a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "text",
+      "text": "For help, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can you use a medical certificate for flu?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You can use a medical certificate for flu from DrCertificate in 10 South East Asian countries, including cities like Manila, Cebu and Davao. Your employer, university or school decides whether to accept it.",
+        "The certificate is not for submission in India, not for legal purposes and must not be used for insurance. Applicants must be at least 16.",
+        "Check that your workplace or institution accepts online medical notes before you apply."
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical certificates online in Singapore",
+        "Medical certificates online in the Philippines",
+        "Medical certificates online in Malaysia",
+        "Medical certificates online in Indonesia",
+        "Medical certificates online in Thailand",
+        "Medical certificates online in Vietnam",
+        "Medical certificates online in Cambodia",
+        "Medical certificates online in Laos",
+        "Medical certificates online in Myanmar",
+        "Medical certificates online in Brunei"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why request your flu certificate through DrCertificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate gives you a doctor reviewed flu certificate without a clinic visit, with the rules stated up front."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified, registered doctors Requests are reviewed by doctors holding MBBS, MD or MS degrees, all registered with a medical council.",
+        "PDF by email in about 30 minutes Approved certificates arrive as a PDF in your inbox, usually in about 30 minutes.",
+        "Honest limits The service is for non emergency use only and is not for India, legal or insurance submissions.",
+        "A named operator DrCertificate is run by Health Venture OU, with an office at KMC Armstrong Corporate Center in Makati City, Metro Manila."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about medical certificates for flu"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I share a flu test result with the doctor?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, you can share a flu test result if you have one. Add a rapid test or swab result in the form, along with the date it was taken. A test is not required, and the doctor can still assess typical flu from a clear description of your symptoms and when they began."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long can a flu sick leave certificate cover?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides the leave period based on your consultation. In most South East Asian countries, sick leave notes for generic symptoms go up to 7 days. The CDC says most people who get flu recover within days and in less than two weeks, so request only the dates you need."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my employer accept an online medical certificate for flu?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is decided by your employer or institution, not by DrCertificate. Each workplace sets its own rules for sick notes. Check with HR or your school office that online medical notes are accepted before you apply, because payments are non refundable if the note is later refused."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I have a video call or see the doctor in person?"
+    },
+    {
+      "kind": "text",
+      "text": "No. DrCertificate does not offer video or in person consultations. Every request goes through the online form and a digital chat with a certified doctor. If you need a physical examination for flu, visit a local clinic or hospital instead of applying online."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What should I do if my flu gets worse after I apply?"
+    },
+    {
+      "kind": "text",
+      "text": "Seek in person care straight away if your flu gets worse. Go to an emergency department for sudden chest pain, severe difficulty breathing or coughing up blood. A certificate does not replace treatment, and DrCertificate does not diagnose, treat or prescribe."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I get a certificate for flu if I am under 16?"
+    },
+    {
+      "kind": "text",
+      "text": "No. Applicants must be at least 16 years old to use DrCertificate. A younger person with flu should see a doctor in person with a parent or guardian, who can arrange a school note through a local clinic."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I fix a mistake on my flu certificate after it is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a certificate cannot be corrected once issued, unless the error came from the medical team. Enter your name and ID just as they appear on your documents and check your dates before you pay. Mismatched details are a common reason for a declined request."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "CDC: How long flu usually lasts",
+        "NHS: Flu signs that need emergency care"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related certificates and conditions"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for Gastritis",
+        "Medical Certificate for Heat Exhaustion",
+        "Medical Certificate for Insect Bite",
+        "Medical Certificate for Menstrual Pain",
+        "Sick leave certificate",
+        "Work from home certificate",
+        "Medical fitness certificate",
+        "General medical certificate",
+        "Medical Certificate for Stomach Flu",
+        "Online Sick Leave Certificate in the Philippines"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Request a medical certificate for flu"
+    },
+    {
+      "kind": "text",
+      "text": "Apply now if your flu is mild enough for a chat consultation. Certificates cost 25 SGD, 399 pesos or 30 MYR depending on your country and arrive as a PDF by email. Chest pain or severe breathlessness needs urgent care instead."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

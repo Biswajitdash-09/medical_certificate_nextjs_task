@@ -1,0 +1,765 @@
+{
+  "slug": "general-medical-certificate",
+  "group": "service",
+  "service": "general",
+  "title": "Online general medical certificate",
+  "description": "Apply online for a doctor-reviewed general medical certificate for work, study or travel. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "General medical certificate · Reviewed by certified doctors"
+    },
+    {
+      "kind": "text",
+      "text": "Need official proof of a consultation, illness, recovery or health status? Apply online, a certified doctor reviews your request, and if approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate, and the certificate is not for submission in India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review",
+        "Emailed if approved",
+        "Available 365 days a year"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave",
+        "Medical fitness",
+        "Unfit to fly"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review Every request is assessed individually",
+        "100% online application Apply from your phone or laptop",
+        "Email delivery if approved Sent to the address you provide",
+        "Payments processed by Stripe Secure online payment"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a general medical certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get a general medical certificate online with DrCertificate, fill in the online form, pay through Stripe and answer a certified doctor's questions in a chat review. If the doctor approves, the certificate arrives as a PDF by email, usually in about 30 minutes. The doctor decides whether to issue it, based on your details."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "text",
+      "text": "About this certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate is an official document issued by a doctor after assessing your health. It confirms a medical consultation, illness, recovery or health status, depending on what you need it for."
+    },
+    {
+      "kind": "text",
+      "text": "Employers, schools, universities, travel providers and other organisations commonly ask for one as supporting health documentation."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What a certificate includes"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your correct personal details",
+        "Date of consultation",
+        "Relevant medical assessment",
+        "Purpose of the certificate",
+        "Recommended rest period, if applicable",
+        "Doctor's name and credentials",
+        "Signature or digital verification"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "What the certificate says depends on its purpose and the doctor's professional assessment."
+    },
+    {
+      "kind": "text",
+      "text": "Avoid fake certificates. Fake templates, edited documents or instant certificate generators without a doctor's involvement may be rejected and cause other problems. A genuine certificate is issued only after a real medical review."
+    },
+    {
+      "kind": "text",
+      "text": "Who it's for"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When you might need a general medical certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Whenever an organisation asks for official health documentation. The doctor decides what the certificate can say, based on their assessment."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Employees"
+    },
+    {
+      "kind": "text",
+      "text": "For health-related absences, workplace records or return-to-work requirements."
+    },
+    {
+      "kind": "text",
+      "text": "Often requested for"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave documentation",
+        "Workplace absence verification",
+        "Recovery after illness",
+        "HR record requirements"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Students"
+    },
+    {
+      "kind": "text",
+      "text": "When illness means missing classes, exams, training or other academic activities."
+    },
+    {
+      "kind": "text",
+      "text": "Often requested for"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Absence from classes",
+        "Missed examinations",
+        "Academic extension requests",
+        "Sports participation requirements"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Remote and hybrid workers"
+    },
+    {
+      "kind": "text",
+      "text": "Illness can affect your ability to work, even from home."
+    },
+    {
+      "kind": "text",
+      "text": "Often requested for"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave approval",
+        "HR documentation",
+        "Temporary inability to work",
+        "Health-related workplace requests"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Common reasons people apply"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Workplace medical documentation",
+        "School or university absence",
+        "Proof of illness",
+        "Recovery confirmation",
+        "Travel-related requirements",
+        "General health verification"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Check the requirements first"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on the organisation you submit it to. Before you do, check whether a particular format or more information is needed by:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Employers",
+        "Schools or universities",
+        "Government organisations",
+        "Travel companies"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Every request is assessed individually. Issuing a certificate, its content and its duration are at the reviewing doctor's discretion. All documents are addressed to the organisation they are submitted to and are valid for single use only. Acceptance depends on the organisation you submit it to."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from a general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Most employers and schools expect a note from a registered doctor that names you, states the dates and gives a recommendation. Singapore shows how strict this can be. The Ministry of Manpower says that to qualify for paid sick leave, an employee must be certified unfit for work by a medical practitioner registered under the Medical Registration Act or Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "If you work in Singapore, confirm with HR that your note meets this rule before applying."
+    },
+    {
+      "kind": "text",
+      "text": "Rules differ by employer, institution, airline and country."
+    },
+    {
+      "kind": "text",
+      "text": "In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms. Your recipient may set a shorter limit, ask for its own form or refuse online notes altogether."
+    },
+    {
+      "kind": "text",
+      "text": "Before you apply, ask the recipient three things. Do they accept online medical certificates? Do they need their own form or format? How many days can one note cover?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in Singapore",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in Thailand",
+        "How to get a medical certificate online for leave"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a general medical certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate from DrCertificate includes your personal details, the dates it covers, the doctor's statement and the issuing doctor's details."
+    },
+    {
+      "kind": "text",
+      "text": "If your recipient needs a field the certificate does not show, ask them for their own form before you apply."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Patient details Your full name and ID details, which must match each other.",
+        "Dates The consultation date and the period the doctor recommends.",
+        "Doctor's statement The doctor's recommendation based on the chat review.",
+        "Doctor details The doctor's name, MBBS, MD or MS qualification and medical council registration."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "How it works"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Three simple steps, with a doctor checking every request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online application Add your details and the reason for your request. You may be asked to share vitals or other measurements through a secure link sent by email.",
+        "2 Step 2: A certified doctor reviews your request The doctor assesses the information you provide and decides whether a certificate is medically appropriate. They may decline a request.",
+        "3 Step 3: Get your certificate by email, if approved Approved certificates are sent electronically to the email address you provide."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for a general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Sick Leave option for a general medical certificate. On the form it reads Medical Certificate, Sick Leave, for university or work."
+    },
+    {
+      "kind": "text",
+      "text": "In your answers, say that you need a general medical certificate and who will receive it, for example your employer or school. That tells the doctor what the note is for."
+    },
+    {
+      "kind": "text",
+      "text": "If no option fits, email care@drcertificate.com before paying."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for a general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask about your symptoms, when they started and which dates the certificate should cover. Expect questions on how the illness affects your work or study and whether you have seen another doctor."
+    },
+    {
+      "kind": "text",
+      "text": "Give your name and ID as they appear on your identity document, letter for letter. A mismatch is one of the reasons a request is declined."
+    },
+    {
+      "kind": "text",
+      "text": "Records from an earlier clinic visit can help, so mention them if you have them. The doctor may ask follow-up questions in the chat before deciding."
+    },
+    {
+      "kind": "text",
+      "text": "Reply accurately and without delay."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can a general medical certificate not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate from DrCertificate cannot be used in India, for legal purposes or for insurance. Applicants must be at least 16 years old."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for suitable non emergency situations only. If you have chest pain, trouble breathing or a sudden severe symptom, contact local emergency services or go to the nearest hospital straight away."
+    },
+    {
+      "kind": "text",
+      "text": "The recipient decides whether to accept the certificate. Check with them before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your general medical certificate, you will not receive one and the payment is not refunded. Doctors decline about 2% of requests, usually because the name and ID do not match or the symptoms and details shared are inconsistent."
+    },
+    {
+      "kind": "text",
+      "text": "A chat review has limits."
+    },
+    {
+      "kind": "text",
+      "text": "When symptoms call for a physical examination or tests, the doctor may decline and suggest an in person visit to a local clinic. Payment is non refundable in every case except one, which is a verified technical fault reported within 24 hours. Treat the fee as payment for the doctor's review, not for a guaranteed certificate."
+    },
+    {
+      "kind": "text",
+      "text": "If you think a technical fault affected your request, write to support the same day."
+    },
+    {
+      "kind": "text",
+      "text": "Contact care@drcertificate.com with any question about your request."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How much does a general medical certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Prices for other countries show at checkout."
+    },
+    {
+      "kind": "text",
+      "text": "The fee covers the doctor's review and, if approved, the PDF certificate by email. Payment goes through Stripe and is non refundable."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your general medical certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept a general medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on the recipient's own policy, so DrCertificate cannot promise it. Each employer, school or airline sets its own rules on online medical notes."
+    },
+    {
+      "kind": "text",
+      "text": "A recipient who wants to verify the note can look up the issuing doctor using the registration details on the certificate. All doctors on the platform are registered with a medical council."
+    },
+    {
+      "kind": "text",
+      "text": "If the recipient insists on its own form, ask them before you apply. A standard PDF certificate may not replace a form they require."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "General medical certificate vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate is a broad doctor's note, while each related certificate answers one narrow question. Pick the one that matches what your recipient asked for."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who usually asks for it",
+        "Form option to choose"
+      ],
+      "rows": [
+        [
+          "General medical certificate",
+          "A health concern and the rest the doctor recommends for stated dates",
+          "Employers, schools, clubs",
+          "Sick Leave"
+        ],
+        [
+          "Sick leave certificate",
+          "That you were unfit for work or study on stated dates",
+          "Employers, universities",
+          "Sick Leave"
+        ],
+        [
+          "Medical fitness certificate",
+          "That the doctor finds you fit for work, study, sport or travel",
+          "New employers, schools, sports clubs, airlines",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Work from home certificate",
+          "That you can work but should stay home",
+          "Employers",
+          "Work From Home"
+        ],
+        [
+          "Unfit to travel certificate",
+          "That you should not fly or travel on stated dates",
+          "Airlines, travel providers",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Why apply online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical documentation without the clinic visit"
+    },
+    {
+      "kind": "text",
+      "text": "Minor illness, busy schedules, mobility issues or remote work can make clinic appointments difficult. Applying online is a simpler alternative."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Consult from anywhere Apply without leaving home, which helps when you need rest or can't travel because of illness.",
+        "Save time Skip clinic queues and waiting rooms, and complete your application online.",
+        "Digital certificate delivery If approved, your certificate is sent to your email, ready to share.",
+        "Secure online process Your details are handled through a secure online process."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides. Nothing is approved automatically. A certified doctor reviews every request and decides whether to issue a certificate, what it says and how long it covers."
+    },
+    {
+      "kind": "text",
+      "text": "Availability"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where the service is available"
+    },
+    {
+      "kind": "text",
+      "text": "Each country has its own certificate pages, and available services can differ. Choose your country to check before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Available today"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore View certificates",
+        "Indonesia View certificates",
+        "Philippines View certificates",
+        "Thailand View certificates",
+        "Vietnam View certificates",
+        "Malaysia View certificates",
+        "Cambodia View certificates",
+        "Laos View certificates",
+        "Myanmar View certificates",
+        "Brunei View certificates"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQs"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about general medical certificates"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What is an online General Medical Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate is an official document issued by a doctor after assessing a patient's health condition. It provides written confirmation related to a medical consultation, illness, recovery, or health status depending on the individual's requirement."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How quickly can I receive my General Medical Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "It usually takes about 30 minutes. If the doctor approves your request, the certificate is sent to your email as a PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is the service available every day?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, the service runs 365 days a year, including weekends and public holidays. A doctor reviews requests during working hours, so a request made outside those hours waits for the next working slot."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I get a General Medical Certificate in my local language?"
+    },
+    {
+      "kind": "text",
+      "text": "A certificate in a local language is not promised. Email care@drcertificate.com to ask before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Who issues the Online General Medical Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate. The doctor works independently and alone decides whether to issue it and what it says. The certificate is not for submission in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How much does a certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "The price depends on your country, for example 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia. The application form shows the price before you pay. Payments are non-refundable, including when a doctor declines a request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Are these certificates accepted by employers and institutions?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on the organisation you submit it to, so check first. Employers, schools or universities, government organisations and travel companies each set their own requirements, so confirm whether they need a particular format or more information. A certified doctor issues the certificate, so ask whether they accept that."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I obtain a General Medical Certificate on Public Holidays?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, you can apply on a public holiday, because the service runs 365 days a year. A doctor reviews your request during working hours."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What if my employer or institution has specific format requirements?"
+    },
+    {
+      "kind": "text",
+      "text": "Email care@drcertificate.com with the format before you apply, because a change of format is not guaranteed. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is a general medical certificate valid?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate covers the dates the doctor writes on it. In most South East Asian countries, sick leave notes go up to 7 days for generic symptoms, and fitness notes are generally valid for 30 days. Your employer or school may apply a shorter limit, so check their policy first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a general medical certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate cannot promise a backdated general medical certificate. The doctor decides which dates the note covers, based on the symptoms and dates you report in the chat. If the dates you give do not fit your symptoms, the doctor can decline the request, and the payment is not refunded."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How is the certificate delivered and how fast?"
+    },
+    {
+      "kind": "text",
+      "text": "An approved general medical certificate arrives as a PDF by email, usually about 30 minutes after you apply. Check your spam folder if you cannot find it. For fitness cases, doctors work 9 am to 9 pm IST, Monday to Saturday, and 10 am to 8 pm IST on Sunday."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct a name or date after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a general medical certificate cannot be corrected once issued, unless the mistake came from the medical team. Enter your name as it is written on your ID, letter for letter, and check every date before you pay. A mismatch between name and ID is a common reason for a declined request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use a general medical certificate in my country?"
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate from DrCertificate is for use in Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, Cambodia, Laos, Myanmar and Brunei. The certificate is not for submission in India, for legal purposes or for insurance. Acceptance in any of these 10 countries depends on the recipient's policy."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details go to the doctor reviewing your general medical certificate request and are used to decide on that request. Payment runs through Stripe, a separate payment provider. For any question about how your information is handled, email care@drcertificate.com before or after you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Who must certify paid sick leave in Singapore"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Documentation made simple, wherever you are."
+    },
+    {
+      "kind": "text",
+      "text": "Whether it's for work, study, travel or personal needs, apply online in a few minutes. If a certified doctor approves your request, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

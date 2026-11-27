@@ -1,0 +1,488 @@
+{
+  "slug": "fit-to-fly-certificate",
+  "group": "certificate",
+  "title": "Fit to Fly Certificate Online from a Certified Doctor",
+  "description": "Get a fit to fly certificate online in South East Asia. A certified doctor reviews your form by chat and approved PDFs arrive by email in about 30 minutes.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "For travellers aged 16 and over in 10 South East Asian countries"
+    },
+    {
+      "kind": "text",
+      "text": "Get a fit to fly certificate online when an airline has asked you for medical clearance before you board. DrCertificate connects travellers aged 16 and over in South East Asia with independent certified doctors."
+    },
+    {
+      "kind": "text",
+      "text": "You fill in an online form and the doctor reviews your request through a chat consultation."
+    },
+    {
+      "kind": "text",
+      "text": "A certificate is issued only if the doctor approves. Approved certificates arrive by email as a PDF, usually in about 30 minutes."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a fit to fly certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get a fit to fly certificate online with DrCertificate, fill in the online form, choose the Medical Fitness Certificate option and pay through Stripe. An independent certified doctor reviews your details by chat. If the doctor approves, the certificate arrives by email as a PDF. Issuance always depends on the doctor's judgement."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate is a doctor's statement that a passenger's current health will not put them or the flight at risk in the air. The operative line on the document openly confirms that the traveller is medically able to fly on the dates written there."
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate does not diagnose an illness or treat one."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate also does not oblige an airline to carry you. The UK Civil Aviation Authority explains that most airlines have medical advisors who clear passengers as fit to fly, and that the final decision on carrying a passenger rests with the airline."
+    },
+    {
+      "kind": "text",
+      "text": "People also call it a fit to travel certificate, a fitness to fly letter or medical clearance for air travel."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When might you need a fit to fly certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You might need a fit to fly certificate when an airline asks for medical clearance because a health condition could be affected by the flight. Airlines are the recipients that typically ask passengers in these situations for clearance.",
+        "Recent surgery is a common trigger. The CDC Yellow Book says travellers who have had recent surgery, including intra abdominal, cardiothoracic or intraocular procedures, should consult their physician before flying. Later pregnancy is another, since carriers set their own cut off points. A recent hospital stay, a serious illness or an ongoing heart or lung condition can also lead an airline to ask.",
+        "Travel agencies, employers sending staff abroad, school trip organisers and sports clubs flying to events may ask for the same proof.",
+        "A different certificate fits better if you cannot fly at all. Choose an unfit to fly certificate for that, or a sick leave certificate if you need time off work or study."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from a fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Airlines usually expect a fit to fly certificate to name the passenger as shown on the passport, state the travel dates and say plainly that the passenger is fit to fly. Employers and schools arranging overseas trips usually want the same basic details."
+    },
+    {
+      "kind": "text",
+      "text": "Rules differ by airline, employer, institution and country."
+    },
+    {
+      "kind": "text",
+      "text": "One carrier may accept a general fit to fly letter, while another asks for its own medical information form, often called a MEDIF, signed by the treating doctor. Airlines also set their own limits on how recently the certificate must be dated."
+    },
+    {
+      "kind": "text",
+      "text": "Before you apply, ask the recipient whether online medical notes are accepted, whether you must use their own form and how recent the certificate date needs to be. Travellers in Singapore and Thailand can find local details on the country pages."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Unfit to Fly Certificate in Singapore",
+        "Unfit to Fly Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a fit to fly certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate from DrCertificate includes your personal details, the dates it covers, the doctor's fit to fly statement and the issuing doctor's details. Your name and ID details need to match your passport or travel ID."
+    },
+    {
+      "kind": "text",
+      "text": "Fitness notes are generally valid for 30 days in most South East Asian countries. Your airline's own dating rule still comes first."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Patient details Your full name and ID details as entered on the form.",
+        "Dates The date of the consultation and the travel dates the statement covers.",
+        "Doctor statement A declaration that you are fit to travel by air on the dates stated.",
+        "Doctor details The doctor's name, qualification of MBBS, MD or MS, and medical council registration details."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a fit to fly certificate in 4 steps?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a fit to fly certificate in four steps covering the form, payment, doctor review and email delivery. Everything happens online through text, with no video or in person consultation at any stage."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Enter your name as it is written on your passport, your travel dates, your airline and the health condition behind the request.",
+        "2 Step 2: Pay through Stripe Pay the fee for your country at the Stripe checkout. Payment is taken before the review and is non refundable.",
+        "3 Step 3: Chat with the doctor An independent certified doctor reviews your details by chat, may ask follow-up questions and decides whether to issue a certificate.",
+        "4 Step 4: Receive the PDF by email If the doctor approves, the certificate arrives in your inbox as a PDF, usually in about 30 minutes."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for a fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Medical Fitness Certificate option on the form for a fit to fly certificate. In the form, write that you need a fit to fly certificate, then add your flight date, your airline and why the airline asked for clearance."
+    },
+    {
+      "kind": "text",
+      "text": "Not sure any option fits? Email care@drcertificate.com before you pay."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for a fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask about your current health, the condition behind the airline's request and the dates that matter, including your flight date and when any surgery, illness or diagnosis happened. Expect questions about current symptoms and any medicines you take."
+    },
+    {
+      "kind": "text",
+      "text": "Supporting documents help. A hospital discharge letter, a recent note from your treating doctor or the airline's message asking for clearance gives useful context, so mention them or share them when asked."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor may ask follow-up questions in the chat before deciding. Answer them accurately, because inconsistent details are a common reason for a decline."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can a fit to fly certificate not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate from DrCertificate cannot be used for submission in India, for legal purposes or for insurance. Applicants must be at least 16 years old."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for suitable non emergency situations only. If you have chest pain, trouble breathing or another urgent symptom, seek local emergency care straight away."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is always the recipient's decision, so check with your airline before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your fit to fly certificate, you will not receive one and your payment is not refunded. Doctors decline about 2% of requests, usually when the name and ID do not match or when the symptoms and details shared are inconsistent."
+    },
+    {
+      "kind": "text",
+      "text": "An online review cannot replace an examination. A doctor may decline when your condition is unstable, when tests or an in person check are needed, when you had major surgery very recently, or when the airline wants its own form signed by your treating doctor."
+    },
+    {
+      "kind": "text",
+      "text": "The only refund exception is a verified technical fault reported within 24 hours. For help, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a fit to fly certificate online cost?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate online costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The fee covers the doctor's chat review and the PDF certificate if approved."
+    },
+    {
+      "kind": "text",
+      "text": "Payment goes through Stripe and is non refundable, including when the doctor declines."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Fee"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your fit to fly certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept a fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer, school or airline will accept a fit to fly certificate only if its own policy allows online medical notes. DrCertificate encourages every customer to confirm this with the recipient before applying."
+    },
+    {
+      "kind": "text",
+      "text": "A recipient who wants to verify the certificate can look up the issuing doctor with the relevant medical council, using the name and registration details on the PDF."
+    },
+    {
+      "kind": "text",
+      "text": "An online certificate will not replace an airline's own form. If the airline insists on one, ask your treating doctor to fill it in."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Fit to fly certificate vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate says you can travel by air on stated dates, while an unfit to fly certificate says you should not travel as booked. Picking the wrong one wastes the fee, since payments are non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Match your situation to the right form option below."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who usually receives it",
+        "Form option to choose"
+      ],
+      "rows": [
+        [
+          "Fit to fly",
+          "You are fit to travel by air on the dates stated",
+          "Airline, travel agency or trip organiser",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Unfit to fly",
+          "A health condition means you should not travel as planned",
+          "Airline or travel agent handling a booking change",
+          "Unfit to Travel"
+        ],
+        [
+          "Medical fitness for work, study or sport",
+          "You are in good health for the stated activity",
+          "Employer, school or sports club",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Sick leave",
+          "You were unwell and needed rest on the dates stated",
+          "Employer or university",
+          "Sick Leave"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why do travellers choose DrCertificate for a fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Travellers choose DrCertificate because every certificate comes from a certified doctor and the terms are stated plainly before anyone pays. DrCertificate is an online platform operated by Health Venture OU, with an office at KMC Armstrong Corporate Center, Salcedo Village, Makati City, Metro Manila, Philippines."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Registered, certified doctors Every doctor on the platform holds an MBBS, MD or MS and is registered with a medical council.",
+        "Review in about 30 minutes Fitness cases are reviewed from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday.",
+        "A low decline rate with known reasons Doctors decline about 2% of requests, mostly for a name and ID mismatch or inconsistent symptoms and details.",
+        "No guessing on the form Fit to fly, fit to work and sports fitness requests all use the Medical Fitness Certificate option.",
+        "Built for South East Asia The service covers 10 South East Asian countries, from Singapore and Malaysia to cities like Manila, Cebu and Davao in the Philippines."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about the fit to fly certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is a fit to fly certificate valid?"
+    },
+    {
+      "kind": "text",
+      "text": "Fitness notes are generally valid for 30 days in most South East Asian countries. Airlines set their own rules, though, and a carrier may want the certificate dated close to your departure. Check your airline's window before applying so the date on your fit to fly certificate suits your flight."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a fit to fly certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "A fit to fly certificate is not something to backdate, because it confirms your fitness for a flight that is still ahead. The doctor sets the dates based on the chat consultation and the travel dates you give. Apply close enough to your flight that the certificate falls inside your airline's validity window."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How do I receive my fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Approved fit to fly certificates arrive by email as a PDF, usually about 30 minutes after the doctor's review. Doctors handle fitness cases from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday. Check your spam folder if the email does not reach your inbox."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct my name or dates after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "A certificate cannot be corrected once issued, unless the error came from the medical team. Enter your name as it is written on your passport and double check your travel dates before you submit. A name and ID mismatch is also one of the reasons doctors decline requests."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use a fit to fly certificate in Singapore, the Philippines or Malaysia?"
+    },
+    {
+      "kind": "text",
+      "text": "You can apply from Singapore, the Philippines, Malaysia and seven other South East Asian countries, including Indonesia, Thailand and Vietnam. Acceptance depends on the airline or organisation receiving the certificate, so confirm it accepts online medical notes first. The certificate cannot be submitted in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details go to the doctor reviewing your request so the doctor can make a decision, and card payments are handled by Stripe. Share only the details the doctor needs for a fit to fly decision. For questions about how your data is stored, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "CDC: CDC on flying after surgery",
+        "UK Civil Aviation Authority: UK CAA on who decides"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Fit to Work Certificate Online",
+        "Medical Certificate for School in the Philippines",
+        "Medical Fitness Certificate for College Admission",
+        "Medical Fitness Certificate for Employment",
+        "Online medical fitness certificate",
+        "Unfit to Fly Certificate in Singapore",
+        "Unfit to Fly Certificate in Thailand",
+        "Unfit to Fly Certificate in the Philippines",
+        "Online Fitness Certificate in the Philippines",
+        "Medical certificates online in Malaysia"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your fit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Apply online and an independent certified doctor reviews your request by chat, usually in about 30 minutes. The fee is 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia. A certificate is issued only if the doctor approves, and payment is non refundable."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

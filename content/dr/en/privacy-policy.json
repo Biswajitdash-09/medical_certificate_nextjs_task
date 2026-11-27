@@ -1,0 +1,185 @@
+{
+  "slug": "privacy-policy",
+  "group": "legal",
+  "title": "Privacy Policy - DrCertificate.com",
+  "description": "How DrCertificate.com collects, stores, processes and safeguards the personal, transactional and health-related data you provide.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Purpose and Applicability"
+    },
+    {
+      "kind": "text",
+      "text": "This Privacy & Data Protection Policy describes how DrCertificate.com collects, stores, processes, and safeguards personal, transactional, and health-related data provided by users of our platform and services. By accessing our website or services, completing a form, or making a payment, you provide explicit consent to the practices outlined herein."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Information Collected"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate.com collects only the essential data required for service provision:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Personal Data: Name, age, gender, address, phone number, email address, government-issued ID where necessary.",
+        "Medical Data: Reason for consultation, symptoms, illness duration, and recipient organization details.",
+        "Transactional Data: Payment details processed via secure payment gateways such as Stripe.",
+        "Technical Data: IP address, device identifiers, browser type, cookies, session logs, and usage analytics."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Purpose of Data Processing"
+    },
+    {
+      "kind": "text",
+      "text": "Any data collected is used strictly for:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Facilitating medical consultations and issuing certificates.",
+        "Verifying submission authenticity and preventing misuse.",
+        "Maintaining records, audit trails, and transaction mechanisms.",
+        "Ensuring platform security and integrity.",
+        "Complying with legal, fiscal, and regulatory obligations."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Data Storage & Retention"
+    },
+    {
+      "kind": "text",
+      "text": "All data is stored securely on encrypted servers operated by DrCertificate.com or trusted partners. Personal and consultation data will generally be retained for a period of fifteen (15) days post-transaction, after which the data will be deleted or anonymized unless law requires longer retention."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Data Access & Disclosure"
+    },
+    {
+      "kind": "text",
+      "text": "Access to user data is limited to authorized personnel:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Registered health professionals involved in consultation and certificate issuance.",
+        "Payment processors and technical vendors under confidentiality obligations.",
+        "Law enforcement or regulatory bodies if required by law."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate.com does not sell or rent user data to third parties."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Cookies & Tracking Technologies"
+    },
+    {
+      "kind": "text",
+      "text": "The platform uses cookies and related tools for:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Authentication and session management.",
+        "Performance measurement and analytics.",
+        "Security and fraud detection."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Users can manage cookies through their browser settings. Disabling cookies may affect functionality."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Security Measures"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate.com employs comprehensive security measures including encryption, firewall protections, access controls, and regular security reviews to protect user data. Nonetheless, absolute security over the internet cannot be guaranteed, and users are advised to protect their login credentials."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "International Data Transfer & Compliance"
+    },
+    {
+      "kind": "text",
+      "text": "Although operated by Health Venture OU, data processing may occur in applicable jurisdictions, with safeguards to ensure compliance with data protection laws such as GDPR or local standards, including appropriate contractual mechanisms."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "User Rights"
+    },
+    {
+      "kind": "text",
+      "text": "Users have rights to:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Access their personal data in our records.",
+        "Rectify inaccuracies or incomplete data.",
+        "Request deletion of their data, subject to legal obligations.",
+        "Restrict or object to certain data processing activities."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Requests should be sent to care@drcertificate.com. Data deletion is subject to retention policies, and once deleted, data cannot be restored."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Legal Bases for Processing"
+    },
+    {
+      "kind": "text",
+      "text": "The processing of your data is based on:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your explicit consent when submitting your data and completing payment.",
+        "Performance of the contract of service.",
+        "Compliance with legal obligations.",
+        "Legitimate interests such as security, fraud prevention, and service improvement."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "By proceeding, you acknowledge that the consultation begins immediately upon payment, and statutory withdrawal rights may no longer apply once the service starts, as per applicable law."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Governing Law & Dispute Resolution"
+    },
+    {
+      "kind": "text",
+      "text": "This policy is governed by the laws that apply to Health Venture OU and to the service you use. Any dispute is decided by the courts with authority under those laws, unless applicable law provides otherwise."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Contact"
+    },
+    {
+      "kind": "text",
+      "text": "For questions or privacy rights, contact us at: Email: care@drcertificate.com Address: KMC Armstrong Corporate Center, H.V. Dela Costa, Salcedo Village, Makati City, 1227 Metro Manila, Philippines"
+    }
+  ]
+}

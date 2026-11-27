@@ -1,0 +1,273 @@
+{
+  "slug": "vn/medical-certificates-online-in-vietnam",
+  "group": "country",
+  "title": "Medical Certificates Online in Vietnam",
+  "description": "Apply online for a medical certificate in Vietnam, reviewed by a certified doctor. Sick leave, fitness and travel certificates, sent by email if approved.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Vietnam · Reviewed by certified doctors"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor-reviewed medical certificates for residents and workers in Vietnam. Fill in a short online form from your phone or laptop. A certified doctor checks your details. When approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "แพทย์ที่ได้รับการรับรอง (MBBS, MD หรือ MS) เป็นผู้ออกใบรับรองแพทย์ และใบรับรองแพทย์นี้ไม่ได้มีไว้สำหรับยื่นในประเทศอินเดีย"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "พิจารณาโดยแพทย์ที่ได้รับการรับรอง",
+        "ส่งทางอีเมลหากได้รับอนุมัติ",
+        "ยื่นคำขอผ่านโทรศัพท์มือถือ"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0001"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "ก่อนยื่นคำขอ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Choose the certificate you need in Vietnam"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "ใบรับรองแพทย์ลาป่วย ใช้แสดงช่วงเวลาที่คุณเจ็บป่วยต่อที่ทำงาน วิทยาลัย หรือโรงเรียน ทั้งนี้ขึ้นอยู่กับนโยบายของแต่ละแห่ง ดูรายละเอียด เกี่ยวกับใบรับรองแพทย์ลาป่วย",
+        "ใบรับรองแพทย์ความพร้อมด้านสุขภาพ สำหรับการสมัครงาน การเข้าศึกษาในมหาวิทยาลัย การเดินทาง สายการบิน หรือวัตถุประสงค์อื่นที่ต้องการความเห็นของแพทย์เกี่ยวกับความพร้อมด้านสุขภาพของคุณ ดูรายละเอียด เกี่ยวกับใบรับรองแพทย์ความพร้อมด้านสุขภาพ",
+        "ใบรับรองแพทย์ไม่พร้อมเดินทางโดยเครื่องบิน สำหรับกรณีที่อาการเจ็บป่วย การบาดเจ็บ หรือปัญหาสุขภาพอื่น ๆ ทำให้คุณไม่ควรเดินทางโดยเครื่องบิน ดูรายละเอียด เกี่ยวกับใบรับรองแพทย์ไม่พร้อมเดินทางโดยเครื่องบิน",
+        "ใบรับรองแพทย์ทั่วไป สำหรับความจำเป็นอื่น ๆ ทั้งเรื่องส่วนตัวหรือเรื่องทางการ ที่มีการขอให้แสดงใบรับรองแพทย์ ดูรายละเอียด เกี่ยวกับใบรับรองแพทย์ทั่วไป"
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "พิจารณาโดยแพทย์ที่ได้รับการรับรอง ทุกคำขอได้รับการพิจารณาเป็นรายกรณี",
+        "ยื่นคำขอออนไลน์ 100% ยื่นคำขอผ่านโทรศัพท์มือถือหรือแล็ปท็อป",
+        "จัดส่งทางอีเมลหากได้รับอนุมัติ ส่งไปยังอีเมลที่คุณระบุ",
+        "การชำระเงินดำเนินการผ่าน Stripe ชำระเงินออนไลน์อย่างปลอดภัย"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "ใบรับรองและกฎระเบียบท้องถิ่น"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online fitness certificate in Vietnam",
+        "Online sick leave certificate in Vietnam",
+        "Unfit to fly certificate in Vietnam"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "ขั้นตอนการใช้บริการ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "3 ขั้นตอนง่าย ๆ โดยมีแพทย์ตรวจสอบทุกคำขอ"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 ขั้นตอนที่ 1: กรอกแบบฟอร์มคำขอออนไลน์ กรอกข้อมูลของคุณและเหตุผลในการยื่นคำขอ อาจมีการขอให้คุณแจ้งค่าสัญญาณชีพหรือค่าการวัดอื่น ๆ ผ่านลิงก์ที่ปลอดภัยซึ่งส่งทางอีเมล",
+        "2 ขั้นตอนที่ 2: แพทย์ที่ได้รับการรับรองพิจารณาคำขอของคุณ แพทย์จะประเมินข้อมูลที่คุณให้ และตัดสินใจว่าการออกใบรับรองแพทย์เหมาะสมทางการแพทย์หรือไม่ แพทย์อาจปฏิเสธคำขอได้",
+        "3 ขั้นตอนที่ 3: รับใบรับรองแพทย์ทางอีเมล หากได้รับอนุมัติ ใบรับรองแพทย์ที่ได้รับอนุมัติจะถูกส่งทางอิเล็กทรอนิกส์ไปยังอีเมลที่คุณระบุ"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "ทุกคำขอได้รับการพิจารณาเป็นรายกรณี การออกใบรับรองแพทย์ เนื้อหา และระยะเวลาที่ระบุ ขึ้นอยู่กับดุลยพินิจของแพทย์ผู้พิจารณา เอกสารทุกฉบับออกให้แก่หน่วยงานที่คุณยื่นเอกสาร และใช้ได้เพียงครั้งเดียว ส่วนการยอมรับใบรับรองแพทย์ขึ้นอยู่กับหน่วยงานที่คุณยื่นเอกสาร"
+    },
+    {
+      "kind": "text",
+      "text": "คุณจะไปยังแบบฟอร์มคำขอที่ปลอดภัยของ DrCertificate เพื่อดำเนินการต่อ"
+    },
+    {
+      "kind": "text",
+      "text": "พื้นที่ให้บริการ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Medical certificates in other countries"
+    },
+    {
+      "kind": "text",
+      "text": "ประเทศที่ให้บริการ"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore",
+        "Indonesia",
+        "Philippines",
+        "Thailand",
+        "Malaysia",
+        "Cambodia",
+        "Laos",
+        "Myanmar",
+        "Brunei"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "คำถามที่พบบ่อย"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "คำถามที่พบบ่อย"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What is an online doctor certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An online doctor certificate is a document from a doctor about your health status. It can record illness or physical fitness. With DrCertificate, a certified doctor (MBBS, MD or MS) reviews your request and decides whether to issue one. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "When will I receive my medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "It usually takes about 30 minutes. For fitness cases, doctors review requests from 9 am to 9 pm IST Monday to Saturday, and 10 am to 8 pm IST on Sunday. If the doctor approves your request, your certificate is sent to your email as a PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Which doctor can issue a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "On DrCertificate, a certified doctor (MBBS, MD or MS) issues the certificate. The certificate is not for submission in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Are these medical certificates genuine?"
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues each certificate after reviewing your request, and the doctor may decline it. An approved certificate is a PDF with the doctor's registration number, digital signature and date. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is there an upper limit of sick leaves one can get?"
+    },
+    {
+      "kind": "text",
+      "text": "The duration of sick leave depends on the medical assessment and the doctor’s discretion. Each case is individually evaluated. Specific institutional policies may also apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "In which case do I need to visit a doctor physically or get an online consultation?"
+    },
+    {
+      "kind": "text",
+      "text": "See a doctor in person if you are hospitalized, undergoing specialized treatment or have emergency symptoms. An online consultation can suit common, non-emergency situations, and the doctor may decline a request and advise an in-person visit. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is there a medical leave format for students?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. The sick leave option covers students too, and an approved certificate gives the rest duration and the doctor's details to show your school or university. Ask them first whether they accept online medical notes."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How to get a fitness medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "You can apply by filling out a form with your health details. A certified doctor reviews them, may contact you by secure digital chat, and decides whether to issue a certificate about your fitness for activities such as study, work or travel."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my health insurance cover the costs?"
+    },
+    {
+      "kind": "text",
+      "text": "Coverage of medical certificates by health insurance varies depending on the insurance policy. Typically, costs for online medical certificates are paid out of pocket unless explicitly covered by your health insurance plan in general telemedicine practice."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Which countries do you operate in?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate lists 10 countries in South East Asia: Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, Cambodia, Laos, Myanmar and Brunei. Available services can differ, so check your country's page before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to apply in Vietnam? It only takes a few minutes."
+    },
+    {
+      "kind": "text",
+      "text": "แพทย์ที่ได้รับการรับรองพิจารณาทุกคำขอ หากได้รับอนุมัติ ใบรับรองแพทย์จะถูกส่งไปยังอีเมลของคุณ"
+    },
+    {
+      "kind": "text",
+      "text": "มีข้อสงสัยก่อนยื่นคำขอ ติดต่อ care@drcertificate.com"
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "slug": "unfit-to-fly",
+  "group": "service",
+  "service": "unfit-to-fly",
+  "title": "Online unfit to fly certificate",
+  "description": "Apply online for a doctor-reviewed unfit to fly certificate for airlines or travel changes. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Unfit to fly certificate · Reviewed by certified doctors"
+    },
+    {
+      "kind": "text",
+      "text": "If illness or injury means you shouldn't fly, you don't need to visit a clinic for paperwork. Apply online, a certified doctor reviews your request, and if approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate, and the certificate is not for submission in India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review",
+        "Emailed if approved",
+        "Available 365 days a year"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave",
+        "Medical fitness",
+        "General medical"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0003"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Unfit to fly"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised not to travel by air for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review Every request is assessed individually",
+        "100% online application Apply from your phone or laptop",
+        "Email delivery if approved Sent to the address you provide",
+        "Payments processed by Stripe Secure online payment"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get an unfit to fly certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get an unfit to fly certificate online from DrCertificate, fill in the online form, choose the Unfit to Travel option and pay through Stripe. An independent certified doctor reviews your details by chat and, if they approve, the certificate arrives by email as a PDF, usually in about 30 minutes. Issuance always depends on the doctor's medical judgement."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "text",
+      "text": "About this certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is an unfit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An unfit to fly certificate is a medical document issued by a doctor. It states that you have been assessed and are currently not medically suitable to travel by air."
+    },
+    {
+      "kind": "text",
+      "text": "Airlines or travel companies may ask for one when you need to cancel, postpone or change travel plans because of a health condition."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What a certificate includes"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your correct personal details",
+        "Date of consultation",
+        "Doctor's medical assessment",
+        "Recommendation on fitness to fly",
+        "Restriction period, if applicable",
+        "Doctor's name and credentials",
+        "Signature or digital verification"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "These details help airlines or employers understand the medical reason affecting your travel."
+    },
+    {
+      "kind": "text",
+      "text": "Avoid fake certificates. Fake certificates, edited templates or automatically generated documents can be rejected by airlines. A genuine certificate is issued only after a proper assessment by a qualified doctor."
+    },
+    {
+      "kind": "text",
+      "text": "Who it's for"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When you might need an unfit to fly certificate"
+    },
+    {
+      "kind": "text",
+      "text": "It helps explain, based on a medical assessment, why travelling may not be recommended for you right now."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Illness before you travel"
+    },
+    {
+      "kind": "text",
+      "text": "Sudden illness, infection or injury close to your travel date can make flying unsuitable."
+    },
+    {
+      "kind": "text",
+      "text": "May be needed for"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sudden illness before travel",
+        "Severe or contagious infections",
+        "Recovery after surgery or treatment",
+        "Injury affecting safe travel",
+        "Pregnancy-related travel restrictions"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Flight cancellation or changes"
+    },
+    {
+      "kind": "text",
+      "text": "Many airlines ask for supporting documents when you cancel or change a flight for medical reasons."
+    },
+    {
+      "kind": "text",
+      "text": "Can help support"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Flight cancellation",
+        "Date changes",
+        "Refund applications",
+        "Missed trips due to illness"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Work or study travel"
+    },
+    {
+      "kind": "text",
+      "text": "Employers and schools may ask for proof when illness stops a planned trip."
+    },
+    {
+      "kind": "text",
+      "text": "They may ask to see"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "The date of your medical assessment",
+        "The nature of the medical concern",
+        "The doctor's recommendation on travel",
+        "When travel was not advised"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Common reasons someone may be unfit to fly"
+    },
+    {
+      "kind": "text",
+      "text": "Cabin pressure changes, limited movement and long journeys put extra stress on the body. Common reasons include:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "High fever or serious infections",
+        "Severe respiratory symptoms",
+        "Recent surgery",
+        "Significant injuries",
+        "Certain heart or lung conditions",
+        "Severe pain affecting travel"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Check the requirements first"
+    },
+    {
+      "kind": "text",
+      "text": "Each organisation has its own rules. Before you submit, check whether a specific format, extra medical reports or airline forms are needed by:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Airlines",
+        "Travel agencies",
+        "Employers or institutions"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Every request is assessed individually. Issuing a certificate, its content and its duration are at the reviewing doctor's discretion. All documents are addressed to the organisation they are submitted to and are valid for single use only. Acceptance depends on the organisation you submit it to."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from an unfit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Most recipients want an unfit to fly certificate that states plainly that you are not fit to fly, names the dates involved and shows the doctor's details. Beyond that, expectations differ between airlines, employers, schools and countries."
+    },
+    {
+      "kind": "text",
+      "text": "Airlines hold the final word."
+    },
+    {
+      "kind": "text",
+      "text": "The UK Civil Aviation Authority says most airlines have medical advisors who clear passengers as fit to fly, and that the final decision on whether to carry a passenger is the airline's. Cebu Pacific is one carrier with written rules. When a passenger files a medical case request, Cebu Pacific asks for a valid medical certificate stating not fit to fly, with the doctor's signature, PRC number and official letterhead."
+    },
+    {
+      "kind": "text",
+      "text": "If you fly Cebu Pacific, confirm before you apply that a certificate from a doctor on DrCertificate will satisfy that standard."
+    },
+    {
+      "kind": "text",
+      "text": "Before paying, ask your recipient three questions."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Do you accept online medical notes? A yes here matters more than anything else on the certificate.",
+        "Do you need your own form or format? An airline or employer with its own form may not accept a separate certificate.",
+        "What details and deadline apply? Ask which dates, names or booking details must appear and how soon after the flight you must send the certificate."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does an unfit to fly certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "An unfit to fly certificate from DrCertificate sets out who you are, what the doctor concluded and who the doctor is. Each part sits in its own zone, which lets an airline or employer find it fast."
+    },
+    {
+      "kind": "text",
+      "text": "If your recipient needs a set layout, compare their request with this list before you apply."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your details Your full name as entered in the form, which should match your ID and booking.",
+        "The doctor's statement The doctor's opinion that you are not medically fit to fly.",
+        "Dates The date of your consultation and the period during which you should not fly.",
+        "Doctor's details The doctor's name, qualification (MBBS, MD or MS) and medical council registration details."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "How it works"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Three simple steps, with a doctor checking every request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online application Add your details and the reason for your request. You may be asked to share vitals or other measurements through a secure link sent by email.",
+        "2 Step 2: A certified doctor reviews your request The doctor assesses the information you provide and decides whether a certificate is medically appropriate. They may decline a request.",
+        "3 Step 3: Get your certificate by email, if approved Approved certificates are sent electronically to the email address you provide."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for an unfit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "For an unfit to fly certificate, choose Medical Certificate Unfit to Travel on the application form. The form has no separate flight option, and Unfit to Travel covers air travel."
+    },
+    {
+      "kind": "text",
+      "text": "In your form answers, say you need the certificate for a booked flight, give the flight date and describe when your symptoms began. If none of the options fits your situation, email care@drcertificate.com before you pay."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for an unfit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask about your symptoms, when they started and the date of the flight you cannot take. Clear dates help the doctor judge whether flying is unsafe for you during that period."
+    },
+    {
+      "kind": "text",
+      "text": "Expect questions on how you feel today, any recent illness or injury and the medicines you take. If you already have papers, for instance a recent clinic note, test results or your booking confirmation, mention them in the chat and share them if the doctor asks."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor may send follow up questions. Reply promptly and keep your answers consistent with your form, because details that do not match are a reason for a decline."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can an unfit to fly certificate not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "An unfit to fly certificate from DrCertificate cannot be submitted in India, used for legal purposes or used for insurance. Applicants must be at least 16 years old."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for non emergency situations only. If you have chest pain, trouble breathing, heavy bleeding or a sudden severe illness, contact local emergency services or go to the nearest hospital now."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance rests with the recipient. Check with your airline, employer or school first."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your unfit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your unfit to fly certificate, you will not receive one and your payment is not refunded. Doctors on DrCertificate decline about 2% of requests."
+    },
+    {
+      "kind": "text",
+      "text": "Declines happen when details are wrong, for instance a name that does not match the ID, or when the symptoms and details you share are inconsistent. A doctor will also decline when your condition needs a physical examination or tests that a chat cannot replace. In that case, see a doctor in person at a local clinic or hospital."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, with one exception. A verified technical fault reported within 24 hours may be refunded."
+    },
+    {
+      "kind": "text",
+      "text": "For help, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does an unfit to fly certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "An unfit to fly certificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. Prices in other countries depend on the country."
+    },
+    {
+      "kind": "text",
+      "text": "The fee covers the doctor's review and, if approved, the PDF certificate by email. You pay through Stripe, and payment is non refundable, even if the doctor declines."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your unfit to fly certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept an unfit to fly certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer, school or airline will accept an unfit to fly certificate only if its own policy allows online medical notes. DrCertificate cannot decide that for them. Ask before you apply."
+    },
+    {
+      "kind": "text",
+      "text": "A recipient who wants to verify the certificate can check the doctor's name and registration details on it with the medical council where the doctor is registered. All doctors on the platform are registered with a medical council."
+    },
+    {
+      "kind": "text",
+      "text": "Airlines need extra care."
+    },
+    {
+      "kind": "text",
+      "text": "Under UK Civil Aviation Authority guidance, the airline makes the final decision on carrying a passenger, and its medical advisors may look at your case. If the recipient insists on its own form, ask whether that form must be signed by its own doctor. In that case, this service is not the right fit."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Unfit to fly certificate vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "An unfit to fly certificate says you should not fly, while a fit to fly certificate says you are well enough to board. A sick leave certificate covers time off work or study and says nothing about flying."
+    },
+    {
+      "kind": "text",
+      "text": "Pick the one that matches what your recipient needs to hear."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who usually receives it",
+        "Form option to choose"
+      ],
+      "rows": [
+        [
+          "Unfit to fly",
+          "You are not medically fit to travel by air for a stated period",
+          "Airline, employer, school or travel agent",
+          "Medical Certificate Unfit to Travel"
+        ],
+        [
+          "Fit to fly",
+          "You are medically fit to travel by air",
+          "Airline at booking or check in",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Sick leave",
+          "You need time off work or study",
+          "Employer, school or university",
+          "Medical Certificate Sick Leave"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Why apply online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Focus on your health while a doctor reviews your request"
+    },
+    {
+      "kind": "text",
+      "text": "When symptoms start close to your travel date, getting to a clinic can be hard. Applying online can be less stressful."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Consult from home Apply without travelling to a clinic while you're unwell.",
+        "Apply before you fly Apply as soon as symptoms appear, ahead of your scheduled travel.",
+        "Secure digital documentation If approved, your certificate arrives by email, ready to share with your airline.",
+        "Certified doctor assessment A certificate is issued only after a qualified medical professional has reviewed your request."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides. Nothing is approved automatically. A certified doctor reviews every request and decides whether to issue a certificate, what it says and how long it covers."
+    },
+    {
+      "kind": "text",
+      "text": "Availability"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where the service is available"
+    },
+    {
+      "kind": "text",
+      "text": "Each country has its own certificate pages, and available services can differ. Choose your country to check before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Available today"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore View certificates",
+        "Indonesia View certificates",
+        "Philippines View certificates",
+        "Thailand View certificates",
+        "Vietnam View certificates",
+        "Malaysia View certificates",
+        "Cambodia View certificates",
+        "Laos View certificates",
+        "Myanmar View certificates",
+        "Brunei View certificates"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQs"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about unfit to fly certificates"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What is an online Unfit to Fly Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An online Unfit to Fly Certificate is a digital document issued by a certified doctor (MBBS, MD or MS) stating that, for health reasons, you are temporarily advised not to travel by air. You apply without an in-person doctor visit. Your airline may have its own forms, so check with it first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How quickly can I receive my Unfit to Fly Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "It usually takes about 30 minutes. If the doctor approves your request, the certificate is sent to your email as a PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is the service available every day?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, the service runs 365 days a year, including weekends and public holidays. A doctor reviews requests during working hours, so a request made outside those hours waits for the next working slot."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I get an Unfit to Fly Certificate in my local language?"
+    },
+    {
+      "kind": "text",
+      "text": "A certificate in a local language is not promised. Email care@drcertificate.com to ask before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Who issues the Online Unfit to Fly Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate. The doctor works independently and alone decides whether to issue it and what it says. The certificate is not for submission in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How much does a certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "The price depends on your country, for example 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia. The application form shows the price before you pay. Payments are non-refundable, including when a doctor declines a request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Are these certificates accepted by airlines and institutions?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on the organisation you submit it to, so check first. A certified doctor issues the certificate, so ask whether they accept that."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I obtain an Unfit to Fly Certificate on Public Holidays?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, you can apply on a public holiday, because the service runs 365 days a year. A doctor reviews your request during working hours."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What if my airline or institution has specific format requirements?"
+    },
+    {
+      "kind": "text",
+      "text": "Email care@drcertificate.com with the format before you apply, because a change of format is not guaranteed. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is an unfit to fly certificate valid?"
+    },
+    {
+      "kind": "text",
+      "text": "An unfit to fly certificate covers the period the doctor writes on it, based on your consultation. No single validity rule applies to unfit to fly notes. In most South East Asian countries, sick leave notes for generic symptoms go up to 7 days. Expect a short period tied to your actual illness."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can an unfit to fly certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "Whether an unfit to fly certificate refers to earlier dates is the doctor's decision, not yours or DrCertificate's. The doctor states only what the details you share can support. If you fell ill before your flight, give the true start date of your symptoms in the form to help the doctor judge."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How is the unfit to fly certificate delivered?"
+    },
+    {
+      "kind": "text",
+      "text": "The unfit to fly certificate arrives as a PDF by email once the doctor approves it, usually about 30 minutes after you submit and pay. Use an email address you check often. The whole request runs through the online form and a text chat, with no video or in person consultation."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct my name or dates after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No. A DrCertificate certificate cannot be corrected once issued unless the mistake came from the medical team. Check that your name matches your ID and booking, and that every date is right, before you submit. A name that does not match the ID is a reason doctors decline requests."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use the certificate in my country?"
+    },
+    {
+      "kind": "text",
+      "text": "You can use the certificate in the 10 South East Asian countries DrCertificate serves, including Singapore, Malaysia and the Philippines, if your recipient accepts online medical notes. The certificate cannot be submitted in India. Confirm with your airline, employer or school before applying, because acceptance is their decision."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details go to the independent doctor reviewing your request, who needs them to decide. Share only what the doctor needs for your unfit to fly certificate. For questions about how DrCertificate handles your personal data, email care@drcertificate.com before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Does an unfit to fly certificate guarantee an airline refund?"
+    },
+    {
+      "kind": "text",
+      "text": "No. An unfit to fly certificate is medical evidence, not a refund approval. The airline applies its own policy to rebooking, refunds and fee waivers. The UK Civil Aviation Authority notes that airlines make the final decision on carrying passengers. Check your airline's medical case rules first."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "UK Civil Aviation Authority: UK CAA on who decides",
+        "Cebu Pacific: Cebu Pacific not fit to fly certificate"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Put your health first before you travel."
+    },
+    {
+      "kind": "text",
+      "text": "Illness can strike even when your trip is booked. Apply online in a few minutes, and if a certified doctor approves your request, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

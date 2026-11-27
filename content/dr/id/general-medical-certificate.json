@@ -1,0 +1,765 @@
+{
+  "slug": "general-medical-certificate",
+  "group": "service",
+  "service": "general",
+  "title": "Online general medical certificate",
+  "description": "Apply online for a doctor-reviewed general medical certificate for work, study or travel. Approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum · Ditinjau oleh dokter bersertifikat"
+    },
+    {
+      "kind": "text",
+      "text": "Perlu bukti resmi terkait konsultasi, sakit, pemulihan, atau kondisi kesehatan Anda? Ajukan secara online, dokter bersertifikat akan meninjau permohonan Anda, dan jika disetujui, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Dokter bersertifikat (MBBS, MD, atau MS) menerbitkan surat keterangan ini, dan surat keterangan ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat",
+        "Dikirim lewat email jika disetujui",
+        "Tersedia 365 hari dalam setahun"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Perlu surat keterangan lain?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Keterangan sakit",
+        "Keterangan sehat",
+        "Tidak layak terbang"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Peninjauan oleh dokter bersertifikat Setiap permohonan dinilai secara individual",
+        "Pengajuan 100% online Ajukan dari ponsel atau laptop Anda",
+        "Pengiriman lewat email jika disetujui Dikirim ke alamat email yang Anda berikan",
+        "Pembayaran diproses oleh Stripe Pembayaran online yang aman"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Bagaimana cara mendapatkan surat keterangan dokter umum secara online?"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk mendapatkan surat keterangan dokter umum secara online dari DrCertificate, isi formulir online, bayar melalui Stripe, lalu jawab pertanyaan dokter bersertifikat dalam peninjauan lewat chat. Jika dokter menyetujui, surat keterangan dikirim sebagai PDF lewat email, biasanya dalam waktu sekitar 30 menit. Dokter yang memutuskan apakah surat tersebut diterbitkan, berdasarkan informasi yang Anda berikan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sebelum Anda mengajukan permohonan"
+    },
+    {
+      "kind": "text",
+      "text": "Tentang surat keterangan ini"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa itu surat keterangan medis umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum adalah dokumen resmi yang diterbitkan oleh dokter setelah menilai kondisi kesehatan Anda. Surat ini menerangkan konsultasi medis, sakit, pemulihan, atau kondisi kesehatan, tergantung keperluan Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Pemberi kerja, sekolah, universitas, penyedia layanan perjalanan, dan organisasi lain umumnya memintanya sebagai dokumen pendukung terkait kesehatan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Isi surat keterangan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Data pribadi Anda yang benar",
+        "Tanggal konsultasi",
+        "Penilaian medis yang relevan",
+        "Keperluan surat keterangan",
+        "Masa istirahat yang disarankan, jika ada",
+        "Nama dan kredensial dokter",
+        "Tanda tangan atau verifikasi digital"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Isi surat keterangan bergantung pada keperluannya dan penilaian profesional dokter."
+    },
+    {
+      "kind": "text",
+      "text": "Hindari surat keterangan palsu. Template palsu, dokumen yang diedit, atau generator surat keterangan instan tanpa keterlibatan dokter dapat ditolak dan menimbulkan masalah lain. Surat keterangan asli hanya diterbitkan setelah peninjauan medis yang sebenarnya."
+    },
+    {
+      "kind": "text",
+      "text": "Untuk siapa"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Kapan Anda mungkin memerlukan surat keterangan medis umum"
+    },
+    {
+      "kind": "text",
+      "text": "Kapan pun suatu organisasi meminta dokumen kesehatan resmi. Dokter yang memutuskan apa yang dapat dicantumkan dalam surat keterangan, berdasarkan penilaiannya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Karyawan"
+    },
+    {
+      "kind": "text",
+      "text": "Untuk ketidakhadiran karena alasan kesehatan, catatan di tempat kerja, atau persyaratan kembali bekerja."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokumen izin sakit",
+        "Verifikasi ketidakhadiran kerja",
+        "Pemulihan setelah sakit",
+        "Persyaratan catatan HR"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pelajar dan mahasiswa"
+    },
+    {
+      "kind": "text",
+      "text": "Saat sakit membuat Anda melewatkan kelas, ujian, pelatihan, atau kegiatan akademik lainnya."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ketidakhadiran di kelas",
+        "Ujian yang terlewat",
+        "Permohonan perpanjangan tenggat akademik",
+        "Persyaratan mengikuti olahraga"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Pekerja remote dan hybrid"
+    },
+    {
+      "kind": "text",
+      "text": "Sakit dapat memengaruhi kemampuan Anda untuk bekerja, bahkan dari rumah."
+    },
+    {
+      "kind": "text",
+      "text": "Sering diminta untuk"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Persetujuan izin sakit",
+        "Dokumen untuk HR",
+        "Tidak dapat bekerja untuk sementara",
+        "Permintaan terkait kesehatan di tempat kerja"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Alasan umum orang mengajukan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokumen medis untuk tempat kerja",
+        "Izin tidak masuk sekolah atau kuliah",
+        "Bukti sakit",
+        "Konfirmasi pemulihan",
+        "Persyaratan terkait perjalanan",
+        "Verifikasi kesehatan umum"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Periksa persyaratannya terlebih dahulu"
+    },
+    {
+      "kind": "text",
+      "text": "Diterima atau tidaknya surat keterangan bergantung pada organisasi tempat Anda menyerahkannya. Sebelum menyerahkannya, periksa apakah format tertentu atau informasi tambahan diperlukan oleh:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Pemberi kerja",
+        "Sekolah atau universitas",
+        "Instansi pemerintah",
+        "Perusahaan perjalanan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Setiap permohonan dinilai secara individual. Penerbitan surat keterangan, isi, dan jangka waktunya merupakan keputusan dokter yang meninjau. Semua dokumen ditujukan kepada organisasi tempat dokumen tersebut diserahkan dan hanya berlaku untuk satu kali penggunaan. Diterima atau tidaknya surat keterangan bergantung pada organisasi tempat Anda menyerahkannya."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang biasanya diharapkan oleh pemberi kerja, sekolah, atau maskapai dari surat keterangan dokter umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Sebagian besar pemberi kerja dan sekolah mengharapkan surat dari dokter terdaftar yang mencantumkan nama Anda, tanggal yang dicakup, dan rekomendasi dokter. Singapura adalah contoh betapa ketatnya aturan ini. Ministry of Manpower menyatakan bahwa agar berhak atas cuti sakit berbayar, karyawan harus dinyatakan tidak layak bekerja oleh tenaga medis yang terdaftar berdasarkan Medical Registration Act atau Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Jika Anda bekerja di Singapura, pastikan kepada bagian HR bahwa surat Anda memenuhi aturan ini sebelum mengajukan permintaan."
+    },
+    {
+      "kind": "text",
+      "text": "Aturannya berbeda-beda menurut pemberi kerja, institusi, maskapai, dan negara."
+    },
+    {
+      "kind": "text",
+      "text": "Di sebagian besar negara Asia Tenggara, surat keterangan cuti sakit dan kerja dari rumah untuk gejala umum dapat mencakup paling lama 7 hari. Pihak penerima mungkin menetapkan batas yang lebih singkat, meminta formulir mereka sendiri, atau sama sekali tidak menerima surat keterangan online."
+    },
+    {
+      "kind": "text",
+      "text": "Sebelum mengajukan permintaan, tanyakan tiga hal kepada pihak penerima. Apakah mereka menerima surat keterangan dokter online? Apakah mereka memerlukan formulir atau format sendiri? Berapa hari yang boleh dicakup oleh satu surat?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Surat Keterangan Cuti Sakit Online di Singapura",
+        "Sertifikat medis online di Malaysia",
+        "Surat Keterangan Cuti Sakit Online di Thailand",
+        "Cara mendapatkan surat keterangan dokter online untuk cuti"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa saja isi surat keterangan dokter umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan dokter umum dari DrCertificate berisi data pribadi Anda, tanggal yang dicakup, pernyataan dokter, dan data dokter yang menerbitkannya."
+    },
+    {
+      "kind": "text",
+      "text": "Jika pihak penerima memerlukan informasi yang tidak tercantum dalam surat keterangan, mintalah formulir mereka sendiri sebelum Anda mengajukan permintaan."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Data pasien Nama lengkap dan data identitas Anda, yang harus saling sesuai.",
+        "Tanggal Tanggal konsultasi dan jangka waktu yang direkomendasikan dokter.",
+        "Pernyataan dokter Rekomendasi dokter berdasarkan peninjauan lewat chat.",
+        "Data dokter Nama dokter, kualifikasi MBBS, MD, atau MS, dan nomor registrasi dewan medis."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Cara kerja"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Tiga langkah sederhana, dengan dokter yang memeriksa setiap permohonan"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Langkah 1: Isi formulir pengajuan online Masukkan data diri Anda dan alasan permohonan. Anda mungkin diminta membagikan tanda vital atau hasil pengukuran lain melalui tautan aman yang dikirim lewat email.",
+        "2 Langkah 2: Dokter bersertifikat meninjau permohonan Anda Dokter menilai informasi yang Anda berikan dan memutuskan apakah surat keterangan layak diberikan secara medis. Dokter dapat menolak permohonan.",
+        "3 Langkah 3: Terima surat keterangan lewat email, jika disetujui Surat keterangan yang disetujui dikirim secara elektronik ke alamat email yang Anda berikan."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pilihan mana yang harus Anda pilih di formulir untuk surat keterangan dokter umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Pilih opsi Sick Leave untuk surat keterangan dokter umum. Di formulir, opsi ini tertulis Medical Certificate, Sick Leave, for university or work."
+    },
+    {
+      "kind": "text",
+      "text": "Dalam jawaban Anda, sebutkan bahwa Anda memerlukan surat keterangan dokter umum dan siapa yang akan menerimanya, misalnya pemberi kerja atau sekolah Anda. Dengan begitu, dokter tahu untuk apa surat tersebut."
+    },
+    {
+      "kind": "text",
+      "text": "Jika tidak ada opsi yang sesuai, kirim email ke care@drcertificate.com sebelum membayar."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang akan ditanyakan dokter untuk surat keterangan dokter umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Dokter akan menanyakan gejala Anda, kapan gejala itu mulai, dan tanggal berapa saja yang perlu dicakup oleh surat keterangan. Bersiaplah juga menjawab pertanyaan tentang bagaimana penyakit Anda memengaruhi pekerjaan atau studi Anda, dan apakah Anda sudah memeriksakan diri ke dokter lain."
+    },
+    {
+      "kind": "text",
+      "text": "Tuliskan nama dan nomor identitas Anda persis seperti yang tertera di dokumen identitas, huruf demi huruf. Ketidaksesuaian data adalah salah satu alasan permintaan ditolak."
+    },
+    {
+      "kind": "text",
+      "text": "Catatan dari kunjungan ke klinik sebelumnya dapat membantu, jadi sebutkan jika Anda memilikinya. Dokter mungkin akan mengajukan pertanyaan lanjutan lewat chat sebelum mengambil keputusan."
+    },
+    {
+      "kind": "text",
+      "text": "Jawablah dengan akurat dan tanpa menunda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana surat keterangan dokter umum tidak dapat digunakan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum dari DrCertificate tidak dapat digunakan di India, untuk keperluan hukum, maupun untuk asuransi. Pemohon harus berusia minimal 16 tahun."
+    },
+    {
+      "kind": "text",
+      "text": "Layanan ini hanya untuk situasi nondarurat yang sesuai. Jika Anda mengalami nyeri dada, sesak napas, atau gejala berat yang muncul tiba-tiba, segera hubungi layanan gawat darurat setempat atau pergi ke rumah sakit terdekat."
+    },
+    {
+      "kind": "text",
+      "text": "Pihak penerima yang memutuskan apakah surat keterangan ini diterima. Tanyakan kepada mereka sebelum Anda mengajukan permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apa yang terjadi jika dokter tidak dapat menerbitkan surat keterangan medis umum Anda?"
+    },
+    {
+      "kind": "text",
+      "text": "Jika dokter tidak dapat menerbitkan surat keterangan medis umum Anda, Anda tidak akan menerimanya dan pembayaran tidak dikembalikan. Dokter menolak sekitar 2% permintaan, biasanya karena nama dan kartu identitas tidak cocok atau karena gejala dan informasi yang diberikan tidak konsisten."
+    },
+    {
+      "kind": "text",
+      "text": "Pemeriksaan melalui chat memiliki keterbatasan."
+    },
+    {
+      "kind": "text",
+      "text": "Jika gejala memerlukan pemeriksaan fisik atau tes, dokter dapat menolak permintaan dan menyarankan Anda datang langsung ke klinik setempat. Pembayaran tidak dapat dikembalikan dalam kondisi apa pun, kecuali satu, yaitu gangguan teknis yang telah diverifikasi dan dilaporkan dalam 24 jam. Anggaplah biaya ini sebagai pembayaran untuk pemeriksaan oleh dokter, bukan untuk surat keterangan yang pasti diterbitkan."
+    },
+    {
+      "kind": "text",
+      "text": "Jika Anda merasa ada gangguan teknis yang memengaruhi permintaan Anda, kirimkan pesan ke tim dukungan pada hari yang sama."
+    },
+    {
+      "kind": "text",
+      "text": "Hubungi care@drcertificate.com untuk pertanyaan apa pun tentang permintaan Anda."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Berapa biaya surat keterangan medis umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Biaya surat keterangan medis umum adalah 25 SGD di Singapura, 399 peso di Filipina, dan 30 MYR di Malaysia. Harga untuk negara lain ditampilkan saat pembayaran."
+    },
+    {
+      "kind": "text",
+      "text": "Biaya ini mencakup pemeriksaan oleh dokter dan, jika disetujui, surat keterangan dalam format PDF yang dikirim melalui email. Pembayaran diproses melalui Stripe dan tidak dapat dikembalikan."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Negara",
+        "Harga"
+      ],
+      "rows": [
+        [
+          "Singapura",
+          "25 SGD"
+        ],
+        [
+          "Filipina",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Anda akan melanjutkan ke formulir pengajuan DrCertificate yang aman."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Siapa yang menerbitkan surat keterangan medis umum Anda?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Dokter bersertifikat Setiap permintaan ditangani oleh dokter dengan kualifikasi MBBS, MD, atau MS. Semua dokter di platform ini adalah dokter yang terdaftar di dewan kedokteran.",
+        "Dokter yang memutuskan DrCertificate adalah sebuah platform. Hanya dokter yang memutuskan apakah surat keterangan akan diterbitkan, dan dokter menolak sekitar 2% permintaan, biasanya karena data tidak sesuai atau gejala tidak konsisten.",
+        "Peninjau medis Dr Urooj Arshad, M.B.B.S, Kedokteran Umum, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Apakah pemberi kerja, sekolah, atau maskapai saya akan menerima surat keterangan medis umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan bergantung pada kebijakan masing-masing penerima, sehingga DrCertificate tidak dapat menjaminnya. Setiap pemberi kerja, sekolah, atau maskapai menetapkan aturannya sendiri tentang surat keterangan dokter online."
+    },
+    {
+      "kind": "text",
+      "text": "Penerima yang ingin memverifikasi surat ini dapat memeriksa dokter yang menerbitkannya menggunakan data registrasi yang tercantum pada surat keterangan. Semua dokter di platform ini terdaftar di dewan medis."
+    },
+    {
+      "kind": "text",
+      "text": "Jika penerima mewajibkan penggunaan formulir mereka sendiri, tanyakan kepada mereka sebelum Anda mengajukan permohonan. Surat keterangan PDF standar mungkin tidak dapat menggantikan formulir yang mereka wajibkan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Surat keterangan medis umum atau surat keterangan terkait: mana yang Anda perlukan?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum adalah surat dokter yang bersifat umum, sedangkan setiap surat keterangan terkait hanya menjawab satu hal yang spesifik. Pilih yang sesuai dengan permintaan pihak penerima Anda."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Surat keterangan",
+        "Isi pernyataan",
+        "Pihak yang biasanya meminta",
+        "Pilihan formulir yang dipilih"
+      ],
+      "rows": [
+        [
+          "Surat keterangan medis umum",
+          "Masalah kesehatan dan istirahat yang disarankan dokter untuk tanggal yang disebutkan",
+          "Pemberi kerja, sekolah, klub",
+          "Sick Leave"
+        ],
+        [
+          "Surat keterangan sakit",
+          "Bahwa Anda tidak layak untuk bekerja atau belajar pada tanggal yang disebutkan",
+          "Pemberi kerja, universitas",
+          "Sick Leave"
+        ],
+        [
+          "Surat keterangan sehat",
+          "Bahwa dokter menilai Anda layak untuk bekerja, belajar, berolahraga, atau bepergian",
+          "Pemberi kerja baru, sekolah, klub olahraga, maskapai",
+          "Medical Fitness Certificate"
+        ],
+        [
+          "Surat keterangan kerja dari rumah",
+          "Bahwa Anda dapat bekerja tetapi sebaiknya tetap di rumah",
+          "Pemberi kerja",
+          "Work From Home"
+        ],
+        [
+          "Surat keterangan tidak layak bepergian",
+          "Bahwa Anda sebaiknya tidak terbang atau bepergian pada tanggal yang disebutkan",
+          "Maskapai, penyedia layanan perjalanan",
+          "Unfit to Travel"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Mengapa mengajukan online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Dokumen medis tanpa harus ke klinik"
+    },
+    {
+      "kind": "text",
+      "text": "Sakit ringan, jadwal yang padat, keterbatasan mobilitas, atau bekerja jarak jauh dapat menyulitkan Anda membuat janji temu di klinik. Mengajukan secara online adalah alternatif yang lebih sederhana."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Konsultasi dari mana saja Ajukan tanpa keluar rumah, sehingga lebih mudah saat Anda perlu istirahat atau tidak bisa bepergian karena sakit.",
+        "Hemat waktu Lewati antrean klinik dan ruang tunggu, lalu selesaikan pengajuan Anda secara online.",
+        "Pengiriman surat keterangan digital Jika disetujui, surat keterangan Anda dikirim ke email Anda, siap untuk dibagikan.",
+        "Proses online yang aman Data Anda ditangani melalui proses online yang aman."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dokter yang memutuskan. Tidak ada yang disetujui secara otomatis. Dokter bersertifikat meninjau setiap permohonan dan memutuskan apakah akan menerbitkan surat keterangan, apa isinya, dan berapa lama jangka waktunya."
+    },
+    {
+      "kind": "text",
+      "text": "Ketersediaan"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Di mana layanan ini tersedia"
+    },
+    {
+      "kind": "text",
+      "text": "Setiap negara memiliki halaman surat keterangannya sendiri, dan layanan yang tersedia bisa berbeda. Pilih negara Anda untuk memeriksanya sebelum mengajukan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Tersedia saat ini"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore Lihat surat keterangan",
+        "Indonesia Lihat surat keterangan",
+        "Philippines Lihat surat keterangan",
+        "Thailand Lihat surat keterangan",
+        "Vietnam Lihat surat keterangan",
+        "Malaysia Lihat surat keterangan",
+        "Cambodia Lihat surat keterangan",
+        "Laos Lihat surat keterangan",
+        "Myanmar Lihat surat keterangan",
+        "Brunei Lihat surat keterangan"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQ"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Pertanyaan seputar surat keterangan medis umum"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apa itu Surat Keterangan Medis Umum online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum adalah dokumen resmi yang diterbitkan oleh dokter setelah menilai kondisi kesehatan pasien. Surat ini berisi konfirmasi tertulis terkait konsultasi medis, penyakit, pemulihan, atau status kesehatan, sesuai kebutuhan masing-masing orang."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lama saya bisa menerima Surat Keterangan Medis Umum?"
+    },
+    {
+      "kind": "text",
+      "text": "Biasanya sekitar 30 menit. Jika dokter menyetujui permohonan Anda, surat dikirim ke email Anda dalam bentuk PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah layanan ini tersedia setiap hari?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, layanan berjalan 365 hari setahun, termasuk akhir pekan dan hari libur nasional. Dokter meninjau permohonan pada jam kerja, jadi permohonan yang diajukan di luar jam tersebut akan menunggu jadwal kerja berikutnya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya mendapatkan Surat Keterangan Medis Umum dalam bahasa lokal saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat dalam bahasa lokal tidak dijanjikan. Kirim email ke care@drcertificate.com untuk menanyakannya sebelum Anda mengajukan permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Siapa yang menerbitkan Surat Keterangan Medis Umum online?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat diterbitkan oleh dokter bersertifikat (MBBS, MD atau MS). Dokter bekerja secara independen, dan hanya dokter yang memutuskan apakah surat diterbitkan serta apa isinya. Surat ini tidak untuk diserahkan di India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa biaya surat keterangan?"
+    },
+    {
+      "kind": "text",
+      "text": "Harga tergantung negara Anda, misalnya 25 SGD di Singapura, 399 peso di Filipina, atau 30 MYR di Malaysia. Formulir permohonan menampilkan harga sebelum Anda membayar. Pembayaran tidak dapat dikembalikan, termasuk jika dokter menolak permohonan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat ini diterima oleh pemberi kerja dan lembaga?"
+    },
+    {
+      "kind": "text",
+      "text": "Penerimaan tergantung pada organisasi tempat Anda menyerahkannya, jadi tanyakan terlebih dahulu. Pemberi kerja, sekolah atau universitas, instansi pemerintah, dan perusahaan perjalanan masing-masing punya persyaratan sendiri, jadi pastikan apakah mereka memerlukan format tertentu atau informasi tambahan. Surat ini diterbitkan oleh dokter bersertifikat, jadi tanyakan apakah mereka menerimanya."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya mendapatkan Surat Keterangan Medis Umum pada hari libur nasional?"
+    },
+    {
+      "kind": "text",
+      "text": "Ya, Anda bisa mengajukan permohonan pada hari libur nasional, karena layanan berjalan 365 hari setahun. Dokter meninjau permohonan Anda pada jam kerja."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana jika pemberi kerja atau lembaga saya memiliki persyaratan format tertentu?"
+    },
+    {
+      "kind": "text",
+      "text": "Kirim email berisi format yang diminta ke care@drcertificate.com sebelum Anda mengajukan permohonan, karena perubahan format tidak dijamin. Penerimaan tergantung pada organisasi tempat Anda menyerahkannya, jadi tanyakan terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Berapa lama surat keterangan medis umum berlaku?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum berlaku untuk tanggal yang ditulis dokter di dalamnya. Di sebagian besar negara Asia Tenggara, surat keterangan sakit untuk gejala umum mencakup paling lama 7 hari, dan surat keterangan sehat umumnya berlaku selama 30 hari. Pemberi kerja atau sekolah Anda mungkin menerapkan batas yang lebih singkat, jadi periksa kebijakan mereka terlebih dahulu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah surat keterangan medis umum dapat dibuat dengan tanggal mundur?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate tidak dapat menjanjikan surat keterangan medis umum dengan tanggal mundur. Dokter yang memutuskan tanggal yang dicakup oleh surat tersebut, berdasarkan gejala dan tanggal yang Anda sampaikan dalam chat. Jika tanggal yang Anda berikan tidak sesuai dengan gejala Anda, dokter dapat menolak permintaan tersebut, dan pembayaran tidak dikembalikan."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bagaimana surat keterangan dikirim dan berapa lama waktunya?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum yang disetujui dikirim dalam bentuk PDF melalui email, biasanya sekitar 30 menit setelah Anda mengajukan permohonan. Periksa folder spam jika Anda tidak menemukannya. Untuk permohonan surat keterangan sehat, dokter bertugas pukul 9 pagi hingga 9 malam IST, Senin sampai Sabtu, dan pukul 10 pagi hingga 8 malam IST pada hari Minggu."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah saya dapat memperbaiki nama atau tanggal setelah surat keterangan diterbitkan?"
+    },
+    {
+      "kind": "text",
+      "text": "Tidak, surat keterangan medis umum tidak dapat diperbaiki setelah diterbitkan, kecuali jika kesalahan berasal dari tim medis. Masukkan nama Anda persis seperti yang tertulis di kartu identitas, huruf demi huruf, dan periksa setiap tanggal sebelum membayar. Nama yang tidak sesuai dengan kartu identitas adalah salah satu alasan umum permintaan ditolak."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Bisakah saya menggunakan surat keterangan medis umum di negara saya?"
+    },
+    {
+      "kind": "text",
+      "text": "Surat keterangan medis umum dari DrCertificate ditujukan untuk digunakan di Singapura, Indonesia, Filipina, Thailand, Vietnam, Malaysia, Kamboja, Laos, Myanmar, dan Brunei. Surat keterangan ini tidak untuk diserahkan di India, tidak untuk keperluan hukum, dan tidak untuk asuransi. Diterima atau tidaknya di salah satu dari 10 negara ini bergantung pada kebijakan pihak penerima."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Apakah informasi kesehatan saya dijaga kerahasiaannya?"
+    },
+    {
+      "kind": "text",
+      "text": "Informasi kesehatan Anda diberikan kepada dokter yang meninjau permintaan surat keterangan medis umum Anda dan digunakan untuk memutuskan permintaan tersebut. Pembayaran diproses melalui Stripe, penyedia layanan pembayaran terpisah. Jika ada pertanyaan tentang cara informasi Anda ditangani, kirim email ke care@drcertificate.com sebelum atau sesudah Anda mengajukan permintaan."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sumber"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Siapa yang harus mengesahkan cuti sakit berbayar di Singapura"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Urusan dokumen jadi lebih mudah, di mana pun Anda berada."
+    },
+    {
+      "kind": "text",
+      "text": "Baik untuk pekerjaan, studi, perjalanan, maupun keperluan pribadi, ajukan secara online dalam beberapa menit. Jika dokter bersertifikat menyetujui permohonan Anda, surat keterangan Anda akan dikirim ke email Anda."
+    },
+    {
+      "kind": "text",
+      "text": "Ingin bertanya dulu? care@drcertificate.com"
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "slug": "sick-leave-certificate",
+  "group": "service",
+  "service": "sick-leave",
+  "title": "Online sick leave certificate",
+  "description": "Apply online for a doctor-reviewed sick leave certificate for work or study. A certified doctor reviews every request, and approved certificates are sent to your email.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Sick leave certificate · Reviewed by certified doctors"
+    },
+    {
+      "kind": "text",
+      "text": "Feeling unwell shouldn't mean travelling and waiting at a clinic just for paperwork. Apply online, a certified doctor reviews your request, and if approved, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate, and the certificate is not for submission in India."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review",
+        "Emailed if approved",
+        "Available 365 days a year"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Need a different certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical fitness",
+        "Unfit to fly",
+        "General medical"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0002"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Sick leave"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review and is advised rest for the period stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctor review Every request is assessed individually",
+        "100% online application Apply from your phone or laptop",
+        "Email delivery if approved Sent to the address you provide",
+        "Payments processed by Stripe Secure online payment"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a sick leave certificate online?"
+    },
+    {
+      "kind": "text",
+      "text": "To get an online sick leave certificate from DrCertificate, fill in the online form, pay through Stripe and answer an independent certified doctor's questions by chat. If the doctor approves, the certificate arrives by email as a PDF, usually in about 30 minutes. Issuance always depends on the doctor's medical judgement."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "text",
+      "text": "About this certificate"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A sick leave certificate is an official medical document issued by a certified doctor. It confirms that you were medically unfit to attend work, classes or your regular responsibilities for a specific period."
+    },
+    {
+      "kind": "text",
+      "text": "Employers and institutions use it to verify genuine medical absences and keep accurate attendance records."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What a certificate includes"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Your correct personal details",
+        "Date of consultation",
+        "Reason for leave",
+        "Recommended rest period",
+        "Doctor's name and credentials",
+        "Signature or digital verification"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Check these details before you submit. Incomplete certificates may be delayed or rejected by employers or institutions."
+    },
+    {
+      "kind": "text",
+      "text": "Avoid fake certificates. A genuine certificate is issued only after a real health assessment by a qualified doctor. Certificate generators and edited templates can be rejected and may cause problems with your employer or institution."
+    },
+    {
+      "kind": "text",
+      "text": "Who it's for"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When you might need a sick leave certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Policies differ between organisations, but a doctor's certificate is commonly asked for when illness keeps you away from work or study."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Employees"
+    },
+    {
+      "kind": "text",
+      "text": "Helps HR approve your leave under company policy and keep attendance and payroll records accurate."
+    },
+    {
+      "kind": "text",
+      "text": "Often needed when"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You're absent from work due to illness",
+        "Your sick leave goes beyond company limits",
+        "Your employer asks for proof of illness"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Students"
+    },
+    {
+      "kind": "text",
+      "text": "Schools and universities often ask for a doctor's certificate before they approve medical leave."
+    },
+    {
+      "kind": "text",
+      "text": "Often needed when"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You miss classes or exams",
+        "You miss assignments or academic activities",
+        "You miss mandatory attendance sessions"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Remote and hybrid workers"
+    },
+    {
+      "kind": "text",
+      "text": "Working from home doesn't remove the need to recover. Fever, severe fatigue or an infection can stop you working wherever you are."
+    },
+    {
+      "kind": "text",
+      "text": "Often needed when"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "You're too unwell to work from home",
+        "Your manager or HR asks for documentation"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Common reasons people apply"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Fever and viral infections",
+        "Cold and flu symptoms",
+        "Stomach problems",
+        "Migraine or severe headache",
+        "Minor injuries",
+        "Recovery after a medical procedure",
+        "Doctor-advised rest"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "See a doctor in person instead"
+    },
+    {
+      "kind": "text",
+      "text": "Online consultations are for suitable non-emergency situations. Get urgent medical care if you have:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Severe breathing difficulty",
+        "Chest pain",
+        "Loss of consciousness",
+        "Serious injury",
+        "Severe dehydration",
+        "Any symptoms that need emergency care"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Every request is assessed individually. Issuing a certificate, its content and its duration are at the reviewing doctor's discretion. All documents are addressed to the organisation they are submitted to and are valid for single use only. Acceptance depends on the organisation you submit it to."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What do employers, schools or airlines usually expect from an online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Most employers and schools expect a certificate that names you, gives the dates you were unfit, and shows the doctor's name and registration. Rules differ by employer, institution, airline and country."
+    },
+    {
+      "kind": "text",
+      "text": "Singapore gives a clear example. The Ministry of Manpower says employees covered by the Employment Act get paid sick leave after at least 3 months of service, up to 14 days outpatient and 60 days hospitalisation, with the full entitlement after 6 months. An employee who cannot report for work must inform the employer within 48 hours."
+    },
+    {
+      "kind": "text",
+      "text": "The medical certificate is then submitted on returning to work. To qualify for paid sick leave, the employee must be certified unfit for work by a medical practitioner registered under the Medical Registration Act or the Dental Registration Act."
+    },
+    {
+      "kind": "text",
+      "text": "Before applying, ask HR or your school office whether they accept online medical notes, whether they use their own form, and how long a period they accept on one note."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Online Sick Leave Certificate in Singapore",
+        "Medical certificates online in Malaysia",
+        "Online Sick Leave Certificate in the Philippines",
+        "Online Sick Leave Certificate in Thailand"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does an online sick leave certificate include?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate from DrCertificate shows who you are, the period the doctor recommends you rest, and who issued it. Recipients usually check those three parts first."
+    },
+    {
+      "kind": "text",
+      "text": "Your full name appears as it is on your ID. The doctor's statement gives the dates you were unfit for work or study. For generic symptoms, sick leave notes in most South East Asian countries go up to 7 days."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor's name, qualification and medical council registration details appear on the certificate. An employer or school can use them to check who signed it."
+    },
+    {
+      "kind": "text",
+      "text": "How it works"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Three simple steps, with a doctor checking every request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online application Add your details and the reason for your request. You may be asked to share vitals or other measurements through a secure link sent by email.",
+        "2 Step 2: A certified doctor reviews your request The doctor assesses the information you provide and decides whether a certificate is medically appropriate. They may decline a request.",
+        "3 Step 3: Get your certificate by email, if approved Approved certificates are sent electronically to the email address you provide."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which option should you choose on the form for an online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose Medical Certificate Sick Leave (For University/Work) on the form. The same option covers a general medical certificate."
+    },
+    {
+      "kind": "text",
+      "text": "In your answers, say who will receive the certificate, for example your employer or university, and list your symptoms with the date they started. If no option fits, email care@drcertificate.com before you pay."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What will the doctor ask you for an online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor will ask what symptoms you have, when they started and which dates you need the certificate to cover. Clear, honest answers help the doctor reach a decision quickly."
+    },
+    {
+      "kind": "text",
+      "text": "Expect questions about how the illness affects your daily tasks, any medicine you have taken and past health problems that matter. A pharmacy receipt, a thermometer reading or an earlier clinic note can help if you have one."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor may send follow-up questions in the chat. Reply promptly, because a stalled chat slows the review. Your name must match your ID, and your symptoms must fit the dates you request."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can an online sick leave certificate not be used?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate from DrCertificate cannot be submitted in India, used for legal purposes or used for insurance. Applicants must be at least 16 years old."
+    },
+    {
+      "kind": "text",
+      "text": "The service is for suitable non emergency situations only. If you have chest pain, trouble breathing, heavy bleeding or any symptom that feels severe, go to your nearest emergency department or call your local emergency number now."
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance is up to the recipient. Check with your employer or school before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor cannot issue your online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor cannot issue your online sick leave certificate, you receive no certificate and the payment is not refunded. Doctors decline about 2% of requests."
+    },
+    {
+      "kind": "text",
+      "text": "Declines happen when details are wrong, for example when the name and ID do not match, or when the symptoms and details you share are inconsistent. A doctor will also decline when your condition needs an in person examination or tests that a chat cannot replace. In that case, visit a local clinic or hospital."
+    },
+    {
+      "kind": "text",
+      "text": "Refunds apply only for a verified technical fault within 24 hours."
+    },
+    {
+      "kind": "text",
+      "text": "For help, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does an online sick leave certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The fee covers the doctor's review and, if approved, the PDF certificate."
+    },
+    {
+      "kind": "text",
+      "text": "Payment is through Stripe and is non refundable."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 PHP"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who issues your online sick leave certificate?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Certified doctors Each request goes to a doctor with an MBBS, MD or MS qualification. All doctors on the platform are registered medical council doctors.",
+        "The doctor decides DrCertificate is a platform. The doctor alone decides whether to issue a certificate, and doctors decline about 2% of requests, usually when details do not match or symptoms are inconsistent.",
+        "Medical reviewer Dr Urooj Arshad, M.B.B.S, General Medicine, IMC | GMC 430548."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will my employer, school or airline accept an online sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on your employer's or school's own policy, and no online certificate is accepted everywhere. DrCertificate encourages every customer to confirm with the recipient before applying."
+    },
+    {
+      "kind": "text",
+      "text": "All doctors on the platform are registered with a medical council. A recipient can verify the issuing doctor by checking the name and registration details on the certificate against that council's records. In Singapore, paid sick leave needs a practitioner registered under the Medical Registration Act, which makes asking HR first worth the effort."
+    },
+    {
+      "kind": "text",
+      "text": "If your employer or school requires its own form, a DrCertificate PDF will not replace it. Ask whether a doctor's certificate is acceptable in its place."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Online sick leave certificate vs related certificates: which do you need?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate says you were too unwell to work or study, while a work from home certificate says you can work but should stay home. Pick the row that matches what your recipient asked for, then choose the matching form option."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Certificate",
+        "What it states",
+        "Who usually receives it",
+        "Form option"
+      ],
+      "rows": [
+        [
+          "Sick leave",
+          "You were unfit for work or study on stated dates",
+          "Employer, school or university",
+          "Sick Leave"
+        ],
+        [
+          "Work from home",
+          "You can work but should stay home for a period",
+          "Employer",
+          "Work From Home"
+        ],
+        [
+          "Unfit to fly",
+          "Illness stops you from travelling by air",
+          "Airline or travel agent",
+          "Unfit to Travel"
+        ],
+        [
+          "Medical fitness",
+          "You are fit for work, study, sport or travel",
+          "Employer, school, club or airline",
+          "Medical Fitness Certificate"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "Why apply online"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Rest at home while a doctor reviews your request"
+    },
+    {
+      "kind": "text",
+      "text": "A clinic visit is hard work when you're already unwell. Applying online is a more comfortable alternative."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Consult from anywhere Apply without leaving home, which helps when you need rest or can't travel because of illness.",
+        "Save time Skip clinic queues and waiting rooms, and complete your application online.",
+        "Secure digital certificate If approved, your certificate arrives digitally, ready to submit by email, HR portal or student system.",
+        "Certified doctor assessment A certificate is issued only after a qualified medical professional has reviewed your request."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides. Nothing is approved automatically. A certified doctor reviews every request and decides whether to issue a certificate, what it says and how long it covers."
+    },
+    {
+      "kind": "text",
+      "text": "Availability"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where the service is available"
+    },
+    {
+      "kind": "text",
+      "text": "Each country has its own certificate pages, and available services can differ. Choose your country to check before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Available today"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Singapore View certificates",
+        "Indonesia View certificates",
+        "Philippines View certificates",
+        "Thailand View certificates",
+        "Vietnam View certificates",
+        "Malaysia View certificates",
+        "Cambodia View certificates",
+        "Laos View certificates",
+        "Myanmar View certificates",
+        "Brunei View certificates"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "FAQs"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about sick leave certificates"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What is an online Sick Leave Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An online Sick Leave Certificate is a digital document issued by a certified doctor (MBBS, MD or MS) that records your illness and recommends time off work or school. You apply without an in-person visit, and the doctor decides whether to issue it."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How quickly can I receive my Sick Leave Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "It usually takes about 30 minutes. If the doctor approves your request, the certificate is sent to your email as a PDF."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is the service available every day?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, the service runs 365 days a year, including weekends and public holidays. A doctor reviews requests during working hours, so a request made outside those hours waits for the next working slot."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I get a Sick Leave Certificate in my local language?"
+    },
+    {
+      "kind": "text",
+      "text": "A certificate in a local language is not promised. Email care@drcertificate.com to ask before you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Who issues the online Sick Leave Certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor (MBBS, MD or MS) issues the certificate. The doctor works independently and alone decides whether to issue it and what it says. The certificate is not for submission in India."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How much does a certificate cost?"
+    },
+    {
+      "kind": "text",
+      "text": "The price depends on your country, for example 25 SGD in Singapore, 399 pesos in the Philippines or 30 MYR in Malaysia. The application form shows the price before you pay. Payments are non-refundable, including when a doctor declines a request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Are these certificates accepted by employers and institutions?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on the organisation you submit it to, so check first. A certified doctor issues the certificate, so ask whether they accept that."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I obtain a Sick Leave Certificate on Public Holidays?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, you can apply on a public holiday, because the service runs 365 days a year. A doctor reviews your request during working hours."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What if my employer or institution has specific format requirements?"
+    },
+    {
+      "kind": "text",
+      "text": "Email care@drcertificate.com with the format before you apply, because a change of format is not guaranteed. Acceptance depends on the organisation you submit it to, so check first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How long is an online sick leave certificate valid?"
+    },
+    {
+      "kind": "text",
+      "text": "An online sick leave certificate covers the dates the doctor writes on it. In most South East Asian countries, sick leave notes go up to 7 days for generic symptoms. Your employer or school then decides whether that period meets its own leave rules."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a sick leave certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor certifies only the dates that fit the symptoms and timeline you report. You can describe an illness that began before you applied, and the doctor decides what period to state. Requests where the dates and symptoms do not match are declined, and the fee is not refunded."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How is the online sick leave certificate delivered?"
+    },
+    {
+      "kind": "text",
+      "text": "Approved certificates arrive by email as a PDF, usually about 30 minutes after you apply. Check your spam folder if nothing appears. You can print the PDF or forward it to your employer, school or HR team, whichever your recipient prefers."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I correct my name or dates after the certificate is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a certificate cannot be corrected once it is issued, unless the error came from the medical team. Type your name to match your ID and check your dates before you pay. If the medical team made the mistake, email care@drcertificate.com with your details."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I use the certificate in my country?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, if you live in one of the 10 South East Asian countries DrCertificate serves and your recipient accepts online medical notes. The certificate is not for submission in India, for legal purposes or for insurance. Confirm acceptance with your employer or school first."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is my health information kept private?"
+    },
+    {
+      "kind": "text",
+      "text": "Your health details are shared with the doctor who reviews your request, for the purpose of that review. Give only the information the doctor needs to decide. For any question about how DrCertificate handles your data, email care@drcertificate.com before or after you apply."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do I need a video call to get a sick leave certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "No, DrCertificate has no video or in person consultations. The doctor reviews your form and may ask follow-up questions by text chat. If the doctor feels your condition needs a physical examination or tests, the request is declined and you should visit a local clinic."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Ministry of Manpower, Singapore: Paid sick leave in Singapore"
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "When you're sick, your priority should be recovery, not paperwork. Apply online in a few minutes, and if a certified doctor approves your request, your certificate is sent to your email."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

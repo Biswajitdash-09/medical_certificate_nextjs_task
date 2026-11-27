@@ -1,0 +1,489 @@
+{
+  "slug": "what-if-the-doctor-declines-your-request",
+  "group": "guide",
+  "title": "What Happens If the Doctor Declines Your Request? Guide",
+  "description": "What happens if the doctor declines your request on DrCertificate: why about 2% are declined, what happens to your payment and what to do next.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Why requests get declined, what happens to your payment and how to apply with the right details"
+    },
+    {
+      "kind": "text",
+      "text": "Learn what happens if the doctor declines your request for a medical certificate on DrCertificate, why it happens and how to avoid it."
+    },
+    {
+      "kind": "text",
+      "text": "An independent doctor registered with a medical council reviews every request after a digital chat consultation and decides whether to issue a certificate. DrCertificate serves people in 10 South East Asian countries, from Singapore and Malaysia to the Philippines."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "The short answer on what happens if the doctor declines your request"
+    },
+    {
+      "kind": "text",
+      "text": "When the doctor declines your request on DrCertificate, no medical certificate is issued and the payment is not refunded. The independent doctor alone decides whether to issue one. Doctors decline about 2% of requests, usually because the name and ID do not match or the symptoms and details shared are inconsistent."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Main points about a declined request"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "About 2% are declined Doctors on DrCertificate decline about 2% of certificate requests.",
+        "Mismatched names A name on the form that does not match the ID is a common reason for a decline.",
+        "Inconsistent details Symptoms and details that contradict each other can lead the doctor to decline.",
+        "No refund after a decline DrCertificate does not refund the payment when the doctor declines a request.",
+        "The doctor decides Only the independent doctor decides whether a medical certificate is issued."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does it mean when the doctor declines your request?"
+    },
+    {
+      "kind": "text",
+      "text": "A declined request means the independent doctor reviewed your details and chose not to issue a medical certificate. No PDF is sent, and nothing is issued in your name."
+    },
+    {
+      "kind": "text",
+      "text": "A decline is not a diagnosis."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor is not saying you are healthy or unwell, and the decision does not appear on any document. The decision says one thing only: the information shared did not support issuing a certificate this time."
+    },
+    {
+      "kind": "text",
+      "text": "Any of the four options on the DrCertificate form can be declined. Those options are Sick Leave for university or work, Unfit to Travel, Work From Home and the Medical Fitness Certificate. The fitness option also covers fit to fly, fit to work and sports fitness requests, and a general medical certificate uses the Sick Leave option."
+    },
+    {
+      "kind": "text",
+      "text": "A decline is different from a technical fault. A verified technical fault reported within 24 hours falls under the refund policy, while a decline is a medical decision and the payment stays non refundable."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When does a doctor decline a certificate request?"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "A doctor declines a certificate request when the details are wrong or do not add up. On DrCertificate that happens in about 2% of requests.",
+        "The two common causes are simple. The name on the form does not match the ID, or the symptoms and details shared contradict each other.",
+        "Think about who reads the certificate later. An HR team checks a sick leave note against your employee record, and a university office matches it to your student file. An airline compares a fit to fly document with your passport and booking. Each of these organisations asks for a certificate because it needs a doctor's independent word on your health for a stated period or purpose.",
+        "A certificate carrying the wrong name, or telling a story that does not hold together, would fail those checks anyway. The doctor's name also stands behind every line on the page.",
+        "A decline protects you too. Inconsistent details can look like a travel fitness request that mentions symptoms suggesting you should not fly. Sick leave dates that do not fit the illness described are another example."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "A declined request at a glance"
+    },
+    {
+      "kind": "text",
+      "text": "The table sets out the facts about a declined request on DrCertificate, and what the doctor considers when approving one."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Topic",
+        "What it means on DrCertificate"
+      ],
+      "rows": [
+        [
+          "Decline rate",
+          "About 2% of requests"
+        ],
+        [
+          "Common reason",
+          "The name on the form does not match the ID"
+        ],
+        [
+          "Common reason",
+          "Symptoms and details shared are inconsistent"
+        ],
+        [
+          "Who decides",
+          "The independent doctor who reviews your chat"
+        ],
+        [
+          "Payment after a decline",
+          "Not refunded"
+        ],
+        [
+          "Days covered when approved",
+          "Decided by the doctor case by case. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms."
+        ],
+        [
+          "Fitness outcome when approved",
+          "Decided by the doctor case by case. Fitness notes are generally valid for 30 days"
+        ],
+        [
+          "When an in person visit fits better",
+          "Urgent or severe symptoms, emergencies, or a need for a physical examination"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Who decides whether your request is declined?"
+    },
+    {
+      "kind": "text",
+      "text": "An independent doctor with an MBBS, MD or MS qualification decides whether your request is approved or declined. Every doctor on DrCertificate is registered with a medical council."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is an online platform that connects applicants with independent doctors. The platform does not diagnose, treat or prescribe, and the medical decision belongs to the doctor alone."
+    },
+    {
+      "kind": "text",
+      "text": "Why does that separation matter? A certificate is only worth something if the person signing it judged the case freely. Employers, universities and airlines rely on that independence when they read a medical note, and a decline is part of what keeps the approved certificates credible."
+    },
+    {
+      "kind": "text",
+      "text": "The doctor reads your form, chats with you and decides."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How does a request get reviewed, step by step?"
+    },
+    {
+      "kind": "text",
+      "text": "Getting a certificate online with DrCertificate takes five steps, and the doctor's decision comes at the end. Knowing where a decline can start helps you avoid one."
+    },
+    {
+      "kind": "text",
+      "text": "Most declines trace back to the first two steps."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Choose the right form option Pick Sick Leave for university or work, Unfit to Travel, Work From Home or the Medical Fitness Certificate. Fit to fly, fit to work and sports fitness requests use the Medical Fitness option. A general medical certificate uses the Sick Leave option.",
+        "2 Step 2: Give accurate information when you fill in the form Enter your name as it is written on your ID and describe your symptoms or purpose plainly. Mismatched names and inconsistent details are the usual reasons doctors decline.",
+        "3 Step 3: Pay through Stripe Payment is taken through Stripe before the review. The fee is non refundable, even if the doctor declines.",
+        "4 Step 4: Chat with the doctor An independent doctor reviews your request in a digital chat and may ask follow-up questions. DrCertificate has no video or in person consultations.",
+        "5 Step 5: Receive the decision If the doctor approves, the certificate arrives by email as a PDF, usually in about 30 minutes. If the doctor declines, no certificate is issued."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should your request include to avoid a decline?"
+    },
+    {
+      "kind": "text",
+      "text": "Your request should include details that match your ID and a plain, consistent account of your symptoms or purpose. Those same details end up on the certificate if the doctor approves it."
+    },
+    {
+      "kind": "text",
+      "text": "An approved certificate usually shows your name, the dates covered, the purpose and the issuing doctor's details."
+    },
+    {
+      "kind": "text",
+      "text": "Before you submit, ask your employer, school or airline what format they expect. Requirements differ from one organisation to the next, and checking first saves you from paying for a note that does not fit."
+    },
+    {
+      "kind": "text",
+      "text": "Run through this checklist."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Name matches your ID Spell your name the same way it is printed on your ID document.",
+        "Right option chosen Pick the form option that matches what the organisation asked for.",
+        "Dates make sense Request dates that fit the symptoms you describe.",
+        "Story stays consistent Describe the same symptoms in the form and in the chat.",
+        "Format confirmed Ask HR, the school office or the airline about any format rules first."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Will your employer or school accept the certificate if the doctor approves it?"
+    },
+    {
+      "kind": "text",
+      "text": "Acceptance depends on your employer, school or airline, not on DrCertificate or the doctor. Each receiving organisation sets its own rules on online medical notes. DrCertificate encourages every customer to confirm that the place of submission accepts online medical notes before choosing the service."
+    },
+    {
+      "kind": "text",
+      "text": "Asking first costs nothing."
+    },
+    {
+      "kind": "text",
+      "text": "A certificate gets questioned for familiar reasons. The type may be wrong, for example a sick leave note handed in where a fitness certificate was needed. Details HR expects to see may be missing. Or the organisation may not accept online notes at all."
+    },
+    {
+      "kind": "text",
+      "text": "If a certificate is questioned, ask the organisation which detail is the problem and point them to the doctor details on the certificate. For anything about the certificate itself, email care@drcertificate.com. A certificate cannot be corrected once issued unless the fault came from the medical team, so a typo you entered or a wrong option you picked stays as it is."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is an online certificate request not the right choice?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor may also decline any request that does not suit a chat consultation."
+    },
+    {
+      "kind": "text",
+      "text": "Chest pain, trouble breathing or a sudden severe symptom calls for emergency care, not a form. DrCertificate is for suitable non emergency situations only."
+    },
+    {
+      "kind": "text",
+      "text": "The service also has fixed limits."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "DrCertificate certificates are not for submission in India.",
+        "No legal or insurance use Certificates are not for legal purposes and must not be used for insurance.",
+        "Age 16 and over Applicants must be at least 16 years old.",
+        "No recovery or caretaker certificates DrCertificate does not offer recovery or caretaker certificates."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Declined requests in Singapore, Malaysia and the rest of South East Asia"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is for people in 10 South East Asian countries, and the rules on sick leave and fitness notes differ in each one. Employers and schools often add their own rules on top of national law."
+    },
+    {
+      "kind": "text",
+      "text": "Check the official source for your country before you apply. In Singapore, that is the Ministry of Manpower. In Malaysia, look to the Ministry of Human Resources, and in the Philippines, the Department of Labor and Employment. Readers in other served countries should check their national labour ministry."
+    },
+    {
+      "kind": "text",
+      "text": "Then ask the people who will receive the note. Your HR team, school office or airline can tell you whether an online medical note works for them and what it must show. Confirming early avoids paying for a certificate you cannot use."
+    },
+    {
+      "kind": "text",
+      "text": "The same doctor review applies everywhere."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Singapore and Malaysia",
+        "Requests from Singapore and Malaysia go through the same online form and independent doctor review."
+      ],
+      "rows": [
+        [
+          "The Philippines",
+          "Applicants in Manila, Cebu, Davao and the rest of the country use the same form and chat consultation."
+        ],
+        [
+          "Indonesia, Thailand and Vietnam",
+          "The same eligibility rules and non refundable payment apply to requests from Indonesia, Thailand and Vietnam."
+        ],
+        [
+          "Cambodia, Laos, Myanmar and Brunei",
+          "Applicants in Cambodia, Laos, Myanmar and Brunei should check local workplace rules before applying."
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What does a request cost and how long does it take?"
+    },
+    {
+      "kind": "text",
+      "text": "A DrCertificate request costs 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia. The fee covers the doctor's review and digital chat consultation, plus the PDF certificate by email if the doctor approves."
+    },
+    {
+      "kind": "text",
+      "text": "A decision usually takes about 30 minutes. Timing depends on when you apply, since fitness cases are handled from 9 am to 9 pm IST Monday to Saturday and 10 am to 8 pm IST on Sunday."
+    },
+    {
+      "kind": "text",
+      "text": "Payments are non refundable, including when the doctor declines. The only exception is a verified technical fault within 24 hours."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Country",
+        "Price per request"
+      ],
+      "rows": [
+        [
+          "Singapore",
+          "25 SGD"
+        ],
+        [
+          "Philippines",
+          "399 pesos"
+        ],
+        [
+          "Malaysia",
+          "30 MYR"
+        ]
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Frequently asked questions about a declined request"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What happens if the doctor declines your request?"
+    },
+    {
+      "kind": "text",
+      "text": "No certificate is issued and no PDF is sent when the doctor declines your request on DrCertificate. The payment stays non refundable. If your situation needs medical attention, see a doctor in person, and for questions about your request, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do you get a refund if the doctor declines your request?"
+    },
+    {
+      "kind": "text",
+      "text": "No, the payment is not refunded if the doctor declines your request. DrCertificate payments are non refundable, and a decline does not change that. The one exception is a verified technical fault reported within 24 hours. Read the conditions carefully before you pay."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Why would a doctor decline a medical certificate request?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor declines a request when the details are wrong or inconsistent. The common causes are a name that does not match the ID and symptoms or details that contradict each other. Doctors on DrCertificate decline about 2% of requests, and careful, honest answers keep you clear of that group."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a medical certificate be backdated?"
+    },
+    {
+      "kind": "text",
+      "text": "You should not expect a certificate for dates the doctor cannot support. The independent doctor sets the dates based on what you share in the consultation. Asking for dates that do not fit your symptoms makes the details inconsistent, which is a common reason for a decline."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How many days of sick leave can the doctor cover?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides the number of days case by case. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms, and fitness notes are generally valid for 30 days. If you need more time, see a doctor in person."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Do you have to talk to the doctor?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, the doctor reviews your request through a digital chat consultation on DrCertificate. The service offers no video calls and no in person visits. Answer the doctor's chat questions plainly and promptly, because vague or missing replies can make your details look inconsistent."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can a certificate be corrected after it is issued?"
+    },
+    {
+      "kind": "text",
+      "text": "No, a DrCertificate certificate cannot be corrected once issued unless the fault came from the medical team. Check your name, ID details and dates before you submit the form. A typo you make cannot be fixed afterwards, and a mismatch with your ID can lead to a decline."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related guides to declined requests and medical certificates"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "What is a digital medical certificate?",
+        "What should a medical certificate include?",
+        "Work from home or sick leave certificate: which do you need?",
+        "How many days of sick leave can a medical certificate cover?",
+        "General medical certificate online",
+        "How to get a medical certificate online for leave",
+        "Online Sick Leave Certificate in Singapore",
+        "Frequently asked questions about DrCertificate",
+        "All certificates and guides"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Ready to request your certificate with the right details?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the form option that matches your purpose and enter details that match your ID. An independent doctor reviews your chat and decides. Payments are non refundable, including declines, and the service is for suitable non emergency situations only."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

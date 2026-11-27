@@ -2,6 +2,9 @@ import type { Brand } from "./types";
 import { dr } from "./dr";
 import { gmc } from "./gmc";
 
+// The deployed preview URL; absolute links (sitemap, robots, hreflang) need it, and an env var can override it for another deploy
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://medical-certificate-nextjs-task.vercel.app";
+
 // The only place brands are registered; a third brand is one more import and key here
 export const brands: Record<Brand["id"], Brand> = { dr, gmc };
 

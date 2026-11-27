@@ -1,0 +1,515 @@
+{
+  "slug": "medical-certificate-for-migraine",
+  "group": "symptom",
+  "title": "Medical Certificate for Migraine Online",
+  "description": "Get a medical certificate for migraine online from a certified doctor after a chat consultation. PDF by email in about 30 minutes across South East Asia.",
+  "blocks": [
+    {
+      "kind": "text",
+      "text": "Doctor reviewed requests by chat for non emergency migraine attacks"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate lets you request a medical certificate for migraine online, from your phone, without a clinic visit."
+    },
+    {
+      "kind": "text",
+      "text": "A certified doctor reviews your request through a chat based consultation and decides whether to issue a certificate. The service is for non emergency situations."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate serves people in 10 South East Asian countries, from Singapore and Malaysia to the Philippines and Vietnam. Start the online form to begin."
+    },
+    {
+      "kind": "text",
+      "text": "Dr Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "Certificate no."
+    },
+    {
+      "kind": "text",
+      "text": "DRC-SAMPLE-0005"
+    },
+    {
+      "kind": "text",
+      "text": "Medical Certificate"
+    },
+    {
+      "kind": "text",
+      "text": "General medical"
+    },
+    {
+      "kind": "text",
+      "text": "Doctor's assessment"
+    },
+    {
+      "kind": "text",
+      "text": "This is to certify that the above-named applicant was assessed through a medical review on the date stated."
+    },
+    {
+      "kind": "text",
+      "text": "Certified doctor"
+    },
+    {
+      "kind": "text",
+      "text": "Reg. no. ••••••"
+    },
+    {
+      "kind": "text",
+      "text": "Organisations can verify certificates through official channels"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Can you get a medical certificate for migraine online?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes. DrCertificate connects people with migraine to certified MBBS, MD or MS doctors who review a request through a digital chat consultation. The doctor decides whether to issue a medical certificate for migraine, and an approved certificate arrives as a PDF by email. The service is for non emergency cases and is not for India, legal or insurance use."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Before you apply"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What is a medical certificate for migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "A medical certificate for migraine is a document from a certified doctor confirming that, in the doctor's view, you need rest or adjusted work because of a migraine attack."
+    },
+    {
+      "kind": "text",
+      "text": "Most people with migraine choose a sick leave certificate or a work from home certificate. You usually show it to an employer, a university or a school to explain an absence."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate does not come with a diagnosis or treatment plan from DrCertificate. The platform connects you with independent doctors and does not diagnose, treat or prescribe. Migraine is classed as a neurological condition under ICD-10 code G43 in the International Classification of Diseases, so a doctor can accept it as a genuine reason for time off. The decision to issue still rests with the doctor."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which kinds of migraine can a doctor consider online?"
+    },
+    {
+      "kind": "text",
+      "text": "A doctor on DrCertificate can consider a common migraine attack when the symptoms are familiar to you and no warning signs are present. The doctor decides whether rest is needed and for how long, based on what you share in the consultation."
+    },
+    {
+      "kind": "text",
+      "text": "No fixed number of days is promised."
+    },
+    {
+      "kind": "text",
+      "text": "Migraine attacks usually last between 4 hours and 3 days, according to the NHS. That window helps a doctor judge what rest, if any, fits your attack."
+    },
+    {
+      "kind": "text",
+      "text": "Not every form of migraine suits a chat consultation. A first ever severe headache, a migraine that brings weakness on one side of the body, or any attack with the warning signs listed further down needs a doctor in person."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Migraine without aura The most common type, marked by a severe, throbbing headache on one side of the head.",
+        "Migraine with aura Visual changes like flashing lights or zigzag lines appear before or during the headache.",
+        "Chronic migraine Headaches on 15 or more days a month. A doctor looks at the current attack you describe.",
+        "Vestibular migraine Dizziness and balance problems, with or without head pain."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What should you tell the doctor about your migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "Tell the doctor what your migraine feels like, when it started and how it affects your day. Clear, honest details help the doctor decide whether a certificate fits your situation."
+    },
+    {
+      "kind": "text",
+      "text": "Vague answers slow things down."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Symptoms Throbbing head pain, which side it is on, nausea and vomiting, sensitivity to light or sound, and any aura.",
+        "Onset and duration The date the attack began, how long it has lasted and whether it matches past attacks.",
+        "Severity Whether you can look at a screen, travel or work right now.",
+        "Earlier records Any past diagnosis, scan result or neurologist's note you already have.",
+        "Leave requested The dates you are asking the certificate to cover."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "When is migraine not suitable for an online certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Migraine is not suitable for an online certificate when it comes with signs of an emergency. Call your local emergency number or go to a hospital if you notice any of the signs listed here, which the NHS names as reasons to seek emergency care."
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is for suitable non emergency situations and does not diagnose, treat or prescribe. A doctor may decline any request that cannot be safely assessed by chat."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sudden, intense headache A headache that came on suddenly and is severely painful.",
+        "Speech or memory problems Trouble speaking or remembering things.",
+        "Loss of vision Partial or total loss of sight.",
+        "Seizure Any fit or seizure during the attack.",
+        "One sided weakness Weakness in the arm or leg on one side of the body."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Which certificate should you choose for migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "Choose the Sick Leave option if a migraine attack keeps you away from work or classes. The right option depends on whether you can work, travel or study during the attack."
+    },
+    {
+      "kind": "text",
+      "text": "A general medical certificate also uses the Sick Leave option."
+    },
+    {
+      "kind": "table",
+      "head": [
+        "Form option",
+        "When it suits someone with migraine"
+      ],
+      "rows": [
+        [
+          "Sick Leave, for university or work",
+          "The attack stops you from working or attending classes for now."
+        ],
+        [
+          "Work From Home",
+          "You can still work at home in a dim, quiet room, but the commute or office lighting would worsen symptoms."
+        ],
+        [
+          "Unfit to Travel",
+          "An attack makes a planned trip or flight unsafe or impractical."
+        ],
+        [
+          "Medical Fitness",
+          "Your employer, school or sports club asks for a note on your current fitness to work, study or play."
+        ]
+      ]
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Sick leave certificate",
+        "Work from home certificate",
+        "Medical fitness certificate"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How do you get a medical certificate for migraine online?"
+    },
+    {
+      "kind": "text",
+      "text": "You get a medical certificate for migraine online in four steps, all from your phone or laptop. The whole flow usually takes about 30 minutes once your form is in."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "1 Step 1: Fill in the online form Pick the certificate option and describe your migraine, its onset, severity and the dates you need covered.",
+        "2 Step 2: Pay securely through Stripe Complete payment on the Stripe checkout so your request can go to a doctor.",
+        "3 Step 3: Doctor review by chat A certified doctor reads your details, may ask questions through a digital chat, and decides whether to issue a certificate.",
+        "4 Step 4: Receive your PDF by email If approved, the certificate arrives in your inbox as a PDF, ready to send to your employer or university."
+      ]
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "How much does a medical certificate for migraine cost?"
+    },
+    {
+      "kind": "text",
+      "text": "The price of a medical certificate for migraine depends on your country. Singapore is 25 SGD, the Philippines is 399 pesos and Malaysia is 30 MYR."
+    },
+    {
+      "kind": "text",
+      "text": "Your payment covers a doctor's review of your request, whether or not a certificate is issued. You pay securely through Stripe, and payments are non refundable except for a verified technical fault reported within 24 hours."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Singapore"
+    },
+    {
+      "kind": "text",
+      "text": "25 SGD"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Philippines"
+    },
+    {
+      "kind": "text",
+      "text": "399 pesos"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Malaysia"
+    },
+    {
+      "kind": "text",
+      "text": "30 MYR"
+    },
+    {
+      "kind": "text",
+      "text": "You'll continue on the secure DrCertificate application form."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "What happens if the doctor does not issue a certificate for migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor alone decides whether to issue a certificate, and that decision is independent of DrCertificate. A request may not suit chat when the name and ID do not match, when the symptoms and details shared are inconsistent, or when warning signs point to in person care."
+    },
+    {
+      "kind": "text",
+      "text": "If the doctor declines, the payment is not refunded."
+    },
+    {
+      "kind": "text",
+      "text": "A certificate cannot be corrected once issued unless the fault came from the medical team. Double check your name and ID before you submit. For any question, email care@drcertificate.com."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Where can you use a medical certificate for migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "You can use a medical certificate for migraine from DrCertificate in the 10 South East Asian countries listed here. The employer, university or institution receiving it decides whether to accept it, so check first that they accept online medical notes."
+    },
+    {
+      "kind": "text",
+      "text": "The certificate is not for submission in India. The certificate cannot be used for legal purposes or for insurance. Applicants must be at least 16 years old."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Singapore"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Malaysia"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Philippines"
+    },
+    {
+      "kind": "text",
+      "text": "Including Manila, Cebu and Davao."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Indonesia"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Thailand"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Vietnam"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Cambodia"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Laos"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Myanmar"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Brunei"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical certificates online in Singapore",
+        "Medical certificates online in Malaysia",
+        "Medical certificates online in the Philippines",
+        "Medical Certificate Online in Manila",
+        "Medical Certificate Online in Cebu",
+        "Medical Certificate Online in Davao",
+        "Medical certificates online in Indonesia",
+        "Medical certificates online in Thailand",
+        "Medical certificates online in Vietnam",
+        "Medical certificates online in Cambodia",
+        "Medical certificates online in Laos",
+        "Medical certificates online in Myanmar",
+        "Medical certificates online in Brunei"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Why request your migraine certificate through DrCertificate?"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate is an online platform run by Health Venture OU that connects people in South East Asia with independent, certified doctors."
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Qualified, registered doctors Every request is reviewed by a certified MBBS, MD or MS doctor registered with a medical council.",
+        "PDF by email in about 30 minutes Approved certificates arrive in your inbox as a PDF.",
+        "Honest about limits Customers are encouraged to check that their employer or university accepts online medical notes before applying.",
+        "A named operator Health Venture OU runs the platform, with an office at KMC Armstrong Corporate Center, Salcedo Village, Makati City, Metro Manila."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Questions about medical certificates for migraine"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I share test results or a neurologist's report for my migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, you can mention any earlier diagnosis, scan result or neurologist's note when you describe your migraine in the online form. Those details help the doctor understand your history. Tests are not always needed for migraine, and the doctor decides based on the full picture you share."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How many days off can I get for a migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "The doctor decides the leave period, if any, after the chat consultation. In most South East Asian countries, sick leave and work from home notes go up to 7 days for generic symptoms. The NHS says migraine attacks usually last between 4 hours and 3 days, which guides the rest a doctor may suggest."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Will my employer accept an online medical certificate for migraine?"
+    },
+    {
+      "kind": "text",
+      "text": "Your employer decides whether to accept an online medical certificate. Every doctor on DrCertificate is registered with a medical council, but workplace policies differ between companies and countries. Check with your HR team or university office that they accept online medical notes before you apply, since payments are non refundable."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Can I have a video call or see a doctor in person?"
+    },
+    {
+      "kind": "text",
+      "text": "No. DrCertificate does not offer video or in person consultations. A certified doctor reviews your request through a digital chat consultation only. If your migraine needs a physical examination, or you would prefer to speak with someone face to face, please visit a local clinic or hospital."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "What should I do if my migraine gets worse after I apply?"
+    },
+    {
+      "kind": "text",
+      "text": "Seek urgent in person care if your headache becomes sudden and intensely painful, or if you develop trouble speaking, vision loss, a seizure or weakness on one side of the body. Do not wait for a certificate. A chat consultation cannot replace emergency treatment, so call your local emergency number."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "Is migraine a valid reason for a medical certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "Yes, migraine is a recognised neurological condition, listed under ICD-10 code G43 in the International Classification of Diseases. A migraine attack can bring severe head pain, nausea and vomiting that make work or study hard. A certified doctor still decides whether your symptoms justify a certificate after reviewing your request."
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "How fast will I receive my migraine certificate?"
+    },
+    {
+      "kind": "text",
+      "text": "An approved medical certificate for migraine usually arrives by email as a PDF in about 30 minutes. The clock starts once your form and Stripe payment are complete. If the doctor asks for more details in the chat, replying quickly keeps your review moving."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Sources"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "NHS: How long a migraine attack usually lasts"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Related certificates and conditions"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Medical Certificate for Stomach Infection",
+        "Medical Certificate for Allergy",
+        "Medical Certificate for Ankle Sprain",
+        "Medical Certificate for Chicken Pox",
+        "Sick leave certificate",
+        "Work from home certificate",
+        "General medical certificate",
+        "Medical fitness certificate",
+        "Unfit to Fly Certificate in Brunei",
+        "Online Sick Leave Certificate in the Philippines"
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Request a medical certificate for migraine"
+    },
+    {
+      "kind": "text",
+      "text": "Start your request with a certified doctor today. The price is 25 SGD in Singapore, 399 pesos in the Philippines and 30 MYR in Malaysia, and approved certificates arrive by email as a PDF. Warning signs mean urgent care first."
+    },
+    {
+      "kind": "text",
+      "text": "Questions first? care@drcertificate.com"
+    }
+  ]
+}

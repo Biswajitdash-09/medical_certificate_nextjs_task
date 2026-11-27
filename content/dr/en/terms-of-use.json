@@ -1,0 +1,116 @@
+{
+  "slug": "terms-of-use",
+  "group": "legal",
+  "title": "Terms of Use - DrCertificate.com",
+  "description": "The terms that govern your access to and use of DrCertificate.com and its related services.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Scope and Acceptance"
+    },
+    {
+      "kind": "text",
+      "text": "These Terms of Service (“Terms”) constitute a legally binding agreement between you (“User”) and Health Venture OU (“the Company,” “the Platform,” “we,” or “us”) governing your access to and use of DrCertificate.com (“the Platform”) and its related services (“Services”). By accessing, browsing, or making payment on our Platform, you acknowledge that you have read, understood, and agreed to be bound by these Terms, as well as our Privacy Policy and Payment & Refund Policies."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Nature of Service"
+    },
+    {
+      "kind": "text",
+      "text": "DrCertificate.com operates solely as a digital platform facilitating connections between Users and fully licensed independent medical professionals who may issue medical certificates following a digital consultation. The Platform itself does not provide medical diagnosis, treatment, or prescriptions. All medical judgments, including issuance, modification, or denial of certificates, are exclusively the consulting doctor’s responsibility."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Eligibility and Lawful Use"
+    },
+    {
+      "kind": "text",
+      "text": "As a User, you represent and warrant that you:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "Are at least sixteen (16) years old or legally capable under applicable law;",
+        "Provide truthful, accurate, and complete information when using the Services;",
+        "Will not misrepresent your identity, medical history, or intent;",
+        "Will use certificates issued solely for lawful, legitimate purposes such as workplace, academic, or travel documentation; and",
+        "Will not use certificates for fraudulent, insurance, or legal litigation purposes."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Consultation and Issuance Process"
+    },
+    {
+      "kind": "text",
+      "text": "All consultations are conducted exclusively via secure digital chat no in-person or video consultations are provided. Certificates, if approved by the consulting medical professional, are delivered solely in electronic PDF format with relevant doctor details such as registration number, digital signature, and date. The Platform is not responsible if a third party, including employers or institutions, refuses to accept the certificate."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Professional Independence of Doctors"
+    },
+    {
+      "kind": "text",
+      "text": "All medical professionals acting through DrCertificate.com are independent contractors. We do not control or influence clinicians’ professional decisions. The Company disclaims any liability arising from medical decisions, including refusals to issue certificates."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Verification Requests"
+    },
+    {
+      "kind": "text",
+      "text": "Verification requests will only be honoured when initiated by the recipient institution via official institutional email domains, with the User copied. Verification verifies issuance dates and validity but excludes disclosure of clinical or sensitive personal medical data without explicit written consent from the User."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Limitation of Liability"
+    },
+    {
+      "kind": "text",
+      "text": "To the fullest extent permitted by law:"
+    },
+    {
+      "kind": "list",
+      "items": [
+        "DrCertificate.com, its affiliates, directors, and employees shall not be liable for any indirect, incidental, consequential, or punitive damages.",
+        "Our aggregate liability is limited to the total fees paid for the relevant service.",
+        "The Services are provided “as is” and “as available,” without warranties of accuracy, uninterrupted operation, or fitness for a particular purpose."
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Indemnification"
+    },
+    {
+      "kind": "text",
+      "text": "You agree to indemnify and hold harmless DrCertificate.com, its affiliates, officers, and employees from any claims, damages, or costs arising from your misuse of the Services, breach of these Terms, or violation of applicable laws."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Governing Law and Jurisdiction"
+    },
+    {
+      "kind": "text",
+      "text": "All contractual obligations and disputes shall be governed by the laws of the Republic of India. Exclusive jurisdiction shall rest with the competent courts at Cuttack, Odisha (India)."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "Contact"
+    },
+    {
+      "kind": "text",
+      "text": "For questions regarding these Terms, please contact: Email: care@drcertificate.com Address: KMC Armstrong Corporate Center, H.V. Dela Costa, Salcedo Village, Makati City, 1227 Metro Manila, Philippines"
+    }
+  ]
+}
