@@ -25,6 +25,7 @@ export const gmc: Brand = {
       "40+ countries across Europe and the EEA",
     ],
   },
+  servicesTitle: "Choose your certificate",
   services: [
     { title: "Sick Leave Certificate", body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
     { title: "Fitness Certificate", body: "General clearance that you are fit for physical activity", price: "€34.99" },

@@ -22,6 +22,7 @@ export const dr: Brand = {
     body: "Fill in a short online form from your phone or laptop. A certified doctor checks your details. When approved, your certificate is sent to your email.",
     bullets: ["A certified doctor (MBBS, MD or MS) issues the certificate.", "Emailed if approved", "Apply from your phone", "Payments processed by Stripe"],
   },
+  servicesTitle: "Choose the certificate you need",
   services: [
     {
       title: "Sick leave certificate",

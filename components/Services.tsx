@@ -5,7 +5,7 @@ import { CtaLink } from "./CtaLink";
 // One Apply button under the whole list instead of one per card: fewer competing CTAs
 export function Services({ brand }: { brand: Brand }) {
   return (
-    <Section id="services" title="Choose the certificate you need">
+    <Section id="services" title={brand.servicesTitle}>
       <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {brand.services.map((s) => (
           <li key={s.title} className="flex flex-col rounded-2xl border border-slate-200 p-5">

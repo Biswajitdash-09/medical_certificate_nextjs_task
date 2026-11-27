@@ -8,6 +8,7 @@ export type Brand = {
   ctaHref: string;
   nav: { label: string; href: string }[];
   hero: { eyebrow: string; title: string; body: string; bullets: string[] };
+  servicesTitle: string; // each brand words its own services heading; a shared default leaked dr copy onto gmc
   services: { title: string; body: string; price?: string; uses?: string[] }[];
   steps: { title: string; body: string }[];
   facts?: { label: string; value: string }[];
