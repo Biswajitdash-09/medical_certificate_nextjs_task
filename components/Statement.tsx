@@ -7,24 +7,19 @@ export function Statement({ brand }: { brand: Brand }) {
   // Reuse a service photo the brand already has, so the panel never needs a new asset or an empty frame
   const photo = brand.services.find((s) => s.photo)?.photo;
   return (
-    <section aria-label={brand.statement} className="statement bg-white px-4 py-12 md:py-20">
-      <div
-        className="mx-auto grid max-w-6xl overflow-hidden rounded-3xl bg-brand text-brand-ink lg:grid-cols-[1.35fr_1fr]"
-        style={{ "--word-on": "#ffffff", "--word-dim": "rgba(255,255,255,0.55)" } as React.CSSProperties}
-      >
-        <div className="flex flex-col justify-center gap-6 p-7 sm:p-10 lg:p-14">
-          <span aria-hidden="true" className="h-1 w-12 rounded-full bg-white/60" />
-          <p className="text-balance text-[32px] font-extrabold leading-[1.08] tracking-tight sm:text-[44px] lg:text-[54px]">
-            {words.map((w, i) => (
-              <span key={i} className="statement-word" style={{ "--i": i, "--n": words.length } as React.CSSProperties}>
-                {w}{" "}
-              </span>
-            ))}
-          </p>
-        </div>
+    <section aria-label={brand.statement} className="statement bg-white px-4 py-10 sm:py-14 md:py-20">
+      <div className="mx-auto grid max-w-6xl overflow-hidden rounded-2xl bg-brand shadow-lg shadow-brand/10 sm:rounded-3xl md:grid-cols-[1.25fr_1fr] lg:grid-cols-[1.35fr_1fr]">
+        {/* The sentence is the panel's only text, so it carries its own padding instead of sitting in a wrapper div */}
+        <p className="self-center text-balance p-6 text-[28px] font-extrabold leading-[1.12] tracking-tight text-white sm:p-10 sm:text-[40px] md:text-[42px] lg:p-14 lg:text-[52px] xl:p-16">
+          {words.map((w, i) => (
+            <span key={i} className="statement-word" style={{ "--i": i, "--n": words.length } as React.CSSProperties}>
+              {w}{" "}
+            </span>
+          ))}
+        </p>
         {photo && (
-          <div className="relative aspect-[16/10] lg:aspect-auto lg:min-h-[26rem]">
-            <Image src={photo.src} alt="" fill sizes="(max-width: 1023px) 100vw, 40vw" className="object-cover" />
+          <div className="relative aspect-[16/10] sm:aspect-[16/9] md:aspect-auto md:min-h-[22rem] lg:min-h-[26rem]">
+            <Image src={photo.src} alt="" fill sizes="(max-width: 767px) 100vw, 42vw" className="object-cover" />
           </div>
         )}
       </div>
