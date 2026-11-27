@@ -25,13 +25,17 @@ function extractCountry(slug: string): string {
   return match[1].split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
 }
 
-// Collapse runs of h3 + text pairs (scraped FAQ sections) into native <details> FAQ blocks
+// Collapse runs of h3 + text pairs (scraped FAQ sections) into native <details> FAQ blocks, and drop empty h2 placeholders
 function normalizeBlocks(blocks: PageBlock[]): PageBlock[] {
   const out: PageBlock[] = [];
   let i = 0;
   while (i < blocks.length) {
     const cur = blocks[i];
     const next = blocks[i + 1];
+    if (cur.kind === "heading" && cur.level === 2 && next?.kind === "heading" && next.level === 2) {
+      i++;
+      continue;
+    }
     if (cur.kind === "heading" && cur.level === 3 && next?.kind === "text") {
       const items: { q: string; a: string }[] = [];
       while (i < blocks.length && blocks[i].kind === "heading" && (blocks[i] as { level: number }).level === 3 && blocks[i + 1]?.kind === "text") {
@@ -282,14 +286,19 @@ export function ContentPage({
       )}
 
       <section className="bg-white py-12 md:py-16">
-        <div className={`mx-auto max-w-6xl px-4 ${toc.length > 0 ? "grid gap-10 lg:grid-cols-[16rem_1fr] lg:items-start" : ""}`}>
+        <div className={`mx-auto max-w-6xl px-4 ${toc.length > 0 ? "grid gap-8 lg:grid-cols-[17rem_1fr] lg:items-start lg:gap-10" : ""}`}>
           {toc.length > 0 && (
-            <aside aria-label="Table of contents" className="hidden rounded-2xl border border-slate-200/80 bg-surface/50 p-5 lg:sticky lg:top-24 lg:block">
-              <p className="text-xs font-semibold uppercase tracking-[0.08em] text-slate-500">On this page</p>
-              <ul className="mt-3 space-y-2 text-sm">
+            <aside
+              aria-label="Table of contents"
+              className="hidden rounded-2xl border border-slate-200/80 bg-surface/60 p-4 lg:sticky lg:top-24 lg:block lg:max-h-[calc(100vh-7.5rem)] lg:overflow-y-auto"
+            >
+              <p className="px-2.5 text-xs font-semibold uppercase tracking-[0.08em] text-slate-500">On this page</p>
+              <ul className="mt-2.5 space-y-0.5">
                 {toc.map((item) => (
                   <li key={item.id}>
-                    <a href={`#${item.id}`} className="link-draw text-slate-700 hover:text-brand">{item.text}</a>
+                    <a href={`#${item.id}`} className="block rounded-lg px-2.5 py-1.5 text-[13px] leading-snug text-slate-600 transition-colors hover:bg-white hover:text-brand">
+                      {item.text}
+                    </a>
                   </li>
                 ))}
               </ul>
@@ -297,6 +306,23 @@ export function ContentPage({
           )}
           {/* min-w-0 lets the grid column shrink on phones; without it long words and tables stretched it past the screen and got clipped */}
           <div className={`min-w-0 ${isGuide || isSymptom || page.group === "company" || page.group === "legal" ? "max-w-[68ch]" : "max-w-4xl"}`}>
+            {toc.length > 0 && (
+              <details className="group mb-8 rounded-2xl border border-slate-200/80 bg-surface/60 px-4 py-3 lg:hidden">
+                <summary className="flex cursor-pointer list-none items-center justify-between text-xs font-semibold uppercase tracking-[0.08em] text-slate-600 [&::-webkit-details-marker]:hidden">
+                  <span>On this page ({toc.length})</span>
+                  <span aria-hidden="true" className="text-sm text-slate-400 transition-transform group-open:rotate-180">▾</span>
+                </summary>
+                <ul className="mt-3 space-y-1 border-t border-slate-200/70 pt-3">
+                  {toc.map((item) => (
+                    <li key={item.id}>
+                      <a href={`#${item.id}`} className="block rounded-lg px-2 py-1.5 text-sm leading-snug text-slate-700 hover:bg-white hover:text-brand">
+                        {item.text}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            )}
             {introBlocks.length > 0 && (
               <div className="mb-10 space-y-4 border-b border-slate-100 pb-8">
                 {introBlocks.map((b, i) => (
