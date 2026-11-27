@@ -38,24 +38,23 @@ export const gmc: Brand = {
       "GDPR compliant - encrypted, never shared",
       "40+ countries across Europe and the EEA",
     ],
-    // Stand-in photograph (Wikimedia Commons) until the client supplies its own; no face, no brand names
+    // Generated photograph (no real person, no brand names) replacing the earlier Wikimedia stand-in
     visual: {
       kind: "photo",
-      src: "/img/photo-f196010783.webp",
-      alt: "A person at a home desk holding their lower back in discomfort",
-      width: 1280,
-      height: 853,
-      credit: "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+      src: "/img/gen/gmc-hero.webp",
+      alt: "Someone at a kitchen table by tall windows, looking at their phone beside a laptop",
+      width: 1400,
+      height: 933,
     },
   },
   statement: "A certificate anyone can check - in seconds.",
   portal: { region: "40+ countries across Europe and the EEA", price: "From €34.99", ground: "#470087" },
   servicesTitle: "Choose your certificate",
   services: [
-    { title: "Sick Leave Certificate", href: "https://getmedicalcertificate.com/sick-leave-certificate/", body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
-    { title: "Fitness Certificate", href: "https://getmedicalcertificate.com/fitness-certificate/", body: "General clearance that you are fit for physical activity", price: "€34.99" },
+    { title: "Sick Leave Certificate", href: "https://getmedicalcertificate.com/sick-leave-certificate/", photo: { src: "/img/gen/gmc-sick-leave.webp", alt: "An unmade bed by a rainy window with a lamp and a cup of tea" }, body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
+    { title: "Fitness Certificate", href: "https://getmedicalcertificate.com/fitness-certificate/", photo: { src: "/img/gen/gmc-fitness.webp", alt: "A gym bag, water bottle and towel on a bench in a bright gym" }, body: "General clearance that you are fit for physical activity", price: "€34.99" },
     { title: "Sports Fitness Certificate", href: "https://getmedicalcertificate.com/sports-fitness-certificate/", body: "Medical clearance to train and compete in sport", price: "€34.99" },
-    { title: "Unfit to Travel", body: "A GP’s certificate stating you are unfit to travel, for flight or booking cancellations.", price: "€34.99" },
+    { title: "Unfit to Travel", photo: { src: "/img/gen/gmc-unfit-to-travel.webp", alt: "A suitcase with a scarf over the handle waiting in a hallway" }, body: "A GP’s certificate stating you are unfit to travel, for flight or booking cancellations.", price: "€34.99" },
   ],
   steps: [
     { title: "Fill out the form", body: "A quick, secure questionnaire - your details, health issue, and the reason you need a certificate." },

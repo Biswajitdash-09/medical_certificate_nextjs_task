@@ -29,4 +29,4 @@ export type Brand = {
 // The hero shows the real thing: dr's live certificate illustration, or a photograph with its licence credit
 export type HeroVisual =
   | { kind: "certificate"; photo?: { src: string; alt: string }; brandLine: string; title: string; type: string; fields: { label: string; value: string }[]; assessment: string; signer: string; reg: string; seal: string; watermark: string }
-  | { kind: "photo"; src: string; alt: string; width: number; height: number; credit: string };
+  | { kind: "photo"; src: string; alt: string; width: number; height: number; credit?: string };

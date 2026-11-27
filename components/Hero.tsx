@@ -34,10 +34,10 @@ export function Hero({ brand }: { brand: Brand }) {
             visual.photo ? (
               // The document lies over the corner of a home photo: the product, and the life it fits into
               <div className="relative pb-16 md:pb-0">
-                <div className="photo-frame aspect-[4/5] w-[85%] md:ml-auto">
+                <div className="photo-frame aspect-[4/5] w-[88%] ml-auto">
                   <Image src={visual.photo.src} alt={visual.photo.alt} width={800} height={1000} priority sizes="(max-width: 767px) 85vw, 38vw" className="size-full object-cover" />
                 </div>
-                <div className="absolute bottom-0 right-0 w-[78%] md:-left-10 md:right-auto md:w-[70%]">
+                <div className="absolute bottom-0 left-0 w-[64%] origin-bottom-left md:-left-6 md:w-[56%]">
                   <CertificateCard visual={visual} />
                 </div>
               </div>

@@ -115,3 +115,9 @@ The Apply buttons lead to a separate form tool on each brand's `forms.` subdomai
 - **Inconsistency for the client.** gmc's form says "Consultations occur via chat". Its homepage FAQ says the doctor may need "a short video call". Both are shown as written.
 
 **Next step, outside this assignment:** a native application flow for each brand. It would pre-fill the certificate type from the card clicked, show progress, offer a visible way back to the site, and keep the T&C and refund text exactly as legal approves it.
+
+## Round 4: generated photography
+
+- The 7 generated photographs are in `public/img/gen/`, converted to WebP (36–77 KB each). They show no real people's faces and no brands.
+- **dr hero:** the certificate document lies over the corner of a home photo. **gmc hero:** the generated kitchen-table photo replaces the earlier Wikimedia stand-in, which is now removed along with its credit.
+- **Service photos are all-or-none per brand,** so a grid is never half pictured (tested). Still missing: `dr-fitness`, `dr-unfit-to-fly` and `gmc-sports`. Until they arrive, both service grids stay text-only.

@@ -37,6 +37,7 @@ export const dr: Brand = {
     // The live hero's certificate illustration, field for field; the SAMPLE watermark stays so it can never pass as a real certificate
     visual: {
       kind: "certificate",
+      photo: { src: "/img/gen/dr-hero.webp", alt: "Someone resting on a sofa at home under a blanket, checking their phone" },
       brandLine: "DrCertificate",
       title: "Medical Certificate",
       type: "Sick leave",
@@ -60,6 +61,7 @@ export const dr: Brand = {
     {
       title: "Sick leave certificate",
       href: "https://drcertificate.com/sick-leave-certificate/",
+      photo: { src: "/img/gen/dr-sick-leave.webp", alt: "A bedside table with tea and a closed laptop in morning light" },
       body: "Documents a period of illness for your workplace, college or school, subject to their policies.",
       uses: ["Office leave", "College or school absence"],
     },
@@ -78,6 +80,7 @@ export const dr: Brand = {
     {
       title: "General medical certificate",
       href: "https://drcertificate.com/general-medical-certificate/",
+      photo: { src: "/img/gen/dr-general.webp", alt: "A hand resting on a document envelope on a home desk" },
       body: "For other personal or official needs where a doctor's certificate is requested.",
       uses: ["Personal records", "Official or administrative requests"],
     },

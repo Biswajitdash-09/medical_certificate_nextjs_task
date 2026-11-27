@@ -5,6 +5,8 @@ import { CtaLink } from "./CtaLink";
 
 // Photo-led cards; the whole card links to the live detail page, and one Apply button under the list keeps CTAs from competing
 export function Services({ brand }: { brand: Brand }) {
+  // A half-pictured grid looks broken, so photos appear only once every card has one
+  const showPhotos = brand.services.every((s) => s.photo);
   return (
     <Section id="services" title={brand.servicesTitle}>
       <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
@@ -12,7 +14,7 @@ export function Services({ brand }: { brand: Brand }) {
           const body = (
             <>
               {/* Photo slot renders only when the brand supplies one, so a card is never an empty frame */}
-              {s.photo && (
+              {showPhotos && s.photo && (
                 <div className="photo-frame -mx-5 -mt-5 mb-5 aspect-[4/3] rounded-b-none">
                   <Image src={s.photo.src} alt={s.photo.alt} width={600} height={450} sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 25vw" className="size-full object-cover" />
                 </div>

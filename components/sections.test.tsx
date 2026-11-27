@@ -44,7 +44,8 @@ test("hero photographs exist on disk", async () => {
   Object.values(brands).forEach((b) => {
     if (b.hero.visual.kind === "photo") {
       expect(fs.existsSync("public" + b.hero.visual.src)).toBe(true);
-      expect(b.hero.visual.credit).toMatch(/CC|public domain/i);
+      // A licensed stand-in must carry its licence; generated photos carry no credit
+      if (b.hero.visual.credit) expect(b.hero.visual.credit).toMatch(/CC|public domain/i);
     }
   });
 });
@@ -79,4 +80,21 @@ test("gmc sample certificate item links to the samples page", () => {
 test.each(["dr", "gmc"] as const)("%s hero shows where Apply leads", (id) => {
   const { container } = render(<Hero brand={brands[id]} />);
   expect(container.textContent).toContain(brands[id].ctaNote);
+});
+
+// A grid where only some cards have photos looks broken, so photos show only when every card has one
+test("service photos render all-or-none per brand", () => {
+  const partial = { ...brands.dr, services: brands.dr.services.map((s, i) => (i === 0 ? { ...s, photo: { src: "/img/gen/dr-sick-leave.webp", alt: "x" } } : { ...s, photo: undefined })) };
+  expect(render(<Services brand={partial} />).container.querySelectorAll("img")).toHaveLength(0);
+});
+
+// Every photo a config names exists on disk
+test("every configured photo file exists", async () => {
+  const fs = await import("node:fs");
+  Object.values(brands).forEach((b) => {
+    b.services.forEach((s) => s.photo && expect(fs.existsSync("public" + s.photo.src)).toBe(true));
+    const v = b.hero.visual;
+    const src = v.kind === "photo" ? v.src : v.photo?.src;
+    if (src) expect(fs.existsSync("public" + src)).toBe(true);
+  });
 });
