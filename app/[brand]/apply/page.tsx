@@ -22,19 +22,25 @@ async function ApplyContent({ params }: { params: PageProps<"/[brand]/apply">["p
   return (
     <BrandShell brand={brand}>
       <main className="bg-surface">
-        <div className="mx-auto max-w-3xl px-4 py-12 md:py-16">
+        <div className="mx-auto max-w-6xl px-4 py-10 md:py-16">
           <a href={`/${brand.id}`} className="link-draw text-sm text-slate-600">Back to {brand.name}</a>
           <h1 className="mt-4 text-[36px] leading-tight md:text-[48px]">{brand.ctaLabel}</h1>
-          <ul className="mt-6 grid gap-2 text-[15px] text-slate-700 sm:grid-cols-2">
-            {brand.beforeYouStart.items.map((i) => (
-              <li key={i.text} className="flex gap-2.5">
-                <span aria-hidden="true" className="mt-0.5 grid size-5 shrink-0 place-items-center rounded-full bg-accent text-[11px] font-bold text-white">✓</span>
-                {i.text}
-              </li>
-            ))}
-          </ul>
-          <div className="mt-10 rounded-2xl bg-white p-6 shadow-sm md:p-10">
-            <ApplyForm brand={brand} />
+          {/* Form and checklist side by side from lg, the checklist staying in view; on smaller screens the checklist comes first */}
+          <div className="mt-8 grid gap-6 lg:grid-cols-[1fr_20rem] lg:items-start lg:gap-10">
+            <aside className="rounded-2xl bg-white p-5 shadow-sm sm:p-6 lg:sticky lg:top-24 lg:order-2">
+              <p className="font-semibold">{brand.beforeYouStart.title}</p>
+              <ul className="mt-4 space-y-3 text-[15px] leading-snug text-slate-700">
+                {brand.beforeYouStart.items.map((i) => (
+                  <li key={i.text} className="flex gap-2.5">
+                    <span aria-hidden="true" className="mt-0.5 grid size-5 shrink-0 place-items-center rounded-full bg-accent text-[11px] font-bold text-white">✓</span>
+                    {i.text}
+                  </li>
+                ))}
+              </ul>
+            </aside>
+            <div className="rounded-2xl bg-white p-5 shadow-sm sm:p-8 lg:p-10">
+              <ApplyForm brand={brand} />
+            </div>
           </div>
         </div>
       </main>

@@ -49,69 +49,89 @@ export function ApplyForm({ brand, initialType }: { brand: Brand; initialType?: 
     );
   }
 
-  const field = "mt-1.5 block w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-[17px] outline-none focus:border-brand focus:ring-2 focus:ring-brand/20 aria-[invalid=true]:border-red-600";
+  const field = "mt-1.5 block w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-[17px] outline-none transition focus:border-brand focus:ring-4 focus:ring-brand/15 aria-[invalid=true]:border-red-600";
   const err = (k: keyof Errors) => errors[k] && <p id={`${k}-error`} className="mt-1.5 text-sm text-red-700">{errors[k]}</p>;
   const a11y = (k: keyof Errors) => ({ "aria-invalid": Boolean(errors[k]), "aria-describedby": errors[k] ? `${k}-error` : undefined });
+  // Numbered parts split a long form into four short ones, so progress is visible at every width
+  const part = (n: number, title: string) => (
+    <legend className="flex items-center gap-3 text-[19px] font-semibold">
+      <span aria-hidden="true" className="grid size-8 place-items-center rounded-full bg-brand text-sm text-brand-ink">{n}</span>
+      {title}
+    </legend>
+  );
 
   return (
-    <form noValidate onSubmit={onSubmit} className="space-y-6">
-      <div>
-        <label htmlFor="type" className="font-medium">Certificate type</label>
-        <select ref={typeRef} id="type" name="type" defaultValue={initialType ?? ""} className={field} {...a11y("type")}>
-          <option value="" disabled>Choose a certificate</option>
-          {brand.services.map((s) => <option key={s.slug} value={s.slug}>{s.title}{s.price ? ` · ${s.price}` : ""}</option>)}
-        </select>
-        {err("type")}
-      </div>
+    <form noValidate onSubmit={onSubmit} className="divide-y divide-slate-100">
+      <fieldset className="space-y-4 pb-8">
+        {part(1, "Your certificate")}
+        <div>
+          <label htmlFor="type" className="font-medium">Certificate type</label>
+          <select ref={typeRef} id="type" name="type" defaultValue={initialType ?? ""} className={field} {...a11y("type")}>
+            <option value="" disabled>Choose a certificate</option>
+            {brand.services.map((s) => <option key={s.slug} value={s.slug}>{s.title}{s.price ? ` · ${s.price}` : ""}</option>)}
+          </select>
+          {err("type")}
+        </div>
+      </fieldset>
 
-      <fieldset>
-        <legend className="font-medium">Name of the patient</legend>
-        <div className="mt-1.5 grid gap-4 sm:grid-cols-2">
+      <fieldset className="space-y-4 py-8">
+        {part(2, "Name of the patient")}
+        <div className="grid gap-4 sm:grid-cols-2">
           <div>
-            <label htmlFor="firstName" className="text-sm text-slate-600">First name</label>
+            <label htmlFor="firstName" className="font-medium">First name</label>
             <input id="firstName" name="firstName" autoComplete="given-name" className={field} {...a11y("firstName")} />
             {err("firstName")}
           </div>
           <div>
-            <label htmlFor="lastName" className="text-sm text-slate-600">Last name</label>
+            <label htmlFor="lastName" className="font-medium">Last name</label>
             <input id="lastName" name="lastName" autoComplete="family-name" className={field} {...a11y("lastName")} />
             {err("lastName")}
           </div>
         </div>
+        <div className="grid gap-4 sm:grid-cols-[2fr_1fr]">
+          <div>
+            <label htmlFor="email" className="font-medium">Email</label>
+            <input id="email" name="email" type="email" autoComplete="email" className={field} {...a11y("email")} />
+            {err("email")}
+          </div>
+          <div>
+            <label htmlFor="age" className="font-medium">Age</label>
+            <input id="age" name="age" type="number" inputMode="numeric" min={brand.minAge ?? 1} className={field} {...a11y("age")} />
+            {err("age")}
+          </div>
+        </div>
       </fieldset>
 
-      <div className="grid gap-4 sm:grid-cols-[2fr_1fr]">
+      <fieldset className="space-y-4 py-8">
+        {part(3, "Reason")}
         <div>
-          <label htmlFor="email" className="font-medium">Email</label>
-          <input id="email" name="email" type="email" autoComplete="email" className={field} {...a11y("email")} />
-          {err("email")}
+          <label htmlFor="reason" className="font-medium">Reason for the certificate</label>
+          <textarea id="reason" name="reason" rows={4} className={field} {...a11y("reason")} />
+          {err("reason")}
         </div>
-        <div>
-          <label htmlFor="age" className="font-medium">Age</label>
-          <input id="age" name="age" type="number" inputMode="numeric" min={brand.minAge ?? 1} className={field} {...a11y("age")} />
-          {err("age")}
-        </div>
-      </div>
+      </fieldset>
 
-      <div>
-        <label htmlFor="reason" className="font-medium">Reason for the certificate</label>
-        <textarea id="reason" name="reason" rows={4} className={field} {...a11y("reason")} />
-        {err("reason")}
-      </div>
-
-      <div className="rounded-2xl bg-surface p-5">
-        <ul className="space-y-2 text-sm text-slate-700">
-          {brand.legal.flatMap((g) => g.points).map((p) => <li key={p} className="border-l-2 border-brand pl-3">{p}</li>)}
+      <fieldset className="space-y-4 pt-8">
+        {part(4, "Confirm")}
+        {/* Every legal point stays readable in full; the box scrolls on its own so the form keeps its length on phones */}
+        <ul tabIndex={0} aria-label="Points to read" className="max-h-72 space-y-3 overflow-y-auto rounded-2xl bg-surface p-5 text-sm leading-relaxed text-slate-700 outline-none focus-visible:ring-2 focus-visible:ring-brand">
+          {brand.legal.flatMap((g) => g.points).map((p) => (
+            <li key={p} className="flex gap-3">
+              <span aria-hidden="true" className="mt-[0.55em] size-1.5 shrink-0 rounded-full bg-brand" />
+              <span>{p}</span>
+            </li>
+          ))}
         </ul>
-        <label className="mt-4 flex gap-3 font-medium">
-          <input type="checkbox" name="ack" className="mt-1 size-5 accent-[var(--primary)]" {...a11y("ack")} />
+        <label className="flex cursor-pointer gap-3 rounded-xl border border-slate-200 p-4 font-medium has-[:checked]:border-brand has-[:checked]:bg-brand/5">
+          <input type="checkbox" name="ack" className="mt-0.5 size-5 shrink-0 accent-[var(--primary)]" {...a11y("ack")} />
           I have read the points above.
         </label>
         {err("ack")}
-      </div>
-
-      <button type="submit" className="btn-primary w-full sm:w-auto">Submit application</button>
-      <p className="text-sm text-slate-600">Prototype: nothing is sent or charged.</p>
+        <div className="flex flex-col gap-3 pt-2 sm:flex-row sm:items-center sm:justify-between">
+          <button type="submit" className="btn-primary w-full sm:w-auto">Submit application</button>
+          <p className="text-sm text-slate-600">Prototype: nothing is sent or charged.</p>
+        </div>
+      </fieldset>
     </form>
   );
 }
