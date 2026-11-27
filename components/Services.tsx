@@ -3,7 +3,7 @@ import type { Brand } from "@/brands/types";
 import { Section } from "./Section";
 import { CtaLink } from "./CtaLink";
 
-// Photo-led cards; the whole card links to the live detail page, and one Apply button under the list keeps CTAs from competing
+// Photo-led cards; the whole card opens our own detail page, and one Apply button under the list keeps CTAs from competing
 export function Services({ brand }: { brand: Brand }) {
   // A half-pictured grid looks broken, so photos appear only once every card has one
   const showPhotos = brand.services.every((s) => s.photo);
@@ -31,7 +31,7 @@ export function Services({ brand }: { brand: Brand }) {
           );
           return (
             <li key={s.title} className="flex">
-              {s.href ? <a href={s.href} className="card card-link overflow-hidden">{body}</a> : <div className="card overflow-hidden">{body}</div>}
+              <a href={`/${brand.id}/${s.slug}`} className="card card-link overflow-hidden">{body}</a>
             </li>
           );
         })}

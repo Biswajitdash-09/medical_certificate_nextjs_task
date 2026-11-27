@@ -33,3 +33,21 @@ test("hosts map to their own brand only", () => {
   expect(brandForHost("my-app.vercel.app")).toBeUndefined();
   expect(brandForHost(null)).toBeUndefined();
 });
+
+// Nothing on our pages may send people to the brands' live sites or forms
+test("configs hold no off-site links", () => {
+  Object.values(brands).forEach((b) => {
+    expect(b.ctaHref.startsWith("/")).toBe(true);
+    b.beforeYouStart.items.forEach((i) => expect(i.href ?? "/").toMatch(/^\//));
+    b.nav.forEach((n) => expect(n.href).toMatch(/^[#/]/));
+  });
+});
+
+// Each service has a unique URL slug for its detail page
+test("service slugs are unique per brand", () => {
+  Object.values(brands).forEach((b) => {
+    const slugs = b.services.map((s) => s.slug);
+    expect(new Set(slugs).size).toBe(slugs.length);
+    slugs.forEach((s) => expect(s).toMatch(/^[a-z0-9-]+$/));
+  });
+});

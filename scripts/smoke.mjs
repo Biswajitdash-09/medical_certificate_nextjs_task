@@ -21,6 +21,12 @@ const dr = await html("/dr");
 const gmc = await html("/gmc");
 expect("dr page has no gmc words", !["€34.99", "GDPR", "dial 112", "GetMedicalCertificate"].some((w) => dr.includes(w)));
 expect("gmc page has no dr words", !["SGD", "Stripe", "India", "MBBS", "Urooj"].some((w) => gmc.includes(w)));
+expect("/dr/apply is 200", (await status("/dr/apply")) === 200);
+expect("/gmc/sports-fitness is 200", (await status("/gmc/sports-fitness")) === 200);
+expect("/dr/foo is 404", (await status("/dr/foo")) === 404);
+// No clickable link may leave for the brands' live sites or forms
+const offsite = new RegExp("<a[^>]+href=\"https?:[^\"]*(drcertificate|getmedicalcertificate)");
+for (const p of ["/dr", "/gmc", "/dr/apply", "/gmc/apply", "/dr/sick-leave", "/gmc/fitness"]) expect(p + " has no off-site links", !offsite.test(await html(p)));
 expect("both pages carry FAQ JSON-LD", dr.includes('"FAQPage"') && gmc.includes('"FAQPage"'));
 
 checks.forEach(([n, ok]) => console.log(ok ? "PASS" : "FAIL", n));

@@ -9,7 +9,7 @@ export const gmc: Brand = {
   logo: { src: "/brands/gmc-logo.svg", alt: "GetMedicalCertificate", width: 230 },
   colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#F6F4F9", text: "#1a1033" },
   ctaLabel: "Get a certificate",
-  ctaHref: "https://forms.getmedicalcertificate.com/healthworkstech/form/GetYourMedicalCertificateNow/formperma/Bj5SHi3vWq2NM-1azgtWfnE_NvPXUERoDzL63fw6ug8",
+  ctaHref: "/gmc/apply",
   ctaNote: "You'll continue on the secure GetMedicalCertificate application form.",
   // Verbatim from the note at the top of gmc's own application form (forms.getmedicalcertificate.com), shown before the click
   beforeYouStart: {
@@ -17,7 +17,7 @@ export const gmc: Brand = {
     items: [
       { text: "Your name as per your Govt ID proof" },
       { text: "Certificates are issued in English." },
-      { text: "Please review the sample certificate and confirm its acceptance with your organization before proceeding.", href: "https://getmedicalcertificate.com/samples/" },
+      { text: "Please review the sample certificate and confirm its acceptance with your organization before proceeding." },
       { text: "Consultations occur via chat, and our team may contact you for additional details if needed." },
       { text: "Working Hours: 10:00 AM – 8:00 PM IST, 7 days a week, including public holidays. Orders outside these hours are handled in the next working slot." },
     ],
@@ -51,10 +51,10 @@ export const gmc: Brand = {
   portal: { region: "40+ countries across Europe and the EEA", price: "From €34.99", ground: "#470087" },
   servicesTitle: "Choose your certificate",
   services: [
-    { title: "Sick Leave Certificate", href: "https://getmedicalcertificate.com/sick-leave-certificate/", photo: { src: "/img/gen/gmc-sick-leave.webp", alt: "An unmade bed by a rainy window with a lamp and a cup of tea" }, body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
-    { title: "Fitness Certificate", href: "https://getmedicalcertificate.com/fitness-certificate/", photo: { src: "/img/gen/gmc-fitness.webp", alt: "A gym bag, water bottle and towel on a bench in a bright gym" }, body: "General clearance that you are fit for physical activity", price: "€34.99" },
-    { title: "Sports Fitness Certificate", href: "https://getmedicalcertificate.com/sports-fitness-certificate/", body: "Medical clearance to train and compete in sport", price: "€34.99" },
-    { title: "Unfit to Travel", photo: { src: "/img/gen/gmc-unfit-to-travel.webp", alt: "A suitcase with a scarf over the handle waiting in a hallway" }, body: "A GP’s certificate stating you are unfit to travel, for flight or booking cancellations.", price: "€34.99" },
+    { slug: "sick-leave", title: "Sick Leave Certificate", photo: { src: "/img/gen/gmc-sick-leave.webp", alt: "An unmade bed by a rainy window with a lamp and a cup of tea" }, body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
+    { slug: "fitness", title: "Fitness Certificate", photo: { src: "/img/gen/gmc-fitness.webp", alt: "A gym bag, water bottle and towel on a bench in a bright gym" }, body: "General clearance that you are fit for physical activity", price: "€34.99" },
+    { slug: "sports-fitness", title: "Sports Fitness Certificate", body: "Medical clearance to train and compete in sport", price: "€34.99" },
+    { slug: "unfit-to-travel", title: "Unfit to Travel", photo: { src: "/img/gen/gmc-unfit-to-travel.webp", alt: "A suitcase with a scarf over the handle waiting in a hallway" }, body: "A GP’s certificate stating you are unfit to travel, for flight or booking cancellations.", price: "€34.99" },
   ],
   steps: [
     { title: "Fill out the form", body: "A quick, secure questionnaire - your details, health issue, and the reason you need a certificate." },

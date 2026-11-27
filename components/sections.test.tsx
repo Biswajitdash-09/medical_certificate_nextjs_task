@@ -59,7 +59,7 @@ test.each(["dr", "gmc"] as const)("%s statement renders whole", (id) => {
 // Service cards with a live detail page link there
 test("service cards link to their detail pages", () => {
   const { container } = render(<Services brand={brands.dr} />);
-  expect(container.querySelector("a[href='https://drcertificate.com/unfit-to-fly/']")).not.toBeNull();
+  expect(container.querySelector("a[href='/dr/unfit-to-fly']")).not.toBeNull();
 });
 
 // Each brand lists what its form will ask for, so nobody is surprised halfway through it
@@ -70,10 +70,10 @@ test.each(["dr", "gmc"] as const)("%s before-you-start lists every item", (id) =
   expect(container.textContent).toContain(b.ctaNote);
 });
 
-// gmc's sample-certificate item links to the live samples page
-test("gmc sample certificate item links to the samples page", () => {
+// We never send people to the live sites, so the sample-certificate item is plain text
+test("before-you-start has no off-site links", () => {
   const { container } = render(<BeforeYouStart brand={brands.gmc} />);
-  expect(container.querySelector("a[href='https://getmedicalcertificate.com/samples/']")).not.toBeNull();
+  expect(container.querySelector("a[href^='http']")).toBeNull();
 });
 
 // The hero tells people where the Apply button takes them

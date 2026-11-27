@@ -7,14 +7,15 @@ export type Brand = {
   logo: { src: string; alt: string; width: number }; // width at 32px height, so the header never branches on brand
   colors: { primary: string; primaryText: string; accent: string; bg: string; text: string };
   ctaLabel: string;
-  ctaHref: string;
+  ctaHref: string; // always our own /<brand>/apply page; we never send people to the live sites
+  minAge?: number; // youngest age the brand serves, enforced on the apply form
   ctaNote: string; // where Apply leads, shown under the main buttons so the jump to the external form is expected
   beforeYouStart: { title: string; items: { text: string; href?: string }[] }; // what the brand's form will ask for, from its own site
   nav: { label: string; href: string }[];
   hero: { eyebrow: string; title: string; body: string; bullets: string[]; visual: HeroVisual };
   statement: string; // one live sentence the page sets large as its moment; never new copy
   servicesTitle: string; // each brand words its own services heading; a shared default leaked dr copy onto gmc
-  services: { title: string; body: string; href?: string; price?: string; uses?: string[]; photo?: { src: string; alt: string } }[]; // photo slot renders only when set, so no card is ever an empty frame
+  services: { slug: string; title: string; body: string; price?: string; uses?: string[]; photo?: { src: string; alt: string } }[]; // photo slot renders only when set, so no card is ever an empty frame
   portal: { region: string; price: string; ground: string }; // the / chooser half: two live facts and the colour its half is painted
   steps: { title: string; body: string }[];
   facts?: { label: string; value: string }[];

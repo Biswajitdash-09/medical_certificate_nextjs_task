@@ -121,3 +121,13 @@ The Apply buttons lead to a separate form tool on each brand's `forms.` subdomai
 - The 7 generated photographs are in `public/img/gen/`, converted to WebP (36–77 KB each). They show no real people's faces and no brands.
 - **dr hero:** the certificate document lies over the corner of a home photo. **gmc hero:** the generated kitchen-table photo replaces the earlier Wikimedia stand-in, which is now removed along with its credit.
 - **Service photos are all-or-none per brand,** so a grid is never half pictured (tested). Still missing: `dr-fitness`, `dr-unfit-to-fly` and `gmc-sports`. Until they arrive, both service grids stay text-only.
+
+## Round 5: no links out to the live sites
+
+On request, nothing on these pages sends people to drcertificate.com, getmedicalcertificate.com or their `forms.` subdomains. The only remaining references are the canonical and Open Graph meta URLs, which tell search engines the real domains and are not links anyone clicks.
+
+- **Our own service pages,** `/dr/<slug>` and `/gmc/<slug>`, are built only from copy already on that brand's homepage: card text, uses, price, how it works, the before-you-start list, legal points and the closing banner. The service cards link there.
+- **Our own apply page,** `/dr/apply` and `/gmc/apply`. It covers certificate type (pre-selected from `?type=` when arriving from a service page), patient name, email, age (dr enforces its live 16+ rule), reason, and the brand's verbatim legal points with a required acknowledgement. Errors show under each field and focus moves to the first one.
+- **Submit is a clearly labelled prototype:** "nothing was sent or charged". It doesn't collect health data or take payment, and it never shows a fake success. Making it real needs a backend, payments and a lawful basis for health data. That's a decision for the client, not a homepage task.
+- **Guards:** a unit test fails if any config link is off-site. The smoke check (17 checks) fails if any page's HTML has an `<a href>` to either live domain, and checks that `/dr/foo` returns 404 through `proxy.ts`.
+- gmc's "review the sample certificate" point stays as plain text: it no longer links to the live samples page.

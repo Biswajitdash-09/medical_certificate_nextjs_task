@@ -10,7 +10,8 @@ export const dr: Brand = {
   // Accent is green-700: the lighter live green failed WCAG contrast on the pale hero background
   colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#15803d", bg: "#F2F5F9", text: "#0f172a" },
   ctaLabel: "Apply now",
-  ctaHref: "https://forms.drcertificate.com/",
+  ctaHref: "/dr/apply",
+  minAge: 16,
   ctaNote: "You'll continue on the secure DrCertificate application form.",
   // The live homepage's "Before you start" list, restored so people arrive at the form ready
   beforeYouStart: {
@@ -59,27 +60,27 @@ export const dr: Brand = {
   servicesTitle: "Choose the certificate you need",
   services: [
     {
+      slug: "sick-leave",
       title: "Sick leave certificate",
-      href: "https://drcertificate.com/sick-leave-certificate/",
       photo: { src: "/img/gen/dr-sick-leave.webp", alt: "A bedside table with tea and a closed laptop in morning light" },
       body: "Documents a period of illness for your workplace, college or school, subject to their policies.",
       uses: ["Office leave", "College or school absence"],
     },
     {
+      slug: "medical-fitness",
       title: "Medical fitness certificate",
-      href: "https://drcertificate.com/medical-fitness-certificate/",
       body: "For jobs, university admission, travel, airlines or other purposes where a doctor's opinion on your fitness is asked for.",
       uses: ["Joining a new job", "College admission", "Sports and physical activities"],
     },
     {
+      slug: "unfit-to-fly",
       title: "Unfit to fly certificate",
-      href: "https://drcertificate.com/unfit-to-fly/",
       body: "For when illness, injury or another health concern means you shouldn't travel by air.",
       uses: ["Illness before a flight", "Injury or recovery"],
     },
     {
+      slug: "general",
       title: "General medical certificate",
-      href: "https://drcertificate.com/general-medical-certificate/",
       photo: { src: "/img/gen/dr-general.webp", alt: "A hand resting on a document envelope on a home desk" },
       body: "For other personal or official needs where a doctor's certificate is requested.",
       uses: ["Personal records", "Official or administrative requests"],

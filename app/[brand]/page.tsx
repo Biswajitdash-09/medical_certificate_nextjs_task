@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
-import type { CSSProperties } from "react";
 import { notFound } from "next/navigation";
 import { brands, getBrand } from "@/brands";
-import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { Services } from "@/components/Services";
 import { HowItWorks } from "@/components/HowItWorks";
@@ -11,7 +9,7 @@ import { Legal } from "@/components/Legal";
 import { Countries } from "@/components/Countries";
 import { Faq } from "@/components/Faq";
 import { FinalCta } from "@/components/FinalCta";
-import { Footer } from "@/components/Footer";
+import { BrandShell } from "@/components/BrandShell";
 import { Statement } from "@/components/Statement";
 import { PhoneBar } from "@/components/PhoneBar";
 import { CtaTracking } from "@/components/CtaTracking";
@@ -39,18 +37,8 @@ export async function generateMetadata({ params }: PageProps<"/[brand]">): Promi
 export default async function BrandPage({ params }: PageProps<"/[brand]">) {
   const brand = getBrand((await params).brand);
   if (!brand) notFound();
-  // Brand colours become CSS variables so shared components stay colour-agnostic
-  const theme = {
-    "--primary": brand.colors.primary,
-    "--primary-text": brand.colors.primaryText,
-    "--accent": brand.colors.accent,
-    "--bg": brand.colors.bg,
-    "--text": brand.colors.text,
-  } as CSSProperties;
   return (
-    <div style={theme} data-brand={brand.id} className="text-ink">
-      {/* Phone browser chrome in the brand colour; a hoisted <meta> keeps the page static, where an async generateViewport broke the 404 status */}
-      <meta name="theme-color" content={brand.colors.primary} />
+    <BrandShell brand={brand}>
       {/* FAQ structured data from the same live answers the page shows, so search results can quote them */}
       <script
         type="application/ld+json"
@@ -62,7 +50,6 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
           }).replace(/</g, String.fromCharCode(92) + "u003c"), // escape "<" as \u003c so config text can never close the script tag
         }}
       />
-      <Header brand={brand} />
       <main>
         <Hero brand={brand} />
         <Services brand={brand} />
@@ -75,9 +62,8 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
         <Faq brand={brand} />
         <FinalCta brand={brand} />
       </main>
-      <Footer brand={brand} />
       <PhoneBar ctaLabel={brand.ctaLabel} ctaHref={brand.ctaHref} />
       <CtaTracking />
-    </div>
+    </BrandShell>
   );
 }
