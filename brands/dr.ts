@@ -4,6 +4,7 @@ import type { Brand } from "./types";
 export const dr: Brand = {
   id: "dr",
   name: "DrCertificate",
+  domains: ["drcertificate.com", "www.drcertificate.com"],
   logo: { src: "/brands/dr-logo.svg", alt: "Dr. Certificate", width: 170 },
   // Accent is green-700: the lighter live green failed WCAG contrast on the pale hero background
   colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#15803d", bg: "#f5f8fd", text: "#0f172a" },
@@ -21,26 +22,49 @@ export const dr: Brand = {
     title: "Medical certificates, without the unnecessary hassle.",
     body: "Fill in a short online form from your phone or laptop. A certified doctor checks your details. When approved, your certificate is sent to your email.",
     bullets: ["A certified doctor (MBBS, MD or MS) issues the certificate.", "Emailed if approved", "Apply from your phone", "Payments processed by Stripe"],
+    // The live hero's certificate illustration, field for field; the SAMPLE watermark stays so it can never pass as a real certificate
+    visual: {
+      kind: "certificate",
+      brandLine: "DrCertificate",
+      title: "Medical Certificate",
+      type: "Sick leave",
+      fields: [
+        { label: "Patient name", value: "Sample Applicant" },
+        { label: "Age", value: "28 years" },
+        { label: "Date of issue", value: "DD MMM YYYY" },
+        { label: "Rest advised", value: "As decided by the doctor" },
+      ],
+      assessment: "This is to certify that the above-named applicant was assessed through a medical review.",
+      signer: "Certified doctor",
+      reg: "Reg. no. ••••••",
+      seal: "Doctor reviewed",
+      watermark: "SAMPLE",
+    },
   },
+  statement: "The doctor decides. Nothing is approved automatically.",
   servicesTitle: "Choose the certificate you need",
   services: [
     {
       title: "Sick leave certificate",
+      href: "https://drcertificate.com/sick-leave-certificate/",
       body: "Documents a period of illness for your workplace, college or school, subject to their policies.",
       uses: ["Office leave", "College or school absence"],
     },
     {
       title: "Medical fitness certificate",
+      href: "https://drcertificate.com/medical-fitness-certificate/",
       body: "For jobs, university admission, travel, airlines or other purposes where a doctor's opinion on your fitness is asked for.",
       uses: ["Joining a new job", "College admission", "Sports and physical activities"],
     },
     {
       title: "Unfit to fly certificate",
+      href: "https://drcertificate.com/unfit-to-fly/",
       body: "For when illness, injury or another health concern means you shouldn't travel by air.",
       uses: ["Illness before a flight", "Injury or recovery"],
     },
     {
       title: "General medical certificate",
+      href: "https://drcertificate.com/general-medical-certificate/",
       body: "For other personal or official needs where a doctor's certificate is requested.",
       uses: ["Personal records", "Official or administrative requests"],
     },
@@ -90,16 +114,31 @@ export const dr: Brand = {
   ],
   countries: ["Singapore", "Indonesia", "Philippines", "Thailand", "Vietnam", "Malaysia", "Cambodia", "Laos", "Myanmar", "Brunei"],
   legal: [
-    "Please check with the place of submission that online medical notes are accepted before you apply.",
-    "Every request is assessed individually. Issuing a certificate, its content and its duration are at the reviewing doctor's discretion.",
-    "All documents are addressed to the organisation they are submitted to and are valid for single use only. Acceptance depends on the organisation you submit it to.",
-    "Payments are non refundable, and a declined request is not refunded. The one exception is a verified technical fault reported within 24 hours.",
-    "The fee pays for an independent doctor to review your request. Paying does not guarantee a certificate.",
-    "Our certificates cannot be used for submission in India, for legal purposes or for insurance.",
-    "The doctors on DrCertificate do not diagnose, treat or prescribe. Consultations happen by digital chat only, with no video or in person visits.",
-    "DrCertificate is right for you if you are 16 or older, live in one of the 10 countries served and need a certificate for a non emergency situation.",
-    "If you have chest pain, trouble breathing, heavy bleeding or other urgent symptoms, go to the nearest emergency department or call local emergency services.",
-    "Per our Privacy Policy, data is stored on encrypted servers, generally deleted or anonymised 15 days after the transaction unless the law requires longer, and never sold or rented.",
+    {
+      heading: "Who it's for",
+      points: [
+        "DrCertificate is right for you if you are 16 or older, live in one of the 10 countries served and need a certificate for a non emergency situation.",
+        "Our certificates cannot be used for submission in India, for legal purposes or for insurance.",
+        "The doctors on DrCertificate do not diagnose, treat or prescribe. Consultations happen by digital chat only, with no video or in person visits.",
+        "If you have chest pain, trouble breathing, heavy bleeding or other urgent symptoms, go to the nearest emergency department or call local emergency services.",
+      ],
+    },
+    {
+      heading: "Before you submit",
+      points: [
+        "Please check with the place of submission that online medical notes are accepted before you apply.",
+        "Every request is assessed individually. Issuing a certificate, its content and its duration are at the reviewing doctor's discretion.",
+        "All documents are addressed to the organisation they are submitted to and are valid for single use only. Acceptance depends on the organisation you submit it to.",
+        "Per our Privacy Policy, data is stored on encrypted servers, generally deleted or anonymised 15 days after the transaction unless the law requires longer, and never sold or rented.",
+      ],
+    },
+    {
+      heading: "Payment & refunds",
+      points: [
+        "Payments are non refundable, and a declined request is not refunded. The one exception is a verified technical fault reported within 24 hours.",
+        "The fee pays for an independent doctor to review your request. Paying does not guarantee a certificate.",
+      ],
+    },
   ],
   faq: [
     { q: "What is an online doctor certificate?", a: "An online doctor certificate is a document from a doctor about your health status. It can record illness or physical fitness. With DrCertificate, a certified doctor (MBBS, MD or MS) reviews your request and decides whether to issue one. Acceptance depends on the organisation you submit it to, so check first." },
@@ -126,5 +165,6 @@ export const dr: Brand = {
   meta: {
     title: "DrCertificate — Medical certificates, without the unnecessary hassle",
     description: "Fill in a short online form. A certified doctor (MBBS, MD or MS) reviews your request, and approved certificates are emailed as a PDF.",
+    url: "https://drcertificate.com/",
   },
 };

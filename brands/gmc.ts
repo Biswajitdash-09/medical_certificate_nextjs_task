@@ -4,6 +4,7 @@ import type { Brand } from "./types";
 export const gmc: Brand = {
   id: "gmc",
   name: "GetMedicalCertificate",
+  domains: ["getmedicalcertificate.com", "www.getmedicalcertificate.com"],
   logo: { src: "/brands/gmc-logo.svg", alt: "GetMedicalCertificate", width: 230 },
   colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#faf7fd", text: "#1a1033" },
   ctaLabel: "Get a certificate",
@@ -24,12 +25,22 @@ export const gmc: Brand = {
       "GDPR compliant - encrypted, never shared",
       "40+ countries across Europe and the EEA",
     ],
+    // Stand-in photograph (Wikimedia Commons) until the client supplies its own; no face, no brand names
+    visual: {
+      kind: "photo",
+      src: "/img/photo-f196010783.webp",
+      alt: "A person at a home desk holding their lower back in discomfort",
+      width: 1280,
+      height: 853,
+      credit: "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+    },
   },
+  statement: "A certificate anyone can check - in seconds.",
   servicesTitle: "Choose your certificate",
   services: [
-    { title: "Sick Leave Certificate", body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
-    { title: "Fitness Certificate", body: "General clearance that you are fit for physical activity", price: "€34.99" },
-    { title: "Sports Fitness Certificate", body: "Medical clearance to train and compete in sport", price: "€34.99" },
+    { title: "Sick Leave Certificate", href: "https://getmedicalcertificate.com/sick-leave-certificate/", body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
+    { title: "Fitness Certificate", href: "https://getmedicalcertificate.com/fitness-certificate/", body: "General clearance that you are fit for physical activity", price: "€34.99" },
+    { title: "Sports Fitness Certificate", href: "https://getmedicalcertificate.com/sports-fitness-certificate/", body: "Medical clearance to train and compete in sport", price: "€34.99" },
     { title: "Unfit to Travel", body: "A GP’s certificate stating you are unfit to travel, for flight or booking cancellations.", price: "€34.99" },
   ],
   steps: [
@@ -44,11 +55,26 @@ export const gmc: Brand = {
     "Portugal", "Romania", "San Marino", "Serbia", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Ukraine", "United Kingdom",
   ],
   legal: [
-    "Not for medical emergencies - dial 112 for emergency services anywhere in the EU.",
-    "Acceptance for absences can still depend on your employer’s own policy, so check your staff handbook.",
-    "Some official processes - visas in particular - may additionally require translation or notarisation, so confirm the exact requirement with whoever is asking for it.",
-    "The reviewing doctor is the only person with access to your medical information.",
-    "Your data is encrypted and handled under UK & EU GDPR and ISO 27001 standards.",
+    {
+      heading: "Who it's for",
+      points: [
+        "Not for medical emergencies - dial 112 for emergency services anywhere in the EU.",
+      ],
+    },
+    {
+      heading: "Before you submit",
+      points: [
+        "Acceptance for absences can still depend on your employer’s own policy, so check your staff handbook.",
+        "Some official processes - visas in particular - may additionally require translation or notarisation, so confirm the exact requirement with whoever is asking for it.",
+      ],
+    },
+    {
+      heading: "Your data",
+      points: [
+        "The reviewing doctor is the only person with access to your medical information.",
+        "Your data is encrypted and handled under UK & EU GDPR and ISO 27001 standards.",
+      ],
+    },
   ],
   faq: [
     { q: "How much does an online medical certificate cost?", a: "Every certificate costs €34.99 - sick leave, fitness, sports fitness and unfit to travel. A sports fitness certificate stays valid for 12 months. The price includes the doctor’s review, your certificate PDF, and same-day email delivery. There is nothing added at checkout." },
@@ -64,5 +90,6 @@ export const gmc: Brand = {
   meta: {
     title: "Get a Medical Certificate Online - Same Day From €34.99 | Registered Doctors",
     description: "Certificates from registered doctors, delivered the same-day as a PDF your employer or institution can verify.",
+    url: "https://getmedicalcertificate.com/",
   },
 };
