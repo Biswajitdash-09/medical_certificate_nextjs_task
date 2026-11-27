@@ -7,7 +7,7 @@
   --color-accent: var(--accent);
   --color-surface: var(--bg);
   --color-ink: var(--text);
-  --font-sans: var(--font-inter);
+  --font-sans: var(--font-geist);
 }
 
 html {
@@ -18,10 +18,16 @@ html {
   interpolate-size: allow-keywords;
 }
 
+/* 17px body with open leading: the calm clinical reading size */
 body {
   background: #ffffff;
   color: #0f172a;
+  font-size: 17px;
+  line-height: 1.6;
 }
+
+/* Headlines: Geist 600, tight tracking, balanced lines */
+h1, h2, h3 { font-weight: 600; letter-spacing: -0.03em; text-wrap: balance; }
 
 /* One primary and one ghost button for the whole system; both step on hover and press on click */
 @layer components {

@@ -4,7 +4,7 @@ import type { Brand } from "@/brands/types";
 export function CtaLink({ brand, position, id, className = "" }: { brand: Brand; position: string; id?: string; className?: string }) {
   return (
     <a id={id} href={brand.ctaHref} data-cta={position} className={`btn-primary ${className}`}>
-      {brand.ctaLabel} <span aria-hidden="true" className="btn-arrow">→</span>
+      {brand.ctaLabel}
     </a>
   );
 }

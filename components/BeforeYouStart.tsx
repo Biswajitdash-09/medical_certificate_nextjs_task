@@ -8,10 +8,10 @@ export function BeforeYouStart({ brand }: { brand: Brand }) {
   return (
     <Section id="before-you-start" title={title}>
       <div className="grid gap-8 md:grid-cols-[1.4fr_1fr] md:items-end">
-        <ol className="space-y-3">
-          {items.map((item, i) => (
+        <ul className="space-y-3">
+          {items.map((item) => (
             <li key={item.text} className="flex gap-4 rounded-xl border border-slate-200 p-4">
-              <span aria-hidden="true" className="grid size-7 shrink-0 place-items-center rounded-full bg-surface text-sm font-bold text-brand">{i + 1}</span>
+              <span aria-hidden="true" className="grid size-6 shrink-0 place-items-center rounded-full bg-accent text-xs font-bold text-white">✓</span>
               {item.href ? (
                 <a href={item.href} className="link-draw underline decoration-slate-300 underline-offset-4">{item.text}</a>
               ) : (
@@ -19,7 +19,7 @@ export function BeforeYouStart({ brand }: { brand: Brand }) {
               )}
             </li>
           ))}
-        </ol>
+        </ul>
         <div className="rounded-2xl bg-surface p-6">
           <CtaLink brand={brand} position="before-you-start" className="w-full" />
           <p className="mt-3 text-sm text-slate-600">{brand.ctaNote}</p>

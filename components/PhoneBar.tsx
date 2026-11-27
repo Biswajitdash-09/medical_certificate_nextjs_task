@@ -22,7 +22,7 @@ export function PhoneBar({ ctaLabel, ctaHref }: Pick<Brand, "ctaLabel" | "ctaHre
   return (
     <div data-testid="phone-bar" data-shown={shown} className="phone-bar md:hidden" aria-hidden={!shown}>
       <a href={ctaHref} data-cta="phone-bar" tabIndex={shown ? 0 : -1} className="btn-primary w-full">
-        {ctaLabel} <span aria-hidden="true" className="btn-arrow">→</span>
+        {ctaLabel}
       </a>
     </div>
   );

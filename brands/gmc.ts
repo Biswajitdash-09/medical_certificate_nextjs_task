@@ -7,7 +7,7 @@ export const gmc: Brand = {
   domains: ["getmedicalcertificate.com", "www.getmedicalcertificate.com"],
   icon: "/brands/gmc-icon.svg",
   logo: { src: "/brands/gmc-logo.svg", alt: "GetMedicalCertificate", width: 230 },
-  colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#faf7fd", text: "#1a1033" },
+  colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#F6F4F9", text: "#1a1033" },
   ctaLabel: "Get a certificate",
   ctaHref: "https://forms.getmedicalcertificate.com/healthworkstech/form/GetYourMedicalCertificateNow/formperma/Bj5SHi3vWq2NM-1azgtWfnE_NvPXUERoDzL63fw6ug8",
   ctaNote: "You'll continue on the secure GetMedicalCertificate application form.",
@@ -49,6 +49,7 @@ export const gmc: Brand = {
     },
   },
   statement: "A certificate anyone can check - in seconds.",
+  portal: { region: "40+ countries across Europe and the EEA", price: "From €34.99", ground: "#470087" },
   servicesTitle: "Choose your certificate",
   services: [
     { title: "Sick Leave Certificate", href: "https://getmedicalcertificate.com/sick-leave-certificate/", body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },

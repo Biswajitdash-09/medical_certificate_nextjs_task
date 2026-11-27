@@ -14,7 +14,8 @@ export type Brand = {
   hero: { eyebrow: string; title: string; body: string; bullets: string[]; visual: HeroVisual };
   statement: string; // one live sentence the page sets large as its moment; never new copy
   servicesTitle: string; // each brand words its own services heading; a shared default leaked dr copy onto gmc
-  services: { title: string; body: string; href?: string; price?: string; uses?: string[] }[];
+  services: { title: string; body: string; href?: string; price?: string; uses?: string[]; photo?: { src: string; alt: string } }[]; // photo slot renders only when set, so no card is ever an empty frame
+  portal: { region: string; price: string; ground: string }; // the / chooser half: two live facts and the colour its half is painted
   steps: { title: string; body: string }[];
   facts?: { label: string; value: string }[];
   priceTable?: { country: string; price: string }[];
@@ -27,5 +28,5 @@ export type Brand = {
 
 // The hero shows the real thing: dr's live certificate illustration, or a photograph with its licence credit
 export type HeroVisual =
-  | { kind: "certificate"; brandLine: string; title: string; type: string; fields: { label: string; value: string }[]; assessment: string; signer: string; reg: string; seal: string; watermark: string }
+  | { kind: "certificate"; photo?: { src: string; alt: string }; brandLine: string; title: string; type: string; fields: { label: string; value: string }[]; assessment: string; signer: string; reg: string; seal: string; watermark: string }
   | { kind: "photo"; src: string; alt: string; width: number; height: number; credit: string };

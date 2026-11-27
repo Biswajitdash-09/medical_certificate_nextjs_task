@@ -11,8 +11,8 @@ export function Hero({ brand }: { brand: Brand }) {
     <section id="top" className="bg-surface" data-enter>
       <div className="mx-auto grid max-w-6xl gap-10 px-4 pb-14 pt-10 md:min-h-[calc(100svh-4rem)] md:grid-cols-[1.1fr_1fr] md:items-center md:py-16">
         <div className="enter-1">
-          <p className="text-sm font-semibold uppercase tracking-wide text-accent">{hero.eyebrow}</p>
-          <h1 className="mt-3 text-4xl font-extrabold leading-[1.08] tracking-tight text-balance md:text-6xl">{hero.title}</h1>
+          <p className="text-[15px] font-medium text-accent">{hero.eyebrow}</p>
+          <h1 className="mt-3 text-[40px] leading-[1.05] md:text-[64px]">{hero.title}</h1>
           <p className="mt-5 max-w-xl text-lg text-slate-700">{hero.body}</p>
           <div className="mt-7 flex flex-col gap-3 sm:flex-row">
             <CtaLink brand={brand} id="hero-cta" position="hero" />
@@ -31,7 +31,19 @@ export function Hero({ brand }: { brand: Brand }) {
         </div>
         <div className="enter-2">
           {visual.kind === "certificate" ? (
-            <CertificateCard visual={visual} />
+            visual.photo ? (
+              // The document lies over the corner of a home photo: the product, and the life it fits into
+              <div className="relative pb-16 md:pb-0">
+                <div className="photo-frame aspect-[4/5] w-[85%] md:ml-auto">
+                  <Image src={visual.photo.src} alt={visual.photo.alt} width={800} height={1000} priority sizes="(max-width: 767px) 85vw, 38vw" className="size-full object-cover" />
+                </div>
+                <div className="absolute bottom-0 right-0 w-[78%] md:-left-10 md:right-auto md:w-[70%]">
+                  <CertificateCard visual={visual} />
+                </div>
+              </div>
+            ) : (
+              <CertificateCard visual={visual} />
+            )
           ) : (
             <div className="photo-frame aspect-[4/3] md:aspect-[4/5]">
               <Image src={visual.src} alt={visual.alt} width={visual.width} height={visual.height} priority sizes="(max-width: 767px) 100vw, 45vw" className="size-full object-cover" />

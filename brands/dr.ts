@@ -8,7 +8,7 @@ export const dr: Brand = {
   icon: "/brands/dr-icon.svg",
   logo: { src: "/brands/dr-logo.svg", alt: "Dr. Certificate", width: 170 },
   // Accent is green-700: the lighter live green failed WCAG contrast on the pale hero background
-  colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#15803d", bg: "#f5f8fd", text: "#0f172a" },
+  colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#15803d", bg: "#F2F5F9", text: "#0f172a" },
   ctaLabel: "Apply now",
   ctaHref: "https://forms.drcertificate.com/",
   ctaNote: "You'll continue on the secure DrCertificate application form.",
@@ -54,6 +54,7 @@ export const dr: Brand = {
     },
   },
   statement: "The doctor decides. Nothing is approved automatically.",
+  portal: { region: "10 South East Asian countries", price: "25 SGD in Singapore", ground: "#1E489D" },
   servicesTitle: "Choose the certificate you need",
   services: [
     {
