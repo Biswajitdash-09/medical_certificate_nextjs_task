@@ -69,12 +69,16 @@ export const dr: Brand = {
     {
       slug: "medical-fitness",
       title: "Medical fitness certificate",
+      // Generated stand-in photo; completes the set so the services grid can show photos
+      photo: { src: "/img/gen/dr-fitness.webp", alt: "Someone tying their running shoes on a park path at sunrise" },
       body: "For jobs, university admission, travel, airlines or other purposes where a doctor's opinion on your fitness is asked for.",
       uses: ["Joining a new job", "College admission", "Sports and physical activities"],
     },
     {
       slug: "unfit-to-fly",
       title: "Unfit to fly certificate",
+      // Generated stand-in photo of a trip on hold
+      photo: { src: "/img/gen/dr-unfit-to-fly.webp", alt: "A packed carry-on suitcase and jacket waiting by an apartment door" },
       body: "For when illness, injury or another health concern means you shouldn't travel by air.",
       uses: ["Illness before a flight", "Injury or recovery"],
     },

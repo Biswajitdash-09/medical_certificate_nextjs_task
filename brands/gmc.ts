@@ -53,7 +53,8 @@ export const gmc: Brand = {
   services: [
     { slug: "sick-leave", title: "Sick Leave Certificate", photo: { src: "/img/gen/gmc-sick-leave.webp", alt: "An unmade bed by a rainy window with a lamp and a cup of tea" }, body: "Work or school absence due to illness, usually from day 8", price: "€34.99" },
     { slug: "fitness", title: "Fitness Certificate", photo: { src: "/img/gen/gmc-fitness.webp", alt: "A gym bag, water bottle and towel on a bench in a bright gym" }, body: "General clearance that you are fit for physical activity", price: "€34.99" },
-    { slug: "sports-fitness", title: "Sports Fitness Certificate", body: "Medical clearance to train and compete in sport", price: "€34.99" },
+    // Generated stand-in photo; completes the set so the services grid can show photos
+    { slug: "sports-fitness", title: "Sports Fitness Certificate", photo: { src: "/img/gen/gmc-sports.webp", alt: "A football on the white line of a town pitch at dusk" }, body: "Medical clearance to train and compete in sport", price: "€34.99" },
     { slug: "unfit-to-travel", title: "Unfit to Travel", photo: { src: "/img/gen/gmc-unfit-to-travel.webp", alt: "A suitcase with a scarf over the handle waiting in a hallway" }, body: "A GP’s certificate stating you are unfit to travel, for flight or booking cancellations.", price: "€34.99" },
   ],
   steps: [
