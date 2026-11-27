@@ -9,6 +9,7 @@ import { BeforeYouStart } from "@/components/BeforeYouStart";
 import { Legal } from "@/components/Legal";
 import { FinalCta } from "@/components/FinalCta";
 import { CtaTracking } from "@/components/CtaTracking";
+import { CertificateCard } from "@/components/CertificateCard";
 
 // One page per service, built only from copy already on that brand's homepage
 export function generateStaticParams() {
@@ -49,9 +50,16 @@ async function ServiceContent({ params }: { params: PageProps<"/[brand]/[service
               <a href={`${brand.ctaHref}?type=${service.slug}`} data-cta="service-page" className="btn-primary mt-7">{brand.ctaLabel}</a>
               <p className="mt-3 text-sm text-slate-600">{brand.ctaNote}</p>
             </div>
-            {service.photo && (
+            {/* Never an empty half: the service's own photo, else the brand's sample certificate set to this type, else the brand's hero photo */}
+            {service.photo ? (
               <div className="photo-frame aspect-[4/3]">
                 <Image src={service.photo.src} alt={service.photo.alt} width={900} height={600} priority sizes="(max-width: 767px) 100vw, 45vw" className="size-full object-cover" />
+              </div>
+            ) : brand.hero.visual.kind === "certificate" ? (
+              <CertificateCard visual={{ ...brand.hero.visual, type: service.title }} />
+            ) : (
+              <div className="photo-frame aspect-[4/3]">
+                <Image src={brand.hero.visual.src} alt={brand.hero.visual.alt} width={900} height={600} priority sizes="(max-width: 767px) 100vw, 45vw" className="size-full object-cover" />
               </div>
             )}
           </div>
