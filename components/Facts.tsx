@@ -1,5 +1,6 @@
 import type { Brand } from "@/brands/types";
 import { Section } from "./Section";
+import { CountryFlag } from "./CountryFlag";
 
 // Price, timing and reviewer stated once, replacing the three places dr repeated them
 export function Facts({ brand }: { brand: Brand }) {
@@ -29,7 +30,12 @@ export function Facts({ brand }: { brand: Brand }) {
               <tbody className="divide-y divide-slate-100">
                 {brand.priceTable.map((r) => (
                   <tr key={r.country} className="transition-colors hover:bg-surface/40">
-                    <td className="px-4 py-3.5 text-slate-700 sm:px-5">{r.country}</td>
+                    <td className="px-4 py-3.5 text-slate-700 sm:px-5">
+                      <span className="inline-flex items-center gap-2.5">
+                        <CountryFlag country={r.country} />
+                        <span>{r.country}</span>
+                      </span>
+                    </td>
                     <td className="px-4 py-3.5 text-right font-semibold text-brand tabular-nums sm:px-5">{r.price}</td>
                   </tr>
                 ))}
