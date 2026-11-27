@@ -9,3 +9,9 @@ export const brands: Record<Brand["id"], Brand> = { dr, gmc };
 export function getBrand(id: string): Brand | undefined {
   return Object.hasOwn(brands, id) ? brands[id as Brand["id"]] : undefined;
 }
+
+// Finds the brand that owns a request's host (port ignored); preview and unknown hosts get none
+export function brandForHost(host: string | null): Brand | undefined {
+  const name = host?.split(":")[0].toLowerCase();
+  return name ? Object.values(brands).find((b) => b.domains.includes(name)) : undefined;
+}

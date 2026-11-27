@@ -1,4 +1,4 @@
-import { brands, getBrand } from "./index";
+import { brands, getBrand, brandForHost } from "./index";
 
 // Words that only one brand may say; seeing them on the other brand means copy leaked across
 const drOnly = ["SGD", "Stripe", "IST", "India", "MBBS", "care@drcertificate.com"];
@@ -22,4 +22,13 @@ test("prices unchanged from the live sites", () => {
 
 test("unknown brand is undefined", () => {
   expect(getBrand("foo")).toBeUndefined();
+});
+
+// Each real domain resolves to its own brand; preview hosts resolve to none and keep /dr and /gmc
+test("hosts map to their own brand only", () => {
+  expect(brandForHost("drcertificate.com")?.id).toBe("dr");
+  expect(brandForHost("www.getmedicalcertificate.com")?.id).toBe("gmc");
+  expect(brandForHost("drcertificate.com:443")?.id).toBe("dr");
+  expect(brandForHost("my-app.vercel.app")).toBeUndefined();
+  expect(brandForHost(null)).toBeUndefined();
 });
