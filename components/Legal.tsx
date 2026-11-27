@@ -14,7 +14,8 @@ export function Legal({ brand }: { brand: Brand }) {
             className="grid gap-5 rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm sm:p-7 lg:grid-cols-[14rem_1fr] lg:items-start lg:gap-10 lg:p-8"
           >
             <div className="flex items-center gap-3 lg:pt-1">
-              <span aria-hidden="true" className="grid size-7 shrink-0 place-items-center rounded-lg bg-brand/10 text-xs font-semibold text-brand tabular-nums">
+              {/* Solid brand badge: gmc's red text on a 10% red tint failed the contrast check */}
+              <span aria-hidden="true" className="grid size-7 shrink-0 place-items-center rounded-lg bg-brand text-xs font-semibold text-brand-ink tabular-nums">
                 0{i + 1}
               </span>
               <h3 className="text-[18px] leading-snug text-slate-900 sm:text-[19px]">{group.heading}</h3>

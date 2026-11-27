@@ -10,7 +10,8 @@ export function FinalCta({ brand }: { brand: Brand }) {
           <a href={brand.ctaHref} data-cta="final" className="inline-flex min-h-12 items-center justify-center rounded-xl bg-white px-7 font-semibold text-ink transition hover:-translate-y-px active:translate-y-px active:scale-[0.98]">
             {brand.ctaLabel}
           </a>
-          <p className="max-w-xs text-sm opacity-80 md:text-right">{brand.ctaNote}</p>
+          {/* Full opacity: at 80% the note fell to 3.6:1 on gmc's red, under the 4.5:1 minimum */}
+          <p className="max-w-xs text-sm md:text-right">{brand.ctaNote}</p>
         </div>
       </div>
     </section>
