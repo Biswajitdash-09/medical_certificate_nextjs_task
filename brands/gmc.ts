@@ -4,7 +4,7 @@ import type { Brand } from "./types";
 export const gmc: Brand = {
   id: "gmc",
   name: "GetMedicalCertificate",
-  logo: { src: "/brands/gmc-logo.svg", alt: "GetMedicalCertificate" },
+  logo: { src: "/brands/gmc-logo.svg", alt: "GetMedicalCertificate", width: 230 },
   colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#faf7fd", text: "#1a1033" },
   ctaLabel: "Get a certificate",
   ctaHref: "https://forms.getmedicalcertificate.com/healthworkstech/form/GetYourMedicalCertificateNow/formperma/Bj5SHi3vWq2NM-1azgtWfnE_NvPXUERoDzL63fw6ug8",

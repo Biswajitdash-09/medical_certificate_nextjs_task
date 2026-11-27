@@ -2,7 +2,7 @@
 export type Brand = {
   id: "dr" | "gmc";
   name: string;
-  logo: { src: string; alt: string };
+  logo: { src: string; alt: string; width: number }; // width at 32px height, so the header never branches on brand
   colors: { primary: string; primaryText: string; accent: string; bg: string; text: string };
   ctaLabel: string;
   ctaHref: string;
