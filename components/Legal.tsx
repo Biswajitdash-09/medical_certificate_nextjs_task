@@ -2,18 +2,27 @@ import type { Brand } from "@/brands/types";
 import { Section } from "./Section";
 
 // Verbatim legal points under scan headings, so "non-refundable" is found before someone pays.
-// One card of full-width rows (heading left, points right from lg), so groups of different lengths never leave uneven columns
+// Separate group cards with numbered anchors and surface point tiles for clear scanning across all viewports
 export function Legal({ brand }: { brand: Brand }) {
   return (
     <Section id="legal" title="Good to know" tint>
-      <div className="divide-y divide-slate-100 rounded-2xl bg-white px-5 shadow-sm sm:px-8 lg:px-10">
-        {brand.legal.map((group) => (
-          <section key={group.heading} aria-label={group.heading} className="grid gap-4 py-6 sm:py-8 lg:grid-cols-[14rem_1fr] lg:gap-10">
-            <h3 className="text-[19px] leading-snug lg:pt-0.5">{group.heading}</h3>
-            <ul className="grid gap-x-10 gap-y-4 text-[15px] leading-relaxed text-slate-700 md:grid-cols-2">
+      <div className="space-y-4 sm:space-y-5">
+        {brand.legal.map((group, i) => (
+          <section
+            key={group.heading}
+            aria-label={group.heading}
+            className="grid gap-5 rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm sm:p-7 lg:grid-cols-[14rem_1fr] lg:items-start lg:gap-10 lg:p-8"
+          >
+            <div className="flex items-center gap-3 lg:pt-1">
+              <span aria-hidden="true" className="grid size-7 shrink-0 place-items-center rounded-lg bg-brand/10 text-xs font-semibold text-brand tabular-nums">
+                0{i + 1}
+              </span>
+              <h3 className="text-[18px] leading-snug text-slate-900 sm:text-[19px]">{group.heading}</h3>
+            </div>
+            <ul className={`grid gap-3.5 sm:gap-4 text-[15px] leading-relaxed text-slate-700 ${group.points.length > 1 ? "md:grid-cols-2" : ""}`}>
               {group.points.map((p) => (
-                <li key={p} className="flex gap-3">
-                  <span aria-hidden="true" className="mt-[0.6em] size-1.5 shrink-0 rounded-full bg-brand" />
+                <li key={p} className="flex gap-3 rounded-xl bg-surface/60 p-4">
+                  <span aria-hidden="true" className="mt-[0.55em] size-2 shrink-0 rounded-full bg-brand/70" />
                   <span>{p}</span>
                 </li>
               ))}
