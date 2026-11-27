@@ -103,3 +103,15 @@ The plan is in [`docs/superpowers/plans/2026-11-27-enhancements.md`](docs/superp
 - **dr's certificate keeps its "SAMPLE" watermark** even though the taste skill bans sample labels. Honesty about a placeholder document matters more here.
 - **The taste skill's automated checker was not run.** It only reads pages built on its own starter markup, and these are Next.js components. Its checklist was applied by hand: one primary and one ghost button, one card style, 44px+ tap targets, no horizontal scroll at 375px, reduced-motion respected.
 - **No Playwright suite.** `npm run smoke` instead checks, against a running server, the status codes (`/foo` is 404), the domain rewrite, the share image, the JSON-LD and that no brand's words appear on the other's HTML. The mobile menu, phone bar, analytics and legal/FAQ rendering are covered by Vitest (17 tests).
+
+## Round 3: preparing people for the external application form
+
+The Apply buttons lead to a separate form tool on each brand's `forms.` subdomain, which has no way back to the site. That form isn't part of this app, and it holds the legal agreement, so it's out of scope to change. Instead, the homepage now sets expectations before the click:
+
+- **Where Apply leads.** A line under the hero buttons and under the new checklist's button. dr's wording is from its live homepage ("You'll continue on the secure DrCertificate application form."). gmc's mirrors it with gmc's own "secure" claim from its "A quick, secure questionnaire" step.
+- **dr: "Before you start".** The live homepage's own four-item list, restored. Round 1 had cut it for length.
+- **gmc: "Before you fill out the form".** Five points taken word for word from the note at the top of gmc's own application form: name as per Govt ID, certificates in English, review the sample certificate (linked to `/samples/`), consultations by chat, and working hours 10:00 AM – 8:00 PM IST. This text is on the brand's form, not its homepage. I treated the form as part of the current site, which is a judgement call to raise on the review call.
+- **Leak test change.** "IST" no longer marks dr-only text, because gmc's own form states its hours in IST. dr is now marked by its reviewer's name ("Urooj") instead, and gmc by "Govt ID".
+- **Inconsistency for the client.** gmc's form says "Consultations occur via chat". Its homepage FAQ says the doctor may need "a short video call". Both are shown as written.
+
+**Next step, outside this assignment:** a native application flow for each brand. It would pre-fill the certificate type from the card clicked, show progress, offer a visible way back to the site, and keep the T&C and refund text exactly as legal approves it.

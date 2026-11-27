@@ -20,7 +20,7 @@ expect("drcertificate.com host serves dr", (await htmlForHost("drcertificate.com
 const dr = await html("/dr");
 const gmc = await html("/gmc");
 expect("dr page has no gmc words", !["€34.99", "GDPR", "dial 112", "GetMedicalCertificate"].some((w) => dr.includes(w)));
-expect("gmc page has no dr words", !["SGD", "Stripe", " IST", "India", "MBBS"].some((w) => gmc.includes(w)));
+expect("gmc page has no dr words", !["SGD", "Stripe", "India", "MBBS", "Urooj"].some((w) => gmc.includes(w)));
 expect("both pages carry FAQ JSON-LD", dr.includes('"FAQPage"') && gmc.includes('"FAQPage"'));
 
 checks.forEach(([n, ok]) => console.log(ok ? "PASS" : "FAIL", n));

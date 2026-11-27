@@ -11,6 +11,17 @@ export const dr: Brand = {
   colors: { primary: "#1e489d", primaryText: "#ffffff", accent: "#15803d", bg: "#f5f8fd", text: "#0f172a" },
   ctaLabel: "Apply now",
   ctaHref: "https://forms.drcertificate.com/",
+  ctaNote: "You'll continue on the secure DrCertificate application form.",
+  // The live homepage's "Before you start" list, restored so people arrive at the form ready
+  beforeYouStart: {
+    title: "Before you start",
+    items: [
+      { text: "Your full name, age and contact details" },
+      { text: "An email address you can access — that's where your certificate goes" },
+      { text: "The certificate type, and the dates or purpose it is for" },
+      { text: "Accurate information about your symptoms or health" },
+    ],
+  },
   nav: [
     { label: "Services", href: "#services" },
     { label: "How it works", href: "#how-it-works" },

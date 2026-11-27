@@ -18,6 +18,8 @@ export function Hero({ brand }: { brand: Brand }) {
             <CtaLink brand={brand} id="hero-cta" position="hero" />
             <a href="#how-it-works" className="btn-ghost">How it works</a>
           </div>
+          {/* Says where Apply leads, so landing on the external form is expected, not a surprise */}
+          <p className="mt-3 text-sm text-slate-600">{brand.ctaNote}</p>
           <ul className="mt-8 grid gap-2.5 text-[15px] sm:grid-cols-2">
             {hero.bullets.map((b) => (
               <li key={b} className="flex gap-2.5">

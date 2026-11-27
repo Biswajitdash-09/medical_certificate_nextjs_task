@@ -8,6 +8,8 @@ export type Brand = {
   colors: { primary: string; primaryText: string; accent: string; bg: string; text: string };
   ctaLabel: string;
   ctaHref: string;
+  ctaNote: string; // where Apply leads, shown under the main buttons so the jump to the external form is expected
+  beforeYouStart: { title: string; items: { text: string; href?: string }[] }; // what the brand's form will ask for, from its own site
   nav: { label: string; href: string }[];
   hero: { eyebrow: string; title: string; body: string; bullets: string[]; visual: HeroVisual };
   statement: string; // one live sentence the page sets large as its moment; never new copy

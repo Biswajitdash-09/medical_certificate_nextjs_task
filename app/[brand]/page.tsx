@@ -15,6 +15,7 @@ import { Footer } from "@/components/Footer";
 import { Statement } from "@/components/Statement";
 import { PhoneBar } from "@/components/PhoneBar";
 import { CtaTracking } from "@/components/CtaTracking";
+import { BeforeYouStart } from "@/components/BeforeYouStart";
 
 // Pre-render only configured brands; unknown slugs hit notFound() below (dynamicParams is barred under cacheComponents)
 export function generateStaticParams() {
@@ -66,6 +67,7 @@ export default async function BrandPage({ params }: PageProps<"/[brand]">) {
         <Hero brand={brand} />
         <Services brand={brand} />
         <HowItWorks brand={brand} />
+        <BeforeYouStart brand={brand} />
         <Statement brand={brand} />
         <Facts brand={brand} />
         <Legal brand={brand} />

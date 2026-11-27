@@ -1,8 +1,9 @@
 import { brands, getBrand, brandForHost } from "./index";
 
 // Words that only one brand may say; seeing them on the other brand means copy leaked across
-const drOnly = ["SGD", "Stripe", "IST", "India", "MBBS", "care@drcertificate.com"];
-const gmcOnly = ["€", "GDPR", "112", "EEA", "GetMedicalCertificate"];
+// "IST" is not here: gmc's own form states its hours in IST
+const drOnly = ["SGD", "Stripe", "India", "MBBS", "Urooj", "care@drcertificate.com"];
+const gmcOnly = ["€", "GDPR", "112", "EEA", "GetMedicalCertificate", "Govt ID"];
 
 test("no gmc text leaks into dr", () => {
   const s = JSON.stringify(brands.dr);

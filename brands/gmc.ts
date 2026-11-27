@@ -10,6 +10,18 @@ export const gmc: Brand = {
   colors: { primary: "#d6303a", primaryText: "#ffffff", accent: "#470087", bg: "#faf7fd", text: "#1a1033" },
   ctaLabel: "Get a certificate",
   ctaHref: "https://forms.getmedicalcertificate.com/healthworkstech/form/GetYourMedicalCertificateNow/formperma/Bj5SHi3vWq2NM-1azgtWfnE_NvPXUERoDzL63fw6ug8",
+  ctaNote: "You'll continue on the secure GetMedicalCertificate application form.",
+  // Verbatim from the note at the top of gmc's own application form (forms.getmedicalcertificate.com), shown before the click
+  beforeYouStart: {
+    title: "Before you fill out the form",
+    items: [
+      { text: "Your name as per your Govt ID proof" },
+      { text: "Certificates are issued in English." },
+      { text: "Please review the sample certificate and confirm its acceptance with your organization before proceeding.", href: "https://getmedicalcertificate.com/samples/" },
+      { text: "Consultations occur via chat, and our team may contact you for additional details if needed." },
+      { text: "Working Hours: 10:00 AM – 8:00 PM IST, 7 days a week, including public holidays. Orders outside these hours are handled in the next working slot." },
+    ],
+  },
   nav: [
     { label: "Certificates", href: "#services" },
     { label: "How it works", href: "#how-it-works" },

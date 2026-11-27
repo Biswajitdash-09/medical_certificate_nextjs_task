@@ -6,6 +6,7 @@ import { Facts } from "./Facts";
 import { Services } from "./Services";
 import { Hero } from "./Hero";
 import { Statement } from "./Statement";
+import { BeforeYouStart } from "./BeforeYouStart";
 
 // Trimming sections must never drop a legal point or an FAQ, and the FAQ must work without JS
 test.each(["dr", "gmc"] as const)("%s renders every legal point and FAQ", (id) => {
@@ -58,4 +59,24 @@ test.each(["dr", "gmc"] as const)("%s statement renders whole", (id) => {
 test("service cards link to their detail pages", () => {
   const { container } = render(<Services brand={brands.dr} />);
   expect(container.querySelector("a[href='https://drcertificate.com/unfit-to-fly/']")).not.toBeNull();
+});
+
+// Each brand lists what its form will ask for, so nobody is surprised halfway through it
+test.each(["dr", "gmc"] as const)("%s before-you-start lists every item", (id) => {
+  const b = brands[id];
+  const { container } = render(<BeforeYouStart brand={b} />);
+  b.beforeYouStart.items.forEach((i) => expect(container.textContent).toContain(i.text));
+  expect(container.textContent).toContain(b.ctaNote);
+});
+
+// gmc's sample-certificate item links to the live samples page
+test("gmc sample certificate item links to the samples page", () => {
+  const { container } = render(<BeforeYouStart brand={brands.gmc} />);
+  expect(container.querySelector("a[href='https://getmedicalcertificate.com/samples/']")).not.toBeNull();
+});
+
+// The hero tells people where the Apply button takes them
+test.each(["dr", "gmc"] as const)("%s hero shows where Apply leads", (id) => {
+  const { container } = render(<Hero brand={brands[id]} />);
+  expect(container.textContent).toContain(brands[id].ctaNote);
 });
