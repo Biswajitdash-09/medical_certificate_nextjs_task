@@ -3,14 +3,15 @@ import type { HeroVisual } from "@/brands/types";
 type Certificate = Extract<HeroVisual, { kind: "certificate" }>;
 
 // Compact on small screens so field values sit on one line; HTML rebuild of dr's live certificate illustration: crisp at any size, no image request, watermark kept for honesty
-export function CertificateCard({ visual }: { visual: Certificate }) {
+// compact hides the assessment sentence from lg, so the card covers less of the hero photo beside it
+export function CertificateCard({ visual, compact = false }: { visual: Certificate; compact?: boolean }) {
   return (
-    <figure aria-label={`${visual.title}, ${visual.type}, illustration`} className="relative mx-auto max-w-md overflow-hidden rounded-2xl border border-slate-200 bg-white p-5 shadow-[0_30px_60px_-20px_rgba(15,23,42,0.25)] sm:p-7">
+    <figure aria-label={`${visual.title}, ${visual.type}, illustration`} className={`relative mx-auto max-w-md overflow-hidden rounded-2xl border border-slate-200 bg-white p-5 shadow-[0_30px_60px_-20px_rgba(15,23,42,0.25)] sm:p-7 ${compact ? "lg:p-5" : ""}`}>
       <span aria-hidden="true" className="pointer-events-none absolute right-[-2.5rem] top-6 rotate-[35deg] bg-brand/10 px-12 py-1 text-xs font-bold tracking-[0.3em] text-brand">
         {visual.watermark}
       </span>
       <p className="text-sm font-bold text-brand">{visual.brandLine}</p>
-      <p className="mt-3 text-xl font-extrabold sm:text-2xl tracking-tight">{visual.title}</p>
+      <p className={`mt-3 text-xl font-extrabold tracking-tight sm:text-2xl ${compact ? "lg:text-xl" : ""}`}>{visual.title}</p>
       <p className="text-slate-500">{visual.type}</p>
       <dl className="mt-5 grid grid-cols-2 gap-x-4 gap-y-3 border-y border-slate-100 py-4">
         {visual.fields.map((f) => (
@@ -20,7 +21,7 @@ export function CertificateCard({ visual }: { visual: Certificate }) {
           </div>
         ))}
       </dl>
-      <p className="mt-4 text-[13px] leading-relaxed sm:text-sm text-slate-600">{visual.assessment}</p>
+      <p className={`mt-4 text-[13px] leading-relaxed text-slate-600 sm:text-sm ${compact ? "lg:hidden" : ""}`}>{visual.assessment}</p>
       <div className="mt-5 flex items-end justify-between gap-4">
         <div>
           <svg aria-hidden="true" viewBox="0 0 120 28" className="h-7 w-28 text-ink"><path d="M2 20c10-14 16-14 18-4s8 6 14-4 10 2 14 8 12-10 20-6 10 8 18 2 14-6 30-4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>

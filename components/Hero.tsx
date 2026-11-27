@@ -34,12 +34,13 @@ export function Hero({ brand }: { brand: Brand }) {
             visual.photo ? (
               // The document lies over the corner of a home photo: the product, and the life it fits into
               <div className="relative">
-                <div className="photo-frame ml-auto aspect-[4/3] w-[88%] lg:aspect-[4/5]">
-                  <Image src={visual.photo.src} alt={visual.photo.alt} width={800} height={1000} priority sizes="(max-width: 1023px) 90vw, 40vw" className="size-full object-cover" />
+                {/* From lg the photo takes the full column and the card shrinks into the lower-left corner, so most of the photo stays visible */}
+                <div className="photo-frame ml-auto aspect-[4/3] w-[88%] lg:aspect-[4/5] lg:w-full">
+                  <Image src={visual.photo.src} alt={visual.photo.alt} width={800} height={1000} priority sizes="(max-width: 1023px) 90vw, 40vw" className="size-full object-cover object-[65%_50%]" />
                 </div>
                 {/* Below lg the card stays in flow and only overlaps the photo edge, so it can never cover the text above */}
-                <div className="relative -mt-24 w-[86%] sm:-mt-32 sm:w-[64%] lg:absolute lg:bottom-0 lg:-left-6 lg:mt-0 lg:w-[60%]">
-                  <CertificateCard visual={visual} />
+                <div className="relative -mt-24 w-[86%] sm:-mt-32 sm:w-[64%] lg:absolute lg:-bottom-6 lg:-left-10 lg:mt-0 lg:w-[17rem] xl:w-[18rem]">
+                  <CertificateCard visual={visual} compact />
                 </div>
               </div>
             ) : (
