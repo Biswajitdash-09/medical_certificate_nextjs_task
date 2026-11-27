@@ -4,21 +4,22 @@ One Next.js 16 app, two brands. `/dr` is DrCertificate, `/gmc` is GetMedicalCert
 
 **Live:** https://medical-certificate-nextjs-task.vercel.app (`/dr`, `/gmc`)
 
-Evidence is in [`evidence/`](evidence/): Lighthouse JSON for the live sites (`lh-*.json`) and for the new pages (`after-v3-*.json`), plus a mobile screenshot of each live homepage (`before-mobile-*.jpg`). All Lighthouse runs are mobile emulation, one run each, 2026-11-27.
+Evidence is in [`evidence/`](evidence/): Lighthouse JSON for the live sites (`lh-*.json`) and for the new pages (`final-*.json`: both homepages plus a country, guide and condition page), plus a mobile screenshot of each live homepage (`before-mobile-*.jpg`). All Lighthouse runs are mobile emulation, one run each, 2026-11-27.
 
 ## Before and after (Lighthouse, mobile)
 
 | | Live drcertificate.com | New `/dr` | Live getmedicalcertificate.com | New `/gmc` |
 |---|---|---|---|---|
-| Performance | 61 | **96** | 52 | **98** |
+| Performance | 61 | **95** | 52 | **92** |
 | Accessibility | 100 | 100 | 96 | 100 |
 | Best practices | 79 | 100 | 79 | 100 |
-| Largest Contentful Paint | 3.9 s | 2.6 s | 5.3 s | 2.5 s |
-| Total Blocking Time | 1,490 ms | 130 ms | 950 ms | 40 ms |
-| Page height at 375px | 22 screens | ~12.5 screens | 24 screens | ~9 screens |
-| Apply links on the page | 11 | 4 | 8 | 4 |
+| SEO | – | 100 | – | 100 |
+| Largest Contentful Paint | 3.9 s | 2.9 s | 5.3 s | 3.2 s |
+| Total Blocking Time | 1,490 ms | 20 ms | 950 ms | 80 ms |
+| Page height at 375px | 22 screens | ~15.7 screens | 24 screens | ~11 screens |
+| Apply links on the page | 11 | 6 | 8 | 6 |
 
-The new pages were measured on a local production build, the live sites over the internet, so part of the gap is network. Blocking time and third-party cost are not.
+The new pages were measured on a local production build, the live sites over the internet, so part of the gap is network. Blocking time and third-party cost are not. The internal DrCertificate pages score 97 / 100 / 100 / 100.
 
 ## drcertificate.com: 3 biggest problems
 
@@ -27,7 +28,7 @@ The new pages were measured on a local production build, the live sites over the
 2. **The same facts repeated three or four times.** The price line ("25 SGD in Singapore, 349 pesos in the Philippines or 30 MYR in Malaysia") appears in three blocks; so do "about 30 minutes" and "MBBS, MD or MS".
    **Change:** each fact appears once, in one "Before you apply" block with the price table beside it. Wording unchanged. **Why:** repetition pushes the decision and the legal points down a 22-screen page.
 3. **Eleven Apply buttons compete,** one per service card plus "View details" links on each card.
-   **Change:** four Apply links (header, hero, after services, final banner) plus one in the mobile menu. **Why:** one clear next step at each point.
+   **Change:** one Apply link per stage of the page: header, hero, after the services, under "Before you apply", the closing banner, and a phone bar that only shows when none of the others is on screen. **Why:** one clear next step at each point, never two side by side.
 
 ## getmedicalcertificate.com: 3 biggest problems
 
@@ -62,3 +63,26 @@ The new pages were measured on a local production build, the live sites over the
 4. Add its own words to the leak test.
 
 No component changes. Its homepage, service pages and apply page are pre-rendered by `generateStaticParams`, and `proxy.ts` already serves each brand at `/` on its own domain. About half a day, most of it collecting and checking the brand's copy.
+
+## Same and different (step 1)
+
+**Same:** one job (a doctor reviews a short form and emails a PDF certificate), the same page shape (hero, certificate cards, steps, FAQ, legal small print), heavy third-party scripts, and long pages that repeat themselves.
+**Different:** region and price (South East Asia, 25 SGD / 349–399 pesos / 30 MYR, chat consultation, age 16+ vs Europe, €34.99, 40+ countries), legal points (dr's eligibility and payment rules vs gmc's GDPR and 112 line), colours and voice. DrCertificate also has a large site behind the homepage: services, 10 country pages, condition pages, guides, in English and 8 other languages.
+
+## DrCertificate's internal pages
+
+The client asked to match DrCertificate beyond the homepage, so `/dr` also has its navbar and footer pages:
+
+- **Pages:** 43 English pages (services, 10 countries, 6 conditions, 5 other certificates, 4 audiences, 6 guides, company and legal) and 112 translations in Filipino, Indonesian, Malay, Thai, Vietnamese, Khmer, Lao and Burmese. Blogs are left out.
+- **Content:** scraped from drcertificate.com on 2026-11-27 by `scripts/scrape-dr.mjs` into `content/dr/<locale>/<slug>.json`. Wording is unchanged. The scraper's leftovers (the sample-certificate drawing saved as loose lines, " - DrCertificate.com" in titles) are removed when pages load, and a test keeps them out. Links to the live site point at our own pages.
+- **Languages:** English at `/dr/<slug>`, others at `/dr/<locale>/<slug>`. The switcher keeps you on the same page, or shows the English text with a notice when a page has no translation. Translated text is marked with its own `lang`; country pages whose address starts with a language code (`/dr/id/…`) still resolve to the country page.
+- **Better than live:** a mega menu that works by keyboard, a contents list and readable line length on long pages, accordions for questions, a photo and "Other conditions" row on each condition page, the sample certificate beside country and certificate pages, scroll-to-top and scroll-to-bottom buttons, a sitemap, and hreflang links.
+- **Shared vs brand-specific still holds:** the menu, switcher, page template, footer columns and scroll buttons are shared components. They switch on only when a brand's config has `megaNav`, `locales`, `footerColumns` or `socials`. GetMedicalCertificate has none of them, so it keeps its own simple header, footer and English-only pages, and `/gmc/<dr page>` is a 404.
+- **One known overlap:** DrCertificate's own privacy policy mentions GDPR. That is dr's text, not gmc's, so it stays.
+
+## How it was checked (2026-11-27)
+
+- 40 unit tests, the typecheck, lint and `npm run smoke` pass.
+- A crawl of all 176 pages found every page and internal link returning 200.
+- A browser sweep found no sideways scrolling and no broken images on any page at 375, 768 and 1280px.
+- The mobile menu and FAQ were checked on both brands in a real browser.
